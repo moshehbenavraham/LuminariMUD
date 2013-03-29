@@ -1,0 +1,364 @@
+#10304
+kami~
+the guardian of earth~
+Kami, the guardian of earth stands here.
+~
+   @WKami has long pointy ears, and dreen skin, he also has two antenna on his
+head.  Kami wears a white robe like thing that has a strange symbol on the
+front.  
+@n
+~
+253962 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+Race: 5
+Class: 5
+Size: 5
+E
+T 10304
+#10305
+Namekian Priest~
+a Namekian Priest~
+A Namekian Priest stands here looking at you.
+~
+   It looks unfinished.  He looks just like the other people in this village,
+his green skin, antenna, and namekian cloths.  
+~
+10 0 0 0 120 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+Race: 4
+Class: 4
+Size: 5
+E
+T 10305
+#10306
+Mr. Popo~
+the guardians helper~
+Mr. Popo is kneeling here tending to his flowers whistling.
+~
+   @WMr.  Popo is a short fat man, his skin is fully black.  He wears a turban
+with a jewel in the center, also around his body he wears a red vest, and on his
+legs he wears tan pants.  
+@n
+~
+253962 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+6 6 1
+Race: 3
+Class: 2
+Size: 5
+E
+#10307
+large wolf~
+a large wolf~
+A large wolf stands here growling.
+~
+   The wolf has a very dirty looking coat, she seems angy at something.  
+~
+72 0 0 0 16 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 2
+BareHandAttack: 4
+Race: 5
+Class: 4
+Size: 5
+E
+#10316
+Matilda~
+Matilda~
+Matilda sits behind her desk writing something on a piece of paper.
+~
+   She is a very pretty woman, and is also very polite, she smile sweetly at you
+and then goes baack to writing on her paper.
+~
+26 0 0 0 120 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+6 6 2
+Race: 3
+Class: 3
+Size: 5
+E
+T 10314
+#10318
+Newbie Fighter~
+a Newbie Fighter~
+A Newbie Fighter stands here looking at you.
+~
+   He seems to be not a lot to look at, he looks koind of weak, his health seems
+to be good though.  
+~
+10 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 1
+Size: 5
+E
+#10319
+Vegeta~
+Vegeta~
+Vegeta stands here, grinning evilly at you.
+~
+   @YVegeta has a huge golden aura, his hair is blond and his muscles are huge.
+Occasionnly bolts of electricity arc therogh his aura.  @n
+~
+26 0 0 0 120 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+BareHandAttack: 13
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 2
+Size: 5
+E
+T 10319
+#10329
+Roshi~
+Master Roshi~
+Master Roshi sits here reading a magazine and making weird noises.
+~
+   He wears a large turtle shell, and large funny looking sunglasses, the sun
+shines off of his head, and he wears an old hawain shirt.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+6 6 1
+Race: 2
+Class: 0
+Size: 5
+E
+T 10329
+T 10331
+T 10332
+#10339
+Truncks~
+Truncks~
+Truncks is here playing his game system paying you no mind.
+~
+   The purple haird boy wears nothing more then a capsul corp t-shirt, blue
+jeans, and a pair of semi worn-out socks.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+6 6 1
+Race: 3
+Class: 3
+Size: 5
+E
+T 10339
+#10345
+Bulma~
+Bulma~
+A beautiful woman is here tending to the garden.
+~
+   Here hair is purple and she wears no clothing you have seen, it seems to be
+made completly of a red materal, she has a very shaped figure, curves in all the
+right places.  
+~
+72 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+Race: 1
+Class: 4
+Size: 5
+E
+T 10345
+#10346
+Namekian Townsmen~
+a Namek Townsmen~
+A Namek Townsmen is walking around here.
+~
+   You see nothing special...  
+~
+72 0 0 0 120 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+Race: 3
+Class: 1
+Size: 5
+E
+#10361
+Elder Namek~
+the Elder Namek~
+The Elder Namek sits in his large chair breathing heavily.
+~
+   This has to be the largest Namek ever, sitting at a height of about 8'7" and
+weighing over 800lb, he could eaisly crush you.  But he won't because of his age
+and he is a peace loveing man that looks like any other Namek.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+6 6 0
+Race: 2
+Class: 5
+Size: 5
+E
+#10362
+Statue~
+a Dragon Statue~
+A Dragon Statue sits here.
+~
+   It is a large statue of a dragon.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+Race: 2
+Class: 5
+Size: 5
+E
+#10368
+large bird~
+a large bird~
+A large bird flies around here.
+~
+   You see nothing special...  
+~
+72 0 0 0 0 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 3
+Size: 5
+E
+#10378
+Rabbit~
+a rabbit~
+A brown rabbit hops around happily.
+~
+   It looks like a brown fluffy rabbit.  
+~
+10 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 2
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 2
+Class: 1
+Size: 5
+E
+#10379
+Rabbit~
+a rabbit~
+A white rabbit hops around happily.
+~
+   It looks like a small white fluffy rabbit.  
+~
+10 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 4
+Size: 5
+E
+#10398
+Gambler~
+a Gambler~
+A Gambler is here gambling away his money.
+~
+   He wears the usual biker outfit, all leather, and he swings a chain around
+his head.  
+~
+72 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 1
+Size: 5
+E
+#10399
+Biker~
+a Biker~
+A Biker stands here swingging a chain around.
+~
+   He has the usual gamblers dice, and holds a knife in his left hand.
+~
+72 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 2
+Size: 5
+E
+$

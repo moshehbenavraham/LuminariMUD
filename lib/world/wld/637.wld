@@ -1,0 +1,294 @@
+#63700
+@wA @WWhite@w Marble Lobby~
+   @wThis lobby is a large, circular room with a dome-ceiling.  The floors are
+polished @Wwhite@w marble and there are four columns placed equilaterally near the
+walls.  Each column is of a general Roman design with a bulge at the base and
+apex while the length has ridges carved equidistant around each.  At the exact
+center of the dome-ceiling is a @cs@bt@ca@bi@cn@be@cd@w-glass window depicting a man with four
+@Dshadows@w, each leaning toward the cardinal directions.  @n
+~
+637 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+Through the rectangular entrance the dead grass of the plains can be
+seen stretching out over the hills, dipping down and out of sight.
+~
+~
+0 0 63701
+E
+stained glass window~
+The man within the window's face is hidden within a black cloak. His shadows
+reach to the north, east, west, and south, stretching to the edges of the
+stained glass. Flecks of blue, red, and green glass surround the image where
+his form and shadow does not encompass.
+~
+S
+#63701
+Before a Large Marble Structure~
+   @nTo the north is what looks to be a temple of some sort.  The outer walls are
+made of @wwhite@n marble that seem to have an unnatural smoothness to them.  The
+walls go up several dozen feet and curve into what appears to be a dome-ceiling
+of the same make.  The entrance is a large rectangular opening.  The terrain
+ends a few feet from the entrance where marble tile begins.
+~
+637 0 0 0 0 0
+D0
+The large marble structure can be seen rising up into the sky. It's peak is capped by a perfectly round ceiling which reflects the light during the day.
+~
+~
+0 0 63700
+D2
+~
+~
+0 0 63702
+S
+#63702
+Vast, Grassy Plains~
+   All around you grows long strands of grass with no visible trail anywhere in
+sight.  While there are some patches of fresh green, most of the grass appears
+to be yellowed and withered, a testament to the lack of life-giving water in
+this area.  To the north you can see the faint outline of a white building.  To
+the south the land descends slightly and the grass seems to gradually gain more
+life.
+~
+637 0 0 0 0 2
+D0
+To the north the grass becomes more and more withered.
+~
+~
+0 0 63701
+D1
+Far in the distance you can see a moderately-sized mountain range. The
+peaks are nearly covered that fades quickly down it's height.
+~
+~
+0 0 -1
+D2
+The plains descend at a slight grade.
+~
+~
+0 0 63703
+S
+#63703
+Vast, Grassy Plains By a Stream~
+   The plains around you are full of healthy looking plant-life.  The common
+grass, small shrubs and bushes, and a few sparse trees scattered around at
+different distances.  The land seems to ascend to the north slightly, the
+natural lay of the land.  Just to the south you can hear the quiet gurgling of a
+stream passing slightly hidden from view by the foliage about.  The plants
+closest seem to express themselves through their vibrant green glow of health.
+~
+637 0 0 0 0 2
+D0
+The land ascends slightly to the north. The plantlife becomes noticably
+more starved in that direction.
+~
+~
+0 0 63702
+D1
+Far in the distance you can see a moderately-sized mountain range. The
+peaks are nearly covered with snow that fades quickly down it's height.
+~
+~
+0 0 -1
+D2
+There is a stream to the south. The plants seem to rejoice in it's proximity.
+~
+~
+0 0 63704
+S
+#63704
+A Stream in the Plains~
+   The smell of the lush grass is stronger here than anywhere else in the
+plains.  The small but strong stream here curves in from the east from somewhere
+beyond the distant, snow-flecked mountain range, progressing to the distant
+west.  The faint twitter and song of birds can be heard overhead mixing with the
+constant sound of the stream.  The water is profoundly clear.
+~
+637 0 0 0 0 2
+D0
+The grassy plains continue for some distance.
+~
+~
+0 0 63703
+D1
+Far in the distance you can see a moderately-sized mountain range. The
+peaks are nearly covered with snow that fades quickly down it's height.
+~
+~
+0 0 -1
+D2
+To the south you can see the beginnings of a trail.
+~
+~
+0 0 63705
+S
+#63705
+End of a Worn Path~
+   The path here has started to become covered by the sparse growth from the
+plains to the north.  To the west the woodlands are too thick to traverse
+further.  Somewhere close by you can hear the faint sound of rushing water
+intermingling with the sound of birds chirping far overhead.  To the east the
+path meanders as far as the eye can see, possibly meeting at the base of the
+distant mountains.
+~
+637 0 0 0 0 2
+D0
+A grassy plain begins to the north, rising in the distance to hide whatever
+beyond from sight.
+~
+~
+0 0 63704
+D1
+The path to the east heads to the foot of the mountains.
+~
+~
+0 0 63706
+D2
+Woodlands border the southern edge of the path.
+~
+~
+0 0 -1
+D3
+There is a clearing just to the west.
+~
+~
+0 0 63707
+S
+#63706
+Along an Old Worn Path~
+   The path here has the beginnings of patchy undergrowth upon it.  Small bits
+of grass and clover begin to meld with the flattened dirt and slowly camouflage
+the path as it progresses to the west.  To the east the looming mountains hang
+far above the horizon, as if watching the land below.  Woodlands stretch east to
+west along the path to the south.
+~
+637 0 0 0 0 0
+D1
+The path continues into the woods and out of sight.
+~
+~
+0 0 63708
+D2
+The woodlands border the path to the south.
+~
+~
+0 0 -1
+D3
+The outline of a swinging object can be seen.
+~
+~
+0 0 63705
+S
+#63707
+An Old Campsite~
+   This small clearing is bordered on the southern, western, and northern sides
+by a group of trees too thick to see beyond.  There is a semi- circular pad of
+dirt and flattened clay here with what looks like an old campfire blackening a
+spot within it.  To the east the long grass of the plains begins and surges
+around to the north where, from here, the trees block sight.
+~
+637 0 0 0 0 2
+D1
+To the east is the beginning of the plantgrowth that signals the plains.
+The faint outline of a swinging object can be seen.
+~
+~
+0 0 63705
+S
+#63708
+Beneath Overhanging Branches~
+   The woodlands surrounding approach the path from the north and south here.  
+Several branches on each side protrude above, intertwining to form a shade
+giving canopy that filters sunlight to a slight green hue and cooling off the
+heat of the day considerably.  The path below them is littered liberally with
+small branches, twigs, and dead leaves, adding a crunch to the step of the less
+careful or wary.
+~
+637 0 0 0 0 0
+D1
+The branches block much of the east from view.
+~
+~
+0 0 63709
+D2
+The woodlands border the path to the south.
+~
+~
+0 0 -1
+D3
+The woodlands become more sparse to the west.
+~
+~
+0 0 63706
+D4
+~
+~
+0 0 -1
+S
+#63709
+Woodlands Near the Mountains~
+   The branches of the surrounding woodlands are not quite as overbearing as
+they are to the west.  The sky is visible in brief instances here and there and
+the looming mountains to the east, vast instances of dark soil intermingling
+with large sections of slate barely visible.  The path to the west becomes
+progressively covered with more foliage while the path continueing east seems to
+become clearer as one progresses.
+~
+637 0 0 0 0 0
+D1
+The path seems to be turning to the north along the mountains base.
+~
+~
+0 0 63710
+D3
+The path disappears into a thick patch of trees.
+~
+~
+0 0 63708
+S
+#63710
+Beneath the Mountains~
+   The woodlands to the west engulf the path beneath and hide it from further
+visibility.  The mountains just east of here arch high into the sky and continue
+north and south as far as one can see.  The path winds slightly to the north
+before turning east and directly into the mountain pass.
+~
+637 0 0 0 0 0
+D0
+~
+~
+0 0 63711
+D3
+~
+~
+0 0 63709
+S
+#63711
+Before the Pass~
+It IS unfinished.
+~
+637 0 0 0 0 0
+D1
+~
+~
+0 0 63712
+D2
+~
+~
+0 0 63710
+S
+#63712
+An unfinished room~
+It looks unfinished.
+~
+637 0 0 0 0 0
+D3
+~
+~
+0 0 63711
+S
+$~

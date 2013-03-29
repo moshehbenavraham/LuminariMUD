@@ -1,0 +1,248 @@
+#4401
+fearsome orc~
+@wthe@n @cfearsome orc@n~
+@WA@n @cfearsome orc@n @Wis here, snarling at you.@n
+~
+Looking upon this grotesque orc, you realize that wherever he's from, he sure
+wasn't first in line when the gods handed out beauty.  However, there seem to be
+nothing amiss with his swordarm, and he doesn't seem to like you. 
+~
+6252 0 0 0 0 0 0 0 -150 E
+7 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+Race: 5
+Class: 3
+Size: 5
+E
+T 4401
+T 4402
+#4402
+grotesque orc~
+@Ythe grotestque orc@n~
+@wThe@n @Ygrotesque orc@n @wis resting here.@n
+~
+@wThe@n @Ygrotesque orc@n @wis here, resting and having a quiet and of course
+unintelligent conversation with his friends.@n
+~
+6252 0 0 0 0 0 0 0 -650 E
+8 19 8 0d0+30 1d2+0
+30 675
+5 5 1
+Race: 3
+Class: 1
+Size: 5
+E
+T 4401
+T 4402
+#4403
+orc~
+@wthe@n @Bsinister orc@n~
+@wA @Bsinister orc@n@w is getting a - much needed - beauty sleep here.
+~
+@wThe @Bsinister orc@n @wis battlescarred, and seems to have just been in a fight.  You guess he's just getting ready to go back into the fray.@n
+~
+6252 0 0 0 0 0 0 0 -650 E
+9 19 8 0d0+30 1d2+0
+30 675
+4 4 1
+Race: 4
+Class: 5
+Size: 5
+E
+T 4401
+T 4402
+#4404
+orc halfogre h'ogh~
+@oH'Ogh@n~
+@oH'Ogh the Half-ogre@n is here, guarding the @RBoss'@n tent.
+~
+A closer examination of @oH'Ogh@n reveals an extremely ugly @ohalfogre@n.  He
+obviously lives in this room, just to protect the @RBoss@n at all costs.
+~
+6206 0 0 0 0 0 0 0 -650 E
+10 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 2
+Size: 5
+E
+#4405
+orc halfogre dra'l~
+@YDra'L@n~
+@YDra'L the Half-ogre@n is here, guarding the @RBoss'@n tent.
+~
+A closer examination of @YDra'L reveals an extremely ugly halfogre@n.  He
+obviously lives in this room, just to protect the @RBoss@n at all costs.
+~
+6206 0 0 0 0 0 0 0 -650 E
+10 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 0
+Size: 5
+E
+#4406
+ogre boss orc chief~
+the @RBoss@n~
+@RThe Boss, chief of the raiding orcs@n, is sitting on his throne, contemplating.
+~
+The @RBoss is not even an orc himself@n, @Gbut actually an ogre@n, which gives him a
+big physical advantage over his people.  This also makes for small differences
+in world view, but after the introduction of his personal guards @oH'Ogh@n and
+@YDra'L@n, there has been little said against his position.  As you look closer he
+turns to you and reaches for his @ysword@n.  
+~
+6190 0 0 0 16 0 0 0 -200 E
+12 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+BareHandAttack: 7
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 3
+Size: 5
+E
+#4407
+orc shaman~
+the @mOrc Shaman@n~
+The @mOrc Shaman@n is here, @rscreaming@n, because you interrupted the spell.
+~
+This little @morc@n is not pretty, but being totally covered by a @mpurple robe@n
+helps a bit.  He seems to be all but out of his mind, and you decide to put him
+out of his misery. 
+~
+14382 0 0 0 48 0 0 0 -650 E
+11 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 2
+Class: 5
+Size: 5
+E
+#4408
+female orc woman~
+@wa@n @gfemale orc@n~
+@wWhat seems to be a@n @gfemale orc@n @wis standing here.
+~
+@wObviously these orcs don't have very high standards because this@n @gwoman@n, @wif you can call her that, makes you cringe at the site of her.@n
+~
+104 0 0 0 0 0 0 0 -75 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 2
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 2
+Class: 0
+Size: 0
+E
+#4409
+peasant thief orc~
+@wan@n @borc thief@n~
+@wAn@n @borc peasant@n @wis attempting to hide in the shadows.@n
+~
+@wAn@n @borc peasant@n,@w dressed in padded leather wielding two crude looking daggers, is here to start his @bthief@n @wtraining.  
+~
+4220 0 0 0 0 0 0 0 -50 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 11
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 3
+Class: 2
+Size: 5
+E
+#4410
+big bad silver wolf dire~
+@wthe Dire Wolf@n~
+@wA big bad wolf is here.@n
+~
+@gThis enourmous wolf,@n @wsilver@n @gin color, is the pack master.  He has large fangs that hold his lips up as if he is always snarling.  His@n @wthick fur shines@n @geven in the darkness of the cave.@n
+~
+2058 0 0 0 67110992 0 0 0 0 E
+14 16 1 2d2+167 2d2+2
+140 14700
+4 4 1
+BareHandAttack: 9
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 3
+Size: 6
+E
+#4411
+black wolf~
+the @Dblack wolf@n~
+A starving @Dblack wolf@n hunts here.
+~
+This scrawny @Dblack wolf@n looks as if it hasnt eaten in days.  His mouth is drooling just looking at you.
+~
+4200 0 0 0 64 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 9
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 3
+Class: 4
+Size: 5
+E
+#4412
+white wolf~
+a @Wwhite wolf@n~
+@gA plump@n @Wwhite wolf@n @gsits here.@n
+~
+@gThis@n @Wwhite wolf@n @gis fat and happy.  She has no need to hunt at the moment.@n
+~
+2120 0 0 0 0 0 0 0 0 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 2
+BareHandAttack: 9
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 5
+Class: 4
+Size: 5
+E
+$

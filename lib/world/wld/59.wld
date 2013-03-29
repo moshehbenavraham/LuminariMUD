@@ -1,0 +1,955 @@
+#5900
+A Narrow Opening From The Woods~
+   The forest opens up to a grassy path.  The grass is over three feet in
+length, but the center of the path is matted down due to constant traffic.  
+Thick briar consumes either side of the path, keeping travelers from straying.
+Ahead in the distance, an old wooden mansion is seen.  It looks to be abandoned
+from here, but with the matted path it is obvious someone or something is
+traveling between the woods and that mansion.  To the north the grassy path
+continues and the forest opening to the south is dense and dark.
+~
+59 0 0 0 0 2
+D0
+~
+~
+0 0 5901
+S
+#5901
+A Matted Grass Path~
+   The thick briar that consumes the path to the south is receded.  The grass
+length is less than two feet and matted down in every direction.  The mansion to
+the north is made from old wooden planks and took a master craftsman to
+originally build.  There is no movement seen in any of the windows, but based on
+the noises heard, there is most certainly something inside.  To the east there
+is small opening off the path and the mansion lies to the north.
+~
+59 0 0 0 0 2
+D0
+~
+~
+0 0 5903
+D1
+~
+~
+0 0 5902
+D2
+~
+~
+0 0 5900
+S
+#5902
+A Grassy Outlet~
+   This clearing is taken care of unlike the path previously before it.  The
+grass is kept trim and most of the brush is kept clear.  A well lies on the
+north side of the clearing mostly covered in brush, its stone enveloped in moss.
+Much like the mansion, the well's wooden roof is immaculately crafted, however
+worn down by weather and age.  The perimeter of the clearing is so heavily
+covered in brush and briar that going back is the only traveling option from
+here.
+~
+59 0 0 0 0 2
+D3
+~
+~
+0 0 5901
+S
+#5903
+Before the Mansion~
+   Expansive in size and detail, this older run down mansion has seen better
+days.  There is a massive oaken door, carved with unknown symbols and humanlike
+characters.  All of the windows are intact, and many are closed by dark red
+shutters.  The wood on the mansion has never been painted and maintains its
+original feel.  The weather over the years has splintered the wood.  There is
+nothing seen in any of the windows, but noises are heard from within.
+~
+59 0 0 0 0 2
+D0
+A large oaken door is used to keep the mansion closed.  There are strange symbols and human like creatures carved into the door.
+~
+door~
+1 0 5904
+D2
+~
+~
+0 0 5901
+S
+#5904
+Entry To The Great Hall~
+   The mansion is much larger than it appeared from the outside.  This great
+hall appears to be a gathering place for the resident of this mansion.  There
+are strange smells and smoke lingering about and evil is most certainly present.
+The wooden floors are old and cracked but due to the constant walking they are
+not splintered.  A knotted rug lines the entrance path from the door.  Over the
+years the rug has seen much wear and although it is brown now, it was not
+originally.  The great hall is open and there are not any walls separated
+different sections.  Bookshelves line the eastern walls.  A large fireplace is
+seen against the northern wall.  A hallway to the east appears to exit the great
+hall.
+~
+59 12 0 0 0 0
+D0
+~
+~
+0 0 5907
+D1
+~
+~
+0 0 5905
+D2
+A large oaken door is used to keep the mansion closed.  There are strange symbols and human like creatures carved into the door.
+~
+door~
+1 0 5903
+D3
+~
+~
+0 0 5910
+S
+T 5903
+#5905
+Great Hall Learning Study~
+   This is the only room in the great hall that is sectioned off.  Large
+curtains on movable hangers replicate walls to limit viewing in and out of the
+area.  There are several desks lined up facing the southern wall to look at an
+old chalkboard.  Everything appears to be written in the human common language
+but none of the words are recognizable.  It appears the students are being
+taught a magical language, where they are memorizing certain spells and learning
+to cast them.  Similar style books to the one seen in the book depository are
+laid out across the desks and on a podium in front of the desks.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5904
+S
+#5906
+Before The Great Hall~
+   This is the most barren section of the house so far.  There are long wooden
+floorboards laid down east to west.  Some of the floor boards have cracks and
+holes in them allowing a light breeze to come up.  A hallway leads out to the
+east with two wooden torches mounted to either side of the entrance.  Two staves
+are crossed above the doorway with glowing orbs attached.  Much like the
+fireplace, the glow from the white and red orbs create a pink aura.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5911
+D1
+~
+~
+0 0 5914
+D2
+~
+~
+0 0 5905
+D3
+~
+~
+0 0 5907
+S
+T 5906
+#5907
+Sacrificial Pit~
+   Evil is emanating from this room.  Large gray stones create the framework for
+a sacrificial pit in the center of this room.  The pit is lined with smoldering
+remains, dark grey ashes and skeletal remains.  There is also a leak in the roof
+here will water dripping at a slow rate into the very center of the pit.  
+Ash-colored footprints exit the room in all directions.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5912
+D1
+~
+~
+0 0 5906
+D2
+~
+~
+0 0 5904
+D3
+~
+~
+0 0 5909
+S
+T 5902
+#5908
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+59 0 0 0 0 0
+D0
+~
+~
+0 0 5907
+S
+#5909
+Great Hall Book Depository~
+   The entire eastern wall here is covered in a bookshelf.  It expands from
+ceiling to floor and is completely filled with old texts.  Large leather bound
+covers make up most of the shelves, but there are smaller texts and manuscripts
+mixed in.  A rolling ladder is available to reach the book on the higher
+shelves.  It doesn't appear that the books are in any specific order especially
+since most of the books do not even have names.  Some of the books are decorated
+with elaborate symbols.  There is flickering light coming from the north.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5913
+D1
+~
+~
+0 0 5907
+D2
+~
+~
+0 0 5910
+S
+T 5904
+#5910
+Great Hall Gallery~
+   A bright red space rug lies on the floor here in immaculate condition.  
+There is no dirt anywhere on this carpet and no curled edges.  This corner of
+the mansion is very well taken care of.  On the walls hang painted portraits of
+what appear to be powerful human mages.  The portraits are framed with ornate
+golden frames with small colored orbs that most likely apply to the type of
+magic they yield.  Some of the eyes in the paintings appear and disappear.  
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5909
+D1
+~
+~
+0 0 5904
+S
+#5911
+Great Hall Exhibits Archives~
+   Robes and staves hang on the wall here with inscriptions next to them.  The
+weaponry, jewelry and clothing are antiquated but appear to have importance and
+history to the members of this mansion.  There are glass cases against the walls
+that hold very valuable items.  This area is kept incredibly clean with not even
+a fingerprint left on the glass.  A glow from a large fireplace is seen to the
+west.  An important notice is posted on a sign here on the wall.
+~
+59 8 0 0 0 0
+D2
+~
+~
+0 0 5906
+D3
+~
+~
+0 0 5912
+S
+#5912
+Before The Massive Fireplace~
+   Along the north wall rests a massive stone hearth.  It spans over ten feet in
+width and almost nearly the same length in height.  Large logs are piled up to
+keep the massive flames from dying down.  Additional logs lie in front of the
+stone landing on the fireplace.  The entire great hall is warmed by this
+fireplace and potentially the entire mansion.  Two long staves lay in a cross
+pattern hung above the fireplace and each staff has a glowing orb connected to
+it.  One of the orbs glows white and the other red, leaving a mystical pink aura
+floating in the air here.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5911
+D2
+~
+~
+0 0 5907
+D3
+~
+~
+0 0 5913
+S
+T 5905
+#5913
+Great Hall Candlelight Vigil~
+   There are hundreds of candles up against the northeast corner of this wall.
+Flickering light bounces off the wall and the golden candle holders.  The
+holders are about four feet talk and are intricately designed with strange
+symbols, similar to the ones seen elsewhere in the mansion.  Along the north
+wall there are at least one hundred unused candles to take place of completely
+melted ones.  The curtains on the windows are stained black from the constant
+smoke.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5912
+D2
+~
+~
+0 0 5909
+S
+#5914
+Dimly Lit Hallway~
+   The only light in the hallway is from the great hall and the side rooms
+linked to the hallway.  There are torches hanging along the corridor, however
+none of them are lit.  A throw rug is spread out nearly the entire width of the
+floor and the entire length of the hallway.  Its soft touch dampens the loud
+creaking sounds the bare floor makes.  The great hall is to the west and the
+hallway continues to the east.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5915
+D3
+~
+~
+0 0 5906
+S
+#5915
+Dimly Lit Hallway~
+   The hallway continues east and west throughout the mansion.  The first room
+along the hallway lies to the south.  A large oak door is swung open inside the
+southern exit.  Along the north wall are more painted portraits similar to the
+ones seen in the great hall gallery.  Small liquid drops stain and appear to
+have burned the throw rug in front of the door.  
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5934
+D2
+~
+~
+0 0 5933
+D3
+~
+~
+0 0 5914
+S
+#5916
+Corner Of The Dimly Lit Hallway~
+   The corner of this hallway is brighter than the rest of the hallway.  There
+is a glowing aura coming out of both the eastern and southern door.  The aura
+coming from the southern door shines a bright white color and the aura from the
+eastern door shines a dark red.  Magic powers are present in the air here, and
+evil dwells in those rooms.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5919
+D1
+~
+~
+0 0 5918
+D2
+~
+~
+0 0 5917
+D3
+~
+~
+0 0 5934
+S
+#5917
+Rune Enchanting Room~
+   Mystique flows from every edge of this room.  Heavy purple velvet curtains
+drop from the ceiling and touch the floor on every wall.  The floor has the same
+wooden planks as the rest of the mansion however that shine bright as if they
+were installed and finished recently.  There are some strange burns that are
+glowing in the middlemost part of the room.  
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5916
+S
+#5918
+Charred Room of Enchantment~
+   This room has circular burn marks all over the walls.  It looks like someone
+was trying to burn the room down.  There are remnants of what appear to be spell
+books scattered throughout the room, but it is a complete disaster.  Half burnt
+pages are stuck to the ceiling, floor and walls.  Whatever happens in the room
+is not very welcoming.  There is another strange glowing rune in the center of
+the room.  
+~
+59 8 0 0 0 0
+D3
+~
+~
+0 0 5916
+D4
+Looking at the portal, you can vaguely make out the image of Sanctus...
+~
+~
+0 0 -1
+S
+T 1200
+#5919
+Eastern Corridor~
+   There is no throw rug in this section of the mansion's hallways.  The floor
+is bare and worn down along the center of the corridor.  The outside edges of
+the oak plank flooring has a dark stain but the inside walking path shows it's
+original color from wear.  There is a antique grandfather clock up against the
+western wall, with an glowing orb hanging as a pendulum.  The hallway continues
+to the north and south.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5920
+D2
+~
+~
+0 0 5916
+S
+#5920
+Eastern Corridor~
+   A breeze is coming into the hallway from the room that opens up to east side.
+The constant breeze is making the door creak and sway.  Planks from the floor
+are loose here and the heads of nails will stub the toes of an unaware
+navigator.  The wall paint here is chipped along the length of the lower western
+wall, almost as if someone was being dragged and trying to claw their way free.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5922
+D1
+~
+~
+0 0 5921
+D2
+~
+~
+0 0 5919
+S
+#5921
+A Small Bedroom~
+   Two bunk beds are up against the north wall and the bedding looks extremely
+uncomfortable.  It looks like grass and straw are shoved into linen and used as
+mattresses.  A small end table has a large candle that is not currently lit.  
+With the breeze coming through the open window, there would be no way to keep
+the candle lit anyways.  Curtains flutter from the wind and create a loud
+flapping sound.  A piece of wood is used to hold the windows open, because the
+rope pulleys are broken and hanging from the top of the window.
+~
+59 8 0 0 0 0
+D3
+~
+~
+0 0 5920
+S
+#5922
+Eastern Corridor~
+   The corridor continues north and south along the eastern side of the mansion.
+The hallway is a bit brighter on the northern end that the southern end.  Up
+ahead there is a bend in the hallway and past that bend is the source of the
+light.  A chain hangs from a sculpted metal mount, potentially a mount and chain
+for a chandelier.  Someone is keeping a tally of something on the western wall.
+Nine lines have been etched into the wall using a sharp blade.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5923
+D2
+~
+~
+0 0 5920
+S
+#5923
+Northwest Corner Of The Mansion~
+   Two unlit candle chandeliers are resting in the corner of the room.  There is
+a candle style chandelier mounted to the ceiling and hanging by a metal chain.
+None of the candles are currently lit but they have seen use with half of their
+wax already gone.  Multiple drops of white candle wax are adhered to the floor
+from previous lightings.  The hallway to the west is well lit unlike the first
+hallway and the eastern corridor.
+~
+59 8 0 0 0 0
+D2
+~
+~
+0 0 5922
+D3
+~
+~
+0 0 5924
+S
+#5924
+Well Lit Hallway~
+   In this section of the hallway there are two torches mounted on the northern
+wall and two torches mounted on the southern wall.  Portraits of powerful
+wizards hang between the two torches on each wall.  The pitch soaked rags
+wrapped on the southern torches are dried and burnt out.  They would need to be
+replaced before the torches are re lit.  The edges of the golden portrait frames
+have turned black from the constant exposure to smoke and open flame.  The
+hallways continues to the east and west.
+~
+59 0 0 0 0 0
+D1
+~
+~
+0 0 5923
+D3
+~
+~
+0 0 5925
+S
+#5925
+Well Lit Hallway~
+   The floorboards are looser here than the rest of the hallways.  The nails
+used to fasten the floorboard to the joints have been removed.  It appears the
+boards themselves can be detached to reveal what is underneath them.  Rustling
+and scattering noises are heard from below the floor here.  A small candle lit
+chandelier hangs from the ceiling with small flames fluttering back and forth.
+A large wooden door is opened into a room to the south of here.  
+~
+59 12 0 0 0 0
+D1
+~
+~
+0 0 5924
+D2
+~
+~
+0 0 5943
+D3
+~
+~
+0 0 5926
+D4
+~
+~
+0 0 -1
+D5
+Removable floorboards enable access to below the floor. 
+~
+floorboard~
+3 0 5931
+S
+#5926
+End Of The Well Lit Hallway~
+   The end of this hallway is illuminated unlike the rest of it.  Two glowing
+orbs float and circle near the ceiling.  The orbs are not attached to anything
+so a flying enchantment spell must have been cast on them to be hovering about
+this room.  Boots, shoes, sandal and other footwear are piled up on the western
+wall and no mud or dirt prints are seen trailing off the north.  The hallway
+ends here and a large open section of the mansion is seen up to the north.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5927
+D1
+~
+~
+0 0 5925
+S
+#5927
+Magical Dining Hall~
+   Two candle style chandeliers hang in the middle of the room here, however
+they are not lit by fire.  Glowing orbs make up the illumination of the
+chandelier and with the white painted walls, makes it a very bright room.  A
+long oak plank table runs south to north underneath the chandeliers.  Twelve
+hand carved wooden chairs with embroidered cushions surround the table.  A cloth
+runner, runs through the center of the table where dishes and serving trays are
+laid.  Plates full of food are floating out of the room to the north, and empty
+plates are floating back into the kitchen.  A magical force is responsible for
+serving the food and removing the empty dinnerware.  A kitchen is seen through a
+saloon style swing door to the north.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5930
+D1
+~
+~
+0 0 5928
+D2
+~
+~
+0 0 5926
+S
+#5928
+Room Of Orbs~
+   Glowing orbs of many colors hover throughout the room here and are no larger
+than a human fist.  A @Rr@re@Rd@n orb has small flames shooting out from it.  A @Bb@bl@Bu@be@n orb
+keeps freezing itself in place, and before it falls to the ground it thaws
+itself out and continues to hover.  A @Gg@gr@Ge@ge@Gn@n orb has visible seeds within it,
+germinating and creating a grass like plant that wraps around itself.  A @Wwhite@n
+orb appears to be putting a protective shield about itself.  A kind of healing
+affect.  There is nothing else in the room that stands out besides the orbs.  A
+stairwell is seen to the north and the dining hall is to the west.  @YYellow@n orb
+has a bright mist emerging from it, which appears to have some healing
+attributes.  The dining hall is to the west and a staircase is seen to the
+north.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5929
+D3
+~
+~
+0 0 5927
+S
+#5929
+Circular Stairwell~
+   The room has the shape of a farm silo.  Two cathedral windows with a grey
+stained glass making it incredibly difficult to see through or let any light in
+are on the eastern and northern walls.  The only light coming into this room is
+from the room of orbs to the south and some flickering light above the stairs.
+The stairs go up in a spiral pattern and appear to have been carved from one
+solid piece of tree.  There are no trees in this part of the world that are this
+large, but the staircase is not separated into sections.  Only the finest wood
+carvers in the realm would have been able to take on a task of this nature.  
+The stairwell leads up to a second level of the mansion.
+~
+59 8 0 0 0 0
+D2
+~
+~
+0 0 5928
+D3
+~
+~
+0 0 -1
+D4
+~
+~
+0 0 5936
+S
+#5930
+Magical Kitchen~
+   Dishes, cups, silverware, platters and all assorted kitchenware are floating
+around in the kitchen here.  They are cleaning, drying, and putting themselves
+away.  There must be someone controlling them individually or the room itself is
+under a powerful spell.  Even a mop is going through the tiled kitchen floor and
+soaking up the spilled water and wringing itself out in the sink.  Racks for all
+of the dishware hang on the eastern wall, where glasses and plateware are
+organized neatly and ready to be used, The only way out of the kitchen is back
+into the dining hall.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 5927
+S
+#5931
+Damp Stone Passage Below the Mansion~
+   The large stone foundation that holds the mansion up creates the northern
+wall here.  The south wall is more recently made to create this passage using
+the same style rock but in smaller pieces.  Smaller rocks were likely used
+because it would be difficult to create this passage with the boulders that the
+foundation is made of after the mansion has already been built.  Small amounts
+of water run from cracks in the foundation and pool up into small puddles making
+the mud here soppy.  Spiders and other small insects roam across the walls and
+floorboards above your head.  The passage is dark but the cracks in the floor
+above shine enough light to see that it continues to the east and west.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5935
+D3
+~
+~
+0 0 5932
+D4
+The floorboards from above are removable and enable access to the hallway above.
+~
+floorboard~
+3 0 5925
+S
+#5932
+Dead End In The Dark Passage~
+   There must be a slight pitch from east to west in this passage.  Water pools
+up much deeper here and is at least a few inches deep.  One enormous boulder
+blocks the passage from continuing onto the east.  Shackles and chains are
+attached to the walls here and a ball and chain is rusted and in the corner.  
+This passage is being used as a prison or some sort of torture chamber.  
+Insects seen in the rest of the passage are less abundant in this dead end
+except for some larvae getting ready to hatch in the water.  The only way to go
+move from here is back to the east.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5931
+S
+#5933
+Apothecary~
+   There is a repulsive smell coming from the boiling cauldron in the center of
+this room.  It appears that this once used to be a bedroom but has been turned
+into an apothecary.  The window on the south wall looks out towards the grassy
+path outside the mansion.  Stains surround the cauldron from spillage over the
+years.  Some of the wooden floor even appears to have been burnt by acid.  Not
+all of these potions made in this cauldron have been protective potions.  
+~
+59 0 0 0 0 0
+D0
+~
+~
+0 0 5915
+S
+#5934
+Dimly Lit Hallway~
+   In the middle of this dimly lit hallway, the north and south walls are lined
+with potted plants.  The plants on the northern wall are blossoming a white
+flower and the plants along the southern wall have yet to bud.  It is strange
+that these plants are able to grow and bud in a dark hallway with no exposure to
+sunlight.  The flowers are definitely uncommon are likely used as reagents for
+alchemy.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5916
+D3
+~
+~
+0 0 5915
+S
+#5935
+Damp Stone Passage~
+   The passage here is much less damp than the room to the west.  Water still
+emerges from the cracks in the foundation but seems to be trickling towards the
+west.  A small rock has been removed from the southern wall and is exposing this
+portion of the passage to the outside elements.  It looks like someone is trying
+to remove more rock to create an opening, but nobody would be able to fit out
+the small hole that has been started.  There is an abundance of small insects
+moving along the floorboards above, in and out of the mud below, and along the
+stone foundations.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5944
+D3
+~
+~
+0 0 5931
+S
+#5936
+Top Of The Stairwell, Before The Master Hall~
+   The silo shaped room has an incredibly high ceiling that must be fifteen feet
+above the floor.  A hand carved wooden railing with very thin spindles surround
+the circular staircase opening.  The spindles have runes etched into them and
+are dimly glowing.  Another candlelit chandelier hangs way above the staircase
+and provides light for most of the room.  Two more cathedral windows that have
+been stained grey do not provide much light but can determine the time of day
+outside.  An auburn colored country style rug starts at the top of the stairs
+and continues down the hallway to the south.
+~
+59 8 0 0 0 0
+D2
+~
+~
+0 0 5937
+D5
+~
+~
+0 0 5929
+S
+#5937
+Master Hallway~
+   There is no dirt and no footprints on the rug at all.  In fact, it looks as
+if the rug has never been walked upon.  It is possible the inhabitants of the
+mansion are hovering above it or nobody comes into the hallway at all.  Chair
+rail molding lines both the eastern and western wall all the way down the
+hallway about one third of the way up from the floor.  A couple framed documents
+are hung above the chair rail molding on the eastern wall.  The writing is old
+and indescript.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5936
+D2
+~
+~
+0 0 5938
+S
+#5938
+Master Hallway Junction~
+   The auburn rug splits four ways here at the hallways intersection, leading to
+rooms to the east and west.  Both doors to each bedroom are swung open creating
+a welcoming invitation.  The chair rail molding is cut at a ninety degree angle
+well, and the corners are smooth.  A small white orb floats just below the
+ceiling here proving light throughout the hallway.  Some papers lay on the
+ground, as if they were blow by the wind, outside the room to the south.
+~
+59 8 0 0 0 0
+D0
+~
+~
+0 0 5937
+D1
+~
+~
+0 0 5939
+D2
+~
+~
+0 0 5941
+D3
+~
+~
+0 0 5940
+S
+#5939
+Master Storage Room~
+   Shelves rest against all four walls in this room.  The shelves are full of
+everything seen throughout the mansion.  Extra dishes and kitchenware is next to
+the door along the western wall.  Books, scrolls, maps and miscellaneous scribe
+work is stacked floor to ceiling on the shelves against the north wall.  On the
+eastern wall there are robes, sandals, hoods, bed cloths and assorted armors
+stacked on the shelves.  The southern wall has a rack from wall to wall, floor
+to ceiling but with nothing on any of the shelves.  The only exit is back out
+the door to the west.
+~
+59 8 0 0 0 0
+D3
+~
+~
+0 0 5938
+S
+#5940
+Master Bedroom~
+   Fresh paint smell lingers throughout this bedroom.  Immaculately designed and
+crafted furniture lines the walls and floors.  The occupant of this bedroom is
+living in luxury.  The bed frame is made from large planks of cherry wood and
+tall cherry wood pillars.  Unlike the straw mattresses of the bunk beds, this
+bed is large and stuffed well.  It is lined with silk sheets and a feather down
+comforter.  Two windows on the western wall lookout into the deep forest outside
+the mansion.  A pair of end tables with small trinkets and jewelry on top, rest
+on both sides of the bed.  A storage closet stand tall and finely crafted
+against the northern wall.  The hallway back to the east is the only way to
+leave from here.
+~
+59 8 0 0 0 0
+D1
+~
+~
+0 0 5938
+S
+#5941
+High Wizard's Summoning Chamber~
+   Four torches on stone pedestals have been constructed in the four corners of
+the room here.  The flames on the torches are low, but the bright light emitted
+is almost unbearable.  A green rune makes up almost the entire center of the
+room, used to summon beasts and other magical creatues.  Summoning circles are
+extremely rare and unwelcome throughout most of the realm.  Only outsiders and
+cults are still using summoning circles like the one seen here.  A lecturn
+stands before the circle with ancient writings written on the sheets.  Random
+sheets are scattered throughout the room and out into the hall.
+~
+59 12 0 0 0 0
+D0
+~
+~
+0 0 5938
+D2
+~
+bookshelf book shelf~
+1 0 -1
+S
+#5942
+Empty Void~
+   Blackness envelopes the room or what appears to be open space.  One can stand
+but there is no floor, walls, or ceiling to be seen.  Small white orbs appear by
+the thousands and some look to be miles away.  They look like stars shining
+bright in the night sky.  An elongated grey sphere is here, similar to the
+portal that opened up at the summoning circle.  Entering that portal seems to be
+the only escape out of here.
+~
+59 8 0 0 0 0
+D0
+~
+~
+1 0 -1
+S
+T 5916
+#5943
+Over Furnished Bedroom~
+   Bunk beds line every wall in the room and slide right up to the door entry
+making it difficult to swing the door all the way open.  The mattresses are
+filled with grass and straw and the beds are a basic wooden frame construction.
+Some of the ladder rungs are broken but since the beds are right next to each
+other, one could easily from the top of one bunk to another.  Small storage
+baskets are stuffed underneath the bunk because there are no dressers or closet
+to store any personal items.  A table in the center of the room is covered in
+scattered magical scrolls.  A candle style chandelier like the ones out in the
+hallway is lit and hanging above the table.
+~
+59 0 0 0 0 0
+D0
+~
+~
+0 0 5925
+S
+#5944
+Eastern End Of The Damp Passage~
+   Two skeletons are still bound by shackles against the eastern wall.  There is
+no way to tell if they were tortured or were left to starve until death.  The
+stench of death is almost unbearable and the amount of insects is greater here
+than any other part of the passage.  There is no visible water coming out of any
+of the cracks here either.  Dead maggots lie below the feet of corpses.  
+Decomposed skin helped rot away the robes that the dead were wearing.  Spiders
+have begun to used parts of the skeletal remains as hosts for their webs.  
+There is no where to go except back west.
+~
+59 8 0 0 0 0
+D3
+~
+~
+0 0 5935
+S
+#5945
+New BuildWalk Room~
+This unfinished room was created by Zusuk.
+~
+59 0 0 0 0 0
+D3
+~
+~
+0 0 5942
+S
+$~

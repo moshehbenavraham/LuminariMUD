@@ -1,0 +1,557 @@
+#13800
+@yA Narrow Pathway@n~
+@yThere is a narrow path of beaten dirt here.  The path leads to an iron gate in
+a low stone wall.  It is bordered by @Ggrass @ywhich is speckled with wild
+@Rf@Ol@Po@Mw@Ae@Br@Ys.  @n
+~
+138 0 0 0 0 2
+D0
+~
+gate~
+1 0 13801
+S
+#13801
+@yA Path Leading to a Cozy Looking Inn@n~
+@yA narrow cobble stone path leads to a cozy looking inn.  On either side of the
+path is a neatly manicured @Glawn.  @n
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13802
+D1
+~
+~
+0 0 13816
+D2
+~
+gate~
+1 0 13800
+D3
+~
+~
+0 0 13812
+E
+inn~
+	yThe inn is a cozy looking place.  It is three stories tall with a thatched
+roof and several windows.  There is a 	Dstone	y chimney running up the east
+wall.  	n
+~
+S
+#13802
+@YA Warm and Cozy Commons Room@n~
+This is a large room used for entertainment and dining.  On the west wall is a
+large hearth containing a warm fire.  There are several tables with chairs
+spaced throughout the floor.  A long bar is on the north end of the room with a
+swinging door offset its west end leading into the kitchen.  There are stairs
+running up the east wall leading up.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13803
+D2
+~
+~
+0 0 13801
+D4
+~
+~
+0 0 13806
+D5
+~
+~
+0 0 13820
+S
+#13803
+@OThe Kitchen@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13804
+D2
+~
+~
+0 0 13802
+S
+#13804
+@wThe Pantry@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D3
+~
+~
+0 0 13803
+D5
+~
+~
+0 0 13805
+S
+#13805
+@DThe Cellar@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D3
+~
+~
+0 0 13821
+D4
+~
+~
+0 0 13804
+S
+#13806
+@YA Small Landing@n~
+This small landing /c
+~
+138 0 0 0 0 0
+D3
+~
+~
+0 0 13807
+D4
+~
+~
+0 0 13811
+D5
+~
+~
+0 0 13802
+S
+#13807
+@yA Short Hallway@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13808
+D1
+~
+~
+0 0 13806
+D2
+~
+~
+0 0 13810
+D3
+~
+door~
+1 0 13809
+S
+#13808
+@AA Lavishly Furnished Room@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D2
+~
+~
+0 0 13807
+S
+#13809
+@tA Small Room@n~
+@yThis small and tidy room contains a small but comfortable looking bed.  There
+is a large chest and the foot of the bed with a small night stand at the head.
+A small lamp burns softly on the stand.  Over the head of the bed is a small
+window.  @n
+~
+138 0 0 0 0 0
+D1
+~
+door~
+1 0 13807
+E
+window~
+The window looks out into the yard along side the inn.  You can see the lawn and
+a low stone fence.  Beyond the fence is a field.
+~
+S
+#13810
+@TA Room Full of Bunks@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13807
+S
+#13811
+@DA Cluttered and Dusty Attic@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D5
+~
+~
+0 0 13806
+S
+#13812
+@GThe Southwest Corner of a Front Yard@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13813
+D1
+~
+~
+0 0 13801
+S
+#13813
+@GThe Northwest Corner of a Back Yard@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13819
+D1
+~
+~
+0 0 13814
+D2
+~
+~
+0 0 13812
+S
+#13814
+@GA Lawn Betwixt the Inn and the Stable@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13815
+D3
+~
+~
+0 0 13813
+S
+#13815
+@GThe Northeast Corner of a Back Yard@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13817
+D2
+~
+~
+0 0 13816
+D3
+~
+~
+0 0 13814
+S
+#13816
+@GThe Southeast Corner of a Front Yard@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13815
+D3
+~
+~
+0 0 13801
+S
+#13817
+@DA Small Cobble Stone Area in Front of a Stable@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D2
+~
+~
+0 0 13815
+D3
+~
+~
+0 0 13818
+S
+#13818
+@yAn Orderly Stable@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13817
+D3
+~
+~
+0 0 13819
+D4
+~
+~
+0 0 13827
+S
+#13819
+@DA Small Cobble Stone Area in Front of a Stable@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13818
+D2
+~
+~
+0 0 13813
+S
+#13820
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13821
+D4
+~
+~
+0 0 13802
+S
+#13821
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13822
+D1
+~
+~
+0 0 13805
+D2
+~
+~
+0 0 13820
+S
+#13822
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13823
+D2
+~
+~
+0 0 13821
+S
+#13823
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13824
+D2
+~
+~
+0 0 13822
+S
+#13824
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D0
+~
+~
+0 0 13825
+D2
+~
+~
+0 0 13823
+S
+#13825
+@DA Narrow Dimly @wLit @DTunnel@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D2
+~
+~
+0 0 13824
+D4
+~
+~
+0 0 13826
+S
+#13826
+@gA Small Grove of Trees@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D5
+~
+~
+0 0 13825
+S
+#13827
+@YA Hay Loft@n~
+This unfinished room was created by Vaprak.
+~
+138 0 0 0 0 0
+D5
+~
+~
+0 0 13818
+S
+#13828
+stable~
+   @wThis stable is of sturdy design and clearly laid out with the comfort of the
+occupants in mind.  A @ywooden fence@w surrounds it creating a large area for
+training and exercise.  The stable building itself is constructed of @ws@Dt@n@won@De@n@w with
+@Yt@n@yha@Yt@n@yched roofing@w.  Large @Rbarn doors@n@w open into an area containing @Dtack, rigging@n@w
+and @yfeed@w.  At the opposite end are matching @Rdoors @n@wlarge enough for a full wagon
+team to drive through.  To either side of these @Rdoors@n@w are twelve @ydutch doors@w.  
+Some of the top @ydoors@w are closed, some are open with the heads of @Dhorses@n@w and
+more @Yexotic @n@rmounts@w peering out.  Some stalls are open fully as they are cleaned
+and prepared for their next occupant.  At the head of a full trough of @Cwater@n@w is
+a hand pump designed to either fill the trough, or to fill @ybuckets @wand @yb@Da@n@yrre@Dl@n@ys@w.
+
+Along the south side of the structure is the @Dblacksmithy@n@w.  @n
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13829
+S
+#13829
+room 1~
+@wThis beautiful @ccourtyard@w is filled with @Wfinely@n @wsculpted @Ghedges@n @wand a @Wmanicured
+@Glawn@n@w.  There are f@Dl@n@wags@Dt@n@wone paths all converging in the center of the @ccourtyard@w.
+
+The center has a large f@Dl@n@wags@Dt@n@wone circle with benches surrounding a large
+@Wfounta@Ci@Wn@n@w.  The @Wfounta@Ci@Wn@n@w is simple and elegant, three tiers with @Cwater@n@W s@Cp@Wr@Ca@Wy@Ci@Wn@Cg@n@w
+out the top and flowing down tier by tier to @Cpool@n@w in a large shell patterned
+basin.  To the east is a large and @Wimmaculately@n@w maintained stable with @Dstone@n@w
+walls, a @Yt@n@yha@Yt@n@yched roof@w and @ywooden dutch doors@w.  Contented mounts peer from
+several stalls.  At the extreme north end of the @ccourtyard@w is a small vendor's
+booth.  The booth is made of @ywood@w with @gb@ya@Dn@Wn@De@n@yr@gs@w on either side of the open front.
+
+The @gb@ya@Dn@Wn@De@n@yr@gs@w depict a galloping @Dh@Wo@Drs@We@n@w and @Dr@Wi@Dder@n@w on a @ggreen@w and @ybrown @gf@yi@ge@yl@gd@w, the
+@Dh@Wo@Drs@We@n@w is @Dblack@n@w with a @Wwhite@n@w shoulder and @Wtail@n@w.  To the west is a massive @Ds@n@wt@Do@n@wne
+fortress with @ylarge double doors@n@w.  The @n@ydoors@n@w are made of thick @ybeams@w held
+together with heavy @Dsteal bands@n@w and @Drivets@n@w.  To either side of the @n@ydoors@n@w are
+larger @gb@ya@Dn@Wn@De@n@yr@gs@w like most seen around the compound.  Ancient @Mrose@n@w bushes reach up
+the walls of the fortress, covered in @Mp@Ri@Mnk @Wblooms.  @n
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13830
+D3
+~
+~
+0 0 13828
+S
+#13830
+foyer~
+   @WA grand foyer opens up before you, on either end are massive@n @ywooden doors@n@W.  
+The @n@ydoors@W on the west end lead outside, they are constructed of @n@ymassive timbers@W
+held together by @Dheavy steel rivets@W.  A @n@yheavy wooden timber@W is suspended by
+@Dchains@W to be lowered into place in the event of a siege, securing the @n@ydoors@W fast
+against intruders.  To the west are @n@ymassive doors@W swung inward to reveal the
+@CGreat Hall@W.  These @n@ydoors @Ware@n@y thick lumber@W carved with @Cintricate designs@W and
+finished in a high gloss reflecting the l@Yi@Wght.  The foyer itself is a wide open
+space free of adornment, polished s@n@wt@Wone walls reflect the l@Yi@Wght of several large
+@Cc@Wh@Ca@Wn@Cd@We@Cl@Wi@Ce@Wr@Cs@W which emit a soft, steady l@Yi@Wght.  A wide staircase is centered on
+the north wall leading upward.  @n
+~
+138 0 0 0 0 0
+D1
+~
+~
+0 0 13831
+D3
+~
+~
+0 0 13829
+D4
+~
+~
+0 0 13832
+S
+#13831
+great hall~
+   @WThe @CGreat Hall@W is longer than it is wide.  The room is l@Yi@Wt from above, there
+are large globes hanging from ceiling timbers that give off a wa@Mr@Wm, gentle
+l@Yi@Wght.  The walls are light g@Gr@Ween @Gm@Warb@Gl@We cut so precisely that no crack or
+mortar can be detected anywhere.  A large semi-circular set of white marble
+steps stretch across three quarters of the width of the room at it's entrance.
+
+Three long steps descend to a highly polished, white marble floor.  Looking back
+towards the entrance, visible on each step and engraved in @Ygo@Wl@Yd @Winlay, are the
+values describing the members of the @DR@Wi@Dder@Ws @n@wof @gF@ya@ger@yu@gn@W.  @YCour@Wa@Yge@W, @YH@Wo@Ynor@W,
+@YPe@Wr@Yserve@Wr@Yanc@We, @YLeadersh@Wi@Yp@W, @YPurpos@We, @YVis@Wi@Yon@W and I@Yntegr@Wi@Yty@W.  On the floor a large
+mosaic done in the same @Cintricate @Yi@Wnlay is depicted a @nym@gap@W of the entire known
+world.  @COceans@W, @Bl@Ca@Bkes @Wand @Br@n@bi@Bver@n@bs@W are shown in @Ca@Wz@Cure @Wand @Bsapph@Wi@Bre @Ws@Cp@Wa@Cr@Wk@Cl@Wi@Cn@Wg with
+white h@Ci@Wghl@Ci@Wghts of quar@n@wt@Wz and d@Ci@Wa@Cm@Wo@Cn@Wd.  @GField @Wand @n@yground@W are shown with @Yt@n@yo@Yp@n@ya@Yz
+and @Rca@Yr@Rne@n@rl@Yi@Ran@W, while @Gfo@n@nr@Gests@W and @Ds@n@yw@gam@Dp @Whave been detailed using @Gemerald@W and
+@Gj@n@ga@wd@Ge@W.  @RRub@Wi@Res @Wlaid out in lines indicate roads, while the cities and their names
+have been protrayed with @Bo@Cp@Ga@Bl@W.  The border of the giant mosaic shows a mounted
+assembly of @Dr@Wi@Dder@Ws.  A pattern done in @Ygo@Wl@Yd @Wl@Yeaf@W, resembling swirling thin
+c@n@wl@Wouds adds to the overall effect.  The expanse of the floor and its detail,
+from mountains sparkling with snow to swamps below appears to be moving with
+life.  It is a work of art without equal in all of Faerun.  The walls of the
+@CHall@W are covered in finely woven @Rta@Bpe@Yst@Bri@Res @Wand @Gb@Ya@Rn@Bn@Re@Yr@Gs@W.  Some
+~
+138 0 0 0 0 0
+D3
+~
+~
+0 0 13830
+S
+#13832
+New BuildWalk Room~
+   @YThe common area of the @DH@Wo@Drs@We @n@wand @yR@gide@yr @YInn is a quiet place that is neatly
+kept.  A reception @n@ydesk@Y is along the south @n@ywall@Y, several small @n@ytables @Yare neatly
+spaced on the @Dfloor@Y.  Each @n@ytable @Yhas four @n@ychairs @Yand a small @Cmagical @Yl@Wi@Yght in
+its center fl@Wi@Ycker@Wi@Yng like a candle.  On the east end of the room is an @Donyx
+hearth @Ycontaining a moderate @Rf@Yi@Rre@Y.  Large @Wwindows@Y span the north, east and south
+@n@ywalls@Y.  The north and south @N@ywalls @Yare covered with @Wclear @Cglass @Ywhile the two on
+either side of the @Dhearth @Yare @Cintricate @Rs@Ct@Ba@Yi@Bn@Ce@Rd @Cglass @Ypositioned to catch the
+morning @Rs@Yu@Rn@Y.  Two @n@ydoorways @Yare evenly spaced to divide the west wall into three
+sections.  The first @n@ydoorway @Yleads to the rooms rented by guests, while the
+second @n@ydoor @Yleads @n@wto the tower of the @DR@Wi@Dder@Ws @n@wof @gF@ya@ger@yu@gn@Y.  @n
+~
+138 0 0 0 0 0
+D5
+~
+~
+0 0 13830
+S
+$~

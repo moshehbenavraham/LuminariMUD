@@ -1,0 +1,599 @@
+#5900
+half-orc half orc yahg coward quest master questmaster~
+Yahg~
+An adventuring half-orc is here cowering in fear.
+~
+The half-orc is bound in light leather armor.  He appears to be quick and very strong. He is obviously an adventurer.
+~
+8650762 0 0 0 0 0 0 0 0 E
+30 10 -10 6d6+650 5d5+6
+300 67500
+8 8 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+T 5900
+#5901
+cleric hooded human white~
+a white robed cleric~
+A human cleric wrapped in a white robe stands before the candles.
+~
+The cleric is donned in a white robe that flows past her feet and drags on the floor.  She has beautiful golden hair emerging from her hood that comes down nearly to her hips.  There is some gold embroidery done along the seams of the robe.
+~
+10 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 2
+BareHandAttack: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+T 5909
+#5902
+human alchemist~
+a burnt faced alchemist~
+An alchemist is here mixing liquids into a cauldron.
+~
+The alchemist is wearing a long dark robe.  His face is burnt and bubbling from the extensive burns from the liquids he mixes.
+~
+10 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 0
+BareHandAttack: 13
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5903
+wizard girl young robe white~
+Veralis, the young wizard~
+A wizard with long flowing robes is standing here facing the window.
+~
+Veralis is a young beautiful girl in her teenage years.  Dirty blonde hair falls
+out of her white hooded robe.  She has a small stature and the robe is a bit
+large for her.
+~
+262154 0 0 0 0 524288 0 0 0 E
+30 10 -10 6d6+650 5d5+6
+300 67500
+8 8 2
+BareHandAttack: 7
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 4
+E
+#5904
+badger small fierce~
+a small fierce badger~
+A small, but fierce badger scurries in and out of the tall grass.
+~
+The badger had black and white stripes across it's face.  Its fangs hang across
+its bottom lip and are large than most animals its size.  Its claws dig into the
+ground as it walks.  
+~
+72 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 75
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#5905
+owl horned great~
+a great horned owl~
+A great horned owl is perched upon some brush here.
+~
+The owl is covered in brown small feathers with some spots of white and black
+around its chest.  Its eyes are a golden yellow and are tracking your every
+move.  The talons it has would kill any small foe it encounters.
+~
+72 0 0 0 131072 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+Walkin: $n flies in from
+Walkout: $n flies
+E
+#5906
+apprentice male wizard~
+a male wizard's apprentice~
+A male wizard's apprentice is here studying the arts of magic.
+~
+The young wizard's apprentice has a dirty cloth robe wrapped around their body,
+with a hemp rope belt keeping it together.  He has sandals on his feet that look
+worn down.
+~
+10 0 0 0 32 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5907
+apprentice wizard female~
+a female wizard's apprentice~
+A female wizard's apprentice is here studying the arts of magic.
+~
+The young wizard's apprentice has a dirty cloth robe wrapped around their body,
+with a hemp rope belt keeping it together.  Dark red locks of hair are tucked
+into her robe.  She has sandals on his feet that look worn down.
+~
+10 0 0 0 32 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5908
+enchantress pale skinned human~
+a pale skinned human enchantress~
+A pale skinned human enchantress is chanting towards the runes here.
+~
+The enchantress is taller than most humans and dons a light blue robe with a
+white hood.  A golden cloth rope keeps the robe closed but it obvious that there
+are no clothes beneath the robe.  She is stunningly beautiful, with long legs
+and icy blue eyes to match the robe she wears.  She is also barefoot.
+~
+10 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 2
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5909
+enchanter pale skinned human~
+a pale skinned human enchantress~
+A paled skinned human enchanter wrapped in black robes stands here quietly.
+~
+The enchanter is taller than most humans and wrapped in a black robe with
+scorched flames on the back of it.  He is barefoot and while it is difficult to
+see with his hood on, he appears to be bald.  His eyes appear to be changing
+colors from a light grey to a deep black.  
+~
+10 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 1
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5910
+young wizard~
+a young wizard~
+A young wizard in a grey hooded tunic is standing here.
+~
+This wizard must be no older than fifteen or sixteen.  It is difficult to tell
+with the hood over his head.  He has a plain pair of strapped sandals on his
+feet and a plain rope belt holding the tunic together.
+~
+72 0 0 0 0 0 0 0 0 E
+2 20 5 0d0+20 1d2+0
+20 300
+8 8 1
+BareHandAttack: 13
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5911
+curator elderly~
+an elderly curator~
+An elderly curator stands before the bookshelves, examining the collection.
+~
+The curator uses a wooden staff to help with his balance.  He is wearing a
+finely threaded robe.  It is a shiny maroon with golden threading.  The hempen
+rope to seal off the robe is also golden.  
+~
+10 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+BareHandAttack: 13
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 5913
+#5912
+mutated human child~
+a mutated human child~
+A mutated human child hobbles around, grimacing in pain here.
+~
+The human child's face looks like it is melting.  Its legs and arms are deformed
+making it difficult for him to walk.  Raggy clothes cover his body but his feet
+are bare and cut.
+~
+72 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 0
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 6
+SubRace 2: 0
+SubRace 3: 0
+Race: 11
+Class: 0
+Size: 5
+E
+#5913
+acolyte~
+an acolyte~
+An acolyte wrapped in holy robes is resting here.
+~
+Golden locks of heaven flow from the acolyte's robe.  It reaches down below her
+waist.  A wooden carved symbol hangs from her neck, with a tiny white orb
+glowing within it.  
+~
+10 0 0 0 8448 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+5 5 2
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 13
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+#5914
+apprentice summoner~
+an apprentice summoner~
+An apprentice summoner is standing here murmuring to himself.
+~
+The apprentice is clearly in his adult years but barely into it.  He wear dark
+slacks with no shows, but a nicely fit tunic that goes down past his waist.  He
+has dark hair that is cut short and is also clean shaven.  Runes are burned into
+the palms of his hands.
+~
+10 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 1
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 7
+Size: 5
+E
+#5915
+red orb flames~
+a flaming @Rr@re@Rd@n orb~
+A @Rr@re@Rd@n orb is floating here with flames burning within.
+~
+The orb is the size of a human fist but holds incredible powers.  This orb has
+small flames bursting from it's core.  It has a liquid appearance.
+~
+10 0 0 0 131072 256 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 7
+Size: 4
+E
+#5916
+blue orb freezing~
+a freezing @Bb@bl@Bu@be@n orb~
+A @Bb@bl@Bu@be@n orb is floating here freezing and thawing itself.
+~
+The orb is the size of a human fist but holds incredible powers.  This orb has
+an icy interior that it uses to freeze itself.  It has a liquid appearance when
+it is thawed.
+~
+10 0 0 0 131072 512 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 7
+Size: 4
+E
+#5917
+green vine orb~
+a @Gg@gr@Ge@ge@Gn@n vine orb~
+A @Gg@gr@Ge@ge@Gn@n vine orb is fertilizing seeds and creating roots within itself.
+~
+The orb is the size of a human fist but holds incredible powers.  This orb has
+visible seeds germinating inside it's core.  It has a liquid appearance.
+~
+10 0 0 0 268566528 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 5
+Size: 4
+E
+#5918
+white protective orb~
+a @Wwhite@n protective orb~
+A @Wwhite@n protective orb floats here with a shield surrounding itself.
+~
+The orb is the size of a human fist but holds incredible powers.  A light blue
+shield surrounds the orb acting as a protective barrier.  It has a liquid
+appearance.
+~
+10 0 0 0 33685504 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 4
+Size: 4
+E
+#5919
+a @Yyellow@n healing orb~
+a @Yyellow@n healing orb~
+A @Yyellow@n healing orb hovers here with a soft essence of power emanating from its core.
+~
+The orb is the size of a human fist but holds incredible powers.  A healing
+source builds up in its core to protect itself when in harm.  It has a liquid
+appearance.
+~
+10 0 0 0 131328 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 1
+Size: 4
+E
+#5920
+elder wizard~
+an elder wizard~
+An elder wizard in a burgundy robe peers at you from underneath his hood.
+~
+This is an elder and experienced wizard.  Just by the clothing he wears in
+comparison to the other inhabitants of this house.  His burgundy robe shows his
+high rank and prestige within the magistry here.  A golden rope is used as a
+belt for the robe and finely woven leather sandals cover the bottoms of his
+feet.
+~
+72 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 1
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5921
+master wizard~
+a master wizard~
+A master wizard wrapped in a black cloak hovers here.
+~
+The master wizard is hovering just inches off the ground here.  A levitation
+spell is keeping his bare feet off the ground.  His face is covered in a shroud
+of darkness created by the blackness of his hood.  A red silk strap is used as a
+belt.
+~
+72 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#5922
+master summoner~
+the master summoner~
+The master summoner is standing between the torches grinning wildly at you.
+~
+The air movement in the room is making the summoner's white cloak flutter and
+flow.  He stands at the average human height but appears to be slightly
+underweight.  Runes are glowing from the backside of his hands.  He has a long
+white beard that reaches almost to his waistline, however he is completely bald
+underneath his hood.
+~
+74 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 5914
+#5923
+lady raven necromancer soulless~
+Lady Raven, the Soulless~
+A dark haired female necromancer levitates here in the void.
+~
+Beauty is an understatement for the woman surrounded by darkness.  Her silky
+smooth black hair flows in the airless chamber of the void.
+~
+8202 0 0 0 8192 0 0 0 0 E
+6 18 6 1d1+160 1d2+1
+500 3500
+8 8 2
+BareHandAttack: 12
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 0
+Size: 5
+E
+$

@@ -1,0 +1,993 @@
+#2100
+Inside a Gypsy Tent~
+   Standing inside a large gypsy tent, an eerie green light flickers all about.
+Candles covered in glass domes sit on several small wooden tables.  Herbs and
+incense fill the tent in an almost sickening sweet-smelling cloud.
+~
+21 8 0 0 0 0
+S
+T 2100
+#2101
+A Paved Road~
+   A beautifully-paved road leads away in all directions.  Well maintained
+bushes line the side of the walkway, carefully manicured and cared for.  One
+can't be certain, but small shapes seem to flicker past in the distance.  
+Muffled cries and voices echo around, but they are fleeting.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2105
+D1
+~
+~
+0 0 2106
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 2102
+S
+#2102
+An Entrance to a Small Mound~
+   The paved road continues to the east and west, and to the north is a small
+mound that seems to have a door hidden underneath a huge tree.  Signs of a
+scuffle are present in the dirt along the path.  The torch out front has been
+burnt out for days now though, but no one must care.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2104
+D1
+~
+~
+0 0 2101
+D3
+~
+~
+0 0 2103
+S
+#2103
+A Paved Road~
+   The stone path curves gently to the north and east, virtually unaffected by
+both time and travel.  The trappings of a seemingly well-to-do traveler lay
+strewn about.  They appear to have been of excellent make and quality, however,
+someone has decided to alter their appearance, violently.  Rips and bloodstains
+cover the garments, and no one seems to care to pick them up.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2107
+D1
+~
+~
+0 0 2102
+S
+#2104
+Alfo's Ancient Antiquities~
+   The low entry opens into a spacious and musty shop.  Smells of ancient texts,
+burning pipeweed, and various preservative chemicals permeate the air.  Though
+some of the rarities are of a somewheat dubious authenticity, there does appear
+to be at least a few items that bear further examination.
+~
+21 12 0 0 0 0
+D2
+~
+~
+0 0 2102
+S
+#2105
+A Paved Road~
+   Bright signs, displaying pictures of meats and vegetables, have been set up
+along the roadside.  They obviously display the wares of merchants.
+Unfortunately, the writing below cannot be discerned.  Several hanging lanterns
+have been affixed to wooden posts here, to guide travelers on their journey.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2110
+D2
+~
+~
+0 0 2101
+S
+#2106
+A Paved Road~
+   To the east and west the path continues.  Trees, flowers, and small community
+gardens have been planted along both sides of the street.  One could get the
+impression that a great many people are required for the upkeep of these
+grounds, however, no one seems to be around.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2101
+S
+#2107
+The Overhead Walkway~
+   The road dips here, and passes underneath a massive stone walkway.  Laughter
+and merry voices can be overheard coming from above.  Occasionally, a small
+pebble or particle of foodstuff tumbles down the edge of the overpass.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2108
+D2
+~
+~
+0 0 2103
+S
+#2108
+An Intersection~
+   A large wooden post has been placed in the center of the road here.  
+Attached to it are several rusty iron rings.  Leather straps have been tied to
+the post, but hang freely, slowly rocked back and forth by time.  This would
+have been a perfect place to tie up a horse, however, there are no horses about.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2134
+D1
+~
+~
+0 0 2109
+D2
+~
+~
+0 0 2107
+S
+#2109
+A Paved Road~
+   The road continues on its perfectly uniform path.  It does not veer from
+its course, and continues to seem immaculately maintained.  The trees and
+flowers, as seen before, line the walkway on either side.  
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2110
+D3
+~
+~
+0 0 2108
+S
+#2110
+The Town Square~
+   A main street in a community is normally a hubbub of activity, but this one
+is bare.  Shopkeepers have lined their stalls with a display of vegetables,
+silks, oils, and purfumes, but neither they nor their customers are around.  A
+wonderous statue of a man, atop a marble pedestal, sits in the middle of the
+square.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2161
+D2
+~
+~
+0 0 2105
+D3
+~
+~
+0 0 2109
+S
+#2111
+A Paved Road~
+   A myriad of songs and calls from a seemingly endless number of birds fill 
+the air with their magical tunes.  The trees here are filled with a rainbow of
+ feathered beauty.  It is no wonder there are so many birds, as someone has 
+left bushels of grain and other seeds strewn about unattended.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2112
+D1
+~
+~
+0 0 2115
+D3
+~
+~
+0 0 2106
+S
+#2112
+An Entrance to a Small Mound~
+   The road seems to have come to an end here.  To the east and west are small
+mounds that have their doors hidden in the grass and dirt.  A door mat made from
+straw shows the wear and tear one would expect from a busy household, although
+no one is around.
+~
+21 4 0 0 0 0
+D1
+~
+~
+0 0 2114
+D2
+~
+~
+0 0 2111
+D3
+~
+~
+0 0 2113
+S
+#2113
+A Hobbit Hole~
+   Neat and orderly, the owners of the hole have taken great pains to ensure its
+cleanliness.  Wide cupboards, full of foodstuffs, line the walls.  Dried herbs
+and flowers hang from the ceiling, and permeate the air with their unique
+scents.
+~
+21 8 0 0 0 0
+D1
+~
+~
+0 0 2112
+S
+#2114
+A Hobbit Hole~
+   A small doorway opens into a neatly kept one-room house.  The smell of baked
+goods fills the air here, along with that of foreign herbs and spices.  Perched above a
+crackling fire, supported by two iron legs, a pot of some homemade goodness
+simmers.  A bowl of half-smoked pipeweed rests in its cradle on a table,
+seemingly forgotten.
+~
+21 8 0 0 0 0
+D3
+~
+~
+0 0 2112
+S
+#2115
+A Paved Road~
+   Dirt and debris have been tracked literally everywhere on the path here.  
+The usual cleanliness of the rest of the town is not evident.  An archway made
+of iron looms eerily towards the south, and tiny muddy footprints lead both to and
+from it.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2117
+D2
+~
+~
+0 0 2116
+D3
+~
+~
+0 0 2111
+S
+#2116
+Entrance to the Graveyard~
+   A set of rusty iron doors sit off of their housing, allowing access to this
+small graveyard.  A pathway twists and turns through the headstones.  In the
+distance a large black stone column rises out of the soft mist.  If not for the
+sense of death, this would be an ideal place for a picnic.  Small manicured
+trees and bushes provide shade from the hot sun, while the soft ground appears
+to be quite comfortable to sit upon.
+~
+21 4 0 0 0 0
+D0
+~
+~
+0 0 2115
+D1
+~
+~
+0 0 2119
+D2
+~
+~
+0 0 2120
+D3
+~
+~
+0 0 2118
+S
+#2117
+A Bend in the Road~
+   The once straight road veers off to the north.  Along the east edge, someone
+has left small, brightly colored clay pots containing flowers.  Muddy footprints
+seem to arrive from the west, but disappear into the cracks of the hard stone
+path.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2131
+D3
+~
+~
+0 0 2115
+S
+#2118
+An Alcove~
+   Several lit candles line the walls of this little nook.  Their soft,
+flickering light lends a peaceful feeling to the area.  A soft, red pad has been
+carefully placed in the center of the space, probably used for meditation, or
+mourning the lost.
+~
+21 8 0 0 0 0
+D1
+~
+~
+0 0 2116
+S
+#2119
+An Alcove~
+   Torches in the ground, planted in metal holders, cast a ghostly red light
+across the room.  Hideous shadows take shape and appear to dance on the walls.
+A pillow, once used to sit upon, has been carelessly tossed asside into a
+corner, its stuffing ripped out and scattered over the stonework.
+~
+21 8 0 0 0 0
+D3
+~
+~
+0 0 2116
+S
+#2120
+A Path Within the Gravestones~
+   The path twists and turns north and south throughout the graveyard.  It seems
+to have been designed so that one would be able to visit every lost relative in
+one pass.  Bundles of flowers, perhaps picked this morning, lay strewn about the
+surroundings.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2116
+D2
+~
+~
+0 0 2121
+S
+#2121
+A Path Within the Gravestones~
+   Each and every one of the graves have been lovingly cared for.  All traces of
+dust and dirt have been removed so that no one would mistake the name engraved.
+Articles of remembrance have been placed next to each one, as if this was a
+fairly high traffic area.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2120
+D1
+~
+~
+0 0 2123
+D2
+~
+~
+0 0 2124
+D3
+~
+~
+0 0 2122
+S
+#2122
+An Empty Grave~
+   A deep hole as been dug, but it is by no means fresh.  The dirt is dry and
+grey, and is almost as compact as stone.  This site seems to have been waiting a
+long time for someone to be placed in its earthen embrace.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2121
+S
+#2123
+An Empty Grave~
+   The remains of a recent excavation have been piled next to a large hole here.
+The cavity is quite deep, and is sized to hold even a troll.  A small stone has
+been placed off to the side, smooth and unspoiled, obviously waiting for someone
+to chip an inscription into it.
+~
+21 0 0 0 0 0
+D3
+~
+~
+0 0 2121
+S
+#2124
+A Path Within the Gravestones~
+   The muddy trail leads north towards the village, and south towards the
+looming black stone pillar.  Candles seem to burn brightly, even during the
+daylight hours.  Quiet whimpers can be overheard from all around, perhaps the
+mourning of the dead, or maybe it's something more.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2121
+D1
+~
+~
+0 0 2126
+D3
+~
+~
+0 0 2125
+S
+#2125
+A Grave~
+   A small depression in the ground suggests that some settling of the earth has
+occurred here.  The grass also seems to be much greener, perhaps pulling
+nutrients from the bodies that have been put in the dirt.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2124
+S
+#2126
+A Grave~
+   Flowers lay heaped at the foot of this small grave.  A child's blanket has
+been placed over the stone, as if to give comfort.  Next to the flowers are two
+small, closely-spaced depressions in the soft earth, perhaps hand prints made by
+the parents of the dirt's occupant.
+~
+21 0 0 0 0 0
+D3
+~
+~
+0 0 2124
+S
+#2131
+Above a Bridge~
+   An imposing bridge spans the width of a river here, which lies far off below.
+The supports are made up of massive iron girders upon which are laid great oaken
+planks.  Several banners hang from the sides, showing both noblemen, and women.
+The walkway disappears into the distance.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2132
+D2
+~
+~
+0 0 2117
+S
+#2132
+A Paved Road~
+   The beautiful boulevard stretches out to the south and west here.  Great care
+was taken in laying down the granite flagstones.  No grass, weeds, or moss grows
+up from between them, and they seem virtually free of debris.  Small hills of
+earth can be made out in the distance, and a massive bridge lies to the south.
+~
+21 0 0 0 0 0
+D2
+~
+~
+0 0 2131
+D3
+~
+~
+0 0 2133
+S
+#2133
+An Entrance to a Small Mound~
+   Continuing to the north and east, the road runs lazily underfoot.  To the
+west is a small home, its door hidden in shadows.  Several torches, placed near
+the door, do not help eliminate the darkness, however.  These shadows almost seem
+to be magical in nature, and slowly spread across the ground in all directions.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2149
+D1
+~
+~
+0 0 2132
+D3
+~
+~
+0 0 2148
+S
+#2134
+An Entrance to a Small Mound~
+   The road continues unending to the north and south here.  To the east and
+west are carefully constructed homes made of earth and grass, and a small stream
+of smoke wisps gently from an opening atop each.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2137
+D1
+~
+~
+0 0 2136
+D2
+~
+~
+0 0 2108
+D3
+~
+~
+0 0 2135
+S
+#2135
+A Hobbit Hole~
+   Paintings line the walls of the tiny abode.  Although each and every painting
+is of the same grim man, his position and clothing are all different.  A
+brightly colored rug lines the middle of the room, and a single candle flickers
+as if some hushed breeze flowed through here.
+~
+21 12 0 0 0 0
+D1
+~
+~
+0 0 2134
+S
+#2136
+A Hobbit Hole~
+   Knickknacks and other articles of fancy have been carefully laid atop every
+available surface here.  Some of them even have large jewels and precious metals
+embedded into them, suggesting an abundance of wealth.  Surely the owner of this
+house would not dare leave such treasures out for long.  
+~
+21 12 0 0 0 0
+D3
+~
+~
+0 0 2134
+S
+#2137
+A Blind Corner~
+   The road makes a very sharp turn to the east and south here.  Along the north
+wall are cloth banners covered in strange symbols, brightly painted, as if
+describing a mythical battle fought long ago.  The ground seems to be sloping
+gradually downwards, pulled by the weight of time.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2138
+D2
+~
+~
+0 0 2134
+S
+#2138
+A Paved Road~
+   Several trees are missing their limbs, and no birds can be seen here.  The
+ground underfoot has been noticeably scuffed, and the marks continue down the
+length of the stones.  Whatever has marred the surface must have been something
+very large and heavy, and not in a particularly good mood.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2139
+D3
+~
+~
+0 0 2137
+S
+#2139
+A Paved Road~
+   Ornamental shrubs and bushes have replaced the large trees that accented the
+other side of the town.  These bushes have been carefully shaped into dragons,
+unicorns, and knights, as if to tell a magical tale.  A wooden pavilion has been
+set up here, perhaps for storytelling or enacting the fables of years past.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2140
+D2
+~
+~
+0 0 2138
+S
+#2140
+An Entrance to a Small Mound~
+   A small wooden bridge crosses a bubbling brook to the north, leading into
+another near hidden doorway.  The old door appears to have fallen off its
+frame, exposing the abode within.  The grass is overgrown here, as if no one has
+been around to tend it in years.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2141
+D2
+~
+~
+0 0 2139
+D3
+~
+~
+0 0 2142
+S
+#2141
+A Hobbit Hole~
+   A spinning wheel in the corner of the room appears to have been well used.  
+Many bright colors of yarn, now dusty and weathered, hang from every piece of
+furniture here.  A half finished carpet rests on a loom, forgotten.
+~
+21 12 0 0 0 0
+D2
+~
+~
+0 0 2140
+S
+#2142
+A Paved Road~
+   Cracks run through the stone lane here, twisting and turning as if veins
+throughout a body.  Benches, placed at short intervals, line the roadway.  This
+seems to have been a high traffic area, long ago.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2140
+D3
+~
+~
+0 0 2143
+S
+#2143
+An Entrance to a Small Mound~
+   Bushes continue to line the boulevard as it rounds a sharp corner to the
+south and east.  A small home to the north is missing its door, but shards of
+broken wood are seen strewn about haphazardly.  No distinguishing marks can be
+seen around the house, and no smoke escapes the chimney.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2144
+D1
+~
+~
+0 0 2142
+D2
+~
+~
+0 0 2145
+S
+#2144
+A Hobbit Hole~
+   This home seems to have nothing in it.  The cupboards have been stripped
+clean, the table is empty, and the chairs are smashed.  No furniture, other than
+a small mirror on the far wall, is left.  Almost all traces of normal life have
+been erased.
+~
+21 12 0 0 0 0
+D2
+~
+~
+0 0 2143
+S
+#2145
+A Paved Road~
+   The road continues to twist and turn north and south here, but it is not the
+peaceful scene as before in the town.  Large cages, although empty, line the
+roadway.  One can possibly imagine groans, screams, and unintelligible gutteral
+calls from the cage's previous occupants in the air.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2143
+D2
+~
+~
+0 0 2146
+S
+#2146
+A Pristine Stairwell~
+   Large stone steps, seemingly supported by the air itself, lead downwards.  
+Ornate wall sconces, each holding a glowing orb of light, provide ample
+illumination.  Massive banners hanging from wooden supports display jousting and
+other feats of knighthood.
+~
+21 8 0 0 0 0
+D0
+~
+~
+0 0 2145
+D5
+~
+~
+0 0 2147
+S
+#2147
+A Landing~
+   Perched atop a pure-white marble dias are a set of stairs that lead upwards.
+Three more sets direct traffic down from the stone pathway to the floor level.
+The four corners of this room each display statues of small men on horseback.  
+Magical globes of light float weightless near the ceiling.
+~
+21 12 0 0 0 0
+D4
+~
+~
+0 0 2146
+S
+#2148
+A Hobbit Hole~
+   A well maintained, two room shelter houses several of this towns inhabitants
+here.  The sweet smell of baked goods from the oven hangs heavy in the air.  A
+spice rack, above the oven, displays many exotic items that have not been seen
+in this land since the rise of the god Orme.
+~
+21 12 0 0 0 0
+D1
+~
+~
+0 0 2133
+S
+#2149
+A Paved Road~
+   All is quiet in this section of town.  The boulevard continues to snake north
+and south.  Small flowers lay scattered about underfoot, their basket smashed
+along the side of the road.  Several birds hover around an old carcass, doing
+battle with the flies that stake claim already.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2150
+D2
+~
+~
+0 0 2133
+S
+#2150
+An Entrance to a Small Mound~
+   The path forks off north and south here, with a large group of bushes visible
+to the east.  Amongst the unkempt hedges a wooden door is apparent, almost
+invisible to the average passerby.  Behind the shrubs a hill of dirt and grass
+rises gently towards the trees.  The air is still here, birds can be heard
+fluttering around nervously, and no four legged animals can be readily seen.  
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2152
+D1
+~
+~
+0 0 2151
+D2
+~
+~
+0 0 2149
+S
+#2151
+A Hobbit Hole~
+   The low lying archway of the door gives way to a small, one bedroom house.  
+Small furniture has been arranged neatly against the walls, to make the most of
+the limited space here.  A bed is made neatly, almost untouched, along the east
+wall.  Trinkets and memorabilia are placed meticulously on wooden shelving
+mounted on the muddy walls.  
+~
+21 12 0 0 0 0
+D3
+~
+~
+0 0 2150
+S
+#2152
+A Paved Road~
+   The north and south path continues.  Small pools of water gather in the holes
+missing from the walkway here.  The flagstones, having been removed recently, sit
+piled neatly in the earth to the west.  A wooden hoist, broken beyond repair,
+lies in pieces near the stones.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2153
+D2
+~
+~
+0 0 2150
+S
+#2153
+A Fork in the Road~
+   A large crater disfigures the once pristine walkway here, as if a massive
+explosion took place.  Fragments of rock and earth can be seen scattered about
+everywhere.  A strange smell lingers in the air, but one cannot tell if this was
+the work of man or magic.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2154
+D2
+~
+~
+0 0 2152
+D3
+~
+~
+0 0 2155
+S
+#2154
+A Hobbit Hole~
+   Many archaic books and scrolls clutter bookshelves along the walls.  A metal
+cauldron bubbles gently, giving off its heavy gasses into the air here.  A
+wooden table has been set up in the middle of the burrow, covered in vials and
+beakers of strange liquids.  
+~
+21 12 0 0 0 0
+D2
+~
+~
+0 0 2153
+S
+#2155
+A Paved Road~
+   The immaculate curbside ornamental shrubbery and trees from the rest of the
+village are not present here.  Smoke rises from burning stumps in the ground, the
+remnants of hedges and flowers burned to ash.  Cracks in the flagstone lead off
+to the west, but the eastern path seems to be better maintained.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2153
+D3
+~
+~
+0 0 2156
+S
+#2156
+A Paved Road~
+   A venue setup along the roadside sits empty.  Kegs lying across the area,
+long empty, are cracked and brittle from the pounding weather.  A wooden dance
+floor has been placed in the center of the road and, upon closer inspection,
+reveals many years of hard use.  Obviously these people once took their
+festivities very seriously.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2157
+D1
+~
+~
+0 0 2155
+D3
+~
+~
+0 0 2158
+S
+#2157
+A Hobbit Hole~
+   This home seems dark, although smokeless candles burn quietly.  An empty
+bottle of spirits lies resting on the table here.  Its cork has been carelessly
+tossed into a corner of this one room hole.  A half-eaten plate of food sits
+next to the bottle, partially covered with mold.
+~
+21 12 0 0 0 0
+D2
+~
+~
+0 0 2156
+S
+#2158
+A Paved Road~
+   Lanterns burning brightly hang down from the trees.  Small candles, inside
+the lanterns, cast their warm, flickering light all around.  The scene of a
+grand party plays out here.  Cakes, goodies, and other sweet treats lay heaped
+on tables set up by the road, but they remain untouched.
+~
+21 0 0 0 0 0
+D1
+~
+~
+0 0 2156
+D2
+~
+~
+0 0 2159
+S
+#2159
+A Paved Road~
+   Two massive granite flagstones have been broken apart and removed from the
+center of the path.  Shovels, hammers, and other tools lay neatly against the
+roadside, suggesting a work crew has been laboring.  A table has been set up in
+the grass, near a well constructed, indigo dyed leather tent.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2158
+D2
+~
+~
+0 0 2160
+S
+#2160
+A Paved Road~
+   The gentle north and south flow of this path continues through the village.
+Obscured by the trees that line the road, several baskets of fruit lay strewn
+carelessly about.  Nestled between well maintained hedges, which seem to take
+the shape of large animals, are small community gardens.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2159
+D2
+~
+~
+0 0 2161
+S
+#2161
+The Town Well~
+   A bucket, glistening with moisture, rests on a wrought-iron stand towards the
+east.  The stand suspends the bucket over a round, cobblestone well.  Water,
+inadvertently splashed onto the flagstones from buckets far too full, reveals the
+true nature of the granite under foot.  The flagstone tiles are actually
+bloodstone, one of the rarest found in this realm.
+~
+21 0 0 0 0 0
+D0
+~
+~
+0 0 2160
+D2
+~
+~
+0 0 2110
+S
+$~

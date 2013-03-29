@@ -1,0 +1,613 @@
+#31700
+mayor mcgintey cove~
+the Mayor of McGintey Cove~
+The Mayor of McGintey Cove parades by you.
+~
+   He looks quited decadent, draped in sheer, golden silk and satin teal
+sashes.  He turns his head suddenly to catch a glimpse of a young noblewoman
+and you see a small teal ornament hanging loosely from his right ear.  The
+trinket looks quite valuable.    
+~
+32968 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+BareHandAttack: 5
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 1
+Size: 5
+E
+#31701
+Maree~
+Maree~
+Maree is here serving drinks.
+~
+   She is one of those women who could be twenty-five or could be forty.  She
+has that timeless look about her that lends a quiet, dignified beauty.    
+~
+188426 0 0 0 0 0 0 0 700 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 0
+Size: 5
+E
+#31702
+noble~
+an upperclass citizen~
+A town noble stands nearby, disgusted by your mere presence.
+~
+   He is dressed in the finest clothes money can buy, and as he dusts of his
+shirt and tidies his hair he turns his head from you, not acknowledging your
+presence there.    
+~
+200 0 0 0 0 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 1
+BareHandAttack: 13
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 1
+Size: 5
+E
+#31703
+proprieter man~
+the proprieter~
+The proprieter of the Inn is here, making sure everything is perfect.
+~
+   He hurries here and there and everywhere, always fussing or whining that
+something is wrong or out of place.    
+~
+16394 0 0 0 0 0 0 0 200 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 1
+Size: 5
+E
+#31704
+waiter~
+a waiter~
+A waiter is here scurrying from table to table.
+~
+   He keeps glancing up at the proprieter, as if he were a stray dog expecting
+to beat at any moment.  Poor fella, he probably gets at least one good tongue
+lashing a day.    
+~
+138 0 0 0 0 0 0 0 800 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 5
+Size: 5
+E
+#31705
+wife mayor~
+the Mayor's wife~
+The Mayor's wife stalks silently by.
+~
+   Yes, her clothes are of the finest make but you can tell she does not
+belong.  Her features are long and sad looking, as if she had no desire to be
+the mayor's wife.  She moves away quickly, trying to remain unseen.    
+~
+147656 0 0 0 0 0 0 0 0 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 2
+BareHandAttack: 3
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 5
+Size: 5
+E
+#31706
+attendant roulette~
+the roulette attendant~
+A strikingly beautiful woman stands at the wheel, taking bets.
+~
+   She gives you a very big, very seductive smile and urges you to place a bet.
+  
+~
+16394 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 5
+Size: 5
+E
+#31707
+dealer Baagh~
+Baagh~
+Baagh is here, dealing the next the grueling round of war.
+~
+   Baagh does not look all that smart.  Seems that this card game is just his
+speed.    
+~
+16394 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#31708
+dealer blank faced~
+the blank-faced dealer~
+A blank-faced dealer is here, getting ready to take your money.
+~
+   This guy is the poster child for poker faces.    
+~
+16394 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 3
+Size: 5
+E
+#31709
+noble noblewoman~
+a noblewoman~
+A noble's wife is standing here.
+~
+   She has the same contempt of you as a nobleman has, full of disgust.  She
+tries to be as far away from you as she can.    
+~
+200 0 0 0 0 0 0 0 0 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 1
+Size: 5
+E
+#31710
+sam dealer blackjack~
+Sam the blackjack dealer~
+Sam the blackjack dealer is here flipping cards to players.
+~
+   Sam looks almost bored as he turns over one card afetr another.  You can
+barely hear him mumble, 'push, we got a winner, oh too bad, and every now and
+then an almost audible blackjack!  '
+~
+16394 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 3
+Size: 5
+E
+#31711
+stealthy burglar~
+a stealthy burglar~
+A stealthy burglar is attempting to hide himself in the shadows.
+~
+   Crouched back in a corner, head low, this man thinks that you are unable to
+see him.    
+~
+138 0 0 0 0 0 0 0 -500 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 3
+Size: 5
+E
+#31712
+ranger park~
+the park ranger~
+The Park Ranger is here, tending to the park.
+~
+   She is dressed all in brown and green, with rake in hand.  She looks like
+she knows her way around both forest and city.    
+~
+2186 0 0 0 0 0 0 0 600 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 0
+Size: 5
+E
+#31713
+kid little boy~
+a little boy~
+A little boy plays tag with a little girl, laughing and giggling as he runs.
+~
+   With lunch stains all over his shirt and grass stains all on his knees, he
+looks like he couldn't be any happier than he is now.    
+~
+72 0 0 0 0 0 0 0 400 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 4
+Class: 0
+Size: 5
+E
+#31714
+kid little girl~
+the little girl~
+A little girl laughs as a boy tries in vain to catch her by the ponytails.
+~
+   With her bright red hair up in ponytails, she kind of looks like Pippy
+Longstocking.    
+~
+72 0 0 0 0 0 0 0 500 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 2
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 2
+Class: 3
+Size: 5
+E
+#31715
+matre de~
+the matre de~
+The matre de looks disdainfully at you.
+~
+   This man may have to get a bit snooty, better watch it.    
+~
+10 0 0 0 0 0 0 0 -100 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 3
+Size: 5
+E
+#31716
+waiter~
+the waiter~
+A well dressed waiter is moving gracefully through the room, serving customers.
+~
+   Resplendant inhis black tuxedo and shined shoes, this man would be graceful
+falling down.    
+~
+10 0 0 0 0 0 0 0 300 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 2
+Size: 5
+E
+#31717
+waitress~
+the waitress~
+A waitress moves through the room serving drinks.
+~
+   This woman could only be described as elegant the way she sways and moves
+through the clientele dining here.    
+~
+188426 0 0 0 0 0 0 0 300 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 2
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 1
+Size: 5
+E
+#31718
+receptionist~
+the receptionist~
+A receptionist sits behind an ornate mahoganey desk, taking reservations for the night.
+~
+   She looks almost bored with her job as she efficiently writes dates, names,
+and times in ledger.    
+~
+16394 0 0 0 0 0 0 0 100 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+6 6 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 5
+Size: 5
+E
+#31719
+gardener woman~
+the woman~
+A woman is planting flowers here, pulling weeds here and there.
+~
+   She looks in her element here, digging in the dirt, like she couldn't be
+happier anywhere else.    
+~
+10 0 0 0 0 0 0 0 1000 E
+17 15 0 3d3+221 2d2+2
+170 21675
+6 6 2
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 3
+Class: 2
+Size: 5
+E
+#31720
+server man~
+the server~
+A man is here serving all the diners quietly, efficiently.
+~
+   A very somber seeming man, you cannot see a glint of a smile or any kind of
+emotion on his face.  His work seems to be his passion.    
+~
+188426 0 0 0 0 0 0 0 -100 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 2
+Size: 5
+E
+#31721
+grave digger man~
+the grave digger~
+A grave digger is resting under the shade of a tree, shovel on the ground next to him.
+~
+   He wipes the sweat from his brow, smiles, and asks if you might like to join
+him for a bit of a rest...?    
+~
+10 0 0 0 0 0 0 0 800 E
+15 15 1 3d3+195 2d2+2
+150 16875
+6 6 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 2
+Class: 5
+Size: 5
+E
+#31722
+manager hotel~
+the hotel manager~
+The hotel manager stands behind a large desk, ready to sell you a room.
+~
+   He smiles and asks how he can help you today.    
+~
+10 0 0 0 0 0 0 0 100 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 2
+Size: 5
+E
+#31723
+woman receptionist~
+the receptionist~
+She stands smiling at you, waiting for you to take a room.
+~
+   Hmmmm....  Wonder if she is part of the price, too...    
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+Race: 1
+Class: 0
+Size: 5
+E
+$

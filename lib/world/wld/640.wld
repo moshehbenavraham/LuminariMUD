@@ -1,0 +1,2161 @@
+#64000
+A Field~
+You are in an unfinished room.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64010
+D1
+~
+~
+0 0 64001
+D3
+~
+~
+0 0 64109
+S
+#64001
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64011
+D1
+~
+~
+0 0 64002
+D3
+~
+~
+0 0 64000
+S
+#64002
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64012
+D1
+~
+~
+0 0 64003
+D3
+~
+~
+0 0 64001
+S
+#64003
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64013
+D1
+~
+~
+0 0 64004
+D3
+~
+~
+0 0 64002
+S
+#64004
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64014
+D1
+~
+~
+0 0 64005
+D3
+~
+~
+0 0 64003
+S
+#64005
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64015
+D1
+~
+~
+0 0 64006
+D3
+~
+~
+0 0 64004
+S
+#64006
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64016
+D1
+~
+~
+0 0 64007
+D3
+~
+~
+0 0 64005
+S
+#64007
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64017
+D1
+~
+~
+0 0 64008
+D3
+~
+~
+0 0 64006
+S
+#64008
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64018
+D1
+~
+~
+0 0 64009
+D3
+~
+~
+0 0 64007
+S
+#64009
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64019
+D1
+~
+~
+0 0 63900
+D3
+~
+~
+0 0 64008
+S
+#64010
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64020
+D1
+~
+~
+0 0 64011
+D2
+~
+~
+0 0 64000
+D3
+~
+~
+0 0 64119
+S
+#64011
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64021
+D1
+~
+~
+0 0 64012
+D2
+~
+~
+0 0 64001
+D3
+~
+~
+0 0 64010
+S
+#64012
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64022
+D1
+~
+~
+0 0 64013
+D2
+~
+~
+0 0 64002
+D3
+~
+~
+0 0 64011
+S
+#64013
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64023
+D1
+~
+~
+0 0 64014
+D2
+~
+~
+0 0 64003
+D3
+~
+~
+0 0 64012
+S
+#64014
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64024
+D1
+~
+~
+0 0 64015
+D2
+~
+~
+0 0 64004
+D3
+~
+~
+0 0 64013
+S
+#64015
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64025
+D1
+~
+~
+0 0 64016
+D2
+~
+~
+0 0 64005
+D3
+~
+~
+0 0 64014
+S
+#64016
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64026
+D1
+~
+~
+0 0 64017
+D2
+~
+~
+0 0 64006
+D3
+~
+~
+0 0 64015
+S
+#64017
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64027
+D1
+~
+~
+0 0 64018
+D2
+~
+~
+0 0 64007
+D3
+~
+~
+0 0 64016
+S
+#64018
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64028
+D1
+~
+~
+0 0 64019
+D2
+~
+~
+0 0 64008
+D3
+~
+~
+0 0 64017
+S
+#64019
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64029
+D1
+~
+~
+0 0 63910
+D2
+~
+~
+0 0 64009
+D3
+~
+~
+0 0 64018
+S
+#64020
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64030
+D1
+~
+~
+0 0 64021
+D2
+~
+~
+0 0 64010
+D3
+~
+~
+0 0 64129
+S
+#64021
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64031
+D1
+~
+~
+0 0 64022
+D2
+~
+~
+0 0 64011
+D3
+~
+~
+0 0 64020
+S
+#64022
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64032
+D1
+~
+~
+0 0 64023
+D2
+~
+~
+0 0 64012
+D3
+~
+~
+0 0 64021
+S
+#64023
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64033
+D1
+~
+~
+0 0 64024
+D2
+~
+~
+0 0 64013
+D3
+~
+~
+0 0 64022
+S
+#64024
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64034
+D1
+~
+~
+0 0 64025
+D2
+~
+~
+0 0 64014
+D3
+~
+~
+0 0 64023
+S
+#64025
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64035
+D1
+~
+~
+0 0 64026
+D2
+~
+~
+0 0 64015
+D3
+~
+~
+0 0 64024
+S
+#64026
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64036
+D1
+~
+~
+0 0 64027
+D2
+~
+~
+0 0 64016
+D3
+~
+~
+0 0 64025
+S
+#64027
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64037
+D1
+~
+~
+0 0 64028
+D2
+~
+~
+0 0 64017
+D3
+~
+~
+0 0 64026
+S
+#64028
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64038
+D1
+~
+~
+0 0 64029
+D2
+~
+~
+0 0 64018
+D3
+~
+~
+0 0 64027
+S
+#64029
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64039
+D1
+~
+~
+0 0 63920
+D2
+~
+~
+0 0 64019
+D3
+~
+~
+0 0 64028
+S
+#64030
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64040
+D1
+~
+~
+0 0 64031
+D2
+~
+~
+0 0 64020
+D3
+~
+~
+0 0 64139
+S
+#64031
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64041
+D1
+~
+~
+0 0 64032
+D2
+~
+~
+0 0 64021
+D3
+~
+~
+0 0 64030
+S
+#64032
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64042
+D1
+~
+~
+0 0 64033
+D2
+~
+~
+0 0 64022
+D3
+~
+~
+0 0 64031
+S
+#64033
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64043
+D1
+~
+~
+0 0 64034
+D2
+~
+~
+0 0 64023
+D3
+~
+~
+0 0 64032
+S
+#64034
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64044
+D1
+~
+~
+0 0 64035
+D2
+~
+~
+0 0 64024
+D3
+~
+~
+0 0 64033
+S
+#64035
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64045
+D1
+~
+~
+0 0 64036
+D2
+~
+~
+0 0 64025
+D3
+~
+~
+0 0 64034
+S
+#64036
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64046
+D1
+~
+~
+0 0 64037
+D2
+~
+~
+0 0 64026
+D3
+~
+~
+0 0 64035
+S
+#64037
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64047
+D1
+~
+~
+0 0 64038
+D2
+~
+~
+0 0 64027
+D3
+~
+~
+0 0 64036
+S
+#64038
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64048
+D1
+~
+~
+0 0 64039
+D2
+~
+~
+0 0 64028
+D3
+~
+~
+0 0 64037
+S
+#64039
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64049
+D1
+~
+~
+0 0 63930
+D2
+~
+~
+0 0 64029
+D3
+~
+~
+0 0 64038
+S
+#64040
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64050
+D1
+~
+~
+0 0 64041
+D2
+~
+~
+0 0 64030
+D3
+~
+~
+0 0 64149
+S
+#64041
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64051
+D1
+~
+~
+0 0 64042
+D2
+~
+~
+0 0 64031
+D3
+~
+~
+0 0 64040
+S
+#64042
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64052
+D1
+~
+~
+0 0 64043
+D2
+~
+~
+0 0 64032
+D3
+~
+~
+0 0 64041
+S
+#64043
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64053
+D1
+~
+~
+0 0 64044
+D2
+~
+~
+0 0 64033
+D3
+~
+~
+0 0 64042
+S
+#64044
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64054
+D1
+~
+~
+0 0 64045
+D2
+~
+~
+0 0 64034
+D3
+~
+~
+0 0 64043
+S
+#64045
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64055
+D1
+~
+~
+0 0 64046
+D2
+~
+~
+0 0 64035
+D3
+~
+~
+0 0 64044
+S
+#64046
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64056
+D1
+~
+~
+0 0 64047
+D2
+~
+~
+0 0 64036
+D3
+~
+~
+0 0 64045
+S
+#64047
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64057
+D1
+~
+~
+0 0 64048
+D2
+~
+~
+0 0 64037
+D3
+~
+~
+0 0 64046
+S
+#64048
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64058
+D1
+~
+~
+0 0 64049
+D2
+~
+~
+0 0 64038
+D3
+~
+~
+0 0 64047
+S
+#64049
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64059
+D1
+~
+~
+0 0 63940
+D2
+~
+~
+0 0 64039
+D3
+~
+~
+0 0 64048
+S
+#64050
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64060
+D1
+~
+~
+0 0 64051
+D2
+~
+~
+0 0 64040
+D3
+~
+~
+0 0 64159
+S
+#64051
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64061
+D1
+~
+~
+0 0 64052
+D2
+~
+~
+0 0 64041
+D3
+~
+~
+0 0 64050
+S
+#64052
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64062
+D1
+~
+~
+0 0 64053
+D2
+~
+~
+0 0 64042
+D3
+~
+~
+0 0 64051
+S
+#64053
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64063
+D1
+~
+~
+0 0 64054
+D2
+~
+~
+0 0 64043
+D3
+~
+~
+0 0 64052
+S
+#64054
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64064
+D1
+~
+~
+0 0 64055
+D2
+~
+~
+0 0 64044
+D3
+~
+~
+0 0 64053
+S
+#64055
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64065
+D1
+~
+~
+0 0 64056
+D2
+~
+~
+0 0 64045
+D3
+~
+~
+0 0 64054
+S
+#64056
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64066
+D1
+~
+~
+0 0 64057
+D2
+~
+~
+0 0 64046
+D3
+~
+~
+0 0 64055
+S
+#64057
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64067
+D1
+~
+~
+0 0 64058
+D2
+~
+~
+0 0 64047
+D3
+~
+~
+0 0 64056
+S
+#64058
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64068
+D1
+~
+~
+0 0 64059
+D2
+~
+~
+0 0 64048
+D3
+~
+~
+0 0 64057
+S
+#64059
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64069
+D1
+~
+~
+0 0 63950
+D2
+~
+~
+0 0 64049
+D3
+~
+~
+0 0 64058
+S
+#64060
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64070
+D1
+~
+~
+0 0 64061
+D2
+~
+~
+0 0 64050
+D3
+~
+~
+0 0 64169
+S
+#64061
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64071
+D1
+~
+~
+0 0 64062
+D2
+~
+~
+0 0 64051
+D3
+~
+~
+0 0 64060
+S
+#64062
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64072
+D1
+~
+~
+0 0 64063
+D2
+~
+~
+0 0 64052
+D3
+~
+~
+0 0 64061
+S
+#64063
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64073
+D1
+~
+~
+0 0 64064
+D2
+~
+~
+0 0 64053
+D3
+~
+~
+0 0 64062
+S
+#64064
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64074
+D1
+~
+~
+0 0 64065
+D2
+~
+~
+0 0 64054
+D3
+~
+~
+0 0 64063
+S
+#64065
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64075
+D1
+~
+~
+0 0 64066
+D2
+~
+~
+0 0 64055
+D3
+~
+~
+0 0 64064
+S
+#64066
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64076
+D1
+~
+~
+0 0 64067
+D2
+~
+~
+0 0 64056
+D3
+~
+~
+0 0 64065
+S
+#64067
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64077
+D1
+~
+~
+0 0 64068
+D2
+~
+~
+0 0 64057
+D3
+~
+~
+0 0 64066
+S
+#64068
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64078
+D1
+~
+~
+0 0 64069
+D2
+~
+~
+0 0 64058
+D3
+~
+~
+0 0 64067
+S
+#64069
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64079
+D1
+~
+~
+0 0 63960
+D2
+~
+~
+0 0 64059
+D3
+~
+~
+0 0 64068
+S
+#64070
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64080
+D1
+~
+~
+0 0 64071
+D2
+~
+~
+0 0 64060
+D3
+~
+~
+0 0 64179
+S
+#64071
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64081
+D1
+~
+~
+0 0 64072
+D2
+~
+~
+0 0 64061
+D3
+~
+~
+0 0 64070
+S
+#64072
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64082
+D1
+~
+~
+0 0 64073
+D2
+~
+~
+0 0 64062
+D3
+~
+~
+0 0 64071
+S
+#64073
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64083
+D1
+~
+~
+0 0 64074
+D2
+~
+~
+0 0 64063
+D3
+~
+~
+0 0 64072
+S
+#64074
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64084
+D1
+~
+~
+0 0 64075
+D2
+~
+~
+0 0 64064
+D3
+~
+~
+0 0 64073
+S
+#64075
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64085
+D1
+~
+~
+0 0 64076
+D2
+~
+~
+0 0 64065
+D3
+~
+~
+0 0 64074
+S
+#64076
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64086
+D1
+~
+~
+0 0 64077
+D2
+~
+~
+0 0 64066
+D3
+~
+~
+0 0 64075
+S
+#64077
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64087
+D1
+~
+~
+0 0 64078
+D2
+~
+~
+0 0 64067
+D3
+~
+~
+0 0 64076
+S
+#64078
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64088
+D1
+~
+~
+0 0 64079
+D2
+~
+~
+0 0 64068
+D3
+~
+~
+0 0 64077
+S
+#64079
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64089
+D1
+~
+~
+0 0 63970
+D2
+~
+~
+0 0 64069
+D3
+~
+~
+0 0 64078
+S
+#64080
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64090
+D1
+~
+~
+0 0 64081
+D2
+~
+~
+0 0 64070
+D3
+~
+~
+0 0 64189
+S
+#64081
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64091
+D1
+~
+~
+0 0 64082
+D2
+~
+~
+0 0 64071
+D3
+~
+~
+0 0 64080
+S
+#64082
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64092
+D1
+~
+~
+0 0 64083
+D2
+~
+~
+0 0 64072
+D3
+~
+~
+0 0 64081
+S
+#64083
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64093
+D1
+~
+~
+0 0 64084
+D2
+~
+~
+0 0 64073
+D3
+~
+~
+0 0 64082
+S
+#64084
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64094
+D1
+~
+~
+0 0 64085
+D2
+~
+~
+0 0 64074
+D3
+~
+~
+0 0 64083
+S
+#64085
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64095
+D1
+~
+~
+0 0 64086
+D2
+~
+~
+0 0 64075
+D3
+~
+~
+0 0 64084
+S
+#64086
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64096
+D1
+~
+~
+0 0 64087
+D2
+~
+~
+0 0 64076
+D3
+~
+~
+0 0 64085
+S
+#64087
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64097
+D1
+~
+~
+0 0 64088
+D2
+~
+~
+0 0 64077
+D3
+~
+~
+0 0 64086
+S
+#64088
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64098
+D1
+~
+~
+0 0 64089
+D2
+~
+~
+0 0 64078
+D3
+~
+~
+0 0 64087
+S
+#64089
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64099
+D1
+~
+~
+0 0 63980
+D2
+~
+~
+0 0 64079
+D3
+~
+~
+0 0 64088
+S
+#64090
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64300
+D1
+~
+~
+0 0 64091
+D2
+~
+~
+0 0 64080
+D3
+~
+~
+0 0 64199
+S
+#64091
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64301
+D1
+~
+~
+0 0 64092
+D2
+~
+~
+0 0 64081
+D3
+~
+~
+0 0 64090
+S
+#64092
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64302
+D1
+~
+~
+0 0 64093
+D2
+~
+~
+0 0 64082
+D3
+~
+~
+0 0 64091
+S
+#64093
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64303
+D1
+~
+~
+0 0 64094
+D2
+~
+~
+0 0 64083
+D3
+~
+~
+0 0 64092
+S
+#64094
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64304
+D1
+~
+~
+0 0 64095
+D2
+~
+~
+0 0 64084
+D3
+~
+~
+0 0 64093
+S
+#64095
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64305
+D1
+~
+~
+0 0 64096
+D2
+~
+~
+0 0 64085
+D3
+~
+~
+0 0 64094
+S
+#64096
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64306
+D1
+~
+~
+0 0 64097
+D2
+~
+~
+0 0 64086
+D3
+~
+~
+0 0 64095
+S
+#64097
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64307
+D1
+~
+~
+0 0 64098
+D2
+~
+~
+0 0 64087
+D3
+~
+~
+0 0 64096
+S
+#64098
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64308
+D1
+~
+~
+0 0 64099
+D2
+~
+~
+0 0 64088
+D3
+~
+~
+0 0 64097
+S
+#64099
+A Field~
+This unfinished room was created by Zusuk.
+~
+640 65536 0 0 0 2
+D0
+~
+~
+0 0 64309
+D1
+~
+~
+0 0 63990
+D2
+~
+~
+0 0 64089
+D3
+~
+~
+0 0 64098
+S
+$~

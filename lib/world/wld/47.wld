@@ -1,0 +1,1563 @@
+#4700
+The Gates of Valcrest~
+   A large wooden gate banded with iron straps provides access for visitors to
+the city of Valcrest.  The opening for the gates itself is ten feet thick and
+lined with scorched rocks that give testament to previous attempts to breach the
+city walls.  In the gap before the gate can be seen the sharp points of the
+portcullis that can be lowered to provide yet another line of defense for
+enemies to deal with.  There are also holes in the ceiling of the tunnel,
+allowing boiling oil and water to be poured down on invaders.
+~
+47 0 0 0 0 1
+D3
+~
+~
+0 -1 4702
+S
+#4701
+A road through valcrest~
+default road~
+47 0 0 0 0 0
+S
+#4702
+A Road Through Valcrest~
+   The cobbled streets of the city are relatively well maintained, showing wear
+from daily use but having very few piles of litter to trip up those who would
+traverse their uneven paths.  The buildings to either side of the road are made
+up of stone foundations with painted wooden upper floors.  Panes of leaded glass
+reflect light onto the street in undulating flashes of color.  The roads here
+meet before the city gates, leading out of the city or to the various sections
+of the northern, western, and southern parts of Valcrest.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4744
+D1
+~
+~
+0 -1 4700
+D2
+~
+~
+0 -1 4749
+D3
+~
+~
+0 -1 4703
+S
+#4703
+The Main Street Through Valcrest~
+   The cobbled streets of Valcrest are lined with tall buildings made up of
+stone foundations and wooden upper floors painted in vibrant colors.  The house
+on the northern side of the street here has a bright blue door with golden lions
+painted on either side of it.  The shutters of the upper windows are the same
+blue as the door and the slate roof has been painted to match the dark grey of
+the walls of the house.  The house on the southern side is less ostentatious,
+with only green shutters and a plain wooden door.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4702
+D3
+~
+~
+0 -1 4704
+S
+#4704
+The Main Street Through Valcrest~
+@oThis section of road has several missing cobbles and in their place are muddy
+puddles that splatter mud as wagon wheels bump over them.  The foundation of the
+@whouse on the southern side of the road has been splattered so many times it is@o
+nearly brown with mud.  The house to the north has escaped most of the damage,
+@wbut it still shows signs of splatters on its stone foundation.  The stoop@o
+outside the door of the northern home is swept clean and has a woven rug laid
+out for visitors to wipe their feet so that they do not track the mud inside.@n
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4703
+D3
+~
+~
+0 -1 4705
+S
+#4705
+The Main Street Through Valcrest~
+   @oThe homes on either side of the cobbled street here are painted in the same
+colors.  The doors are a brilliant purple with a brass knocker hung at its
+@wcenter and brass handles and hinges.  The upper floor walls have been painted
+a@o muted grey color and the shutters match the door.  The glass in the window
+panes @wseems to be of a higher quality than those in the windows next door, the
+surface@o of the glass less wavy to give a clear view of the street outside.  
+Lace curtains protect the privacy of those who live in the homes and show yet
+another sign of wealth.  @n
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4704
+D3
+~
+~
+0 -1 4706
+S
+#4706
+The Main Street Through Valcrest~
+@oHeavy stone cobbles have been laid into the deep red clay base of the road
+here, creating a relatively smooth path for pedestrians and those in wagons
+@walike.  The clopping of horses hooves and squeak of wagon wheels echoes off the@o
+buildings to the north and south, mingling with the sounds of conversation and
+@wthe banging of an armorers hammer somewhere in the distance.  The streets of@o
+Valcrest are well-maintained and the homes look to have been freshly painted.  
+During the evening hours the city streets are lit by torches set in sconces on
+tall poles along the streets edge.@n
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4705
+D3
+~
+~
+0 -1 4707
+S
+#4707
+@AAt Valcrest's City @CFountain@n~
+   @CThis intersection of streets is quite large and is often used as a rally
+point for adventurers and caravan groups alike.  The buildings around the square
+@ware all tall enough to cast shadows on the area so torches have been placed on@C
+tall poles to light the area during the evening hours.  The streets lead off
+@wfrom here in all directions, their cobbled surfaces creating a relatively smooth@C
+surface for wagons.  On the walls of nearby buildings are hung wooden boards for
+displaying bills and other informational materials.  @n
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4714
+D1
+~
+~
+0 -1 4706
+D2
+~
+~
+0 -1 4728
+D3
+~
+~
+0 -1 4708
+S
+#4708
+The Main Street Through Valcrest~
+   This section of the city's street passes just north of a large garden at the
+base of a tower to the southwest.  The garden is filled with both vegetables and
+flowers and is surrounded by a fence of woven tree branches lashed together with
+strips of leather.  The scents of the garden do a relatively good job of
+covering up the smells of the city, although the stench of a nearby pile of
+manure is particularly strong today.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4707
+D2
+~
+~
+0 0 4840
+D3
+~
+~
+0 -1 4709
+S
+#4709
+The Main Street Through Valcrest~
+   The cobbled streets pass through the shadow of a tall tower to the south.  
+On this section of street the cobbles are in good repair and the street itself
+is clear of mud and litter.  Robed men and women can be seen wandering in and
+out of the tower and a distinct smell drifts down from the open windows to drape
+the street in a cloudy mix of herbs and burned paper.  The house to the north
+has windows sealed tight, presumably to keep out the smell, and the street leads
+east and west from here.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4708
+D2
+~
+~
+0 0 4817
+D3
+~
+~
+0 -1 4710
+S
+#4710
+The Main Street Through Valcrest~
+   The streets meet at an intersection here, one road leading off to the north
+while the main street continues to the east and west.  Torches on tall poles
+illuminate the cobbles during the evening hours, revealing several busted
+cobbles that stick up from the street to threaten horses with injury.  Along the
+side of the road are piles of litter, some covered in swarms of flies.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4772
+D1
+~
+~
+0 -1 4709
+D3
+~
+~
+0 -1 4711
+S
+#4711
+The Main Street Through Valcrest~
+   A vacant lot dominates the northern side of the street here, the burned out
+foundation of a home rising from amongst weeds and flowering vines.  A short
+stone fence once outlined the front garden of the home, but it too has fallen
+into disrepair.  Moss and spiderwebs cover much of the fence and several small
+creatures seem to have made their homes under piles of stone that have fallen
+from the stone wall.  The street continues east and west from here, its length
+crowded by buildings.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4710
+D3
+~
+~
+0 -1 4712
+S
+#4712
+The Main Street Through Valcrest~
+   The cobbles of the street here shine with moisture and have become quite
+slick underfoot, resulting in several falls.  The culprit seems to be a leaky
+water barrel which stands beneath the eave of the house to the south.  Algae has
+formed on the thin stream of water leading from the barrel to the street, and
+several small animals have taken to drinking from the spill.  The road continues
+to the east and west from here, leading through the tall buildings that are
+common to the area.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4711
+D3
+~
+~
+0 -1 4713
+S
+#4713
+An Intersection of Cobbled Streets~
+   The main street comes to an intersection here, the intersecting streets
+leading north and south along a high stone wall.  From beyond the wall can be
+heard the sounds of the sea, with the crashing of waves sending vibrations
+through the stones of the wall.  A salty spray hangs in the air above the wall
+and several sea birds can be seen wheeling about on the air currents high above.
+The cobbles underfoot are slick from the damp air at this end of the street and
+present a danger to those who would traverse them on foot.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4761
+D1
+~
+~
+0 -1 4712
+D2
+~
+~
+0 -1 4762
+S
+#4714
+Silver Street~
+   This street makes its way north from the city fountain through a residential
+district.  Stately homes made of stone line the sides of the road, their facades
+scrubbed clean and their windows sparkling.  Many of the homes have flowers
+planted in the small plots in front of the homes, their fragrant blossoms
+perfuming the air.  The cobbles of the street are clean of any debris and there
+are drainage trenches along the sides of the street, bordering a narrow
+sidewalk.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4715
+D2
+~
+~
+0 -1 4707
+S
+#4715
+Silver Street~
+   The street runs north and south here, passing in front of homes made of stone
+with large windows looking out onto small gardens of fragrant flowers.  The
+trenches running along the street border a narrow sidewalk where the residents
+of this area can safely stroll without the constant worry of being run down by a
+horse and wagon.  The home to the east has a red front door and red shutters,
+the paint fresh and vibrant.  A tall post on the edge of the sidewalk supports a
+glass globe which lights the streets at night.  To the west is a small shop, its
+large windows displaying weapons of varying types and sizes
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4716
+D2
+~
+~
+0 -1 4714
+D3
+~
+~
+0 0 4809
+S
+#4716
+Silver Street~
+   The street takes a turn here, heading east along the perimeter of the large
+garden of a mansion made of white stone.  A wrought iron fence separates the
+sidewalk from the garden and climbing roses have used the fence to stretch
+higher and higher, seeking sunlight.  What can be seen of the mansion is
+impressive, with large, glittering windows and several brick chimneys with smoke
+curling lazily out of them.  To the south are more homes, although they are not
+as large, and east of here the road takes another turn.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4717
+D2
+~
+~
+0 -1 4715
+S
+#4717
+Silver Street~
+   The cobbles of this street are clean and unbroken, their edges line with
+mortar to keep them securely in place.  A sidewalk runs down both sides of the
+street and a pair of trenches between the sidewalk and the road carries away any
+rainwater and debris.  Flowers from the garden of a large mansion nearby perfume
+the air and there is also the comforting smell of a wood fire in the air.  The
+homes along this street are large and made of stone, most of them with a garden
+out front to form a barrier between their front step and the sidewalk.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4718
+D3
+~
+~
+0 -1 4716
+S
+#4718
+Silver Street~
+   Large homes line this road, with small shops of reputable acclaim nestled in
+the small spaces between.  A shop to the east has pieces of armor displayed in
+its large window and a sign out from depicting an armored knight.  The mansion
+across the street has a large garden in front of it that is dominated by roses
+and fragrant flowering trees.  A wrought iron fence divides the garden from the
+sidewalk and a narrow gate leads up to a large front door painted a muted blue
+color.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4719
+D1
+~
+~
+0 0 4810
+D2
+~
+~
+0 -1 4717
+S
+#4719
+Silver Street~
+   Large homes made of stone and small shops nestled into neat lots in between
+line this street.  The cobbles of the street are unbroken and clean, the
+trenches down either side of the road carrying away rainwater and debris.  To
+the north is an intersection with another road and Silver Street continues to
+the south, heading farther into the residential neighborhood.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4720
+D2
+~
+~
+0 -1 4718
+S
+#4720
+North Wall Road~
+   Two roads intersect here, meeting just south of the northern gate of the city
+of Valcrest.  The surface of the road is paved with cobbles that have been
+driven deep into the red mud base of the road and a ditch down the center of the
+road helps to remove refuse from the area.  To the east is a strong smell where
+the ditch empties into a grate that leads to the sewers and to the west the road
+along the city wall leads deeper into the city.  South of here is the prosperous
+part of the city, where Silver Street leads past large homes and immaculate
+gardens.
+~
+47 0 0 0 0 0
+D0
+~
+~
+0 -1 4781
+D1
+~
+~
+0 -1 4748
+D2
+~
+~
+0 -1 4719
+D3
+~
+~
+0 -1 4721
+S
+#4721
+North Wall Road~
+   The city wall runs across the north end of the city, a road at its base
+leading past shops and small homes with neat gardens out front.  To the east is
+an intersection of roads where traffic from the city gate passes into the city
+at all hours of the day.  The road continues to the west, past a small shop with
+glittering windows and wares displayed for buyers to see even from a distance.
+South of here is a large grassy area where a house once stood, the land now
+taken over by groups of people who look for a place to have a picnic or a nap.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4720
+D3
+~
+~
+0 -1 4722
+S
+#4722
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4721
+D2
+~
+~
+0 0 4811
+D3
+~
+~
+0 -1 4723
+S
+#4723
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4722
+D3
+~
+~
+0 -1 4724
+S
+#4724
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4723
+D2
+~
+~
+0 -1 4776
+D3
+~
+~
+0 -1 4725
+S
+#4725
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4724
+D3
+~
+~
+0 -1 4726
+S
+#4726
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4725
+D3
+~
+~
+0 -1 4727
+S
+#4727
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4726
+D2
+~
+~
+0 -1 4757
+S
+#4728
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  North of here can be seen a busy area
+around what appears to be a fountain.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4707
+D2
+~
+~
+0 -1 4729
+S
+#4729
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  The building to the east has seen better
+days, its upper floor was once brightly painted but is now dulled by time.  To
+the west is large vacant lot where weeds and vines struggle over a low stone
+wall and drape across the street here, winding among the stalls that have been
+set up against the wall.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4728
+D2
+~
+~
+0 -1 4730
+S
+#4730
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  The building to the east has seen better
+days, its upper floor was once brightly painted but is now dulled by time.  To
+the west is large vacant lot where weeds and vines struggle over a low stone
+wall and drape across the street here, winding among the stalls that have been
+set up against the wall.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4729
+D2
+~
+~
+0 -1 4731
+S
+#4731
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  A narrow side street leads east from
+here, winding between two tall buildings spattered with mud and in a sad state
+of disrepair.  The street continues to the north and south from here, its length
+riddled with piles of trash covered in flies.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4730
+D1
+~
+~
+0 -1 4756
+D2
+~
+~
+0 -1 4732
+S
+#4732
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  To the north the street continues under
+the shadow of a tall building that stands on the eastern side of the road.  In
+the distance south of here can be seen a stone wall with a large gate leading
+out of the city.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4731
+D2
+~
+~
+0 -1 4733
+S
+#4733
+Hawker's Lane~
+   The cobbles of this street are barely visible beneath the layers of detritus
+left behind by those who walk these streets.  Piles of hay have been strewn
+about to soak up dirty water and rotten food thrown from the windows above.  
+Stalls line both sides of the streets and vendors shout out invitations to buy
+their goods to travelers who pass by.  Rotting trash covered in flies and hungry
+strays litter the street and fill the air with a putrid smell that stings the
+nostrils.  The street continues to the north from here and the southern city
+gate lies just to the south.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4732
+D2
+~
+~
+0 -1 4780
+D3
+~
+~
+0 -1 4739
+S
+#4734
+Southern Seawall Street~
+   The street takes a turn to the east here, the northern street following a
+high stone wall and the eastern street leading towards a less populated area of
+the city.  The same cobbles once lined these streets, but they have fallen into
+such a bad state of repair that they serve little purpose here.  The high stone
+wall still protects these areas from those who would approach from the south and
+there are ladders erected along its length to allow guards to climb up and view
+the surrounding countryside.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4766
+D1
+~
+~
+0 -1 4735
+S
+#4735
+South Highwall Street~
+   This street has fallen into a sorry state of disrepair.  Dark grey cobbles
+lie in the deep red clay of the street, creating a danger of falling or injury.
+The building to the north seems to have avoided this lack of care, its upper
+floor has been recently painted in bright colors and its shutters are tightly
+closed.  The high wall that rises to the south side of the street is made up of
+large stones held together with dark red clay and seems to be very sturdy.  The
+street continues to the east and west, where it passes more buildings and empty
+lots.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4736
+D3
+~
+~
+0 -1 4734
+S
+#4736
+South Highwall Street~
+   Cobbles stick out of the thick red clay that makes up the base of the street
+here, threatening to trip passersby or injure horses that pass this way.  The
+high stone wall to the south casts a deep shadow on the street, creating many
+hiding places for the unsavory types who frequent this part of town.  To the
+north is a tall building with brightly colored shutters sealed tight against the
+salty breezes that drift in from the sea beyond the western wall of the city.  
+The street continues to the east and west, passing both buildings and empty lots
+alike.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4737
+D3
+~
+~
+0 -1 4735
+S
+#4737
+An Intersection On South Highwall Street~
+   The dirty length of South Highwall is broken by an intersecting street here,
+or perhaps it is closer to an alley.  The northern street leads alongside a tall
+building painted in bright colors and an empty lot filled with weeds.  South
+Highwall street itself continues to the east and west here, its length littered
+with broken cobbles, mudpuddles, and piles of unidentified detritus left behind
+by the residents of the area.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4771
+D1
+~
+~
+0 -1 4738
+D3
+~
+~
+0 -1 4736
+S
+#4738
+South Highwall Street~
+   The street passes by an empty lot to the north here, seperated from the weeds
+and trash by only a low stone wall that once outlined the yard of the home that
+stood on the lot.  Vines have crept over the low stone wall to spread out onto
+the street and across it to climb the high wall that protects this section of
+the city.  While the flowers on the vines are a welcome change from the dirty
+red of the clay bed and the deep grey of the salt-laden air, they are vaguely
+familiar as a vine that will cause a rash if one comes into contact with them.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4739
+D3
+~
+~
+0 -1 4737
+S
+#4739
+South Highwall Street~
+   Flowering vines and broken cobbles make this street a challenge to navigate
+without tripping and falling into a pile of garbage, or worse.  The shadows cast
+by the high wall to the south do little to help in navigating the street and
+more to help those who hide in the shadows waiting to waylay unwary travelers in
+this area of the city.  Although it is not the worst area in the city, it is far
+from the best.  This is largely due to the fact that most of the city residents
+seem to have moved to the northern part of the city, leaving this area to the
+thieves and downtrodden.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4733
+D3
+~
+~
+0 -1 4738
+S
+#4740
+Frontage Road~
+   The road along the city wall takes a westward turn here, leading past the
+base of a large guard tower that watches over the northeastern border.  Homes
+and buildings line the road on the western side, their facades ranging from
+prosperous stone to weather-beaten wood.  The surface of the road itself is lain
+with large cobbles that fit tightly together to form a smooth ride for wagons
+that carry travelers to the inn that can be seen to the distant south.  The high
+city wall to the east has posters hung along its length, with pictures of
+missing persons from the area and wanted criminals that have bounties on their
+heads.
+~
+47 0 0 0 0 1
+D2
+~
+~
+0 -1 4741
+D3
+~
+~
+0 -1 4746
+S
+#4741
+Frontage Road~
+   The packed earth of the road is broken by twin wagon ruts that are carved
+into its surface by years of use, The wall that borders the road to the east is
+made of stones stacked tightly and held together with a pale mudlike grout.  
+Homes line the road, their faded wooden facades bearing testimony to the age of
+this area of the city.  As one of the oldest sections of Valcrest, this area has
+seen better days.  The fact that the buildings are still standing is a miracle
+in itself.  The road continues to the north and south, venturing past more old
+buildings as it makes its way along the city wall.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4740
+D2
+~
+~
+0 -1 4742
+S
+#4742
+Frontage Road at the Post Office~
+   The road runs past a small building nestled in between the inn and a run-down
+house.  A sign out front shows a rough carving of a letter with a wax seal,
+indicating that the building houses the city Post Office.  There is a great deal
+of traffic here and boards have been set out in front of the door to keep the
+ground from being churned to mud when it rains.  The wall across from the Post
+Office has been pasted with posters of outlaws and missing person posters, some
+of them brown with age and torn in several places.  The road ventures past an
+inn to the south and continues past more wooden buildings to the north.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4741
+D2
+~
+~
+0 -1 4743
+D3
+~
+~
+0 0 4841
+S
+#4743
+Frontage Road at The White Mare Inn~
+   The road passes by a larger building here, a sign hanging above the door
+identifying it as The White Mare Inn.  Windows flank either side of the door and
+the vantage point from the road here shows a snug front room with a long bar
+where patrons sit drinking and talking.  Flower boxes hang on the sills of the
+windows, their contents long since dead and gone to weeds.  The road in front of
+the door is churned up from the passage of many conveyances, from wagons to
+small dogcarts pulled by donkeys.  To the north and south the road continues,
+leading past dark houses made of wattle and daub.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4742
+D2
+~
+~
+0 -1 4744
+D3
+~
+~
+0 0 4806
+S
+#4744
+Frontage Road~
+   This road leads along the base of a high wall that surrounds the city of
+Valcrest.  Little more than a dirt tract with twin wheel ruts down its center,
+the road leads past low, dark buildings made from waddle and daub with thatched
+roofs.  Smoke curls from the chimney of the house to the west, the scent of
+burning wood and cooked meat filling the air.  This section of the city is one
+of the oldest, and most worn down.  To the south is the main road of the city
+which leads from the large gates all the way to the sea wall to the west.  
+North of here are more dark wooden homes crowding the side of the road.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4743
+D2
+~
+~
+0 -1 4702
+S
+#4745
+A Curve in the Road at the Base of the Guard Tower~
+   The road curves here, following the base of a large guard tower that stands
+on the northeastern corner of the town wall.  A well at the base of the tower is
+visible from here, its bucket teetering on the edge with a rope attaching it to
+a crank above the well.  A dirt path leads from the door of the tower east of
+here to the well, with several muddy spots where water has been spilled along
+the way.  North of here the base of the tower again meets the city wall and the
+road curves back to the west.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4747
+D1
+~
+~
+0 -1 4746
+S
+#4746
+At the Base of the Northeastern Guard Tower~
+   The road passes before a tall tower made up of stones of various sizes fitted
+together with a dark mortar.  The top of the tower rises above the city wall and
+has a covered walkway around its top to allow guards to keep an eye on the area
+to the northeast of the City of Valcrest.  The base of the tower sits several
+yards from the roadway, which is rougher here as a result of the need to lay
+cobbles at odd angles to achieve the double curve necessary to navigate around
+the tower.  South of here is a large open area where guards can be seen
+practicing within a cordoned off area, the ground torn and muddied by the
+constant activities.  Curves in the road to both the east and west lead around
+the tower.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 0 4782
+D1
+~
+~
+0 -1 4740
+D3
+~
+~
+0 -1 4745
+S
+#4747
+North Wall Road~
+   The road leads along the base of the northern city wall here, passing homes
+and buildings made of stone and wood with glittering windows and colorful
+gardens.  The road itself is made up of cobbles set into a red mud base, with
+missing cobbles replaced by puddles of water and manure from passing horses.  A
+drain down the center of the road carries refuse down the road, with grates at
+every block to redirect the dirty waters to the sewer below.  The road curves
+south here, leading around the base of a large tower situated on the
+northeastern corner of the city wall.
+~
+47 0 0 0 0 1
+D2
+~
+~
+0 -1 4745
+D3
+~
+~
+0 -1 4748
+S
+#4748
+North Wall Road~
+   The drainage ditch running down the middle of the road here leads into a
+grate, the stench of the sewer below permeating the air all around.  The house
+to the south has a large garden out front and a tall tree in its center has
+dropped large plums into the roadway where flocks of birds peck at the fruit
+before flying away as a wagon rumbles by.  The road follows the city wall to the
+east and west, leading through the northern section of the city and farther away
+from the smell of offal and rotten food coming from the sewer grate.
+~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4747
+D3
+~
+~
+0 -1 4720
+S
+#4749
+A road through valcrest~
+Default roadthrough southern valcrest
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4702
+D2
+~
+~
+0 -1 4750
+S
+#4750
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4749
+D2
+~
+~
+0 -1 4777
+D3
+~
+~
+0 -1 4751
+S
+#4751
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4750
+D3
+~
+~
+0 -1 4752
+S
+#4752
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4751
+D2
+~
+~
+0 -1 4753
+S
+#4753
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4752
+D2
+~
+~
+0 -1 4754
+S
+#4754
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4753
+D3
+~
+~
+0 -1 4755
+S
+#4755
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 0 4834
+D1
+~
+~
+0 -1 4754
+D3
+~
+~
+0 -1 4756
+S
+#4756
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4755
+D3
+~
+~
+0 -1 4731
+S
+#4757
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4727
+D2
+~
+~
+0 -1 4758
+S
+#4758
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4757
+D2
+~
+~
+0 -1 4759
+S
+#4759
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4758
+D1
+~
+~
+0 0 4812
+D2
+~
+~
+0 -1 4760
+S
+#4760
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4759
+D1
+~
+~
+0 0 4838
+D2
+~
+~
+0 -1 4761
+S
+#4761
+A road through valcrest~
+default road~
+47 0 0 0 0 0
+D0
+~
+~
+0 -1 4760
+D2
+~
+~
+0 -1 4713
+S
+#4762
+Southern Seawall Street~
+   This cobbled street follows the line of a high stone wall that seperates
+Valcrest from the forty foot drop to a cove below.  The constant boom of waves
+crashing against rocks sends shudders through the wall and sea spray drifts over
+the wall on the breezes that blow across the city.  The buildings along this
+section of the street are in worse repair than those of the main street, largely
+because of the constant exposure to damp air.  Algae and rotting wood fills the
+air with a musty smell that has a faint salty tinge to it.  The house to the
+west has a large salt deposit on the upper floor and a thick layer of moss grows
+along the base of the stone foundation.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4713
+D2
+~
+~
+0 -1 4763
+S
+#4763
+Southern Seawall Street~
+   This cobbled street follows the line of a high stone wall that seperates
+Valcrest from the forty foot drop to a cove below.  The constant boom of waves
+crashes against rocks sends shudders through the wall and sea spray drifts over
+the wall on the breezes that blow across the city.  The buildings along this
+section of the street are in worse repair than those of the main street, largely
+because of the constant exposure to damp air.  The house to the west shows signs
+of recent repair, with freshly painted wood on the upper floor and stones of a
+brighter white than the rest of the foundation.  
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4762
+D2
+~
+~
+0 -1 4764
+S
+#4764
+Southern Seawall Street~
+   This cobbled street follows the line of a high stone wall that seperates
+Valcrest from the forty foot drop to a cove below.  The constant boom of waves
+crashing against rocks sends shudders through the wall and sea spray drifts over
+the wall on the breezes that blow across the city.  The buildings along this
+section of the street are in worse repair than those of the main street, largely
+because of the constant exposure to damp air.  A road leads to the west from
+here towards a darker area which is sheltered from the salty breezes by the
+surrounding buildings.
+~
+47 0 0 0 0 0
+D0
+~
+~
+0 0 4763
+D1
+~
+~
+0 0 4767
+D2
+~
+~
+0 0 4765
+D4
+Nothing.
+~
+~
+0 0 -1
+S
+T 1200
+#4765
+Southern Seawall Street~
+   This cobbled street follows the line of a high stone wall that seperates
+Valcrest from the forty foot drop to a cove below.  The constant boom of waves
+crashing against rocks sends shudders through the wall and sea spray drifts over
+the wall on the breezes that blow across the city.  The buildings along this
+section of the street are in worse repair than those of the main street, largely
+because of the constant exposure to damp air.  The building west of here has
+tightly shuttered windows and the upper floor is painted in brilliant colors.
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4764
+D2
+~
+~
+0 -1 4766
+S
+#4766
+Southern Seawall Street~
+   This cobbled street follows the line of a high stone wall that seperates
+Valcrest from the forty foot drop to a cove below.  The constant boom of waves
+crashing against rocks sends shudders through the wall and sea spray drifts over
+the wall on the breezes that blow across the city.  The buildings along this
+section of the street are in worse repair than those of the main street, largely
+because of the constant exposure to damp air.  To the west is a building that
+has been painted with brilliant colors, its brightly colored shutters tightly
+shut against the salty breezes.  
+~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4765
+D2
+~
+~
+0 -1 4734
+S
+#4767
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4768
+D3
+~
+~
+0 -1 4764
+S
+#4768
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D1
+~
+~
+0 -1 4769
+D2
+~
+~
+0 0 4813
+D3
+~
+~
+0 -1 4767
+S
+#4769
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D2
+~
+~
+0 -1 4770
+D3
+~
+~
+0 -1 4768
+S
+#4770
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4769
+D2
+~
+~
+0 -1 4771
+S
+#4771
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4770
+D2
+~
+~
+0 -1 4737
+S
+#4772
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4773
+D2
+~
+~
+0 -1 4710
+S
+#4773
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4774
+D2
+~
+~
+0 -1 4772
+D3
+~
+~
+0 0 4839
+S
+#4774
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4775
+D1
+~
+~
+0 0 4832
+D2
+~
+~
+0 -1 4773
+S
+#4775
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4776
+D2
+~
+~
+0 -1 4774
+S
+#4776
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4724
+D2
+~
+~
+0 -1 4775
+S
+#4777
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4750
+D2
+~
+~
+0 -1 4778
+S
+#4778
+A road through valcrest~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4777
+D2
+~
+~
+0 -1 4779
+S
+#4779
+entrance to grove~
+default road~
+47 0 0 0 0 3
+D0
+~
+~
+0 -1 4778
+D2
+~
+~
+0 0 4800
+S
+#4780
+south gate~
+default road~
+47 0 0 0 0 1
+D0
+~
+~
+0 -1 4733
+S
+#4781
+north gate~
+default road~
+47 0 0 0 0 1
+D2
+~
+~
+0 -1 4720
+S
+#4782
+Guard Tower~
+   The interior of the guard tower is filled with gloom and the smell of weapon
+oil and leather.  A stairway spirals upwards towards the top of the tower where
+a trapdoor provides access to the roof.  A doorway to the east can be seen, a
+faint light casting dancing shadows into this small room.  The sounds of
+conversation and rattling metal drift in to echo around the chamber.
+~
+47 8 0 0 0 0
+D1
+~
+~
+0 0 4783
+D2
+~
+~
+0 0 4746
+S
+#4783
+Bunk Room~
+   Weapons racks stand next to a cupboard where armor is stored in this large
+room.  Wooden beds are lined up along both walls and none of them looks very
+comfortable.  At the foot of each bed hangs a tattered sack in which clothing
+can be placed to be taken out to be laundered and a chest can be seen under the
+beds, providing storage for personal items.  Shelves above each bed hold
+everything from whetstones and bottles of oil for leather armor, to small
+momentos of loved ones.
+~
+47 0 0 0 0 0
+D3
+~
+~
+0 0 4782
+S
+#4799
+The City of Valcrest- Stat Room~
+   @cThis zone is to be used as a Hometown for Humans and those they associate
+with.  There will be guilds for all classes as well as shops and inns.  A
+questline will set up to help teach the players about the zone as well as the
+areas around it.  There will also be small 'collector' quests to help them hone
+their ability to look for clues in descriptions and echoes of the area.  The
+zone is located at a curve in the island and will eventually be connected to a
+harbor area.  @n
+~
+47 1024 0 0 0 0
+S
+$~

@@ -1,0 +1,56 @@
+#5900
+Find My Friend!~
+A half-orc has gone missing.  You must find him!~
+Thank your for accepting this mission.  My friend, who is another half-orc went
+missing in the woods and my senses tell me he ended up in this mansion.  I am
+too tired and too afraid to go in myself.  Could you go in and find my friend or
+any trace of him for me please?
+~
+You have completed the quest.
+~
+You have abandoned the quest.
+~
+5 5900 0 5902 -1 -1 -1
+1 0 1 6 0 5900 1
+500 500 65535
+S
+#5901
+Put Them Out Of Their Misery~
+Special testing has mutated some of the children.~
+A special kind of sorcery used in the mansion here has mutated children during
+testing phases.  The poor young children have been locked up underneath the
+mansion and left to starve and die.  Rumor is that there is a section of the
+floorboards that are loose in one of the hallways that can gain access to these
+mutated children.  Please go and kill these poor children and end their
+suffering.  If you could kill five of them, it would be a great start.
+~
+
+You hear Veralis' voice...
+
+Veralis says, 'Thank you for putting those poor children out of their misery.  I have another task that you might be able to help me with.'
+
+~
+You have abandoned the quest.
+~
+3 5903 0 5912 -1 -1 -1
+1 0 3 34 -1 -1 5
+1600 2500 65535
+S
+#5903
+Dark Magic~
+Necromancy will run rampant if it isn't stopped.~
+In the chamber of the high summoner, there is a torch that can be pulled.  This
+will allow access to the void where Lady Raven practices her necromancy.  This
+dark magic is responsible for the mutated children and she is using it to bring
+death upon our realm.  Please stop her and save the people in this mansion.
+~
+Thank you.  Your name will be spread throughout the realm for the good deeds you
+have done here.
+~
+You have abandoned the quest.
+~
+3 5903 0 5923 5901 -1 -1
+1 0 4 12 -1 -1 1
+2500 5500 65535
+S
+$~

@@ -1,0 +1,169 @@
+#300
+chemist camille~
+Camille the chemist~
+Camille the chemist stands over a cauldron mixing ingredients.
+~
+   Camille wears a thick brown robe that covers most of her features. Only her
+hands and head stick out of her robe. Stains and burns cover her body and
+clothing. She works dilligently over her cauldron. Camille has been known to
+concoct many different potions and is most famous for her liquid fire.
+~
+253962 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 300
+T 335
+#301
+naked magi~
+the naked magi~
+A magi sits against a wall wearing nothing but a towel.
+~
+   Sweat gleams on her supple skin.  Her black hair is wet and frames a round
+face with slanted blue eyes.  She is striking in her beauty and grace.
+~
+10 0 0 0 2112 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 7
+Size: 5
+E
+T 305
+#303
+Perci plump bully~
+a plump bully~
+Perci, a plump bully is here, grinning.
+~
+This boy is big for the average human boys.  His face is freckled and rounded
+like almost everything in his body.  The red messy hair almost hides the brown
+eyes.  The large body make him a slow runner but a tough fighter.
+~
+10 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+BareHandAttack: 13
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 6
+Size: 5
+E
+#304
+Lenita short girl~
+Lenita~
+Lenita is standing here.
+~
+This short girl wears a symbol of the Hero's academy on her back.  Its not hard
+to see her acting as a guide for the newcomers.  Her blond hair seems to feet
+perfectly with the blue eyes and light coloured cloths she usually wears.
+~
+8 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 2
+BareHandAttack: 13
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#369
+jufus vendor materials shopkeeper~
+Jufus the materials vendor~
+Jufus, the materials vendor is standing here.
+~
+It looks unfinished.
+~
+286731 0 0 0 80 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#371
+naaman vendor mold shopkeeper~
+Naaman the mold vendor~
+Naaman, the mold vendor is standing here.
+~
+It looks unfinished.
+~
+286731 0 0 0 80 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#376
+naythen vendor mold shopkeeper~
+Naythen the mold vendor~
+Naythen, the mold vendor is standing here.
+~
+Naythen is a lean, dark-skinned human.  He looks about average
+height.  He carries himself with an air of confidence, his
+chest slightly sticking out and good posture.  His hair is
+wavy and black, matted slightly from sweat.
+~
+286731 0 0 0 80 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+$

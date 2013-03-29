@@ -1,0 +1,542 @@
+#2000
+senator official~
+a senator~
+An official is trying to look important here.
+~
+   This senator is busy sucking up to the higher authorities.    
+~
+2124 0 0 0 80 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+BareHandAttack: 13
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 1
+Class: 2
+Size: 5
+E
+#2001
+priest~
+a priest~
+A priest is praying for his favorite gladiator to win.
+~
+   For a priest he seems to be enjoying the blood shed a little too much.    
+~
+231496 0 0 0 64 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 2
+Size: 5
+E
+#2002
+augur~
+an augur~
+An Augur is trying to predict the winner of the next bout.
+~
+   Known for their predictions by the reading of omens these men are very
+popular among the rich.    
+~
+2264 0 0 0 64 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 1
+Class: 2
+Size: 5
+E
+#2003
+magistrate~
+a magistrate~
+A magistrate is standing here with his nose stuck up in the air.
+~
+   He looks rather ridiculous and extremely full of himself.    
+~
+2058 0 0 0 65600 0 0 0 0 E
+18 14 0 3d3+234 3d3+3
+180 24300
+8 8 1
+BareHandAttack: 10
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 4
+Class: 0
+Size: 5
+E
+#2004
+vestal virgin~
+a vestal virgin~
+A Vestal Virgin brushes close against you and winks seductively.
+~
+   She doesn't look nearly as innocent as she's suppose to be.    
+~
+256030 0 0 0 65616 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 1
+Class: 3
+Size: 5
+E
+#2005
+samnite~
+a samnite warrior~
+A samnite warrior is waiting for his next bout here.
+~
+   This warrior looks depressed, already realizing his fate.  He will battle in
+the arena until he is killed.  Could be today or years from now, but his fate
+is unavoidable.    
+~
+67672 0 0 0 0 0 0 0 0 E
+16 15 0 3d3+208 2d2+2
+160 19200
+8 8 1
+BareHandAttack: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 4
+Class: 5
+Size: 5
+E
+#2006
+thraecian warrior~
+a thraecian warrior~
+This warrior is covered in sweat, practicing his hand to hand combat skills.
+~
+   This guy is huge, well over six feet and pure muscle.  Looks like he's been
+training for years.    
+~
+67594 0 0 0 80 0 0 0 0 E
+18 14 0 3d3+234 3d3+3
+180 24300
+8 8 1
+BareHandAttack: 9
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 1
+Class: 0
+Size: 5
+E
+#2007
+slave~
+a slave~
+A slave is hauling dead bodies to the graves.
+~
+   This slave looks like he's almost been worked to death, cleaning up after
+the animals, hauling the corpses to the common grave, retrieving armor and
+weapons from the dead.  He will soon be left alone in the arena and the starved
+wild animals will feed on him for the entertainment of the populace.    
+~
+2120 0 0 0 0 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 3
+Class: 4
+Size: 5
+E
+#2008
+ostrich bird~
+an ostrich~
+A strange bird with long legs and a long neck stands here.
+~
+   This must be one of the exotic animals from a far away country the emperor
+brings in to amuse his people.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 4
+Class: 3
+Size: 5
+E
+#2009
+horse giraffe~
+a giraffe~
+A humungous yellow horse looking animal with brown spots towers above you.
+~
+   Another one of those exotic animals the emperor imports to keep his people
+happy by slaughtering them in the arena.  You think you heard the name before,
+"giraffee"
+~
+65546 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 2
+Class: 2
+Size: 5
+E
+#2010
+elephant~
+an elephant~
+A huge grey beast with long tusks and large floppy ears trumpets at you.
+~
+   Yet another exotic animal the emperor imports so his people can watch it be
+riddled with arrows and then slaughtered by gladiators.  Metal tusks have been
+placed over the regular ivory ones and look very sharp.    
+~
+65546 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+BareHandAttack: 11
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 3
+Size: 5
+E
+#2011
+Retiarri warrior~
+a retiarri warrior~
+A warrior in training practices with a wicked looking trident
+~
+   This warrior is heavily equipped with weapons a dagger, trident and a
+weighted net.    
+~
+65608 0 0 0 0 0 0 0 0 E
+19 14 -1 3d3+247 3d3+3
+190 27075
+8 8 1
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 3
+Class: 5
+Size: 5
+E
+#2012
+mirmillone gladiator~
+a mirmillone~
+This is gladiator practices with a shortsword, he looks very skilled.
+~
+   He is heavily armored with a helmet arm and leg guards and a funny looking
+shield.  All of his armor has a strange ornament of a fish on them.  He swings
+a shortsword with ease and familiarity.    
+~
+65608 0 0 0 0 0 0 0 0 E
+17 15 0 3d3+221 2d2+2
+170 21675
+8 8 1
+BareHandAttack: 3
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 4
+Class: 2
+Size: 5
+E
+#2013
+lion~
+a lion~
+A lion looks up as you enter, he looks hungry.
+~
+   These lions are starved then let loose in the arenas with gladiators or
+unarmed slaves.    
+~
+74 0 0 0 16 0 0 0 0 E
+16 15 0 3d3+208 2d2+2
+160 19200
+8 8 1
+BareHandAttack: 8
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 2
+Class: 2
+Size: 5
+E
+#2014
+tiger~
+a tiger~
+A tiger looks at you hungrily.
+~
+   Another animal that is let loose in the arenas to battle against the
+gladiators or feed on the slaves this large cat looks like it hasn't eaten in a
+long time.    
+~
+10 0 0 0 0 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 8
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 2
+Class: 2
+Size: 5
+E
+#2015
+Gladiator~
+a gladiator~
+A professional gladiator pushes you out of his way.
+~
+   Years of experience and the battle scars to prove it makes this gladiator a
+veteran of combat of all kinds.    
+~
+204872 0 0 0 64 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 5
+Size: 5
+E
+#2016
+Gaul~
+a gaul~
+A gaul is practicing, he looks pathetic.
+~
+   This gladiator looks like he just began his training.    
+~
+72 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 4
+Class: 3
+Size: 5
+E
+#2017
+emporer titus~
+Emporer Titus~
+Emperor Titus is overseeing the ampitheater.
+~
+   Emporer Titus abuses his wealth and power all the while holding these great
+games to distract the ignorant masses.  He is very good at it.  
+~
+10 0 0 0 80 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+BareHandAttack: 10
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 0
+Size: 5
+E
+#2018
+knight~
+a knight~
+This gladiator is dressed up like a knight, he looks ridiculous.
+~
+   This gladiator is dressed up like a knight, for one of the many shows.    
+~
+72 0 0 0 0 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 10
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 0
+Size: 5
+E
+#2019
+soldier~
+a soldier~
+A soldier stands here catching his breath before the next battle.
+~
+   Another member of the dozen or so gladiators.    
+~
+2120 0 0 0 80 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+BareHandAttack: 5
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 3
+Size: 5
+E
+#2020
+civilian~
+a civilian~
+A civilian is screaming at the top of his lungs, enthralled with the battle.
+~
+   He is watching the bout, screaming his encouragement to his favorite
+gladiator.  He seems to enjoy the blood shed and death.    
+~
+72 0 0 0 80 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+BareHandAttack: 7
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 3
+Class: 1
+Size: 5
+E
+#2021
+religious official~
+a religious official~
+A religious official is wandering aimlessly through the crowd.
+~
+   He looks lost, he's walking around kissing babies and other political
+necessities.    
+~
+72 0 0 0 80 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 1
+Size: 5
+E
+#2022
+lanista~
+a lanista~
+A lanista is busy training gladiators.
+~
+   The lanista is a former gladiator who has managed to survive long enough to
+retire and pass on all his skills to others.    
+~
+196618 0 0 0 80 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 5
+Size: 5
+E
+$

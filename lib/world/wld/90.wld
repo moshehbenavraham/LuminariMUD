@@ -1,0 +1,636 @@
+#9000
+In the Desert~
+   Stretching away in every direction are rolling sand dunes, as far as the eye
+can see. To the east, however, appears to be a small area with plantlife. The
+wind is hot and dry, and the sand makes a crunching sound anytime anyone moves.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9001
+E
+credits info~
+   Builder   : Rumble
+Zone         : 90 Oasis
+Began        : 2001
+Player Level : 6-8
+Rooms        : 34
+Mobs         : 8
+Objects      : 6
+Shops        : 0
+Triggers     : 1
+Theme        : A connector zone with a Rangers Guild.
+Plot         : Nothing spectacular just a filler I did in a few days.
+Links        : 00w, 30s, 31e
+Zone 90 was linked to the following zones:
+170 South Pass                     at  9030 (south) ---> 17018
+140 Wyvern City                    at  9031 (east ) ---> 14000
+~
+S
+#9001
+Upon Hot Sand~
+   A small dust devil flits through the area as a hot, dry wind kicks up more
+sand. The sand slips and slides underfoot, making travel strenuous. Further to 
+the east is a bit of plantlife, and possible water, which would be lovely right
+about now, as the desert heat is unrelenting.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9002
+D3
+~
+~
+0 0 9000
+S
+#9002
+Between Sand Dunes~
+   This is a small area between several particularly large sand dunes, which
+limit your view somewhat in every direction. They do, however, form a bit of
+shelter from the unceasing winds elsewhere in the desert, as well as provide a
+sort of impromptu entrance to a cooler area which opens to the east. There's a
+hint of moisture on the air.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9007
+D1
+~
+~
+0 0 9003
+D2
+~
+~
+0 0 9010
+D3
+~
+~
+0 0 9001
+S
+#9003
+Overlooking the Oasis~
+   Atop this sand dune, a small oasis is visible directly to the south. It's a
+nice view, actually; bright green grasses and palms grow around a still pool.
+Up here, though, the sand is still hot and dry, and the wind irritates any
+exposed skin. A faint trail leads east and west.    
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9008
+D1
+~
+~
+0 0 9004
+D2
+~
+~
+0 0 9011
+D3
+~
+~
+0 0 9002
+S
+#9004
+Between Sand Dunes~
+   A small trail leades between two large sand dunes, which form a sort of
+small valley, sheltered from the wind a bit. It seems a bit quieter and more
+peaceful here, except for the bleached bones half-buried in the sand.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9009
+D1
+~
+~
+0 0 9005
+D2
+~
+~
+0 0 9012
+D3
+~
+~
+0 0 9003
+S
+#9005
+Moving Around a Sand Dune~
+   A small trail leads east and west, and a very large dune is directly north.
+The trail is a bit more evident here than other places, and it looks as though
+it may have formed from rain runoff, or have been a small stream at one point.
+Desert lore says that streams lead to civilization, but out here that seems
+unlikely.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9006
+D3
+~
+~
+0 0 9004
+S
+#9006
+A Sandy Path~
+   The wind is noticably calmer here, and the small trail is hardening up a
+bit, making it far easier to move. A few cactii dot the landscape just to the
+east, and it seems the harsher part of the desert may be to the west.   
+~
+90 0 0 0 0 0
+D2
+~
+~
+0 0 9013
+D3
+~
+~
+0 0 9005
+S
+#9007
+In Monotonous Desert~
+   It's incredibly hard to keep one's bearing in this area, as from this
+vantage point there's really nothing to give any sense of progress or
+direction. A careless wanderer could easily become lost--food for winds, sand,
+and vultures.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9008
+D2
+~
+~
+0 0 9002
+S
+#9008
+Unpleasant Desert~
+   The wind and sand tear at every bit of explosed flesh, and the sand works
+its way deep into clothing every corner of the body, causing itchiness and
+irritation. It seems no amount of clothing will keep it out. Trudging along
+across the desert gets less pleasant with every mile.   
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9009
+D2
+~
+~
+0 0 9003
+D3
+~
+~
+0 0 9007
+S
+#9009
+In the Desert~
+   The golden sands of the desert would almost be peaceful if it wasn't for the
+extreme heat during the day and frigid cold at night.  It is a wonder that any
+animal could survive out here, but some do.  Most animals living in the desert
+are scavengers who prey on carrion. Perhaps they'll have a good meal later.
+~
+90 0 0 0 0 0
+D2
+~
+~
+0 0 9004
+D3
+~
+~
+0 0 9008
+S
+#9010
+Near the Oasis~
+   Directly to the west is an oasis. The cool scent of water palliates the arid
+emptiness of the air and wind, but the sand is just as dry and unsure here as
+elsewhere. The desert stretches as far as the eye can see in every other
+direction.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9002
+D1
+~
+~
+0 0 9011
+S
+#9011
+The Oasis~
+   A copse of palm trees surrounds a small desert spring, where an
+underground river meets the surface of the desert.  A small, muddy pool is all
+the water there is, but here in the desert it's enough to support a flurry of
+plant and animal life. The shade, at least, is welcome.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9003
+D1
+~
+~
+0 0 9012
+D2
+~
+~
+0 0 9017
+D3
+~
+~
+0 0 9010
+S
+#9012
+Beside the Oasis~
+   Eastward is the oasis, the single point of refuge for many miles in every
+direction. It makes a good stopping place for caravans and other travellers,
+but right now a lack of sound seems to indicate that no one is around. That
+could just be an effect of the dunes, however.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9004
+D3
+~
+~
+0 0 9011
+S
+#9013
+Upon a Sandy Path~
+   Small cactii grow more frequent and begin to flourish here.  There are even
+see a few dried out shrubs that somehow survive without water for months at a
+time. Small animals that have adapted to the extreme weather in the desert are
+doubtless scurrying to and fro in the shadows, feeding on who knows what. Maybe
+they eat the scorpions.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9006
+D1
+~
+~
+0 0 9014
+S
+#9014
+A Pebbly Path~
+   This part of the pathway, which is slowly widening as it progresses eastward,
+is covered by small pebbles and rocks. The sand has been washed away here,
+leaving them behind. A good-sized stream must have flowed here once. The floor
+visible beneath the gravel is densely-packed sand with cracks running through
+it.
+~
+90 0 0 0 0 0
+D2
+~
+~
+0 0 9018
+D3
+~
+~
+0 0 9013
+S
+#9015
+The Desert~
+   Dunes obscure vision further than fifty feet in any direction.  One could
+perhaps climb to the top to scout around, but there's almost certainly nothing
+to see but more dunes. Extra effort causes extra sweating, and extra sweating
+costs water, and there isn't much of that around.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9016
+D2
+~
+~
+0 0 9021
+S
+#9016
+The Desert~
+   The sky above is completely clear, no matter the time of day; there never
+enough moisture to form any clouds.  The area is barren. It's all just sand
+with no sign of life. Down here between the dunes, it's hard to see very far in
+any direction.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9017
+D3
+~
+~
+0 0 9015
+S
+#9017
+The Desert~
+   The heat is oppressive and drains all energy from any warm-blooded mortals.
+The hot, sliding sand underfoot makes it difficult to even walk.  Just to the
+north is a small patch of palm trees, however. It might be place of sanctuary
+in the middle of this ocean of sand.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9011
+D3
+~
+~
+0 0 9016
+S
+#9018
+A Widening Path~
+   The ditch is close to ten spans across now.  Large boulders litter the
+bottom of what must have once been a respectable river. Strangely, frail
+skeletons of fish are buried in amongst the rubble.  Perhaps this stream ran
+dry from an unnatural cause, or had an unnatural origin.  The banks of the
+river reach up to about waist level.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9014
+D1
+~
+~
+0 0 9019
+S
+#9019
+A Dried and Empty Riverbed~
+   The swath carved throught the desert by the now-dry river has grown quite
+deep here, The banks are several yards above eye level and actually slant
+inwards, making them nearly impossible to climb. The rocky river bed makes an
+unsure footing and one must take extra care not to twist an ankle.  The
+riverbed leads in an east-west direction.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9020
+D3
+~
+~
+0 0 9018
+S
+#9020
+A Deep and Darkening Riverbed~
+   The steep walls are dizzyingly high here, and the depth of the riverbed
+blocks out the majority of the light from the desert. One could almost get the
+feeling that the walls are closing in, and the bones scattered periodically
+among the rocks are looking suspiciously non-fish-like, which doesn't help.
+~
+90 0 0 0 0 0
+D2
+~
+~
+0 0 9022
+D3
+~
+~
+0 0 9019
+S
+#9021
+The Desert~
+   Heat rises from the hot sands into the air to make a shimmering image on the
+horizon. It looks like there's something southward, but it could just be a
+mirage. It could also be the southern end of the desert, with more habitable
+environs in that direction.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9015
+D2
+~
+~
+0 0 9025
+S
+#9022
+A Hard-packed Riverbed~
+   The banks of the riverbed are carved through some type of solid sandstone,
+worn smooth from years of errosion from the river. However, since it's been
+ages since much water flowed here, the sandstone is becoming pitted and
+cracked. The river bed continues north and east. 
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9020
+D1
+~
+~
+0 0 9023
+S
+#9023
+A Noisy, Deepening Riverbed~
+   The wind howls as it gets caught between the banks of what used to be a
+large river.  The banks reach up to just above eye level, obscuring the view of
+what's up there.  The river bottom is layered in small round pebbles. This
+would be a great place to set up an ambush for unwary travellers.  
+~
+90 0 0 0 0 0
+D3
+~
+~
+0 0 9022
+S
+#9024
+The Desert~
+   The sky overhead is clear, and a strong wind blows up from the south, where
+a mountain range is visible. There is also a noticable trail in the area, where
+the sand hasn't covered it completely. It looks like it leads to the south
+pass.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9025
+D2
+~
+~
+0 0 9028
+S
+#9025
+Some Tracks in the Desert~
+   Although faint, there are tracks in the sand here, leading to the north and
+west. It might be the remains of a trail being slowly consumed by the desert
+sand. To the south there's a dark smudge on the horizon. Although the mirages 
+make it hard to tell, it could be a mountain range, which would indicate that
+the end of the desert is close.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9021
+D3
+~
+~
+0 0 9024
+S
+#9026
+An Impressive Mountain View~
+   To the north, east and west, a desert of shimmering sand stretches as far as
+the eye can see.  To the south, a jagged mountain range pierces above the
+horizon in near breath-taking splendor. The mountains are rocky and mostly 
+barren of trees but many are tall enough to be snow-capped. It's quite a sight
+to behold.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9027
+D2
+~
+~
+0 0 9029
+S
+#9027
+A Sparse Trail~
+   To the south is a tall, jagged mountain range.  There are numerous stories
+about misfortune befalling those who travel between the desert and mountains,
+almost certainly untrue; however, they all agree on one point: to attempt
+traversal by a path other than the southern pass is a very bad idea.
+~
+90 0 0 0 0 0
+D1
+~
+~
+0 0 9028
+D3
+~
+~
+0 0 9026
+S
+#9028
+A Fading Trail~
+   The trail fades and re-appears sporadically in this area, but the ground is
+hard-packed and easy to walk on. Dunes of sand rise to the south and east,
+while the trail continues to the west.  This part of the desert is quiet and
+still.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9024
+D3
+~
+~
+0 0 9027
+S
+#9029
+Nearing the Mountains~
+   Not far to the south a wall of rock reaches up into the sky. To the east and
+west the mountains look insurpassable, but the trail continues south toward the
+base of the mountains or north into the desert.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9026
+D2
+~
+~
+0 0 9030
+S
+#9030
+At the Foot of the Mountains~
+   This area rests in the shadows of the intimidating mountains. Swaths of
+rocks indicate the continual danger of rockslides, and who knows what other
+dangers there may be. The safety of open ground is northward, although it's all
+desert and little else. Peering around, it's clear that anyone or anything
+could easily hide along the base of the mountains. The trail leads north and
+south, but there is a faint path branching to the east.
+~
+90 4 0 0 0 0
+D0
+~
+~
+0 0 9029
+D1
+~
+~
+0 0 9031
+D2
+~
+~
+0 0 23904
+S
+#9031
+A Hidden, Verdant Path~
+   It is as if someone has taken the trouble to try and hide this small trail.
+It winds its way still further to the north along the base of the mountains.
+The strangest things about it is the presence of plantlife, however; small
+trees, grasses, and even a small stream give this place a feeling of peace.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9032
+D1
+~
+~
+0 0 14000
+D3
+~
+~
+0 0 9030
+S
+#9032
+A Pleasant Path in a Grove~
+   The path continues along the base of the mountain, next to a small stream.
+Its water looks clean and refreshing. It's hard to imagine such an area can
+have emerged untended, but there is no sign of motion. The trail is surrounded
+by trees that block and ability to easily scan the grove. There is a clearing
+to the north.
+~
+90 0 0 0 0 0
+D0
+~
+~
+0 0 9033
+D2
+~
+~
+0 0 9031
+S
+#9033
+A Secluded, Sacred Grove~
+   Here, in the center of this hidden grove is a small glade of elms.  The
+ground is covered in a spongy moss that feels a bit like walking on air. The
+entire glade has a strangely serene feeling to it, almost reverent, as though
+the gods of nature gather here from time to time.
+~
+90 0 0 0 0 0
+D2
+~
+~
+0 0 9032
+S
+$~

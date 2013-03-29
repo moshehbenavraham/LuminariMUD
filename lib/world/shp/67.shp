@@ -1,0 +1,26 @@
+CircleMUD v3.0 Shop File~
+#6700~
+6701
+-1
+1.00
+1.00
+5
+-1
+%s That is something that I do not sell.~
+%s You be trying to sell me something you don't have.~
+%s That be not an item this store wants...~
+%s I best be fishing me pockets for more money.  I can't afford that!~
+%s You best be fishing your pockets for more money.  You can't afford that!~
+%s That'll be %d coins, thanks.~
+%s I'll give you %d coins for that.~
+0
+7
+6702
+0
+6776
+-1
+6
+20
+0
+0
+$~

@@ -1,0 +1,353 @@
+#9300
+A winding, sparse mountain road~
+   The highway, having entered the mountains, begins to wind and twist as it
+ascend the slopes of the mountainsides.  The road shows signs of heavy usage,
+like ruts from slipping wagon wheels, and bits of discarded, broken carriage
+parts.  The road ahead looks steep, but the wildflowers growing on the rocks
+make the journey seem refreshing.
+~
+93 0 0 0 0 5
+D0
+The front of the mountain range seems almost like a row of stone soldiers.
+~
+~
+0 0 -1
+D1
+~
+~
+0 0 9301
+D2
+Off in the distance to the south, the mountains curve away into the ocean.
+~
+~
+0 0 -1
+D3
+The road opens into the grassy valley.
+~
+~
+0 0 -1
+D4
+The clear mountain air is refreshing.
+~
+~
+0 0 -1
+D5
+This road could stand to be a bit flatter.
+~
+~
+0 0 -1
+E
+highway road~
+The highway climbs up the hills in the mountains ahead.  It's not in terrible
+shape, but the journey will be a bit draining nonetheless.
+~
+E
+rut~
+When a wagon slips in the rain, it usually leave a deep gouge in the dirt of
+whatever road it's on.  This appears to have happened here plenty in recent
+weeks.
+~
+E
+carriage parts~
+Over the years, a number of vehicles have needed repair after crossing the
+plains.  Since it's easier to fix things here, litter from repair dots the area,
+all of it useless.
+~
+E
+mountains~
+The mountains are a bit on the steep side, rocky, and very tall.  Rocks about,
+whereas plants are fewer.
+~
+E
+plains~
+The plains the the west are little more than swaying grasses as far as the eye
+can see.
+~
+E
+wildflowers flowers~
+In between the rocks, a number of plants across the foothills here are covered
+in bright, small blooms of red, yellow, and blue.
+~
+S
+#9301
+A winding, sparse mountain road~
+   The road begins to slope upward as it heads toward long switchbacks that
+zigzag up the mountainside.  The road has a lot of ground to cover, especially
+considering that it's been left with a low enough grade that a wagon and horse
+can make the journey.  The scenery is placid, with wildflowers growing out from
+between the rocks.  Bird calls echo from various hidden perches, and the
+occasional buzzing insect flits by.
+~
+93 0 0 0 0 5
+D0
+A small copse of elm and cottonwood grows on a flatter spot over yonder.
+~
+~
+0 0 -1
+D1
+The road continues, sloping gently upward.
+~
+~
+0 0 9302
+D2
+Some small burrowing mammals have left holes on the slope near the road here.
+~
+~
+0 0 -1
+D3
+Only a short stretch of road and you'll be in the plains.
+~
+~
+0 0 9300
+D4
+Was that a hawk?
+~
+~
+0 0 -1
+D5
+There is very little litter in the area.
+~
+~
+0 0 -1
+S
+#9302
+A winding, sparse mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9303
+D3
+~
+~
+0 0 9301
+S
+#9303
+A winding, sparse mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9302
+D4
+~
+~
+0 0 9304
+S
+#9304
+A pleasant vista in the mountains~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D1
+~
+~
+0 0 9305
+D5
+~
+~
+0 0 9303
+S
+#9305
+A steep mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9306
+D3
+~
+~
+0 0 9304
+S
+#9306
+A narrow mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9305
+D1
+~
+~
+0 0 9307
+S
+#9307
+A narrow mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9308
+D3
+~
+~
+0 0 9306
+S
+#9308
+A narrow mountain road~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9307
+D4
+~
+~
+0 0 9309
+S
+#9309
+Atop a level plateau~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D1
+~
+~
+0 0 9310
+D5
+~
+~
+0 0 9308
+S
+#9310
+Near a small trading post~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D1
+A surprisingly well-made wooden gate leads inside the even wooden picket.
+~
+gate~
+1 0 9311
+D3
+~
+~
+0 0 9309
+S
+#9311
+A flat stone path through the trading post~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9312
+D1
+~
+~
+0 0 9314
+D2
+~
+~
+0 0 9313
+D3
+The gate leads back to the steep mountain road, and the plains beyond.
+~
+gate~
+1 0 9310
+S
+#9312
+A cloud giant dry goods dealer's booth~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9311
+S
+#9313
+A cloud giant jewel dealer's booth~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9311
+S
+#9314
+A flat stone path through the trading post~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9315
+D1
+~
+~
+0 0 9316
+D3
+~
+~
+0 0 9311
+S
+#9315
+A cloud giant clothier's booth~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9314
+S
+#9316
+The back end of the trading post~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9318
+D2
+~
+~
+0 0 9317
+D3
+~
+~
+0 0 9314
+D5
+~
+~
+0 0 -1
+S
+#9317
+A cloud giant sommelier's booth~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D0
+~
+~
+0 0 9316
+S
+#9318
+A cloud giant magic dealer's booth~
+You are in an unfinished room.
+~
+93 0 0 0 0 0
+D2
+~
+~
+0 0 9316
+S
+$~

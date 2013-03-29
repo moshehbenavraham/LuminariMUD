@@ -1,0 +1,225 @@
+#5200
+beholder~
+the mighty beholder~
+You meet a beholder's deadly gaze!
+~
+   It has a large central eye that projects an anti-magic ray and ten eyestalks
+atop the round body which can do anything from charm you to disintegrate you.  
+Beholders are not known for their personality.  
+~
+92202 0 0 0 65552 0 0 0 -870 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 2
+Size: 5
+E
+T 5201
+#5201
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal. 
+~
+   This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+
+~
+588 0 0 0 0 0 0 0 -1000 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 2
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 2
+Class: 0
+Size: 5
+E
+T 5201
+#5202
+mimic chest~
+the mimic~
+A strong chest lies in one corner of the room.
+~
+   A strong, wooden chest bound with iron straps and a heavy padlock on the
+front.  
+~
+196618 0 0 0 0 0 0 0 10 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 3
+Class: 3
+Size: 5
+E
+#5203
+mimic boulder skeleton skeletons~
+the mimic~
+Two skeletons lie crushed under a large boulder.
+~
+   This large boulder seems to have been dropped here at some point, since there
+aren't any boulders native to this area.  The two skeletons beneath it are
+simply that, bones...  No rags or anything else appears to be attached to them.
+
+~
+196618 0 0 0 0 0 0 0 -10 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 5
+Size: 5
+E
+#5204
+mimic floor~
+the mimic~
+The stone floor of this house has been ripped apart.
+~
+   What a mess, you wonder to yourself what could have caused this rampant
+destruction.  
+~
+196618 0 0 0 0 0 0 0 -140 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 2
+Class: 5
+Size: 5
+E
+#5205
+mimic pottery shards~
+the mimic~
+Some broken shards of pottery lie strewn about the floor.
+~
+   The pottery shards appear to have been part of a large vase at one point,
+probably before the city fell.  
+~
+196618 0 0 0 0 0 0 0 200 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 4
+Class: 4
+Size: 5
+E
+#5206
+mimic planks wooden~
+the mimic~
+A few wooden planks lie stacked on a low shelf.
+~
+   The fact that these planks still rest on this shelf leads you to believe that
+someone has been here before you...  
+~
+196618 0 0 0 0 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 3
+Class: 3
+Size: 5
+E
+#5207
+lizard horned~
+the horned lizard~
+A small horned lizard flicks his tongue and slithers away.
+~
+   A cute little lizard -- that is, if you like reptiles!  
+~
+138 0 0 0 0 0 0 0 300 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 0
+Race: 3
+Class: 3
+Size: 5
+E
+#5208
+golem stone~
+the stone golem~
+In the corner you see a large, stone golem faithfully standing watch.
+~
+   It is a big chunk of rock that has been magically formed into a giant stone
+creature.  He stands here still guarding the city.  
+~
+256266 0 0 0 80 0 0 0 800 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 1
+Size: 5
+E
+#5209
+lamia beast~
+the lamia~
+A strange lamia stands here waiting for her next meal. 
+~
+   This is a creature with the upper torso of a beautiful woman, but the lower
+body of a four-legged beast.  She licks her lips as she looks at you greedily.
+
+~
+106 0 0 0 64 0 0 0 -500 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 5
+Class: 3
+Size: 5
+E
+T 5201
+$

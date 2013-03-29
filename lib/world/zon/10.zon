@@ -1,0 +1,12 @@
+#10
+Orme~
+Orme's Script Test Zone~
+1000 1099 30 0
+R 0 1001 1001 -1 	(a tower defense sign)
+O 1 1001 1 1001 	(a tower defense sign)
+M 0 1003 1 1001 	(the gate keeper)
+O 0 1000 1 1001 	(a shimmering portal)
+R 0 1000 3097 -1 	(a frozen bulletin board)
+O 0 3097 99 1000 	(a frozen bulletin board)
+S
+$

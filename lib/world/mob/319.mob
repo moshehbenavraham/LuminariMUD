@@ -1,0 +1,411 @@
+#31900
+zombie sea sailor dead~
+a sea zombie~
+A sea zombie rises from the sea with a blast of water and attacks!
+~
+   This long dead soul of a sea captain deigned to forsake the chance to Pass
+Through to the next life, instead wreaking his vengence on all those who cross
+the place where he himself perished.    
+~
+190506 0 0 0 0 0 0 0 -700 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 5
+Size: 5
+E
+#31901
+squid giant~
+a giant squid~
+A giant squid moves through the water at a lightning pace.
+~
+   It looks very slimy to the touch and extremely mean.  Watch that it does not
+decide to make a meal of you.    
+~
+104 0 0 0 0 0 0 0 0 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 4
+Size: 5
+E
+#31902
+dragon turtle~
+a dragon turtle~
+An enormous dragon turtle glides across the surface of the sea, searching for food.
+~
+   It does not move very fast, in fact it still has not seemed to notice that
+you are here, but it is larger than a killer whale.  And stronger.    
+~
+76 0 0 0 0 0 0 0 0 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 4
+Class: 1
+Size: 5
+E
+#31903
+pelican~
+a pelican~
+A pelican glides over the surface of the water, skimming for food.
+~
+   Its enormous beak dips in and out of the water in constant search for a
+morsel to eat.    
+~
+72 0 0 0 0 0 0 0 100 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 0
+BareHandAttack: 4
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 2
+Size: 5
+E
+#31904
+whale killer~
+a killer whale~
+A killer whale skims just under the surface of the water.
+~
+   The teeth are the visible part of this animal, even when its mouth is closed
+- could it just be your imagination?!?    
+~
+65608 0 0 0 0 0 0 0 200 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+BareHandAttack: 9
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 4
+Size: 5
+E
+#31905
+great white shark~
+a great white shark~
+A curved fin is visible swimming very near to you.
+~
+   Is this something that you really feel you'd like to investigate?  If it IS
+a shark, it is probably best left alone.    
+~
+204872 0 0 0 0 0 0 0 300 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 2
+Size: 5
+E
+#31906
+sea elf~
+a sea elf~
+The head of a sea elf pokes out of the water nearby.
+~
+   The elf gives you a smile and a laugh and then dives for the depths of the
+sea.    
+~
+2120 0 0 0 0 0 0 0 400 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 2
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 2
+Size: 5
+E
+#31907
+crab red~
+a bright red crab~
+A small red crab bobs at the top of the water.
+~
+   Its two little whiskers bounce wetly above its bulbous eyes.  It almost
+seems like it might be looking at you, even smiling...    
+~
+72 0 0 0 0 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 2
+Size: 5
+E
+#31908
+jellyfish fish mass gooey~
+a jellyfish~
+A gooey mass of greenish yuck is floating on the surface.
+~
+   That damn stuff is alive!  Its a jellyfish!    
+~
+72 0 0 0 0 0 0 0 0 E
+28 9 -8 5d5+610 4d4+6
+280 58800
+8 8 0
+BareHandAttack: 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 2
+Size: 5
+E
+#31909
+walrus~
+a walrus~
+The dark colored head of a walrus is all that is visible from here.
+~
+   It almost looks goofy with its big buck-toothed tusks and the whiskers.  It
+sees you and gives a bark.    
+~
+72 0 0 0 0 0 0 0 400 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#31910
+seal~
+a seal~
+A seal gracefully leaps the waves as it happily plays on the surface.
+~
+   It barks and claps it fins as plays, noisily voicing its delight.    
+~
+72 0 0 0 0 0 0 0 700 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 5
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 3
+Size: 5
+E
+#31911
+merman~
+a merman~
+A merman gives a gasp as he realizes you've spotted him and dives under.
+~
+   All that is left of where he was is a small ripple on the surface of the
+sea.    
+~
+202 0 0 0 0 0 0 0 700 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 5
+Size: 5
+E
+#31912
+mermaid maid~
+a mermaid~
+A mermaid's eyes get very wide and afraid as she spots you.
+~
+   She immediately ducks under the water, only a small ripple left of where she
+was.    
+~
+10 0 0 0 0 0 0 0 800 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 2
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 3
+Class: 5
+Size: 5
+E
+#31913
+elemental water~
+a water elemental~
+A water elemental swirls in with a rush of water and wind.
+~
+   It is in constant motion, churning and swirling with force and fury.    
+~
+239626 0 0 0 0 0 0 0 700 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 0
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 4
+Class: 2
+Size: 5
+E
+#31914
+demon sea~
+a sea demon~
+A sea demon snarls in fury as you enter into its domain.
+~
+   Sea demons are extremely protective of their area, almost as if they felt
+that they owned their section of the seas.  Indeed, many seafarers might not
+agrue that.    
+~
+254490 0 0 0 0 0 0 0 900 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 0
+BareHandAttack: 12
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 2
+Class: 4
+Size: 5
+E
+$

@@ -1,0 +1,519 @@
+#30700
+lord castle~
+the Lord of the Castle~
+The Lord gives you a sloppy smile and nods your way.
+~
+   He is obviously quite drunk most of his waking moments - and rightly so.  
+Being married to the dreadful wench of a Lady must be quite demanding on one's
+nerves.    
+~
+72 0 0 0 0 0 0 0 600 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 4
+Size: 5
+E
+#30701
+lady castle~
+the Lady of the Castle~
+The Lady narrows here eyes at you, wondering who you are.
+~
+   She seems to come to some sort of decision about you, one that must have
+been favorable on your part, because she suddenly dons a bright smile and comes
+walking your way.    
+~
+72 0 0 0 0 0 0 0 600 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 0
+Size: 5
+E
+#30702
+maiden handmaiden~
+the Lady's handmaiden~
+The Lady's handmaiden fusses about the castle, making sure all is perfect.
+~
+   She is a young and beautiful thing, handpicked by the Lady for her aesthetic
+pleasantness.  Her manners in court are unmatched and yet she knows her place
+enough to never overstep her bounds.    
+~
+72 0 0 0 0 0 0 0 780 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 2
+Size: 5
+E
+#30703
+servant manservant~
+the Lord's manservant~
+The Lord's manservant regards you solemnly.
+~
+   He regards you with calm, clear eyes that reflect almost nothing at all
+within them.  His only desire seems to be to serve his Lord.    
+~
+72 0 0 0 0 0 0 0 200 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 5
+Size: 5
+E
+#30704
+brother drunk~
+the Lady's drunk brother~
+The Lady's drunk brother leans over a windowledge, his feet almost leaving the floor.
+~
+   He is obviously a guest-turned-permanent-resident.  The fact that the Lady
+and her husband throw a nonstop party appeals greatly to this man.  Coupled
+with the fact that everything is free plus whatever gold he can sponge from his
+sister, he has it made.    
+~
+10 0 0 0 0 0 0 0 100 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 5
+Size: 5
+E
+#30705
+brother knight lord~
+the Lord's brother~
+A very militaristic man stands rigidly while the gala goes on around him.
+~
+   He is abviously unused to the informalities of court life and spends most of
+his time in the field, doing whatever it is that knights do best.    
+~
+10 0 0 0 0 0 0 0 700 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 1
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 4
+Size: 5
+E
+#30706
+contingent member knight lesser soldier~
+a soldier~
+A soldier from the Lord's brother's contingent beds down in the hay.
+~
+   He seems more than content to relax for this short duration, even though it
+be out in this barn rather than indoors where it is much more festive.    
+~
+4106 0 0 0 0 0 0 0 500 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 1
+Size: 5
+E
+#30707
+impatient soldier~
+an impatient soldier~
+An impatient soldier paces back and forth, waiting for his captain.
+~
+   Some of his other men may feel comfortable standing still, but this one is
+ready to get back out into action.    
+~
+4106 0 0 0 0 0 0 0 800 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 4
+Size: 5
+E
+#30708
+soldier bored~
+a bored soldier~
+A bored soldier leans against a wood post in the barn, waiting for something to happen.
+~
+   He stares off into space with a vacant look, idly picking at the hay beneath
+him.    
+~
+4106 0 0 0 0 0 0 0 300 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 0
+Size: 5
+E
+#30709
+lady in waiting~
+a lady-in-waiting~
+A lady-in-waiting fusses and fritters about the Lady's bedroom, tidying up.
+~
+   This one is a neat freak, for sure.  She seems almost on the verge of tears
+when she finds the slightest smudge of dirt anywhere.    
+~
+10 0 0 0 0 0 0 0 600 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 0
+Size: 5
+E
+#30710
+lady in waiting~
+a lady-in-waiting~
+A lady-in-waiting wanders about the keep, searching for her Lady.
+~
+   After all, what good is a lady-in-waiting if she can't wait on her Lady?  
+
+~
+72 0 0 0 0 0 0 0 500 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 3
+Size: 5
+E
+#30711
+scholar visiting~
+a visiting scholar~
+A visiting scholar rests from a long day in the Grand Ballroom.
+~
+   The man is obviously not one for the party life and hasn't the stamina that
+the Lord and Lady possess for drinking and carousing.    
+~
+10 0 0 0 0 0 0 0 700 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 5
+Size: 5
+E
+#30712
+whore~
+a whore~
+A scantily-clad woman pats the drunk man's back soothingly, giving you a wink.
+~
+   She is obviously hired company for the awful man who probably is leaving
+most of his dinner on the ground outside the castle at this very moment.    
+~
+10 0 0 0 0 0 0 0 300 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 3
+Size: 5
+E
+#30713
+entertainer man~
+an entertainer~
+A man with a bowed fiddle plays with vigor for the room.
+~
+   He is older, with crows feet in the corners of his eyes that he scrunches up
+everytime he gets going really well into an overture.    
+~
+10 0 0 0 0 0 0 0 500 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 3
+Size: 5
+E
+#30714
+cook~
+a cook~
+A cook works about the kitchen, keeping the food fresh and tasty.
+~
+   He and his co-workers look more than pleased to be doing to be doing what
+they are for the Lord and Lady.  They must be well paid.    
+~
+10 0 0 0 0 0 0 0 500 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 1
+Size: 5
+E
+#30715
+stable boy~
+the stable boy~
+The stable boy smiles up at you, looking to take your horse.
+~
+   He says nothing, only looks you dead in the eye and smiles.  Its actually
+sort of annoying.    
+~
+10 0 0 0 0 0 0 0 900 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 0
+Size: 5
+E
+#30716
+salesman ale~
+an ale salesman~
+An ale salesman lies stretched out on the bed, catching some Z's.
+~
+   He must have had himself a few too many tastes of his own product last night
+and now has to sleep it off.    
+~
+10 0 0 0 0 0 0 0 500 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 4
+Class: 1
+Size: 5
+E
+#30717
+alanis sorceress~
+Alanis~
+Alanis the sorceress waits patiently for the Lady to return.
+~
+   It seems the Lady has been dabbling in magic of late and has asked Alanis to
+join the staff permanently - unbeknownst to the Lord.    
+~
+10 0 0 0 0 0 0 0 400 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 0
+Size: 5
+E
+#30718
+felice healer~
+Felice~
+Felice, the castle healer, relaxes on the bed, reading a thick book.
+~
+   He smiles at you as you enter, inviting you to come sit near him and talk.
+  
+~
+10 0 0 0 0 0 0 0 900 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 0
+Size: 5
+E
+$

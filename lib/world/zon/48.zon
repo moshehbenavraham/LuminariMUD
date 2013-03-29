@@ -1,0 +1,22 @@
+#48
+Taure~
+Valcrest II~
+4800 4899 30 2
+O 0 4813 2 4807 	(	ya wooden chair	n)
+O 0 4814 3 4807 	(	ya chair with a missing rung	n)
+M 0 4801 1 4841 	(	athe postal clerk	n)
+O 0 4811 1 4818 	(a long table)
+M 0 4800 1 4808 	(the innkeeper)
+O 0 4810 1 4803 	(a shrine to Taure Fea)
+O 0 4809 1 4802 	(a table)
+O 0 4807 1 4804 	(an archery target)
+O 0 4808 1 4804 	(a weapon rack)
+O 0 4801 1 4805 	(a glowing brazier)
+O 0 4800 1 4805 	(a smoking torch)
+O 0 4802 1 4805 	(a banded wooden chest)
+P 1 4803 1 4802 	(a blue rune stone)
+P 1 4804 1 4802 	(a green rune stone)
+P 1 4805 1 4802 	(a yellow rune stone)
+P 1 4806 1 4802 	(a purple rune stone)
+S
+$

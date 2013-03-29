@@ -1,0 +1,323 @@
+#1200
+Staff Meeting Room~
+The meeting room is plain and very simple.  A circular table sits in the middle
+of the room, lit by some unseen light source.  There are many chairs around the
+table, all empty.  The Immortal Board Room is to the north.  
+~
+12 8 0 0 0 0
+D0
+The Immortal Board Room can be seen to the north.
+~
+~
+0 -1 1204
+S
+#1201
+Staff Inn~
+   The Inn of the Gods is a small room, holding only a shelf with many
+small precious stones on it.  When a God comes to rent his belongings,
+his essence is stored in the stones.  The Immortal Board Room is to
+the south.
+~
+12 8 0 0 0 0
+D2
+The Immortal Board Room can be seen to the south.
+~
+~
+0 -1 1204
+S
+#1202
+The Ice Box Of The Gods~
+   The Ice Box is for little boys and girls that cannot play nice. Be good
+and maybe someone will come and get you.
+~
+12 1208 0 0 0 0
+S
+#1203
+The Gods' Mortal Board Room~
+   Here the Gods have magically created an exact copy of the mortal board
+room.  Any God can easily post and read messages from the mortal board room
+without being seen by any mortals.  The Immortal Board Room is to the west.
+~
+12 8 0 0 0 0
+D3
+The Immortal Board Room can be seen to the west.
+~
+~
+0 -1 1204
+S
+#1204
+Staff Board Room~
+   @BThis room is dominated by a large @Wboard@B, where the messages of the titans of
+the realm are recorded.  Its surface is hung with small white pieces of paper
+with writing on them and the smallest breeze sends them all fluttering like the
+wings of a thousand birds.  The rest of the room is decorated in bright colors,
+with finely-woven tapestries hung on the walls to keep out drafts.  Chairs and
+benches are scattered throughout the room to allow the titans to sit and discuss
+things that they consider to be noteworthy.  Arched doorways lead off to other
+areas in the God Simplex and a simple staircase in the southwest corner leads
+upwards.  @n
+~
+12 8 0 0 0 0
+D0
+The Gods' Inn can be seen just to the north.
+~
+~
+0 -1 1201
+D1
+The Immortal Board Hall can be seen just to the east.
+~
+~
+0 -1 1290
+D2
+The Gods' Meeting Room is located to the south.
+~
+~
+0 -1 1200
+D3
+The Gods' Post Office is just to the west.
+~
+~
+0 -1 1205
+D4
+There is a small stair in the corner leading up to the social room of
+the Gods.
+~
+~
+0 -1 1206
+E
+original~
+   The main hang out of the Gods, the Immortal Board Room is the place to be.  
+Gods exchange messages here most every day.  The mortal board room is to the
+east and the meeting room for the gods is to the south.  To the north is the
+Gods' Inn and to the west is a post office for Gods.  In the northeast corner
+you spot a small staircase leading upwards.  
+~
+S
+#1205
+Staff Post Office~
+   The Post Office Of The Gods is the same as most Post Offices except that
+it is not as slow.  Even the Postal service knows not to anger the Gods.
+Piles of junk mail line the walls.  I guess even Gods get on mailing lists.
+The Immortal Board Room is to the east.
+~
+12 8 0 0 0 0
+D1
+The Immortal Board Room is just to the east.
+~
+~
+0 -1 1204
+S
+#1206
+The Social Gathering Room~
+   This elegantly decorated room has one simple purpose.  To socialize with
+everyone else around in one central location.
+~
+12 8 0 0 0 0
+D0
+~
+~
+0 0 1208
+D5
+The Immortal Board Room is just down through the floor.  Funny how you
+didn't notice that exit before isn't it?
+~
+~
+0 -1 1204
+S
+#1207
+A Combat Experiment Room~
+This is a very plain room, about 100 feet squared dimensions.  All the walls and
+ceiling are painted white.  Centered in the middle of the room are eight
+target-dummy pegs set up for practicing.
+*test*
+~
+12 8192 0 0 0 0
+D5
+   This is a very plain room, about 100 feet squared dimensions.  All the walls
+and ceiling are painted white.  Centered in the middle of the room are eight
+target-dummy
+~
+~
+0 0 1290
+S
+#1208
+@cA Room for @jRelaxing@n~
+   @jThis round room is some twenty five feet in diameter and built on three
+different levels.  The first level encircles the room, leading past large
+windows where soft breezes blow silken curtains and carry on them the fragrances
+of far-off blossoms.  Along the wall on this top level are four foot tall
+pillars on which brass bowls have been placed, the @ppink@j stones within the bowls
+lighting the room and giving off an aura of peace and tranquility.  The second
+level acts as a step, leading down to the final level where a large, circular
+@ymattress@j stuffed with goose down has been strewn with colorful pillows.  
+Curtains of silk hang from the ceiling, encircling the mattress and providing
+some privacy for those who would seek their rest here.  When lying on the
+mattress, those who repose there are given a magnificent view of a mural painted
+on the ceiling, depicting a pale blue sky where the @cTitans@j of the realm are
+depicted seated upon fluffy clouds as they look down on the creatures of the
+land.
+~
+12 8 0 0 0 0
+D2
+~
+~
+0 0 1206
+S
+#1209
+A Plain Hallway~
+A very simple hallway.
+~
+12 8192 0 0 0 0
+D0
+~
+~
+0 0 1211
+D1
+~
+~
+0 0 1210
+D3
+~
+~
+0 0 1290
+S
+#1210
+A Plain Hallway~
+A very simple hallway.
+~
+12 8192 0 0 0 0
+D2
+~
+~
+0 0 1212
+D3
+~
+~
+0 0 1209
+S
+#1211
+@GA @lHidden @GGlade@n~
+   @GThis large glade is filled with flowers and plush grass, with several large
+boulders covered in moss strewn near the treeline.  A large oak tree on the
+southern edge of the glade spreads its boughs over a section of soft grass,
+creating a shady area perfect for sitting.  Birds sing from the trees and
+insects of every imaginable type and size can be seen among the flowers and
+scattered leaves.  An opening to the south leads out of the glade, through the
+trunks of two large pine trees.  @n
+~
+12 2560 0 0 0 0
+D2
+~
+~
+0 0 1209
+S
+#1212
+Zusuk's House~
+Nothing special, looks like the bed isn't set.
+~
+12 2560 0 0 0 0
+D0
+~
+~
+0 0 1210
+S
+#1290
+Staff Board Hall~
+   You are standing in a large hall, exits lead off to the board rooms of the
+immortals.  You can enter the hall of builders to the north, to the south are
+the halls of justice, while to the west you can find the immortal board room.
+~
+12 8 0 0 0 0
+D0
+~
+~
+0 0 1291
+D1
+~
+~
+0 0 1209
+D2
+~
+~
+0 0 1293
+D3
+~
+~
+0 0 1204
+D4
+~
+~
+0 0 1207
+S
+#1291
+The Builders' Board Room~
+   @cThis room has been set aside for the builders of @WLu@wmi@cna@bri@WMu@cd, that they may
+write in a peaceful atmosphere.  The room is decorated in muted colors with
+tapestries on the walls to keep out drafts.  A small fireplace in one wall
+contains a magical @Rf@ri@Rr@re@c that never needs tending and keeps the room at a perfect
+temperature.  Overstuffed chairs and low tables provide comfortable areas to
+write while magical @Wmi@wrr@Wors@c hung on the stone walls look out onto different
+areas of the world.  New writers can find many things to write about from their
+fellow builders here, or they may choose to visit the builders' academy, a
+special zone set aside to teach about the many styles and menus used when
+writing.  The exit to the north and those leading up and down lead to examples
+of the first room of each zone.  These are examples of how to make sure there is
+documentation on each zone for future builders and as a reference for other
+Titans.  @n
+~
+12 0 0 0 0 3
+D0
+~
+~
+0 0 8600
+D2
+~
+~
+0 0 1290
+D4
+~
+~
+0 0 10600
+D5
+~
+~
+0 0 20000
+E
+fire~
+	rThis fire does not appear to consume the wood that it is built on, rather the
+wood appears to be in perfect condition despite the heat from the fire.  	n
+~
+E
+mirrors~
+	WThese mirrors show the various parts of the world, from vast forests and
+mist-shrouded swamps, to cities teeming with people.  They serve to allow
+builders to see any area that they wish, in order to gain knowledge of the land
+and its peoples.  	n
+~
+S
+#1292
+The Immortals' Mortal Board Room~
+   Here the Gods have magically created an exact copy of the mortal board room.
+Any God can easily post and read messages from the mortal board room without
+being seen by any mortals.  The Immortal Board Hall is to the west.
+~
+12 0 0 0 0 0
+D3
+~
+~
+0 0 1290
+S
+#1293
+The Halls Of Justice~
+   You are standing in a magnificent marble hall, the only exit is back to the
+north.  Statues of Karileena the goddess of Honour and Justice, are lining the
+walls.  You realize this is where the exalted gods meet to discuss what course of
+action to take against offenders in the realms.    
+~
+12 8 0 0 0 0
+D0
+~
+~
+0 0 1290
+S
+$~

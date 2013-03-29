@@ -1,0 +1,2541 @@
+#40000
+@CAstral @DPlane@n~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40010
+D1
+~
+~
+0 0 40001
+S
+#40001
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40011
+D1
+~
+~
+0 0 40002
+D3
+~
+~
+0 0 40000
+S
+#40002
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40012
+D1
+~
+~
+0 0 40003
+D3
+~
+~
+0 0 40001
+S
+#40003
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40013
+D1
+~
+~
+0 0 40004
+D3
+~
+~
+0 0 40002
+S
+#40004
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40014
+D1
+~
+~
+0 0 40005
+D3
+~
+~
+0 0 40003
+S
+#40005
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40015
+D1
+~
+~
+0 0 40006
+D3
+~
+~
+0 0 40004
+S
+#40006
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40016
+D1
+~
+~
+0 0 40007
+D3
+~
+~
+0 0 40005
+S
+#40007
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40017
+D1
+~
+~
+0 0 40008
+D3
+~
+~
+0 0 40006
+S
+#40008
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40018
+D1
+~
+~
+0 0 40009
+D3
+~
+~
+0 0 40007
+S
+#40009
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40019
+D3
+~
+~
+0 0 40008
+S
+#40010
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40020
+D1
+~
+~
+0 0 40011
+D2
+~
+~
+0 0 40000
+S
+#40011
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40021
+D1
+~
+~
+0 0 40012
+D2
+~
+~
+0 0 40001
+D3
+~
+~
+0 0 40010
+S
+#40012
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40022
+D1
+~
+~
+0 0 40013
+D2
+~
+~
+0 0 40002
+D3
+~
+~
+0 0 40011
+S
+#40013
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40023
+D1
+~
+~
+0 0 40014
+D2
+~
+~
+0 0 40003
+D3
+~
+~
+0 0 40012
+S
+#40014
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40024
+D1
+~
+~
+0 0 40015
+D2
+~
+~
+0 0 40004
+D3
+~
+~
+0 0 40013
+S
+#40015
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40025
+D1
+~
+~
+0 0 40016
+D2
+~
+~
+0 0 40005
+D3
+~
+~
+0 0 40014
+S
+#40016
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40026
+D1
+~
+~
+0 0 40017
+D2
+~
+~
+0 0 40006
+D3
+~
+~
+0 0 40015
+S
+#40017
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40027
+D1
+~
+~
+0 0 40018
+D2
+~
+~
+0 0 40007
+D3
+~
+~
+0 0 40016
+S
+#40018
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40028
+D1
+~
+~
+0 0 40019
+D2
+~
+~
+0 0 40008
+D3
+~
+~
+0 0 40017
+S
+#40019
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40029
+D2
+~
+~
+0 0 40009
+D3
+~
+~
+0 0 40018
+S
+#40020
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40030
+D1
+~
+~
+0 0 40021
+D2
+~
+~
+0 0 40010
+S
+#40021
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40031
+D1
+~
+~
+0 0 40022
+D2
+~
+~
+0 0 40011
+D3
+~
+~
+0 0 40020
+S
+#40022
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40032
+D1
+~
+~
+0 0 40023
+D2
+~
+~
+0 0 40012
+D3
+~
+~
+0 0 40021
+S
+#40023
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40033
+D1
+~
+~
+0 0 40024
+D2
+~
+~
+0 0 40013
+D3
+~
+~
+0 0 40022
+S
+#40024
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40034
+D1
+~
+~
+0 0 40025
+D2
+~
+~
+0 0 40014
+D3
+~
+~
+0 0 40023
+S
+#40025
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40035
+D1
+~
+~
+0 0 40026
+D2
+~
+~
+0 0 40015
+D3
+~
+~
+0 0 40024
+S
+#40026
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40036
+D1
+~
+~
+0 0 40027
+D2
+~
+~
+0 0 40016
+D3
+~
+~
+0 0 40025
+S
+#40027
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40037
+D1
+~
+~
+0 0 40028
+D2
+~
+~
+0 0 40017
+D3
+~
+~
+0 0 40026
+S
+#40028
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40038
+D1
+~
+~
+0 0 40029
+D2
+~
+~
+0 0 40018
+D3
+~
+~
+0 0 40027
+S
+#40029
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40039
+D2
+~
+~
+0 0 40019
+D3
+~
+~
+0 0 40028
+S
+#40030
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40040
+D1
+~
+~
+0 0 40031
+D2
+~
+~
+0 0 40020
+S
+#40031
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40041
+D1
+~
+~
+0 0 40032
+D2
+~
+~
+0 0 40021
+D3
+~
+~
+0 0 40030
+S
+#40032
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40042
+D1
+~
+~
+0 0 40033
+D2
+~
+~
+0 0 40022
+D3
+~
+~
+0 0 40031
+S
+#40033
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40043
+D1
+~
+~
+0 0 40034
+D2
+~
+~
+0 0 40023
+D3
+~
+~
+0 0 40032
+S
+#40034
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40044
+D1
+~
+~
+0 0 40035
+D2
+~
+~
+0 0 40024
+D3
+~
+~
+0 0 40033
+S
+#40035
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40045
+D1
+~
+~
+0 0 40036
+D2
+~
+~
+0 0 40025
+D3
+~
+~
+0 0 40034
+S
+#40036
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40046
+D1
+~
+~
+0 0 40037
+D2
+~
+~
+0 0 40026
+D3
+~
+~
+0 0 40035
+S
+#40037
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40047
+D1
+~
+~
+0 0 40038
+D2
+~
+~
+0 0 40027
+D3
+~
+~
+0 0 40036
+S
+#40038
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40048
+D1
+~
+~
+0 0 40039
+D2
+~
+~
+0 0 40028
+D3
+~
+~
+0 0 40037
+S
+#40039
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40049
+D2
+~
+~
+0 0 40029
+D3
+~
+~
+0 0 40038
+S
+#40040
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40050
+D1
+~
+~
+0 0 40041
+D2
+~
+~
+0 0 40030
+S
+#40041
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40051
+D1
+~
+~
+0 0 40042
+D2
+~
+~
+0 0 40031
+D3
+~
+~
+0 0 40040
+S
+#40042
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40052
+D1
+~
+~
+0 0 40043
+D2
+~
+~
+0 0 40032
+D3
+~
+~
+0 0 40041
+S
+#40043
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40053
+D1
+~
+~
+0 0 40044
+D2
+~
+~
+0 0 40033
+D3
+~
+~
+0 0 40042
+S
+#40044
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40054
+D1
+~
+~
+0 0 40045
+D2
+~
+~
+0 0 40034
+D3
+~
+~
+0 0 40043
+S
+#40045
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40055
+D1
+~
+~
+0 0 40046
+D2
+~
+~
+0 0 40035
+D3
+~
+~
+0 0 40044
+S
+#40046
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40056
+D1
+~
+~
+0 0 40047
+D2
+~
+~
+0 0 40036
+D3
+~
+~
+0 0 40045
+S
+#40047
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40057
+D1
+~
+~
+0 0 40048
+D2
+~
+~
+0 0 40037
+D3
+~
+~
+0 0 40046
+S
+#40048
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40058
+D1
+~
+~
+0 0 40049
+D2
+~
+~
+0 0 40038
+D3
+~
+~
+0 0 40047
+S
+#40049
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40059
+D2
+~
+~
+0 0 40039
+D3
+~
+~
+0 0 40048
+S
+#40050
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40060
+D1
+~
+~
+0 0 40051
+D2
+~
+~
+0 0 40040
+S
+#40051
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40061
+D1
+~
+~
+0 0 40052
+D2
+~
+~
+0 0 40041
+D3
+~
+~
+0 0 40050
+S
+#40052
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40062
+D1
+~
+~
+0 0 40053
+D2
+~
+~
+0 0 40042
+D3
+~
+~
+0 0 40051
+S
+#40053
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40063
+D1
+~
+~
+0 0 40054
+D2
+~
+~
+0 0 40043
+D3
+~
+~
+0 0 40052
+S
+#40054
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40064
+D1
+~
+~
+0 0 40055
+D2
+~
+~
+0 0 40044
+D3
+~
+~
+0 0 40053
+S
+#40055
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40065
+D1
+~
+~
+0 0 40056
+D2
+~
+~
+0 0 40045
+D3
+~
+~
+0 0 40054
+S
+#40056
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40066
+D1
+~
+~
+0 0 40057
+D2
+~
+~
+0 0 40046
+D3
+~
+~
+0 0 40055
+S
+#40057
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40067
+D1
+~
+~
+0 0 40058
+D2
+~
+~
+0 0 40047
+D3
+~
+~
+0 0 40056
+S
+#40058
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40068
+D1
+~
+~
+0 0 40059
+D2
+~
+~
+0 0 40048
+D3
+~
+~
+0 0 40057
+S
+#40059
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40069
+D2
+~
+~
+0 0 40049
+D3
+~
+~
+0 0 40058
+S
+#40060
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40070
+D1
+~
+~
+0 0 40061
+D2
+~
+~
+0 0 40050
+S
+#40061
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40071
+D1
+~
+~
+0 0 40062
+D2
+~
+~
+0 0 40051
+D3
+~
+~
+0 0 40060
+S
+#40062
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40072
+D1
+~
+~
+0 0 40063
+D2
+~
+~
+0 0 40052
+D3
+~
+~
+0 0 40061
+S
+#40063
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40073
+D1
+~
+~
+0 0 40064
+D2
+~
+~
+0 0 40053
+D3
+~
+~
+0 0 40062
+S
+#40064
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40074
+D1
+~
+~
+0 0 40065
+D2
+~
+~
+0 0 40054
+D3
+~
+~
+0 0 40063
+S
+#40065
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40075
+D1
+~
+~
+0 0 40066
+D2
+~
+~
+0 0 40055
+D3
+~
+~
+0 0 40064
+S
+#40066
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40076
+D1
+~
+~
+0 0 40067
+D2
+~
+~
+0 0 40056
+D3
+~
+~
+0 0 40065
+S
+#40067
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40077
+D1
+~
+~
+0 0 40068
+D2
+~
+~
+0 0 40057
+D3
+~
+~
+0 0 40066
+S
+#40068
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40078
+D1
+~
+~
+0 0 40069
+D2
+~
+~
+0 0 40058
+D3
+~
+~
+0 0 40067
+S
+#40069
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40079
+D2
+~
+~
+0 0 40059
+D3
+~
+~
+0 0 40068
+S
+#40070
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40080
+D1
+~
+~
+0 0 40071
+D2
+~
+~
+0 0 40060
+S
+#40071
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40081
+D1
+~
+~
+0 0 40072
+D2
+~
+~
+0 0 40061
+D3
+~
+~
+0 0 40070
+S
+#40072
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40082
+D1
+~
+~
+0 0 40073
+D2
+~
+~
+0 0 40062
+D3
+~
+~
+0 0 40071
+S
+#40073
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40083
+D1
+~
+~
+0 0 40074
+D2
+~
+~
+0 0 40063
+D3
+~
+~
+0 0 40072
+S
+#40074
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40084
+D1
+~
+~
+0 0 40075
+D2
+~
+~
+0 0 40064
+D3
+~
+~
+0 0 40073
+S
+#40075
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40085
+D1
+~
+~
+0 0 40076
+D2
+~
+~
+0 0 40065
+D3
+~
+~
+0 0 40074
+S
+#40076
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40086
+D1
+~
+~
+0 0 40077
+D2
+~
+~
+0 0 40066
+D3
+~
+~
+0 0 40075
+S
+#40077
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40087
+D1
+~
+~
+0 0 40078
+D2
+~
+~
+0 0 40067
+D3
+~
+~
+0 0 40076
+S
+#40078
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40088
+D1
+~
+~
+0 0 40079
+D2
+~
+~
+0 0 40068
+D3
+~
+~
+0 0 40077
+S
+#40079
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40089
+D2
+~
+~
+0 0 40069
+D3
+~
+~
+0 0 40078
+S
+#40080
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40090
+D1
+~
+~
+0 0 40081
+D2
+~
+~
+0 0 40070
+S
+#40081
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40091
+D1
+~
+~
+0 0 40082
+D2
+~
+~
+0 0 40071
+D3
+~
+~
+0 0 40080
+S
+#40082
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40092
+D1
+~
+~
+0 0 40083
+D2
+~
+~
+0 0 40072
+D3
+~
+~
+0 0 40081
+S
+#40083
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40093
+D1
+~
+~
+0 0 40084
+D2
+~
+~
+0 0 40073
+D3
+~
+~
+0 0 40082
+S
+#40084
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40094
+D1
+~
+~
+0 0 40085
+D2
+~
+~
+0 0 40074
+D3
+~
+~
+0 0 40083
+S
+#40085
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40095
+D1
+~
+~
+0 0 40086
+D2
+~
+~
+0 0 40075
+D3
+~
+~
+0 0 40084
+S
+#40086
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40096
+D1
+~
+~
+0 0 40087
+D2
+~
+~
+0 0 40076
+D3
+~
+~
+0 0 40085
+S
+#40087
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40097
+D1
+~
+~
+0 0 40088
+D2
+~
+~
+0 0 40077
+D3
+~
+~
+0 0 40086
+S
+#40088
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40098
+D1
+~
+~
+0 0 40089
+D2
+~
+~
+0 0 40078
+D3
+~
+~
+0 0 40087
+S
+#40089
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D0
+~
+~
+0 0 40099
+D2
+~
+~
+0 0 40079
+D3
+~
+~
+0 0 40088
+S
+#40090
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40091
+D2
+~
+~
+0 0 40080
+S
+#40091
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40092
+D2
+~
+~
+0 0 40081
+D3
+~
+~
+0 0 40090
+S
+#40092
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40093
+D2
+~
+~
+0 0 40082
+D3
+~
+~
+0 0 40091
+S
+#40093
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40094
+D2
+~
+~
+0 0 40083
+D3
+~
+~
+0 0 40092
+S
+#40094
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40095
+D2
+~
+~
+0 0 40084
+D3
+~
+~
+0 0 40093
+S
+#40095
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40096
+D2
+~
+~
+0 0 40085
+D3
+~
+~
+0 0 40094
+S
+#40096
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40097
+D2
+~
+~
+0 0 40086
+D3
+~
+~
+0 0 40095
+S
+#40097
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40098
+D2
+~
+~
+0 0 40087
+D3
+~
+~
+0 0 40096
+S
+#40098
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D1
+~
+~
+0 0 40099
+D2
+~
+~
+0 0 40088
+D3
+~
+~
+0 0 40097
+S
+#40099
+Astral Plane~
+   There is no ground here, no sky, just a bright grey nothingness that goes on
+for as far as the eye can see.  Chunks of rocks float in this nothingness,
+ranging in size from a pepple to a boulder pockmarked with holes.  Silvery
+threads lead off into the nothingness, although where they lead is not apparent.
+There is a heaviness to the air here, a feeling of impending peril that is hard
+to ignore.
+~
+400 8 0 0 0 18
+D2
+~
+~
+0 0 40089
+D3
+~
+~
+0 0 40098
+S
+$~

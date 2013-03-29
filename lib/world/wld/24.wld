@@ -1,0 +1,118 @@
+#2400
+Inside of The Broken Spoke Tavern~
+   The inside of the tavern reveals a noticeably larger structure than what the
+tavern appears to be from the outside.  A fireplace and ample sconces provide
+both warm lighting while casting dancing shadows throughout the establishment.
+Many thick wooden tables fill the room, and are themselves full of patrons.  
+Paintings & curios adorn every corner of the establishment.  A set of stairs
+leading up has a coarse rope strung across preventing access.  A large stone
+tablet hangs from near the entrance.
+~
+24 131224 0 0 0 0
+D3
+   There is a robust oak door, reinforced with slightly rusted iron to the west.
+You notice very subtle runes carved into the wood and iron reinforcements.
+~
+door oak~
+1 0 2401
+E
+patron patrons~
+   The patrons are enjoying themselves with various libations and raucous
+conversation.  Their races vary from elves to dwarves to humanoids of unknown
+origin.  Each one of them is engrossed in the merriment as not to notice your
+curious glances.
+~
+E
+table tables~
+   Each table is of a different shape, color and height.  They are sturdy but
+well weathered from years of use and abuse.  Around each table sit patrons from
+every corner of the realm.  Every seat appears to be occupied.
+~
+E
+shadows~
+   Shadows dance around the room, shifting and weaving amongst the patrons.  
+There is an almost magical quality about the shadows.
+~
+E
+fireplace~
+   The large fireplace is made of black and grey marble, instricately carved
+with scenes of battle, interspersed with runes of an unknown language.  Along
+the fireplace's mantle is a menagerie of items, some common and some eclectic,
+from various parts of the realm.
+~
+E
+structure corner~
+   The structure is an uncommon and disproportionate mixture of wood and stone.
+Although unusual, it has a good, earthly home-like quality to it.
+~
+E
+tavern room establishment~
+   The room is full of patrons and curios from all corners of the realm.
+~
+E
+paintings~
+   There are several paintings of various sizes, ranging from an extremely large
+portrait of a castle in a frozen wasteland to some very small pictures no larger
+than a dinner plate.
+~
+E
+lighting~
+   The lighting is a nice warm amber color provided by the fireplace and candles
+thoroughout the room.
+~
+E
+candles~
+   The candles are of various shapes, sizes and colors.  The wax of a few flows
+down, over the edges of their sconces or containers and onto the floor.
+~
+E
+sconces containers~
+   The sconces, much like most of the tavern's decor, vary in shape, size, and
+origin.  Some are from recognizable lands and some are of intricate design and
+unknown origin.
+~
+E
+curios~
+   There are so many objects of curiousity adorning every nook of this
+establishment.  You notice exotic weapons hanging on the walls, tapestries
+depicting scenes of battle and revelry, even a stuffed and mounted chicken.
+~
+E
+stairs~
+   The stairs lead both upward and downward, presumably to the innkeeper's room
+and the wine cellar respectively.  A coarse rope is strung across, preventing
+access to the stairway.
+~
+E
+rope~
+   The rope is made of coarse twine and does not appear to be very interesting.
+You notice a few small ribbons with wards on them, attached to the rope.  You
+had not noticed these ribbons before, and for some reason you no longer seem
+interested in the rope or the stairs...
+~
+E
+ribbon ribbons~
+   There are no ribbons here.  You remember seeing them somewhere, however, you
+do not quite remember.
+~
+E
+tablet~
+   The tablet appears illegible at first, but the letters seem to shift before
+you eyes and are suddenly clear and reads as follows:
+HOUSE RULES
+~
+S
+#2401
+Outside of The Broken Spoke~
+   The well travelled road is covered in cobblestones on this stretch.  To the
+east is curious looking inn.  A sign hangs on a post in front of the building.
+~
+24 4 0 0 0 11
+D1
+   There is an inn to the east.  A robust door of thick oak, reinforced with
+slightly rusted iron.
+~
+oak door~
+1 0 2400
+S
+$~

@@ -1,0 +1,254 @@
+#25900
+fetch undead spectre~
+the Fetch~
+A Fetch, dressed in black tattered robes which seem to float about its body, stands here.
+~
+   A Fetch can mean one thing and one thing only - someone is going to die.  
+The primary function of a Fetch is to fortell death.  The question is - is this
+Fetch foretelling your death, or someone else's?  
+~
+253978 0 0 0 88 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 14
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 5
+Size: 5
+E
+#25901
+mother spectre ghost~
+the Spectre of a Woman~
+A womanish spectre floats through the manse, her eyes crying blood.
+~
+   Her sad eyes tell a story of loss and regret, an anguish as ancient as this
+home, possibly even older.  She constantly wrings her hands, looking about as if
+in search for someone or something.  
+~
+254056 0 0 0 1104 0 0 0 -200 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 2
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 0
+Size: 5
+E
+#25902
+web spiderweb~
+a sticky spiderweb~
+A sticky spiderweb lunges out at you, trying to draw you into its web.
+~
+   It is a very intricate and thick pattern that has been woven here, you could
+stare at it for hours and travel its full length.  Strange, it seems almost as
+if it might have just moved...  
+~
+253994 0 0 0 80 0 0 0 -500 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 2
+Size: 5
+E
+#25903
+man spectre ghost~
+the spectre of the master of the house~
+A spectre of a distinguished man floats a foot above the chair at the desk, intent on something there at the desk.
+~
+   The spectre notices your arrival and - with bared teeth - lunges at you,
+obviously intent on your destruction.  
+~
+2090 0 0 0 262224 0 0 0 0 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 1
+BareHandAttack: 12
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 5
+Size: 5
+E
+#25904
+churel woman moaning~
+the churel~
+A moaning churel floats through the house, weeping for all the lost children.
+~
+   Its feet seem a bit askew, almost as if they were turned backward on the
+ankles, and the constant moaning is enought to drive a crazy man sane.  
+~
+196680 0 0 0 0 0 0 0 -300 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#25905
+spider~
+a large black spider~
+A large black spider crawls along the floor just ahead of you.
+~
+   It has hair all over its small but grotesque body.  
+~
+65608 0 0 0 0 0 0 0 -300 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+BareHandAttack: 4
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 0
+Size: 5
+E
+#25906
+phantom howling~
+a Howling Phantom~
+A howling Phantom floats through the halls, looking for others to join it in its eternal Hell.
+~
+   You can not distinguish any specific features of this terrible force of evil,
+only a vague humanish shape, baleful glowing eyes, and what appears to a flowing
+robe cloak all about it.  
+~
+163944 0 0 0 0 0 0 0 -800 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 5
+Size: 5
+E
+#25907
+apparition angry screeching~
+a Screeching Apparition~
+A Screeching Apparition comes flying at you, screaming its anger and hatred.
+~
+   Its insubstantial form gathers together into a blackish cloud, all mottled
+and shot thtrough with streaks of reddish-orange flames.  
+~
+98346 0 0 0 0 0 0 0 -1000 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 0
+Size: 5
+E
+#25908
+rat scurrying~
+a scurrying rat~
+A rat scurries across the floor in front of you.
+~
+   With its short, stubby hairs all raised on its back and its tail ramrod
+straight, you would almost think this rat meant to attack you!  Best not to find
+out - better kill it.  
+~
+72 0 0 0 0 0 0 0 -500 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+BareHandAttack: 8
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 0
+Size: 5
+E
+$

@@ -1,0 +1,90 @@
+#2300
+dark knight zombie~
+the Dark Knight~
+A zombified knight stands here silently.
+~
+   Garbed in gear of the knighthood and rotting bits of flesh, this creature has
+been dead for years.  His weapons and armor appear tattered and rusted from
+neglect and unuse.  His souless eyes peer though his visor, blankly staring out
+at the world.
+~
+42 0 0 0 0 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 1
+BareHandAttack: 5
+Race: 5
+Class: 4
+Size: 5
+E
+T 2314
+T 2316
+#2301
+rat mouse~
+a large rat~
+A rat scurries here.
+~
+   Dark red eyes glare at you from the shadows, these creatures are intent upon
+feasting on your flesh.
+~
+42 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+BareHandAttack: 4
+Race: 3
+Class: 2
+Size: 5
+E
+#2302
+Hobgoblin Raider~
+Hobgoblin Raider~
+An angry hobgoblin raider charges you.
+~
+   Sout and mean, hobgoblins are known to be the guards and protectors of
+certain notable people of ill repute.
+~
+40 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+4 8 1
+Race: 2
+Class: 3
+Size: 5
+E
+#2303
+spider mother giant~
+a giant mother spider~
+A giant mother spider scurrys along here.
+~
+   Grown to an enormous size this mother spider has managed to spin a web
+throughout the room.  She is stirred to action by any threat to her web.
+~
+42 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+BareHandAttack: 11
+Race: 4
+Class: 4
+Size: 5
+E
+T 2310
+#2304
+bat vargouille creature~
+a bat-like creature~
+A bat-like creature is here.
+~
+   A bat-like creature called a vargouille has hollowed out the head of the
+sarcophagus to make itself a cozy nest.
+~
+42 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+Race: 3
+Class: 1
+Size: 0
+E
+T 2313
+$

@@ -1,0 +1,26 @@
+	DHelp System Luminari	n
+
+	W-------------------------------------------------------------------------------
+	YMovement:	n                          | 	YCommunication:	n
+NORTH SOUTH EAST WEST UP DOWN      | SAY GSAY SHOUT HOLLER TELL ASK WHISPER
+LOOK EXITS ENTER LEAVE             | MAIL RECEIVE CHECK GOSSIP GRATS AUCTION
+SLEEP WAKE REST SIT STAND          | NOTELL NOSHOUT NOGOSSIP NOGRATS NOAUCTION
+(LOCK UNLOCK OPEN CLOSE)           |
+	W-------------------------------------------------------------------------------
+	YObjects:	n                           | 	YInformation:	n
+GET DROP JUNK DONATE PUT GIVE WEAR | SCORE HELP INFO WHO NEWS TIME WEATHER
+GRAB INVENTORY EQUIPMENT REMOVE    | WHERE CONSIDER LEVELS WIZLIST IMMLIST
+EXAMINE EAT DRINK TASTE SIP POUR   | CREDITS TOGGLE FLAGS WIZHELP
+	W-------------------------------------------------------------------------------
+	YCombat:	n                            | 	YUtility:	n
+KILL WIELD FLEE ASSIST TRACK       | ! BUG IDEA TYPO QUIT SAVE BRIEF COMPACT
+(KICK BASH RESCUE BACKSTAB CAST)   | TITLE NOSUMMON COMMANDS SOCIALS DISPLAY
+	W-------------------------------------------------------------------------------
+	DFurther information available by 	RHELP	n <keyword>	D, keyword being a command or 
+(for example) one of the following:	n
+
+   SOCIAL SHOPS INNS CLERIC WARRIOR ROGUE MAGIC SPELLS LINK
+	W-------------------------------------------------------------------------------
+	n
+
+	DYou can also check the help index, type 'hindex <keyword>'	n

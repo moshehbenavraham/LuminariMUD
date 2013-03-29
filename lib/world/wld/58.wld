@@ -1,0 +1,1740 @@
+#5800
+@t A Small and Dusty Cottage @n~
+   @w The main living area of a small cottage.  A large @Rfire@n@w dominates the east
+wall.  Bookshelves fill any space they can, covering up most of the stone walls.
+The front door leads south, a wooden door north, while the room continues west.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5801
+D2
+~
+~
+0 0 5808
+D3
+~
+~
+0 0 5828
+E
+fire fireplace hearth stove~
+   	w The large stone hearth dominates the wall.  The 	Rflames	n	w grip the chared logs,
+and flicker from the chimney air.
+~
+S
+#5801
+@g An Overgrown Garden @n~
+   @w Overgrown grass and bushes surround what might have once been, a well
+cared-for garden.  Huge stacks of chopped wood surround the wilding greenery.  
+The cottages outhouse is north, south leads back into the cottage, while a path
+starts to the east.  @n
+~
+58 0 0 0 0 2
+D0
+~
+~
+0 0 5802
+D1
+~
+~
+0 0 5803
+D2
+~
+~
+0 0 5800
+E
+wood log logs ~
+   	w You see a large stack of chopped wood.  Someone has gone to great effort to
+keep it neat.  It could provide fuel for an entire winter.
+~
+S
+#5802
+@t Rickety Wooden Outhouse @n~
+@w
+     A typical wooden outhouse.  It serves its basic function and that's about
+it.  The wood looks like it has been fighting the elements for some time.  Old,
+rusted nails creek at the slightest provovation.  The door leaves south.   
+@n
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5801
+E
+toilet hole~
+   	w A small hole in the wood provides just enough space for people to do their
+business.
+~
+S
+#5803
+End Of The Cobbled Stone Path~
+   @w The path ends here, behind the cottage An overgrown garden lies west.  The
+forest to the east has a small opening between two tree stumps.  @n
+~
+58 0 0 0 0 12
+D1
+~
+~
+0 0 5804
+D2
+~
+~
+0 0 5806
+D3
+~
+~
+0 0 5801
+S
+#5804
+@g A Dark, Crowded Forest~
+   @w Huge evergreen trees crowd each other, stretching towards the sky.  Ivy
+grips every surface it can, fighing the trees for dominance.  Roots pierce the
+soil, twisting and crawling across the ground.  Some are covered so much in ivy,
+it's hard to tell if it's the trees or the ivy winning.  The smell of rotten
+leaves permeates the cool, damp air.  @n
+~
+58 0 0 0 0 3
+D2
+~
+~
+0 0 5805
+D3
+~
+~
+0 0 5803
+E
+ivy climbers~
+   	w The ivy is making its way across any living thing it can.
+~
+S
+#5805
+@g Well-Kept, Cerimonial Circle~
+   @w This is a clearing surrounded by the slow growing giants.  Their roots
+intertwined, forming an almost perfect circle around the area.  The ground is
+clear of foiliage, with the bronze dirt becoming a welcoming carpet.  @n
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5804
+E
+circle altar clearing~
+   	w There is no doubt this is a place of worship.  On closer in spection the
+small branches surrounding the circle have been weaved together in intricate
+patterns.  The largest of these patterns makes the south branches look like an
+altar.
+~
+S
+#5806
+The Side of the Cottage~
+   @w Continuing along the side of the house, the path leads north.  The giant
+trees of the forest stare down from the east.  There is a wheelbarrow against
+the wall.  @n
+~
+58 0 0 0 0 11
+D0
+~
+~
+0 0 5803
+D2
+~
+~
+0 0 5807
+E
+wheelbarrow~
+   	w Made out of wood, with no metal supports this is a very weak wheelbarrow,
+practically disposable.  Rot has started to infect the handles and the left
+wheel is broken.
+~
+S
+#5807
+Curving Stone Path~
+   @w The path curves around the small home.  Ivy climbes up from the broken stone
+path, gripping the cobbled brick with all its might.  Several of the larger ivy
+roots have been cut, in a noble, yet futile attempt to tame the weed.  @n
+~
+58 0 0 0 0 11
+D0
+~
+~
+0 0 5806
+D3
+~
+~
+0 0 5808
+S
+#5808
+Front Of A Small Cottage~
+   @w The main path stops here at the front of a small cottage.  Built from a
+variety of stone sizes, the small home is very sturdy.  The thatched roof is in
+need of some repair, but still sits strongly in position.  The front door is a
+Dark Oak, with large metal hinges holding it firm.  It leads north, a side path
+leads east.  @n
+~
+58 0 0 0 0 12
+D0
+~
+~
+0 0 5800
+D1
+~
+~
+0 0 5807
+D2
+~
+~
+0 0 5819
+S
+#5809
+@B Underwater Cave~
+   @w The water is cold.  The cave is dark.  Bubbles flow up from beneath.
+~
+58 0 0 0 0 6
+D1
+~
+~
+0 0 5895
+D4
+~
+~
+0 0 5857
+S
+#5810
+@c Mountain Stream~
+   @w Flowing slowly from a fissure in the east rock face, a fresh water stream
+has carved its own pathway, flowing off to the west.  A wooden bridge has been
+hastily built over it, little more than a few planks and some rope.  
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5813
+D3
+~
+~
+0 0 5811
+S
+#5811
+@g Young Forest~
+   @w Unlike the natural forest far below, these trees have been planted in
+deliberate rows and colums.  The dirt they spring from was probably imported to
+facilitate this gardening project.  They look thin and weak, although each one
+could provide plenty of fuel for a lost mountaineer.
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5810
+D2
+~
+~
+0 0 5812
+S
+#5812
+@g Maturing Forest~
+   @w The trees here are sturdy and growing strong.  The soil, well-matured and
+covered in foiliage.  A large pile of dried waste and dead plant matter sits off
+to one corner.  
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5811
+D3
+~
+~
+0 0 5814
+S
+#5813
+@c Base Of Mount Kal'Doon~
+   @w The rock floor flattens out into a large oblong circle.  Rising up ablove is
+a mountain, the summit standing high above.  A small outcrop of forest can be
+seen in the distance.  The base continues north.
+~
+58 0 0 0 0 17
+D3
+~
+~
+0 0 5810
+D5
+~
+~
+0 0 5845
+S
+#5814
+@c Bottom Of The Mountain.~
+   @w The stone climbs steep and becomes an impenitrable grey wall.  Scratches on
+the mountains surface and tiny holes lead all the way up.  Someone has climbed
+here.
+~
+58 0 0 0 0 17
+D0
+~
+~
+0 0 5816
+D1
+~
+~
+0 0 5812
+D4
+~
+~
+0 0 5815
+S
+#5815
+@c Carved Mountain Path~
+   @w Winding thinly through giant slabs of rock, a path has been formed.  High
+above the towering walls lean inwards, enclosing the pathway from the sky.  
+~
+58 0 0 0 0 17
+D3
+~
+~
+0 0 5820
+D5
+~
+~
+0 0 5814
+S
+#5816
+@c Moutain Route~
+   @w Small cracks, jagged edges, and rocky bumps lead upwards on a practially
+vertical asccension.  Some of the rifts still hold rusted metal pins, from
+previous expeditions.
+~
+58 0 0 0 0 17
+D2
+~
+~
+0 0 5814
+D4
+~
+~
+0 0 5821
+S
+#5817
+@c Pillars Of The Mount~
+   @w Four monolitic stones stand two stories high.  Each enscribed with a single
+hieroglyph.  
+~
+58 0 0 0 0 17
+D0
+~
+~
+0 0 5820
+D3
+~
+~
+0 0 5818
+S
+#5818
+@c A Great Stone Doorway~
+   @w A huge stone doorway is carved out of the solid mountain.  The markings are
+not from this time, although some look similar to certain dwarven ruins.
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5817
+D3
+~
+~
+0 0 5867
+S
+#5819
+Middle Of The Stone Path~
+   @w Roughly half way down the path, some of the broken stones lead off the
+trail.  Surrounded by vast amounts of trees on both sides, this is the only
+location where the forest breaks a little.  There is a small opening through the
+trees to the west.  The path continues north.  @n
+~
+58 0 0 0 0 11
+D0
+~
+~
+0 0 5808
+D2
+~
+~
+0 0 5823
+D3
+~
+~
+0 0 5825
+S
+#5820
+@c Mountain Path~
+   @w Carefully shaped, and curved along the weakest veins of the mountain, the
+path continues south, or east.
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5815
+D2
+~
+~
+0 0 5817
+S
+#5821
+@c Small Outpsot~
+   @w This is a rather large rock shelf.  So much so, previous visitors were able
+to build a wooden shelter.  The long planks of timber have almost surrendered to
+rot.  Its thatched roof, already half caved in.  Not that it is completely
+useless, it would more than help any climber stuck up here in a storm.  
+~
+58 0 0 0 0 17
+D0
+~
+~
+0 0 5822
+D5
+~
+~
+0 0 5816
+S
+#5822
+@c Mountain Edge Path~
+   @w Curving around the mountain, this small pathway can just about fit one
+person.  Some of the ledge has been chipped away.  
+~
+58 0 0 0 0 17
+D2
+~
+~
+0 0 5821
+D3
+~
+~
+0 0 5858
+S
+#5823
+A Cobbled Stone Path~
+   @w The start of an old, stone path.  The shapes and sizes of the cobbled
+masonry have been delicately cut and laid.  However, the bulging forest roots
+and encroaching grasses have destroyed most of its original esthetic qualities,
+and some of its functionality.  It leads north.  The main road lies south.  @n
+~
+58 0 0 0 0 11
+D0
+~
+~
+0 0 5819
+D2
+~
+~
+0 0 5824
+S
+#5824
+Middle Of The Forest Road~
+   @w To the east, the vast hump of the hilled forest rises as far as the eye can
+see.  Looking west the road bends through the forest.  Beyond the tree line, a
+cliff is partially visible.  A large wooden pole stands here with a broken sign
+hanging from one chain.  The road continues east and west, a stone path leaves
+north.
+~
+58 0 0 0 0 12
+D0
+~
+~
+0 0 5823
+D1
+~
+~
+0 0 5834
+D3
+~
+~
+0 0 5830
+S
+#5825
+@g A Spacious Wood~
+   @w The tall, slim trees, climb towards the sky.  Their branches reach out,
+aiming their pointy leaves upwards.  This is one of the less densely populated
+areas of the forest, with room for shrubs and young plants to take root.  It
+continues west, the old stone path is to the east.  @n
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5819
+D3
+~
+~
+0 0 5826
+S
+#5826
+@g A Dense Wood~
+   @w As the forest continues, more and more trees appear.  The hanging ivy and
+sprawling shrubs make it close to impossible to move any further along.  The
+ground is littered with dead leaves, broken branches, pebbles and sprawling
+weeds.  There is lighter forest to the east.  @n
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5825
+D2
+~
+~
+0 0 5827
+S
+#5827
+@g Giant Tree Stump~
+   @w Between a tight space through the dense forest, a small clearing appears.  
+A giant tree stump sticks up stubbornly through the dark soil.  The trunk could
+easily fit a dozen native forest trees within its girth.  The last remnants, of
+a truly giant woodland.  @n
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5826
+S
+#5828
+@t The Cottage Dining Area~
+@w
+   While a crooked wooden stairs spirals up, a table surrounded by chairs sits
+in the middle of the room.  A large cabinet filled with an assortment of wooden
+utenstils stretches accross the rear wall.  There is thin layer of dust taking
+hold on almost every piece of furniture.  The room continues east.
+@n
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5800
+D4
+~
+~
+0 0 5829
+S
+#5829
+@t Tiny Attic Bedroom~
+@w
+   The stairs meet with a small room tucked right under the rafters of the
+cottage.  A small stove fireplace is set up to keep the occupants warm, being
+this close to the roof.  Tied from one side to the other, stretched out to get
+the most benefit from the stove, is a hammock.  There is a round window peeking
+out over the front of the house.  The stairs lead back down.
+@n
+~
+58 0 0 0 0 0
+D5
+~
+~
+0 0 5828
+E
+stove fire fireplace~
+   	w A small stove fire.  Just large enough to heat the tiny room.
+~
+E
+round window window~
+   	w The window looks out over the front of the cottage.  The broken stone path
+leads south, surrounded by large trees.  Something glitters in the overgrowth.
+~
+S
+#5830
+Curving Forest Road~
+   @w Trees hanging in from the north part of the forest lean un-naturally over
+the road.  Different, to almost every other tree in view, they stand defiant,
+surrounded by the great Evergreens.  The road continues east and south.  
+~
+58 0 0 0 0 11
+D1
+~
+~
+0 0 5824
+D2
+~
+~
+0 0 5831
+S
+#5831
+Forest Road~
+   @w This is the west side of the forest road.  It opens up straight, leading up
+to a sheer cliff.  The height of the trees is dwarfed in comparison to the
+rising rock.  Although the canopy still blocks everything in sight, beyond the
+rocky tower small gaps through the tree line reveal more cliffs.  The road
+continues north and west.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5830
+D3
+~
+~
+0 0 5832
+S
+#5832
+West Forest Road~
+   @w Paving stones and brick finish here, joining the natural stone from the
+cliff.  A Rocky path has been carved out of the cliff floor.  The road continues
+east and west.
+~
+58 0 0 0 0 12
+D1
+~
+~
+0 0 5831
+D3
+~
+~
+0 0 5833
+S
+#5833
+In Front of a Sheer Cliff~
+   @w Huge boulders stick up from the sides of the path.  The forest behind them
+has been halted from its expansion by the lifeless monoliths.  The bottom of the
+cliff lies west, a forest road starts east.
+~
+58 0 0 0 0 12
+D1
+~
+~
+0 0 5832
+D3
+~
+~
+0 0 5838
+S
+#5834
+Straight Forest Road~
+   @w As the road continues, the northern trees surrounding it change in color.  
+The leaves are darker, the bark, more black than brown.  Small weeds are making
+headway across the stone surface.  Pockets of dirt supplying their nutrition.  
+The road continues east and west.
+~
+58 0 0 0 0 12
+D1
+~
+~
+0 0 5835
+D3
+~
+~
+0 0 5824
+S
+#5835
+South Curving Road~
+   @w The road curves around the thick forest.  It opens out onto a straight
+portion of the road, leading off into the distance.  A large wooden pole sticks
+out of the dirt just up ahead.  The road leads north and west.
+~
+58 0 0 0 0 12
+D0
+~
+~
+0 0 5836
+D3
+~
+~
+0 0 5834
+S
+#5836
+North Curving Road~
+   @w The road curves towards the south, with only trees visible for miles.  A
+small stone marker sits off to the side of the road.  Part of the stone road is
+bulging form a tree root attempting to break through.  It is not yet successful.
+The road leads south and east.
+~
+58 0 0 0 0 11
+D1
+~
+~
+0 0 5837
+D2
+~
+~
+0 0 5835
+S
+#5837
+Dark Forest Road~
+   @w Great effort has been made to maintain the mortar of the forest road.  
+Trees creep along either side, arching high above.  The road leads east and
+west.
+~
+58 0 0 0 0 12
+D1
+~
+~
+0 0 5848
+D3
+~
+~
+0 0 5836
+S
+#5838
+@c Bottom Of A Sheer Cliff~
+   @w The grey rock pierces from the earth in sharp columns.  Thin veins of quartz
+travel across its surface, like roads inked on a canvas map.  A crevice in the
+surface of the ground rock forms a perfect rectangle, about the size of a grown
+man.  Someone has attempted to cut it out.  The cliff continues north and south.
+The road is to the east.
+~
+58 0 0 0 0 5
+D0
+~
+~
+0 0 5839
+D1
+~
+~
+0 0 5833
+D2
+~
+~
+0 0 5840
+S
+#5839
+@c North Cliff~
+   @w Rocks, rubble, pepples and dust slant down a huge cut in the cliff face.  
+The debris flows down the cliff's gash like a river.  A deliberate effort taken
+to pass the rocks defenses.  The cliff continues south.
+~
+58 0 0 0 0 5
+D2
+~
+~
+0 0 5838
+D4
+~
+~
+0 0 5847
+S
+#5840
+@c South Cliff~
+   @w This part of the cliff is more forgiving in its structure.  The natural rock
+has formed blocks of stone extending upwards.  The cliff contines north.
+~
+58 0 0 0 0 5
+D0
+~
+~
+0 0 5838
+D4
+~
+~
+0 0 5841
+S
+#5841
+@c A Hole In The Cliff~
+   @w The short clumps of stone make it easy to stand on this outcrop.  Although
+the sharp pointed stone on some, look like they would cut through bone.  There
+is a large opening leading into a cave.
+~
+58 0 0 0 0 5
+D2
+~
+~
+0 0 5842
+D5
+~
+~
+0 0 5840
+S
+#5842
+@c A Small Cave~
+   @w A dark cave has been burrowed into the rock.  Probably used as a sheilded
+escape route, it provides perfect cover from the road below.
+~
+58 0 0 0 0 5
+D0
+~
+~
+0 0 5841
+D3
+~
+~
+0 0 5843
+S
+#5843
+@c Cave Opening~
+   @w Opening up like a cracked nut, the ceiling rift stretches across the entire
+roof above.  
+~
+58 0 0 0 0 5
+D1
+~
+~
+0 0 5842
+D4
+~
+~
+0 0 5844
+S
+#5844
+@c Higher Cliff South~
+   @w The southern part of the rock shelf provides excellent cover from any danger
+coming from the road below.  This however limits its use as a lookout point.  
+Broken timber pieces lie on the ground beside a bored hole, suitable for a fire.
+~
+58 0 0 0 0 5
+D0
+~
+~
+0 0 5846
+D4
+~
+~
+0 0 5845
+D5
+~
+~
+0 0 5843
+S
+#5845
+@c Top Of The Sheer Cliff~
+   @w The highest point of the cliff quickly turns into a virtical channel in the
+rock and is completly out of view from below.  Not much space to move around the
+tall flat walls of the crevice.
+~
+58 0 0 0 0 5
+D4
+~
+~
+0 0 5813
+D5
+~
+~
+0 0 5844
+S
+#5846
+@c Higher Cliff North~
+   @w Far above the ground the stone shelf provides an excellent lookout for
+approaching danger.  With full view of the forest road leading up to the bottom
+of the cliff, an experienced scout cold easily stay out of view while watching
+the road.
+~
+58 0 0 0 0 5
+D2
+~
+~
+0 0 5844
+D5
+~
+~
+0 0 5847
+S
+#5847
+@c Small Outcrop Of Rock~
+   @w Stone protrudes the cliff face, forming a natural shelf.  Loose pebbles are
+scattered across the surface.  
+~
+58 0 0 0 0 5
+D4
+~
+~
+0 0 5846
+D5
+~
+~
+0 0 5839
+S
+#5848
+@g A Forest~
+   @w This is the entrance to the forest.  A paved stone road meets a grass
+covered dirt path.  There is a small stone marker stands a foot tall.  Many
+trees have been cut back to facilitate this passage but their brethern's defiant
+sprawling branches refuse to heed, arching over the road.  A dirt path starts
+east, a paved road starts west.
+~
+58 0 0 0 0 3
+D2
+~
+~
+0 0 5849
+D3
+~
+~
+0 0 5837
+S
+#5849
+@g A Forest~
+   @w The dirt path forms a junction between the forest growth.  The trees here
+are lightly spread and quite comfortable to walk around.  Some are younger than
+others, their trunks thin but still stretching as high as possible.  The older
+trees stand sternly and steady, their wide trunks holding firm.  The path leads
+north, south, and east.
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5848
+D1
+~
+~
+0 0 5851
+D2
+~
+~
+0 0 5850
+S
+#5850
+@g Fallen God Of The Forest~
+   @w Dirt on the path turns to grass and then to tall weeds.  Surrounded by an
+impassable wall of forest, covered in creepers and moss, is a giant stone head.
+It is lying on its side uncomfortably, not how it was originally set.  It is
+missing it's ear with the broken exposed rock smoother than one might have
+thought.  The damage happened a long time ago.  A dirt path starts north.
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5849
+S
+#5851
+@g A Forest~
+   @w Smaller shrubs and bushes have taken root along the straigher part of the
+dirt path.  Each offering up it's fruits for the animals of the forest to eat.
+The canopay opens up wide above, letting the breeze carry in fresh air.  The
+path leads east and west.
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5852
+D3
+~
+~
+0 0 5849
+S
+#5852
+@g A Forest~
+   @w The path curves west making a sharp corner through the forest trees.  A
+large trunk has fallen across part of the path.  There are no axe or burn marks
+on the base of the trunk, it has fallen naturally.  The path leads south and
+west.
+~
+58 0 0 0 0 3
+D2
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5851
+S
+#5853
+@g A Forest~
+   @w A junction along the dirt path.  The small clearing gives weaker plants a
+chance to grow.  The bushes and shrubs that have taken root here offer dark
+berries on their branches.  The path leads north, south, and east.  
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5852
+D1
+~
+~
+0 0 5856
+D2
+~
+~
+0 0 5854
+S
+#5854
+@g A Forest~
+   @w The dirt path curves west.  Most of walkway has been reclaimed by grasses
+and weeds, although the direction it leads is still clear.  Another few years
+and the overgrowth will have consumed it.  The path leads north and west.
+~
+58 0 0 0 0 3
+D0
+~
+~
+0 0 5853
+D3
+~
+~
+0 0 5855
+S
+#5855
+@g A Moss Covered Water Stone~
+   @w Nature has taken a moment to carve beauty in the landscape.  Two large rocks
+pushing through the soft soil have collected enough rain on their heads to
+create a natural water feature.  Slowly dripping down from layer to layer in
+ever smaller quantities, the water splashes into a large moss covered pond.  A
+dirt path starts east.
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5854
+S
+#5856
+@g A Forest~
+   @w Evergreen trees stretch upwards, their trunks abandoning the lower branches,
+focusing on the higher leaves capturing the sun.  The smell of tree sap and
+decaying plant matter fills the air.  A dirt path leads east and west.
+~
+58 0 0 0 0 3
+D1
+~
+~
+0 0 5857
+D3
+~
+~
+0 0 5853
+S
+#5857
+@g Forest Pool~
+   @w A large circular pool is surrounded by dense overgrowth.  The trees lean
+over with creeper vines draped, touching the surface of the water.  Large dirt
+mounds form the banks of the pool while tall grass carpets the ground.
+~
+58 0 0 0 0 6
+D3
+~
+~
+0 0 5856
+D5
+~
+~
+0 0 5809
+E
+pool water hole~
+   	w The water looks deep.  Occasional bubbles rise to the surface.
+~
+S
+#5858
+@c Mountain Edge~
+   @w The narrow path halts at a slab cliff.  No holds, cracks or petrusions are
+visible.  
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5822
+D4
+~
+~
+0 0 5859
+S
+#5859
+@c South Stone Altar~
+   @w A perfect circle floor has been crafted from the hard stone.  A single round
+altar sits in the centre.  No visible writing of any kind marks the site.
+~
+58 0 0 0 0 17
+D0
+~
+~
+0 0 5860
+D5
+~
+~
+0 0 5858
+S
+#5860
+@c Face Of The Mountain~
+   @w Perfectly chiseled out of the mountain stone, a gigantic dwarven face
+consumes the rock.  The eyes alone the size of a war horse, its penetrating gaze
+watching over the hidden valley.  The nostrils of its crooked nose have been
+hollowed, and leak heat and smoke, coming from within the mountain.
+~
+58 0 0 0 0 17
+D0
+~
+~
+0 0 5861
+D2
+~
+~
+0 0 5859
+S
+#5861
+@c North Stone Altar~
+   @w The circular floor is cracked from one side to the other.  The markings look
+deliberate, more the work of metal tools than an earthquake or magic.  The
+central altar itself is mostly intact, just missing a chunk from one of its
+edges.  There are scratches of all shapes and sizes across much of the stone
+surface.  
+~
+58 0 0 0 0 17
+D2
+~
+~
+0 0 5860
+D4
+~
+~
+0 0 5862
+S
+#5862
+@c Eastern Bridge~
+   @w Flat rock takes precidence, leaving the sharp, hazardous cliffs far below.
+Over to the west side of the stack is a huge chasm.  The fall looks like it
+could take you through the core of the mountain itself.  A rope bridge has been
+delicately tied between this side and the other.  Some of its planks are
+missing.
+~
+58 0 0 0 0 17
+D3
+~
+~
+0 0 5863
+D5
+~
+~
+0 0 5861
+S
+#5863
+@c Western Bridge~
+   @w The flat smooth stone floor stops short of large chasm.  A rope bridge hangs
+accross it.  The tall vertical walls of cold stone are the only other way
+forward.
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5862
+D4
+~
+~
+0 0 5864
+S
+#5864
+@c Lower Peak~
+   @w Below the mountain peak, a small bed of stone tilts slightly upwards.  The
+angle provides a gentle rest before the final push towards the top.
+~
+58 0 0 0 0 17
+D3
+~
+~
+0 0 5865
+D4
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 5863
+S
+#5865
+@c Hill Of The Summit~
+   @w Rising steeply, the hill is not only flat and bare, but extends for hundreds
+of feet on either side.  One wrong footing, or a harsh wind could send a climber
+tumbling off the mountain.
+~
+58 0 0 0 0 17
+D1
+~
+~
+0 0 5864
+D4
+~
+~
+0 0 5866
+S
+#5866
+@c Peak Of Mount Kal'Doon~
+   @w The peak of the mountain looks out over the surrounding lands.  Down below
+the hidden valley looks peaceful, almost welcoming.  The far hills of the
+eastern lands bulge out, pushing the carpeting forest towards the sky.  Small
+pillars of smoke rise up from tiny holes bored into the mountain.  Something is
+inside it.
+~
+58 0 0 0 0 17
+D5
+~
+~
+0 0 5865
+E
+east valley down forest house cottage road ~
+   	w The hidden valley seems peaceful from up here.  Almost tranquil.  Anyone who
+has taken in this view would be able to see why it would be important to protect
+its location.  Surrounded on all sides by jagged cliffs, the valley forest is
+protected, and so are its inhabitants.  
+~
+S
+#5867
+@p Entrance to Dwarven Fortress~
+   @w Two marble pillars hold back the walls of the mountain on either side.  
+Round cylinders polished so much, they could double up as mirrors.  Along the
+half way mark like a noble's decadent belt, dwarven ruins are etched the whole
+way around.  A light breeze comes from inside the mountain.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5818
+D3
+~
+~
+0 0 5868
+S
+#5868
+@p Vast Pillard Square~
+   @w A huge rectangular room opens up, and stretches far back to the west.  Huge
+pillars hold up the carved mountain ceiling.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5879
+D1
+~
+~
+0 0 5867
+D2
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5882
+S
+#5869
+@p South East Corner~
+   @w The south east corner is being used as a construction dump.  Broken pieces
+of masonry, metal and wood are tossed around in no particular order.  So much
+has been piled up the walls are no longer visible.  
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5870
+S
+#5870
+@p Great Hallway~
+   @w A Damp Corridor in the great hallway.  Small amounts of water are seeping
+out of fissures in the wall.  Two torches hang from either side, both burnt out
+long ago.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5882
+D1
+~
+~
+0 0 5869
+D3
+~
+~
+0 0 5871
+S
+#5871
+@p A Great Hallway~
+   @w Huge vast room.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5881
+D1
+~
+~
+0 0 5870
+D2
+~
+~
+0 0 5887
+D3
+~
+~
+0 0 5872
+S
+#5872
+@p Great Hallway~
+   @w Great hallway
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5880
+D1
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5873
+S
+#5873
+@p Great Western Wall~
+   @w Massive wall, with expert carvings depicting ancient battles.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5874
+D1
+~
+~
+0 0 5872
+S
+#5874
+@p Great Western Wall~
+   @w Beautifully carved wall.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5875
+D1
+~
+~
+0 0 5880
+D2
+~
+~
+0 0 5873
+D3
+~
+~
+0 0 5891
+S
+#5875
+@p North West Corner~
+   @w The north western corner of the huge dwarven hall.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5876
+D2
+~
+~
+0 0 5874
+S
+#5876
+@p Fountain of War~
+   @w A stone fountain channels water from deep in the mountain.  It has been
+dedicated to the dwarven Gods of war.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5877
+D2
+~
+~
+0 0 5880
+D3
+~
+~
+0 0 5875
+S
+#5877
+@p Store Room~
+   @w The stone here is carved in such a way that natural shelves surround the
+whole area.  Stone barrels have been shaped for the rock, lining in rows of
+three.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5883
+D1
+~
+~
+0 0 5878
+D2
+~
+~
+0 0 5881
+D3
+~
+~
+0 0 5876
+S
+#5878
+@p Market~
+   @w Smashed pottery, wooden carts, broken tables and torn tarps litter this part
+of the great hall.  Evidence of a once bustling market place.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5879
+D2
+~
+~
+0 0 5882
+D3
+~
+~
+0 0 5877
+S
+#5879
+@p North East Corner~
+   @w The north eastern corner of the great hall.  Stone bricks the size of men
+form an intricate layering system, rising from the floor of the corner to the
+roof.  The stone here is different to the rest, probably harder in order to
+support such a large man made cavern.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5868
+D3
+~
+~
+0 0 5878
+S
+#5880
+@p Vast Hall~
+   @w Hallway of the fallen gods.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5876
+D1
+~
+~
+0 0 5881
+D2
+~
+~
+0 0 5872
+D3
+~
+~
+0 0 5874
+S
+#5881
+@p Great Room~
+   @w Great hallway.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5877
+D1
+~
+~
+0 0 5882
+D2
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5880
+S
+#5882
+@p Hallway of Martyrs~
+   @w Lifelike statues of dwarven warriors stand on iron pedestals.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5878
+D1
+~
+~
+0 0 5868
+D2
+~
+~
+0 0 5870
+D3
+~
+~
+0 0 5881
+S
+#5883
+@p Fortress Granary~
+   @w The room is full of cone shaped wooden vessels.  Most, but not all, reaching
+close to the tall ceiling.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5884
+D2
+~
+~
+0 0 5877
+S
+#5884
+@p Animal Pen~
+   @w Large wooden fences mark off areas where animals can stay.  The floors are
+covered in hay, and each has its own watering trough.  A slow flow of water
+leaks from a carving in the mountain wall, filling each trough as it makes its
+way to a hole in the ground.  
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5883
+D3
+~
+~
+0 0 5885
+S
+#5885
+@p Waste Hole~
+   @w Not the prettiest of sights, but this room serves a serious purpose, and is
+a credit to the ingenuity of its dwarven architects.  A series of boreholes,
+each increasing in size, provide a waste management system for the fortress.  
+Fresh water is channeled from the stone to keep a steady flow of water washing
+the dirt down the tunnels and out of the mountain.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5884
+D3
+~
+~
+0 0 5886
+S
+#5886
+@p The Slaughter Room~
+   @w Located just enough away from the farming pens, this room is where all the
+meat is prepared.  Large tables line the walls, while huge iron hooks hang
+overhead.  The carving marks on each table show a well used facility.  
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5885
+S
+#5887
+@p The Great Library~
+   @w A huge fire burns under a carved stone chimney.  The dull grey walls have
+been covered up behind tall wooden bookshelves.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5871
+D3
+~
+~
+0 0 5888
+S
+#5888
+@p Sleeping Quarters~
+   @w Rows of wooden bunk beds fill the room.  There are several iron stoves to
+keep the occupants warm in the cold stone cavern.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5887
+D2
+~
+~
+0 0 5889
+S
+#5889
+@p Military Quarters~
+   @w Not too different from its civilian cousin, the military bunks only have one
+difference.  They are made from iron.  An assortment of weapons sit on various
+racks, while the soldiers armour hangs from hooks on the beds.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5888
+D3
+~
+~
+0 0 5890
+S
+#5890
+@p Quartermaster's Room~
+   @w This large room fills the job of both working office, and bedroom.  A climbs
+up to a wooden entresol, that holds all the homely comforts.  The ground floor
+is seperated by a wooden screen into storage, and office.  The chunky wooden
+desk has papers thrown all over it.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5889
+S
+#5891
+@p Officer's Quarters~
+   @w The large oak beds line the wall on the north side.  Each officer has a desk
+and a trunk across from their sleeping space.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5874
+D3
+~
+~
+0 0 5892
+S
+#5892
+@p Lord's Dining Room~
+   @w A long oak table takes center stage in this lush and extravigant eating
+hall.  The walls are carved with images of historic battles.  A giant hearth
+lines the southern wall, facilitating both the cooking of feats and the heating
+of the hall.
+~
+58 0 0 0 0 0
+D1
+~
+~
+0 0 5891
+D3
+~
+~
+0 0 5893
+S
+#5893
+@p The War Room~
+   @w A large round table sits here.  The chairs are arranged neatly around it.  
+There are many smaller tables, desks and trunks up against the walls.  Canvas
+maps of all shapes and sizes hang from the walls.  Beyond the hundreds of
+parchments and scrolls scattered around the floor is a basket cage.  A beam of
+natural light cuts down from a round hole in the ceiling.
+~
+58 0 0 0 0 0
+D0
+~
+~
+0 0 5894
+D1
+~
+~
+0 0 5892
+S
+#5894
+@r The Lord's Chamber~
+   @w The personal home of the current dwarven lord of this fortress.  Less
+decadent than the lords of some races, but no less honorable.  It is a model of
+humble practicality.  A warm fire burns from a stove in the corner, with the
+flickering orange glow bouncing off the dark wine curtains, or a four post bed.
+~
+58 0 0 0 0 0
+D2
+~
+~
+0 0 5893
+S
+#5895
+@B Fork In The Cave~
+   @w The flooded cave splits in two.  One leaving north, one leaving west.
+~
+58 0 0 0 0 6
+D0
+~
+~
+0 0 5897
+D1
+~
+~
+0 0 5896
+D3
+~
+~
+0 0 5809
+S
+#5896
+@B Underwater Cavern~
+   @w The flooded cave leads west and up.
+~
+58 0 0 0 0 6
+D3
+~
+~
+0 0 5895
+D4
+~
+~
+0 0 5899
+S
+#5897
+@B Ancient Statue~
+   @w The cavern revlease the giant bust of an acient stone statue.
+~
+58 0 0 0 0 6
+D2
+~
+~
+0 0 5895
+D4
+~
+~
+0 0 5898
+S
+#5898
+A Damp Rocky Cave~
+   @w A dark and wet rocky cave surround the pool of water.  Hundreds of feet
+above the floor, a circular hole reveals the details of the sky.
+~
+58 0 0 0 0 0
+D5
+~
+~
+0 0 5897
+S
+#5899
+@g A Deep Pool of Water~
+   @w The forest road has broken off into grove.  The circle of trees surround a
+pool of water.  It looks deep.
+~
+58 0 0 0 0 6
+D5
+~
+~
+0 0 5896
+S
+$~

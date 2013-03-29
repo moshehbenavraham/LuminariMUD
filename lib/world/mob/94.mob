@@ -1,0 +1,545 @@
+#9400
+rat dire~
+@wa dire rat@n~
+@wA dire rat snuffles around on the ground, looking for something to eat.@n
+~
+@wThis large rodent is perhaps three feet long with a tail that is an additional
+foot long.  The tail is hairless and there are oozing wounds along its length,
+with its tip broken about an inch from the end.  The body of the creature is
+covered in short hair and a line of sharp spines runs down the middle of its
+back.  Beady red eyes sit high on its head beneath two pointy ears that have
+tears in them and several patchy places where the skin has been scraped away.  
+Two sharp incisors jut from its upper jaw and its feet are tipped by long black
+claws that are covered in filth.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 4
+Walkin: $n slinks in from
+Walkout: $n slinks
+E
+#9401
+eagle bird~
+@can e@Wa@cg@Wl@ce@n~
+@cAn @We@cag@Wl@ce peers about, its eyes catching every movement.@n
+~
+@cThis large bird is covered in feathers that range from a blue-grey color to a
+stark white beneath its body.  Its large head is surrounded by white feathers
+that seem to make its eyes even blacker than they really are and a large orange
+beak is sharp enough to shred flesh.  Its long talons are tipped by vicious
+claws that click against one another as it shifts positions.  The eagle is one
+of nature's greatest predators, able to spot prey from miles above and dive down
+at high velocities to knock its victim unconscious even before its claws can
+pierce the creature's heart.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 4
+Walkin: $n screams as it flies in from
+Walkout: $n spreads its wings and flies
+E
+#9402
+monkey howler~
+@wa h@Wo@ww@Wl@we@Wr@w monkey@n~
+@wA @Wm@wo@Wn@wk@We@wy is here, picking bugs out of its fur.@n
+~
+@wThis large monkey is around four feet tall when it stands erect and has a
+vaguely human face.  A wide nose lies flat to its face and its eyes are a deep
+brown color.  Its fur is a deep red color and covers most of its body, with the
+exception of its long hands and feet.  The mouth of the creature is equipped
+with large canine teeth that are yellowed and look to be able to do a great deal
+of damage.  A long, prehensile tail gives the creature the unique ability to use
+not only its hands and feet to grab things.  @n
+~
+16777224 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 4
+Walkin: $n lopes in from
+Walkout: $n lopes
+E
+#9403
+octopus~
+@can @wo@cc@wt@co@wp@cu@ws@n~
+@cAn o@wc@cto@wp@cu@ws@c floats on the currents, its tentacles splaying out around it.@n
+~
+@cThere is no skeletal system to support the flesh and muscle of this creature,
+causing it to have a slightly bulbous body.  Eight long tentacles drift on the
+water currents, their undersides covered with suckers that help it grip its prey
+in order to drag it towards the massive beak situated at the point where the
+legs join its body.  The skin of the creature has a slick appearance and is
+uniquely equipped with the ability to match not only the color of its
+surroundings but also the texture of the hiding place of its choice.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+BareHandAttack: 2
+SubRace 1: 3
+SubRace 2: 20
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n glides in from
+Walkout: $n contracts its tentacles and propels itself
+E
+#9404
+owl bird~
+@Wan o@wwl@n~
+@wA large bird turns its head all the way around as it surveys the area.@n
+~
+@wStanding nearly three feet tall, this owl is covered in snowy feathers over most
+of its body.  A few stray dark feathers can be seen on its wings, which span
+nearly four feet when fully stretched out.  Large talons tipped with sharp claws
+enable it to swoop down and grab its prey, puncturing vital organs as it carries
+it back to a safe place to eat.  The bird's head is large and sits very close to
+its body, giving it the appearance that it has no neck.  Large eyes blink slowly
+as the owl surveys its surroundings, turning its head nearly all the way around
+to see what is behind it.  @n
+~
+83886088 0 0 0 133120 1064960 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 4
+Walkin: $n swoops in silently from
+Walkout: $n flaps its wings and silently flies
+E
+#9405
+porpoise~
+@wa p@Wo@wrp@Wo@wise@n~
+@wA po@Wr@wpo@Wi@wse swims gently on the currents here.@n
+~
+@wSkin as smooth as silk covers this porpoise's body, with darker coloring on
+the top and lighter coloring on the bottom.  This enables it to approach its
+prey largely undetected as it swims above, its lighter lower body nearly
+invisible against the lighter water at the surface.  The fins of the creature
+help it to maneuver quickly in all directions and its muscular tail propels it
+through the waters in bursts of speed that help it overtake faster prey.  
+Clicks and squeaks emitted through its long snout bounce off of obstacles and
+strike sensors in its domed head to help it navigate the murky waters in which
+it lives.  A blowhole on the top of its head allows it to surface and draw in
+air so it can dive for long periods and tiny black eyes take in its surroundings
+with striking wisdom.  @n
+~
+83951624 0 0 0 64 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+BareHandAttack: 10
+SubRace 1: 3
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n swims in from
+Walkout: $n swims
+E
+#9406
+viper snake~
+@la v@gi@lper@n~
+@gA small vi@lp@ger is here, its tongue flicking in and out.@n
+~
+@lIts skin is a vibrant green color, with scales covering it from head to tail.  
+The head of the creature has two wide-set, lidless eyes and a squared snout.  A
+long forked tongue flicks in and out of its mouth, tasting the smells around it.
+Two curved horns can be seen jutting up from between two small nostrils atop the
+wide mouth and when the creature opens its mouth to strike, a close look reveals
+two fangs dripping poison that fold down from the roof of its red mouth.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 17
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 4
+Walkin: $n slithers in from
+Walkout: $n slithers
+E
+#9407
+wolf~
+@wa wolf@n~
+@wA wolf is here, its top lip lifted in a snarl.@n
+~
+@wThis large canine is a wild cousin of the domesticated dog.  It shares many
+traits with its kin, including its shaggy coat and keen nose.  In this
+particular animal the fur has taken on a dark color, with dark browns and blacks
+blending to create a coat that allows it to blend into the shadows on dark
+nights.  Long black claws can be seen on the large paws of the animal, and sharp
+white teeth complete its arsenal of alarmingly dangerous weapons.  The eyes of
+the wolf are a yellow color with more than a hint of intelligence glinting in
+their depths, and the pointed ears swivel at every noise, seeming to linger when
+there is a conversation to be heard nearby.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n paces in from
+Walkout: $n paces
+E
+#9408
+bear black~
+@wa black bear@n~
+@wA bear is here, swinging its head back and forth as it waits.@n
+~
+@wStanding just over five feet tall when fully erect, this bear is covered in a
+thick coat of black fur.  Its face is a lighter brown color with a large mouth
+filled with sharp, white teeth, and small black eyes that blink with boredom.  
+Small rounded ears top its massive head and swivel around as it takes in its
+surroundings.  Its feet are huge, with long black claws clicking on the ground
+as it walks.  Although it may look like an over-sized teddy bear, there is
+little doubt that this animal could do quite a bit of damage if angered or
+cornered.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n plods in from
+Walkout: $n plods
+E
+#9409
+crocodile croc~
+@ga crocodile@n~
+@gA crocodile is here, its mouth open wide.@n
+~
+@gThis animal is not the largest of its breed, rather it looks to be only a young
+adult.  Its skin is a deep green color so dark it is almost black and the plates
+of skin act like armor to protect it.  Dark eyes sit atop its head and twin
+raised nostrils tip the long snout of the creature.  Inside its gaping maw can
+be seen rows of large, white teeth and a long tongue.  The tail of the creature
+is as long as its body and heavily plated with two rows of spines that run the
+length of both its back and tail.  The short legs of the creature end in large
+feet equipped with long nails and webbing between the toes.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n slides in from
+Walkout: $n slides
+E
+#9410
+badger dire~
+@wa dire ba@Wd@wger@n~
+@wAn angry badger is growling here.@n
+~
+@wThis creature is much larger than its counterparts, its body stretching nearly
+four feet long with a bushy tail that has lost most of its fur.  Large spikes
+protrude through its dark fur and the white stripes down its back are stained
+with blood and dirt.  The claws that tip its feet are long and sharp, with gore
+crusted between several of the toes to make the danger of infection from wounds
+even more of a reality.  The long snout of the dire badger is filled with
+needle-sharp teeth and the black eyes glare with animosity at anything that
+comes near.  @n
+~
+83886088 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n shuffles in from
+Walkout: $n shuffles
+E
+#9411
+bat dire~
+@wa dire bat@n~
+@wA huge bat has found a place to roost here.@n
+~
+@wThis winged rodent is massive, with a wingspan of nearly fifteen feet and
+weighing in at close to two hundred pounds.  Its small face has tiny black eyes
+and a horned snout filled with tiny, sharp teeth.  Wings of leather with
+supporting bones that run from tiny hand-like paws are torn in several places
+and sharp spikes can be seen along their edges.  The body of the creature is
+covered in a deep brown fur with more spikes protruding from its neck and spine.
+The legs of the creature end in three-toed feet tipped with jagged claws.  @n
+~
+84017160 0 0 0 133120 2 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 6
+Walkin: $n flaps in from
+Walkout: $n flaps
+E
+#9412
+air elemental~
+@Can air elemental@n~
+@cAn elemental is here, the air currents around it moving constantly.@n
+~
+@cThis elemental is made up of drifting columns of air that come together to form
+a vaguely humanoid form.  Regarded closely, the air elemental appears to have
+bits of dirt and debris floating around it and the pieces seem to help outline
+the female shape within the columns of air.  Although there is no form to the
+being, they have been known to create large gusts of wind that can knock an
+attacker back several feet, causing severe damage on impact.  Items that can be
+lifted by the air currents around the being have also been employed as weapons,
+making them extremely dangerous when angered.  @n
+~
+104923144 0 0 0 198784 2 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 12
+SubRace 1: 1
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 6
+Walkin: $n drifts in from
+Walkout: $n drifts
+E
+#9413
+elemental earth pile rocks~
+@yan earth elemental@n~
+@yA pile of rocks and dirt is here.@n
+~
+@yThis being is an elemental.  It is made up of rocks and dirt and there are
+small patches where grass and weeds have begun to grow on its back and torso.  
+Vaguely humanoid in shape, it stands nearly twenty feet tall and has gems where
+its eyes should be.  A large mouth filled with diamonds rumbles as it tries to
+communicate in its native language.  No ears can be seen and its hands and feet
+have malformed digits where fingers and toes should be.  As it moves, dust and
+small pebbles roll away from its massive body to litter the ground.  @n
+~
+105086984 0 0 0 2112 2 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+BareHandAttack: 6
+SubRace 1: 8
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 6
+Walkin: $n rumbles in from
+Walkout: $n rumbles
+E
+#9414
+elemental fire figure flames~
+@ra@R fire @relemental@n~
+@RA @rfigure@R wreathed in flames is here, heating up the area.@n
+~
+@RA large column of flames flows upwards from the body of a humanoid figure,
+sending out waves of heat to warm up the area around it to nearly unbearable
+levels.  This is an elemental from the fire plane, called here to aid its
+master.  The figure of the being is that of an undulating female, shifting and
+reforming into that of a male as the fire flows around it.  Capable of both
+throwing fire and burning with just a touch, this elemental being is not one to
+be trifled with, even by its own master.  @n
+~
+71548936 0 0 0 2064 258 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 12
+SubRace 1: 11
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 6
+Walkin: $n leaves a trail of burned ground as it enters from
+Walkout: $n burns the ground as it leaves
+E
+#9415
+elemental water living wave~
+@ba water elemental@n~
+@BA water elemental that looks like a living wave is here.@n
+~
+@BThis creature is shaped like a huge powerful living wave.  Its form is
+composed purely of water, and you even see a little @Ygoldfish@B swimming inside
+its body.  The water of that forms this creatures body is constantly swirling
+and moving.  You can identify two black square shaped eyes on where its head
+must be.  @n
+~
+570548248 0 0 0 268697792 66 0 0 0 E
+13 15 2 2d2+150 2d6+2
+0 0
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 18
+Con: 18
+SavingFort: 4
+SavingRefl: 3
+SavingWill: 4
+SavingPoison: 3
+SavingDeath: 4
+SubRace 1: 20
+SubRace 2: 10
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 7
+Walkin: $n flows in from
+Walkout: $n flows
+E
+#9416
+hippogriff winged creature~
+@wa hi@Wp@wpog@Wri@wff@n~
+@wA winged creature is here, stamping one foot as it waits on its master.@n
+~
+   @wThis creature is very large, with the body of a horse and the front legs,
+wings and head of a giant eagle.  The coat of the creature glistens a deep brown
+color and the claws of its front legs are viciously sharp.  The beak of the
+creature could easily take a man's hand off with one bite and the great, white
+head swivels as it looks at its surroundings.  Its wings are a brilliant white
+color and stretch to nearly twenty feet when fully extended.  @n
+~
+16777224 0 0 0 133312 1064962 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+BareHandAttack: 8
+SubRace 1: 16
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 6
+E
+#9417
+shark grey~
+a grey shark~
+A large, grey shark is swimming slowly here.
+~
+   @wThis water-dwelling creature is a known hunter and is very adept at chasing
+down prey in the watery depths.  A light grey hide fades to white on its belly,
+a natural camouflage when swimming above its prey with sunlight shining down
+from above.  Rows of sharp teeth fill is massive jaws and beady black eyes seem
+to stare into the very soul.  @n
+~
+16990232 0 0 0 264256 1064962 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 3
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 6
+E
+#9418
+snake viper~
+@ca vi@ap@cer@n~
+@cA long, thin snake is resting here, curling in on itself in a defensive posture.@n
+~
+   @cThis snake is an odd, bluish color with darker blue spots along the length
+of its body.  A forked tongue flickers in and out as it tastes the air around
+itself, looking for signs of prey or danger.  Its body is close to ten foot long
+and its head is a triangular shape.
+~
+83951640 0 0 0 264384 16386 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 17
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+E
+#9499
+mound shambling shambler~
+@ya shambling mound@n~
+@yA shambling mound of vegetation is skulking around the area.@n
+~
+Before you stands a large, heaping mound of vegetation.  The shambler appears
+approximately 6 feet tall, but is nearly 8 feet around.  What appears to be a
+head sits on top of the mound, peering around with intelligent eyes.  A rancid
+smell emanates from the pile of rotting vegetation that comprises the entirety
+of this shambling mound.
+~
+8 0 0 0 0 0 0 0 0 E
+11 17 2 2d2+121 2d6+5
+110 9075
+8 8 0
+BareHandAttack: 10
+Str: 21
+Con: 17
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 14
+Class: 0
+Size: 6
+E
+$

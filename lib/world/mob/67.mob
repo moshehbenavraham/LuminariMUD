@@ -1,0 +1,84 @@
+#6700
+armored half-orc guard~
+a heavily armored guard~
+A heavily armored half-orc stands guard at the gate here.
+~
+The half-orc is equipped with finely crafted steel armor.  He is not wearing a
+helmet, but the rest of his body is clad in steel.  A small circular steel
+shield is held by his left arm and a long spear stood upright in his right.  He
+has jet black hair that is scraggly and long, about shoulder length.  There is a
+foul stench coming from him that screams lack of hygiene.
+~
+4106 0 0 0 16 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+BareHandAttack: 11
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#6701
+horkas half-orc guard captain~
+Horkas, Captain of the Guard~
+The half-orc Captain of the Guard stands to the side of the gate.
+~
+The half-orc man is larger than most half-orcs with dominant orcish genetics.  
+He is equipped fully in steel including a broad chestplate, greaves, armplates,
+boots and a large helmet with the faceplate swung up revealing his face.  He has
+a heater shield, with a crest upon it's face, strapped to his back and a long
+sword sheathed on his belt.  
+~
+10 0 0 0 0 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+BareHandAttack: 3
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 6
+E
+#6702
+ricamros fisherman half-orc shopkeeper~
+Ricamros~
+The elder half-orc fisherman stands behind the counter.
+~
+The half-orc is elder and frailer in his older days.  His grey hair is patchy
+and scattered, completely ungroomed.  He is wearing overalls with one strap
+undone and hanging at his side.  The teeth in his mouth have rotted out, most
+likely to the exposure to biting down metal weights and chewing off fishing
+line.  He is not a pleasant sight, but certainly warming and welcoming.
+~
+10 0 0 0 0 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 6
+E
+$

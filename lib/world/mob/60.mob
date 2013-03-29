@@ -1,0 +1,447 @@
+#6000
+john lumberjack~
+John the Lumberjack~
+John the Lumberjack is here, looking for some trees to chop down.
+~
+   He is six feet tall and looks quite strong, muscles bulging under his heavy,
+chequered shirt.  His features are worn with hard work and his expression is one
+of a peaceful man leading a simple life.  
+~
+6220 0 0 0 64 0 0 0 370 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#6001
+rabbit small~
+the rabbit~
+A small rabbit is foraging in the bushes here.
+~
+   It is a small, furry creature with long ears and big feet.  
+~
+16777288 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 10
+Size: 5
+Walkin: $n hops in from
+Walkout: $n hops
+E
+#6002
+bear brown~
+the brown bear~
+A big, brown, angry-looking bear is here.
+~
+   The bear is a big, brown, furry animal with very large claws and very sharp
+teeth.  It doesn't resemble those cute little dolls from toy shops at all.  
+~
+16777320 0 0 0 0 0 0 0 -50 E
+8 18 5 1d1+80 1d2+1
+80 4800
+4 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n lumbers in from
+Walkout: $n lumbers
+E
+#6003
+rabbit ferocious~
+the ferocious rabbit~
+A ferocious rabbit is here, glaring hungrily at you.
+~
+   This small, furry creature with long ears and big feet has been attacked by
+the dreaded rabbit rabies, a horrible disease that turns helpless and innocent
+rabbits into ferocious and bloodthirsty monsters.  
+~
+16777320 0 0 0 0 0 0 0 -150 E
+3 19 8 0d0+30 1d2+0
+30 675
+4 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+Walkin: $n hops in from
+Walkout: $n hops
+E
+#6004
+deer fallow~
+the fallow deer~
+A fallow deer is grazing peacefully here.
+~
+   She is a graceful creature on long, slender legs, and with large, brown eyes
+looking back at you with an air of watchful interest.  
+~
+16777416 0 0 0 16 0 0 0 350 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n wanders in from
+Walkout: $n wanders
+E
+#6005
+fox brown~
+the brown fox~
+A brown fox is stalking rabbits through the underbrush here.
+~
+   It is a large fox with beautiful, red-brown fur and a long, thick bushy tail.
+
+~
+16777288 0 0 0 524288 0 0 0 -50 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+Walkin: $n slinks in from
+Walkout: $n slinks
+E
+#6006
+bird large~
+the bird~
+A large bird with a broken wing has been cornered here.
+~
+   The bird isn't going to live much longer, by the looks of it.  
+~
+16777226 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 1
+Size: 5
+Walkin: $n flutters in from
+Walkout: $n flutters
+E
+#6007
+bobcat cat~
+the bobcat~
+A medium sized bobcat is stalking a bird here.
+~
+   The bobcat has sharp claws and teeth, and will probably eat you instead of
+the bird if you give it the chance.  
+~
+16777258 0 0 0 16 0 0 0 -150 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+Walkin: $n stalks in from
+Walkout: $n stalks
+E
+#6008
+sparrow~
+the sparrow~
+A sparrow is flapping around by the ground.
+~
+   The sparrow looks like it is enjoying life.  
+~
+16777288 0 0 0 0 0 0 0 200 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n flies in from
+Walkout: $n takes off and flies
+E
+#6009
+robin~
+the robin~
+A robin is hopping around looking for bugs to eat.
+~
+   The robin looks quite intent on finding a bug or worm to eat.  
+~
+16777288 0 0 0 0 0 0 0 200 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n flutters in from
+Walkout: $n flutters
+E
+#6010
+squirrel~
+the squirrel~
+A squirrel is here seeking refuge in its nest.
+~
+   It peers out of its nest at you anxiously, seeming to plead silently with you
+to leave it alone.  
+~
+16777226 0 0 0 1572864 0 0 0 200 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n skitters in from
+Walkout: $n skitter
+E
+#6011
+badger~
+the sleepy badger~
+A furry brown badger is curled up under a log here.
+~
+   The badger is slowly awakening and peering up at you from its burrow.  You
+know that it won't be moving this slow for long.  Its sharp claws and teeth
+catch your attention when you consider killing it.  
+~
+16777226 0 0 0 1048576 0 0 0 50 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n waddles in from
+Walkout: $n waddles
+E
+#6012
+grey squirrel~
+the grey squirrel~
+A grey squirrel with a bushy tail is foraging for nuts here.
+~
+   This happy creature seems to pay you no heed as it goes about its search for
+nuts among the leaves and twigs on the ground here.  
+~
+16777288 0 0 0 524288 0 0 0 150 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+Walkin: $n skitters in from
+Walkout: $n skitters
+E
+#6013
+chipmunk~
+the small chipmunk~
+A small brown-red chipmunk dashes from tree to tree here.
+~
+   The absolute zenith of hyperactivity, this small rodent seems to never tire
+of running up, down, and around the trees in this area.  If you could ever catch
+it, you imagine it would make an easy meal.  
+~
+16777288 0 0 0 524288 0 0 0 170 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+Walkin: $n bounces in from
+Walkout: $n bounces
+E
+#6014
+crow black bird~
+the large black crow~
+A large black bird flits about here, picking at bits of carrion.
+~
+   The bird eyes you warily, but continues with its meal.  
+~
+16777358 0 0 0 0 0 0 0 -20 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 1
+Size: 5
+Walkin: $n flutters in from
+Walkout: flutters
+E
+#6015
+grotesque vulture~
+the grotesque vulture~
+A grotesque vulture covered in blood and gore is here feeding madly.
+~
+   It sickens you to even look at this foul bird.  Bits of dried gore stick to
+its beak, and unidentifiable organs hang from its talons and feathers.  It sees
+you and attacks, protecting its horrible feast!  
+~
+16777262 0 0 0 16 0 0 0 -700 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+Walkin: $n swoops in from
+Walkout: $n flies
+E
+#6016
+buck deer~
+the young buck~
+A young 5-point buck is drinking from the lake here.
+~
+   This young male deer is drinking from the edge of the lake and watching you
+warily.  His antlers are not full size yet, and will no doubt be quite
+impressive in a few years.  
+~
+16777290 0 0 0 16 0 0 0 350 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 1
+Size: 5
+Walkin: $n bounds in from
+Walkout: $n bounds
+E
+#6017
+fish~
+the fish~
+A fish is swimming about here.
+~
+   The fish looks about the right size for a meal.  
+~
+16777226 0 0 0 128 0 0 0 100 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n swims in from
+Walkout: $n swims
+E
+#6018
+duckling~
+the duckling~
+A duckling is swimming around in the pond.
+~
+   The duckling is adorable, it looks most of all like a tiny furball.  
+~
+16777226 0 0 0 0 0 0 0 1000 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+Walkin: $n waddles in from
+Walkout: $n waddles
+E
+#6019
+duck~
+the duck~
+A duck is here, quacking happily.
+~
+   The duck is quite fat.  It looks like it is enjoying life.  
+~
+16777288 0 0 0 0 0 0 0 1000 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+Walkin: $n waddles in from
+Walkout: $n waddles
+E
+$

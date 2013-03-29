@@ -1,0 +1,133 @@
+#26200
+bear brown~
+a brown bear~
+A huge brown bear roars its defiance and opens its jaws in a snarl!
+~
+   It moves its head this way and that, as if looking for the best spot to bite
+you.  
+~
+72 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 0
+BareHandAttack: 8
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 2
+Class: 1
+Size: 5
+E
+#26201
+snake rattlesnake~
+a rattlesnake~
+A rattlesnake slithers up near you, raising head and tail in anticipation.
+~
+   Roughly 5 feet in length, this snake could very well give you a bit of
+trouble if you mess with it too much.  Best to just sort of ease on past.  
+~
+76 0 0 0 0 0 0 0 0 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 0
+BareHandAttack: 4
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 3
+Size: 5
+E
+#26202
+wolf timberwolf~
+a timberwolf~
+A wolf slinks past you, looking at you out of the corner of its eye.
+~
+   It looks sleek and swift, not very large at all, but large enough to give you
+a few nips in the ass if you mess with it.  
+~
+65608 0 0 0 0 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 0
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 4
+Size: 5
+E
+#26203
+bear black~
+an enormous black bear~
+An enormous black bear rears up on two legs and roars!
+~
+   Its gaping jaws drip saliva, saliva that is probably the prep for the bear's
+mouth where it intends to bodily put you!  
+~
+72 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 0
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 0
+Size: 5
+E
+#26204
+bear grizzly~
+a huge grizzly bear~
+A huge grizzly bear lumbers along, minding its own business.
+~
+   It doesn't even acknowledge the fact that you are near, it just moves right
+along on its way.  
+~
+76 0 0 0 0 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 0
+BareHandAttack: 9
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 5
+Size: 5
+E
+#26205
+fox~
+a little fox~
+A little fox runs past you, happily playing its day away.
+~
+   It jumps from leaf to leaf in huge bounds, trapping the leaf and biting the
+hell out of it, the going onto its next 'victim'.  
+~
+72 0 0 0 0 0 0 0 0 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 2
+Class: 1
+Size: 5
+E
+$

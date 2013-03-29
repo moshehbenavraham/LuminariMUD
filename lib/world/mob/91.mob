@@ -1,0 +1,695 @@
+#9100
+sleepy scruff stableboy boy orphan~
+a sleepy stableboy~
+A scruffy stableboy is sleeping in the hay.
+~
+The stableboy is wearing the orphanage's signature white tunic, but it has
+become covered by clinging straw.  He appears to be around age nine, and running
+a big stables all by himself would be more of a task if anyone ever actually had
+to bring horses here.  He does look like he needs the rest, though, as his face
+emotes definite weariness.
+~
+16777352 0 0 0 0 0 0 0 900 E
+8 18 5 1d1+80 1d2+1
+80 4800
+4 4 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 4
+E
+#9101
+large nasty locust bug~
+the large, nasty locust~
+A large, nasty locust hops rapidly about.
+~
+   This locust is much larger than normal and somehow looks quite menacing.  It
+looks like a longer, narrower grasshopper with large wings.  It hops and flies
+around the area as though it is looking for something to attack.  It looks like
+it'll take more that a flick with a swatter to bring it down.
+~
+8 0 0 0 0 0 0 0 -100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 0
+BareHandAttack: 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 6
+Size: 4
+E
+#9102
+group slimy grubs bugs~
+a group of slimy grubs~
+A group of slimy grubs spreads out across the ground.
+~
+   A group of slimy grubs has burrowed out of the ground here, looking for
+something to infest.  They seem to move faster than normal grubs, and touching
+them is almost stomach-turningly revolting.
+~
+8 0 0 0 0 0 0 0 -100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 4
+Size: 4
+E
+#9103
+long stinging centipede bug~
+a long, stinging centipede~
+A long, stinging centipeded is scuttling around, looking for a target.
+~
+   A long centipede with menacing pincers scuttles rapidly around, hoping it
+will find something it can damage.  It is almost a foot long, and has dozens and
+dozens of rapidly pumping little legs, overcoming every obstacle.  Putting this
+down someone's shirt would be a cruelty beyond imagining.  It might even be
+fatal, to be honest.
+~
+40 0 0 0 0 0 0 0 -100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 0
+BareHandAttack: 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 6
+Size: 4
+E
+#9104
+angry wasp bug~
+an angry wasp~
+A wasp buzzes around the area, threatening anyone who gets too close.
+~
+   An angry wasp is flying around.  Wasps are already frightening, but this one
+seems especially malicious.  It must be something in the low buzzing of its
+wings, or perhaps the fact that it's twice as large as a normal wasp.  At any
+rate, it'd be best not to piss it off.
+~
+2056 0 0 0 0 0 0 0 -100 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 0
+BareHandAttack: 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 2
+Size: 4
+E
+#9105
+fat disease fly~
+a fat, disease-ridden fly~
+A fat, disease-ridden fly buzzes ungracefully around the area.
+~
+   The fly is several times the size of a horsefly, and radiates a distinct aura
+of disease.  Just from looking at it, it becomes clear that any food that this
+fly lands on immediately becomes inedible.  One can't help but wonder if this is
+the type of fly that leaves its eggs in living human tissue.
+~
+8 0 0 0 0 0 0 0 -100 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#9106
+orphan girl reader young~
+a young reader~
+A girl sits in the courtyard beneath a tree, placidly reading a small book.
+~
+   This young orphan girl looks like she's about ten years old.  She sits
+serenely beneath a shady tree, reading a small book.  She has ruddy cheeks that
+almost shine in the sunlight, and few rays of light that make it through the
+tree dance in her red hair.  She is wholly oblivious to everything around her as
+she reads.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+6 6 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 4
+E
+#9107
+boy orphan playful~
+a playful boy~
+A boy runs past as he looks for a place to hide.
+~
+   This little lad runs past you, looking for a place to hide, as the group of
+children he's playing with continues a game of some sort.  The rules aren't
+exactly clear from watching, but there's probably a whole codex of them that
+each kid has memorized.  His blond hair is cut short, and almost appears to glow
+as his tunic reflects the sunlight.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 4
+E
+#9108
+girl seeking orphan~
+a seeking girl~
+A girl walks around, looking for hiding playmates.
+~
+   This girl walks around with a quizzical look on her face.  She's probably
+looking for a specific youngster to continue the game, but to be honest, it's
+really hard to tell what the rules are.  Her thick brown hair and dark eyes make
+her quite beautiful, in her child's way, and she'll probably be a stunner when
+she grows up.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 4
+E
+#9109
+boy orphan quiet contemplative deep~
+a deep-thinking boy~
+A quiet, contemplative boy gazes thoughtfully at the clouds.
+~
+   A boy lies upon the grass, staring up at the clouds as they float across the
+sky.  From the serious look on his face, he might be thinking about his station
+in life, or how he got to where he is, or perhaps he is remembering family
+members fallen in war.  Whatever it is, the troubled brow on his small face
+certainly illicits pity from anyone with any compassion.  Actually, he might
+just be thinking about breakfast.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+5 5 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 4
+E
+#9110
+teacher attentive woman~
+an attentive teacher~
+An attentive teacher walks around watching the children play.
+~
+   The teacher assigned to courtyard duty is a matronly older woman with wide
+hips.  She has graying but still brown hair, and she looks on as the children do
+their thing, making sure no harm befalls them.  She wants to make sure that they
+do not reenact whatever horrors brought them here on the other children.
+~
+8 0 0 0 0 0 0 0 100 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+#9111
+orphan youngster boy ravenously munching hungry~
+a hungry youngster~
+A ravenously munching youngster is gobbling down his dinner.
+~
+   The child has absolutely no interest in anything else as long as that bowl
+continues to contain stew, even though the orphanage's charges are fed three
+times daily.  He probably eats like that because of a period of starvation
+earlier in life, before he was brought to the here.  That, or he's in a hurry to
+get somewhere.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+6 6 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 4
+E
+#9112
+kitchen staffer man~
+a young kitchen staffer~
+A kitchen staffer is here, making sure food goes in mouths and nowhere else.
+~
+   A nimble and careful young man from the kitchen staff walks along the tables,
+making sure that no food fights erupt and that the children behave civilly to
+each other, although really, wasting food is the furthest thing from most
+orphan's minds.  He looks a bit bored, since he doesn't really have much to do
+except for walk around and just sort of be there.
+~
+8 0 0 0 0 0 0 0 100 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9113
+busy cook man~
+a busy cook~
+A busy cook stirs a cauldron, adding things as necessary
+~
+   The cook doesn't really have much time for any conversation, and ignores
+everything else while he stirs the cauldron.  Time waits for no man, and neither
+do hungry children.  He does appear quite able, however, as he periodically
+throws in handfuls of spices from some bags nearby.
+~
+8 0 0 0 0 0 0 0 100 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9114
+head cook woman~
+the head cook~
+The head cook sits on a chair, reading a book.
+~
+   The head cook is a surprisingly skinny woman with a plain demeanor.  She is
+one of those people who, no matter what they're feeling at the time, always seem
+to have a blank face.  Periodically, she looks up from her book to make sure
+that everything is going well, but she's really just here in case something goes
+horribly wrong.  The kitchen staff seems highly capable without her.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+6 6 2
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9115
+paladin recruiter man~
+the Paladin's Guild recruiter~
+A recruiter from the Paladin's Guild polishes his armor.
+~
+   The recruiter sent to the orphanage by the Paladin's Guild is a lanky,
+dark-skinned, dark haired young man with close cropped hair.  The skin around
+his eyes and his eyes themselves are dark, making it appear that he's glaring at
+everybody.  The fact that he doesn't often smile doesn't help, either.  
+However, there is something about him, some aura of goodness, that immediately
+inspires trust and confidence in anyone he meets.  He's the type of guy that
+children adore for reasons most adults will never fu
+~
+8 0 0 0 0 0 0 0 100 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+BareHandAttack: 3
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9116
+warrior recruiter man~
+the Warrior's Guild recruiter~
+A recruiter from the Warrior's Guild is exercising with dumbbells.
+~
+   A monstrously large man has been sent by the Warrior's Guild to recruit
+orphans.  He has light brown hair and a short beard.  He isn't wearing a shirt,
+apparently because he is showing off his massive musculature.  It certainly is
+impressive.  He looks like he could kill a minotaur by hitting it in the face
+with a slipper.  Despite his intimidating brawn, he wears a gleaming smile from
+ear to ear as he chats amiably with everyone around him.  He sounds fairly
+educated, which frankly is a surprise.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+BareHandAttack: 5
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9117
+sly ranger woman recruiter~
+the Ranger's Guild recruiter~
+A sly woman from the Ranger's Guild looks over a list of possible candidates.
+~
+   This woman isn't very large, but for some reason, she seems incredibly
+dangerous.  It might be the intimidating bow she has at her side, or the sly,
+bemused grin she gives the meatheads who think they're going to impress little
+children by sparring, or just the fact the she immediately assesses everyone who
+enters the room to see if they're going to pose a problem.  The recruiter
+probably wouldn't beat the other martial recruiters at an arm wrestle, but she
+wouldn't lose any arguments, either, because it's hard to argue when an arrow
+suddenly appears in your throat.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 2
+BareHandAttack: 11
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+#9118
+cityguard recruiter man~
+a cityguard recruiter~
+A cityguard recruiter spars with a guard from another city.
+~
+   It's impossible say what city the recruiter is from because he's put his
+official insignia aside to spar, but he fights with grace and accuracy as he
+spars with the other recruiters.  His arms and head are covered in sweat, and
+his shirt is starting to get soaked as well.  If he's hoping to have any
+intimate recruitment conversations after this, it'll have to be in a
+well-ventilated area, because he smells like unwashed male.
+~
+8 0 0 0 0 0 0 0 100 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+BareHandAttack: 5
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#9119
+druid recruiter elf elven~
+the Druid's Guild recruiter~
+An elven Druid's Guild recruiter is here, relaxing on the patio.
+~
+   The Druid's Guild recruiter is a Green Elf with a kind face.  She wears brown
+robes and plain sandals, and carries a staff.  Basically, she looks like
+everyone's idea of a druid, and it is almost certainly intentional.  She doesn't
+have any orphans interested right now, so she's mulling over some tablets and
+periodically gazing wistfully at the forest beyond the orphanage while she waits
+for a child to spontaneously take interest.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 2
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 5
+Size: 5
+E
+#9120
+mage gnome recruiter~
+the Mage's Guild recruiter~
+A flummoxed gnomish mage is actively failing to be an impressive recruiter.
+~
+   A gnome stands here with a look of plain confusion on his freshly-burnt face
+as he stares off into space.  A recent magical experiment obviously did not go
+the way he'd hoped.  Although he isn't keen to explain, it's apparent from the
+smell of smoke that it involved fire.  Why a gnomish mage was playing with fire
+indoors is anyone's guess, but he was probably trying to create living fireworks
+or some other gnomish nonsense, hoping to impress children after perfecting it.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 4
+E
+#9121
+cleric recruiter woman~
+the Cleric's Guild recruiter~
+The Cleric's Guild recruiter blesses a healing salve for a singed gnome.
+~
+   The Cleric's Guild recruiter obviously got a huge kick out of whatever is was
+the gnome from the Mage's Guild just did, since she's still chuckling, and there
+are traces of tears of mirth running down her pale cheeks.  She is pounding some
+plants into a salve to sooth some of the burns, and looks pretty pleased that
+she took the assignment.  Shining, curly red hair falls in a fiery cascade down
+her head, and she wears some very clericy white robes.
+~
+8 0 0 0 0 0 0 0 100 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 2
+BareHandAttack: 5
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+#9122
+successful recruiter~
+a successful recruiter~
+A recruiter is talking with a young prospect while they sit on a couch.
+~
+   This recruiter appears to have been successful in attracting the attention of
+an orphan girl.  It's unclear who he represents, and since they're off sitting
+off away from others, it would be rude to interrupt to ask.  He speaks quietly,
+but with great enthusiasm as he extolls the virtues of whatever it is.
+~
+8 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+6 6 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+#9123
+recruited orphan older girl prospect~
+a recruited orphan girl~
+An older orphan girl listens attentively to a recruiter.
+~
+   This girl is around age thirteen and is quickly reaching the age when the
+orphans have to leave whether they've found a home or not.  She listens
+attentively to a young man who is telling here all about the glories of
+something or other, and will probably sign up immediately afterwards.  She looks
+like she's a bit bulkier than most girls her age, so he's probably a martial
+recruiter of some kind.
+~
+8 0 0 0 0 0 0 0 100 E
+8 18 5 1d1+80 1d2+1
+80 4800
+6 6 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 4
+E
+#9124
+bockran man coordinator apprenticeship~
+Bockran~
+The apprenticeship coordinator, Bockran, shuffles around some papers on his desk.
+~
+   It looks unfinished.  Bockran, the orphanage's apprenticeship coordinator, is
+a ruddy, short man with a fat cheeks and thick fingers.  He wears the plain
+clothes of his office, but wears some surprisingly fine jewelry as well.  His
+job is to ensure that everyone who applies to recieve an apprentice is properly
+vetted before a child is given permanently to their care.  From reputation, he
+is excellent at his job, and periodically, rumors will circulate about having
+stopped an abusive farmer or a known thief from receiving a child.  He is
+shuffling around the papers on his desk while he considers an application for an
+apprentice.
+~
+8 0 0 0 0 0 0 0 -100 E
+16 15 0 3d3+208 2d2+2
+160 19200
+6 6 1
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+$

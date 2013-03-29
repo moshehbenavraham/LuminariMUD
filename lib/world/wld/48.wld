@@ -1,0 +1,674 @@
+#4800
+Beneath a Leafy Bower~
+   The path leads to an archway shrouded in leafy vines.  A gate made of woven
+sticks has been set within the archway and a strange rune can be seen carved
+into a wooden plague on its surface.  There appears to be no door handle but
+scrapings along the ground at the door's base indicate that it has been opened
+recently.
+~
+48 0 0 0 0 3
+D0
+~
+~
+0 0 4779
+D2
+~
+wooden gate~
+2 0 4801
+D3
+~
+~
+0 0 4802
+E
+rune plague~
+   An elvish rune has been carved into a plague that hangs upon the wooden door.
+It seems to shimmer with a silvery light and sense of peace and enlightenment
+pervades the area.
+~
+S
+#4801
+A Small Glade Along the City Wall~
+   Set along the high stone walls that surround the southeastern section of
+Valcrest, this glade is an oasis for nature lovers.  Trees of every description
+fill the glade, their leafy boughs filled with chattering squirrels and singing
+birds.  Insects buzz around colorful flowers and there is a tranquility here
+that speaks of peace and the enduring beauty of nature.
+~
+48 0 0 0 0 3
+D0
+~
+gate wooden~
+1 0 4800
+D3
+~
+~
+0 0 4803
+S
+#4802
+At the Base of a Weeping Willow~
+   A large weeping willow has spread its tendril-like branches over this section
+of the glade, creating a green room that has been transformed into a makeshift
+vendor's stall.  Visitors to the glade wander through the waterfall of tiny
+leaves to view the wares strung from the low-hanging limbs and set along the
+ground at the base of the willow.  Small globes hung from the branches hold
+magical candles that light the area when the sun goes down, casting a ghostly
+glow over the faces of those who pass on the other side of the walls of leaves.
+~
+48 0 0 0 0 3
+D1
+~
+~
+0 0 4800
+D2
+~
+~
+0 0 4803
+D3
+~
+~
+0 0 4804
+S
+#4803
+A Grotto at the Base of a Stone Wall~
+You are in an unfinished room.
+~
+48 0 0 0 0 3
+D0
+~
+~
+0 0 4802
+D1
+~
+~
+0 0 4801
+D3
+~
+~
+0 0 4805
+S
+#4804
+A Large Clearing~
+   The trees here have grown into a natural circle here, creating a clearing in
+which weapons can be practiced.  Targets have been set up to practice archery as
+well as swordplay and the flat ground shows signs of numerous booted feet
+performing the intricate steps associated with swordplay.
+~
+48 0 0 0 0 3
+D1
+~
+~
+0 0 4802
+D2
+~
+~
+0 0 4805
+S
+#4805
+Inside a Cool Cave~
+You are in an unfinished room.
+~
+48 16 0 0 0 3
+D0
+~
+~
+0 0 4804
+D1
+~
+~
+0 0 4803
+S
+#4806
+The White Mare Inn~
+   The taproom of the White Mare Inn is a cozy room with dark wooden walls and a
+large fireplace against the far wall.  Above the mantel is mounted the head of a
+massive deer, its antlers hung with odd bits of string and bells that jingle
+when a breeze comes through the open doorway.  A long bar with a polished top
+runs the length of the southern wall, tall stools pulled up to its front to give
+customers a place to sit.  The wooden floor of the inn is covered by a large
+woven carpet that has many spots worn thin by boots and stains where spills were
+not immediately cleaned by the staff.  Tables and chairs are scattered around
+the room, each one clean if a little worn with use.  Stairs lead up the northern
+wall towards rooms that can be rented for a good night's rest.  A back room is
+also visible to the west, providing a meeting area for those who wish for more
+privacy.
+~
+48 8 0 0 0 0
+D1
+~
+~
+0 0 4743
+D3
+~
+~
+0 0 4807
+D4
+~
+~
+0 0 4808
+S
+#4807
+A Private Room in the White Mare Inn~
+   This room is rather small, with a table and chairs and several extra chairs
+hung on pegs in the wall.  A large window looks out over a back garden set up
+behind the inn, where herbs are grown for the inn's kitchen.  High on the
+northern and southern wall are glass lanterns that can be lit to add more light
+during the evening hours and heavy curtains allow the window to be covered for
+privacy.  To the east is the main room of the inn, the doorway leading to it
+also covered by a heavy curtain.
+~
+48 8 0 0 0 0
+D1
+~
+~
+0 0 4806
+S
+#4808
+A Cozy Room in the White Mare Inn~
+   This room is nice and warm, largely due to the fact that the stone chimney of
+the fireplace in the taproom runs through the second floor and attics to exit
+the roof above.  A plush carpet is worn near the doorway and a soft bed is
+surrounded by heavy curtains that have seen better days.  A wooden wardrobe
+waits to hold the belongings of the next person to rent the room and pegs on the
+wall by the doorway serve as a place to hang a cloak or hat.  Stairs near the
+doorway lead back down to the common room of the White Mare Inn, where the
+sounds of people talking can be heard.
+~
+48 216 0 0 0 0
+D5
+~
+~
+0 0 4806
+S
+#4809
+The Weapon Shop~
+You are in an unfinished room.
+~
+48 144 0 0 0 0
+D1
+~
+~
+0 0 4715
+S
+#4810
+The Armorer's Shop~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4718
+S
+#4811
+The Supply Shop~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4722
+S
+#4812
+The Mage's Shop~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4759
+S
+#4813
+The Warrior's Guildhall~
+You are in an unfinished room.
+~
+48 8 0 0 0 0
+D0
+~
+~
+0 0 4768
+D2
+~
+~
+0 0 4814
+D3
+~
+~
+0 0 4815
+S
+#4814
+The Warrior's Guildhall~
+You are in an unfinished room.
+~
+48 8 0 0 0 0
+D0
+~
+~
+0 0 4813
+D3
+~
+~
+0 0 4816
+S
+#4815
+The Warrior's Guildhall~
+You are in an unfinished room.
+~
+48 8 0 0 0 0
+D1
+~
+~
+0 0 4813
+D2
+~
+~
+0 0 4816
+S
+#4816
+The Warrior's Guildhall~
+You are in an unfinished room.
+~
+48 8 0 0 0 0
+D0
+~
+~
+0 0 4815
+D1
+~
+~
+0 0 4814
+S
+#4817
+A Large Tower~
+   Rising from the jumble of buildings in the middle of Valcrest, this large
+tower is made of a dark gray stone that has minerals embedded in it.  Because of
+the minerals, both the sun and the moon turn the tower into a glittering spire
+when their rays strike it.  A staircase to the west seems to lead upwards into
+the upper rooms of the tower, the stone steps worn on the edges and chipped in
+places from age and use.  There is a room to the south, although from this
+perspective there is very little to see past stacks of boxes and kegs.
+~
+48 72 0 0 0 0
+D0
+~
+~
+0 0 4709
+D2
+~
+~
+0 0 4818
+D3
+~
+~
+0 0 4819
+S
+#4818
+A Musty Storage Room~
+   Boxes ad Kegs are stacked everywhere in this room, leaving only narrow
+walkways leading to a rear wall where a rack has been affixed to a wall behind a
+long table.  The table itself is strewn with items, ranging from leather skins
+for carrying water to heavy maces embedded with spikes.  A narrow window on the
+southern wall allows a little light to enter from the outside while allowing the
+smoke from a torch nearby to escape before it can fill the room.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4817
+S
+#4819
+A Staircase in the Tower~
+   Following the curve of the tower's outside wall, this staircase leads to the
+upper floors of the tower.  It is just wide enough for two people to walk
+abreast, if they are not very large.  On the inner wall paintings have been
+hung, most of which seem to be of mages from past eras.  A narrow window in the
+outer wall has been covered with a piece of oiled cloth to help keep out the
+drafts and handrails have been mounted on either wall to help those who must
+climb the worn steps.
+~
+48 152 0 0 0 0
+D1
+~
+~
+0 0 4817
+D4
+~
+~
+0 0 4820
+S
+#4820
+A Staircase in the Tower~
+   This landing on the second floor has been lit by a smoking torch hung on one
+wall, its smoke drifting towards a narrow window set in the outer wall of the
+tower.  There is a room off of the landing and the walls include more paintings
+of men and women in robes and clothing from an age gone by.  There is a definite
+sense of mystery in this tower, something that hints at secrets that probably
+should not be revealed.
+~
+48 152 0 0 0 0
+D1
+~
+~
+0 0 4821
+D2
+~
+~
+0 0 4822
+D5
+~
+~
+0 0 4819
+S
+#4821
+Inside a Large Library~
+   Bookshelves reach from floor to ceiling in this room, their shelves lined
+with dusty tomes and rolled scrolls.  Tables stand amidst the shelves, their
+tops stained with melted candle wax and spilled ink.  Windows in the outer walls
+let only a little light into the room and a small breeze drifts by now and then,
+fluttering papers on a nearby table or shelf.  A larger desk has been set up in
+the front of the room, nearest the door, and is stacked high with books and
+papers.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4820
+S
+#4822
+A Staircase in the Tower~
+   This landing on the second floor has been lit by a smoking torch and more
+paintings can be seen by its fluttering light.  A stairway leads up from here
+and a large room can be seen off of the landing just north of here.  A
+distinctive smell hangs in the air here, drifting down from somewhere above to
+fill the lower levels and make the eyes of visitors sting.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4820
+D4
+~
+~
+0 0 4823
+S
+#4823
+A Staircase in the Tower~
+   This landing on the third floor of the tower has a large braided rug lying on
+its stone floor and the oiled curtain over the narrow window has been pulled
+back for ventilation.  A strong smell permeates the air here, although it is not
+quite clear where it is coming from or what it is.  The stairway continues to
+the east and a large room can be seen to the north.  Maybe that is where the
+smell is coming from.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4824
+D1
+~
+~
+0 0 4825
+D5
+~
+~
+0 0 4822
+S
+#4824
+A Dark Laboratory~
+   This room is shrouded in shadows, their depths nearly completely concealing
+long tables lined with an odd assortment of equipment.  The only lights in the
+room are those within glass globes, their flames shielded to avoid igniting the
+materials that stand on shelves that line the walls.  It is obvious to even the
+most simple adventurer that this is a laboratory where potions can be mixed and
+bottled for later use.  A large table near the door has many bottles in crates
+lined with straw standing on it, as if an order is being prepared to be sent
+out.
+~
+48 152 0 0 0 0
+D2
+~
+~
+0 0 4823
+S
+#4825
+A Staircase in the Tower~
+   A braided rug has been spread out on the floor of the landing here, the
+vibrant colors faded with age and use.  The stairs lead up along the outer wall
+of the tower from here, narrow handrails provided stability for those who must
+climb its worn steps.  Although there is a strong smell coming from the room to
+the west of here, the oiled cloths over the narrow windows of the landing have
+been pulled back to allow a faint breeze to stir the air.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4823
+D4
+~
+~
+0 0 4826
+S
+#4826
+A Staircase in the Tower~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4828
+D1
+~
+~
+0 0 4827
+D5
+~
+~
+0 0 4825
+S
+#4827
+An Expansive Hall~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4826
+S
+#4828
+A Staircase in the Tower~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D2
+~
+~
+0 0 4826
+D4
+~
+~
+0 0 4829
+S
+#4829
+A Staircase in the Tower~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D2
+~
+~
+0 0 4830
+D5
+~
+~
+0 0 4828
+S
+#4830
+The Highest Point of the Tower~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4829
+D1
+~
+~
+0 0 4831
+S
+#4831
+A Balcony Overlooking Valcrest~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D3
+~
+~
+0 0 4830
+S
+#4832
+A Small Church~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D0
+~
+~
+0 0 4833
+D3
+~
+~
+0 0 4774
+S
+#4833
+The Vestibule~
+You are in an unfinished room.
+~
+48 152 0 0 0 0
+D2
+~
+~
+0 0 4832
+S
+#4834
+The Taproom of the Blooded Blade~
+You are in an unfinished room.
+~
+48 0 0 0 0 0
+D0
+~
+~
+0 0 4836
+D2
+~
+~
+0 0 4755
+D3
+~
+~
+0 0 4835
+S
+#4835
+A Dark Corner of the Blooded Blade~
+You are in an unfinished room.
+Bard GuildMaster here
+~
+48 0 0 0 0 0
+D1
+~
+~
+0 0 4834
+S
+#4836
+The Bar of the Blooded Blade~
+You are in an unfinished room.
+~
+48 0 0 0 0 0
+D2
+~
+~
+0 0 4834
+D3
+~
+~
+0 0 4837
+S
+#4837
+A Secret Room Behind the Bar~
+You are in an unfinished room.
+Thief/Assassin GuildMaster here
+~
+48 152 0 0 0 0
+D1
+~
+~
+0 0 4836
+S
+#4838
+A Narrow alley~
+You are in an unfinished room.
+~
+48 0 0 0 0 1
+D1
+~
+~
+0 0 4839
+D3
+~
+~
+0 0 4760
+S
+#4839
+A Narrow alley~
+You are in an unfinished room.
+~
+48 0 0 0 0 1
+D1
+~
+~
+0 0 4773
+D3
+~
+~
+0 0 4838
+S
+#4840
+A Garden in the City's Center~
+   Surrounded by a woven branch fence, this garden is filled with beds of
+vegetables and plots filled with flowers of all colors and sizes.  Herbs line
+one fence, their heady aromas vying for dominance over the scents of roses and
+flowering vines that line the opposite fence.  A small gate in the northern
+fence gives access to the area while keeping animals who would eat the plants
+out of the garden.  This appears to be a community garden, tended to and
+harvested by the citizens of Valcrest.
+~
+48 16 0 0 0 1
+D0
+~
+~
+0 0 4708
+S
+#4841
+The Post Office of Valcrest~
+   This small building houses the city Post Office.  This is where citizens and
+visitors alike can retrieve their mail or send mail to others.  A long counter
+fills the front of the store and a large cabinet on the back wall is filled with
+cubbyholes where mail can be sorted as to who the recipient is.  The floor of
+the shop has been scrubbed clean and the paperwork seen on the surface of the
+counter is stacked neatly and held in place with an iron weight.
+~
+48 8 0 0 0 0
+D1
+~
+~
+0 0 4742
+S
+$~

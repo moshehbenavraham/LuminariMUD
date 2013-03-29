@@ -1,0 +1,316 @@
+#27000
+giant vulture~
+the giant vulture~
+A giant vulture is here.
+~
+   It looks hungry.    
+~
+16845020 0 0 0 133184 0 0 0 -1000 E
+14 16 1 2d2+154 4d3+3
+0 14700
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n swoops in from
+Walkout: $n hops a few feet and then takes off to fly
+E
+#27001
+demon horse~
+the demon horse~
+A demon horse is here.
+~
+   The demon horse widens its nostrils and fire burns in its eyes.    
+~
+54570522 0 0 0 264408 2 0 0 -1000 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 9
+SubRace 2: 11
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+Walkin: $n blazes in from
+Walkout: $n blazes
+E
+#27002
+rabid fox~
+the rabid fox~
+A rabid fox is here, drooling heavily.
+~
+   The rabid fox seems almost putrid.    
+~
+16810042 0 0 0 1574976 0 0 0 -900 E
+13 16 2 2d2+143 2d2+2
+0 12675
+8 8 0
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+Walkin: $n sneaks in from
+Walkout: $n sneaks
+E
+#27003
+earth demon~
+the earth demon~
+An earth demon lingers in the air.
+~
+   It is brown and stocky.    
+~
+33679960 0 0 0 854232 33554434 0 0 -900 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 8
+SubRace 2: 10
+SubRace 3: 9
+Race: 8
+Class: 3
+Size: 5
+Walkin: $n rumbles in from
+Walkout: $n rumbles
+E
+#27004
+evil bird~
+the evil bird~
+An evil bird is here.
+~
+   It is raven black with bright, gleeming, yellow eyes.    
+~
+16777288 0 0 0 131088 0 0 0 -1000 E
+14 16 1 2d2+154 2d2+2
+0 14700
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 9
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+Walkin: $n swoops in from
+Walkout: $n flies
+E
+#27005
+iodocentipedus~
+the iodocentipedus~
+An Iodocentipedus crawls around here very slowly.
+~
+   It is a mixture of colors, blue, red and brown, totally lacking hair on its
+plated body.    
+~
+6154 0 0 0 0 0 0 0 -700 E
+15 15 1 3d3+195 2d2+2
+0 16875
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#27006
+fanged reindeer~
+the fanged reindeer~
+A fanged reindeer walks around here looking for food.
+~
+   It is awesome, at least by reindeer standards!    
+~
+16787486 0 0 0 2128 0 0 0 -1000 E
+14 16 1 2d2+154 2d2+2
+0 14700
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 9
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+E
+#27007
+hill ghoul~
+the hill ghoul~
+An hill ghoul walks and walks and walks here.
+~
+   It is large, white and looks MAD!!!    
+~
+16446 0 0 0 1116352 2 0 0 -1000 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 9
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 0
+Size: 5
+E
+#27008
+stone ogre~
+the stone ogre~
+A stone ogre tramples around.
+~
+   The ogre seems confused.    
+~
+33626126 0 0 0 2128 2 0 0 -800 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 8
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+#27009
+ice troll~
+the ice troll~
+An ice troll mutters about.
+~
+   It is covered with a thick ice armor.  And it certainly looks ready for
+battle.    
+~
+41022 0 0 0 1116240 90626 0 0 -1000 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 7
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 3
+Size: 5
+E
+#27010
+lithophiliac~
+the lithophiliac~
+A lithophiliac is here, burping his ass off.
+~
+   He is skinny but still a scary beeing, presuambly because of his dreadful
+smell.    
+~
+14 0 0 0 4 0 0 0 200 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#27011
+ice wizard~
+the ice wizard~
+The Wizard of ice-molding looks grimly at YOU!!
+~
+   He is of average height wearing a long silvery robe covered with small ice
+crystals.  He seems very intelligent with his long frosty beard and sharp
+looks.    
+~
+24606 0 0 0 80 512 0 0 -1000 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 7
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+#27012
+stormbringer~
+the stormbringer~
+The stormbringer sweeps around here.
+~
+   The stormbringer is HUGE but still swift.    
+~
+24606 0 0 0 84 4194304 0 0 -1000 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 1
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 7
+Size: 5
+E
+$

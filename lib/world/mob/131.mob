@@ -1,0 +1,1286 @@
+#13100
+Grindlink man old frail hermit~
+@YGrindlink@n~
+@YGrindlink the bog dwelling hermit stands here looking at his garden.
+~
+@YThis old man stands peacefully tending his garden.  Long white hair flows
+freely blending itself into a long snow white beard.  Leaning on an old, gnarled
+walking staff he bends to closely inspect his ripening vegetables.  He is thin
+and frail with skin fitting loosely about his visible bones.
+~
+534542 0 0 0 67174480 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+BareHandAttack: 10
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 0
+Size: 5
+E
+#13101
+young male troll~
+@ya tr@go@yll@n~
+@yA young male @ytr@go@yll stands here.@n
+~
+It looks unfinished.
+@yA young male @ytr@go@yll regards you as he idly picks his teeth.@n
+~
+2056 0 0 0 524352 0 0 0 0 E
+8 18 5 1d1+80 1d2+1
+80 5100
+8 8 1
+BareHandAttack: 9
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 16
+SubRace 2: 9
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13102
+troll young female~
+@yA t@grol@yl@n~
+@yA young t@grol@yl female@g stands here.@n
+~
+@gThis female troll is developing into an adolescent.@n
+~
+2060 0 0 0 2048 0 0 0 0 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 2
+BareHandAttack: 8
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13103
+female troll child~
+@ga t@yr@goll@n~
+@gA female @gt@yr@goll@n child plays here.@n
+~
+@gA small troll child is here covered with @Dmud@g and @ydirt@g.@n
+~
+2056 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+BareHandAttack: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 1
+Size: 5
+E
+#13104
+troll male child~
+@gA @gt@yro@Dl@gl~
+@gA male @gt@yro@Dl@gl child stands here.
+~
+It looks unfinished.
+@gThis young male troll lurks.@n
+~
+2060 0 0 0 2048 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 7
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 5
+E
+#13105
+dragonfly fly~
+@Ca @Bd@Cr@Ba@Cg@Bo@Cn@Bf@Cl@By@n~
+@cA @Bd@Gr@Ba@Gg@Bo@Gn@Bf@Gl@By@N @chovers here.@n
+~
+Broad, gossamer wings reflect the light in brilliant colors as they beat
+rapidly.  Huge eyes adorn an oversized head at the front of a long, slender body
+with metallic skin.
+~
+8 0 0 0 8519744 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+BareHandAttack: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 3
+E
+#13106
+frog~
+@Ga frog@n~
+@GA frog sits here.@n
+~
+@GA frog sits here quietly waiting for an unwary fly to buzz in just close
+enough to eat.@n
+~
+152 0 0 0 1074004096 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+0 900
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 2
+E
+#13107
+toad~
+@ga t@yoa@gd@N~
+@gA t@yoa@gd idles here quietly.@n
+~
+@yA fat little creature.  This toad looks like he eats well.@n
+~
+136 0 0 0 1074004096 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 4
+Size: 3
+E
+#13108
+baby crocodile hatchling~
+a @Gbaby crocodile@n~
+A @Gbaby crocodile@n is here devouring a large dead fish.
+~
+@GThis little lizard is but a wee hatchling, it fights greedily for its share of meat.@n
+~
+152 0 0 0 1074006144 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 0
+BareHandAttack: 4
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 2
+Size: 3
+E
+#13109
+alligator baby hatchling~
+@gan alligator hatchling@n~
+@gAn alligator hatchling moves about looking for food.@n
+~
+@gThis little lizard has rows of needle sharp teeth.@n
+~
+152 0 0 0 1074004032 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+0 1200
+8 8 0
+BareHandAttack: 4
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 2
+E
+#13110
+vulture bird buzzard~
+@DA @mvult@Du@mre~
+@DA @mvult@Du@mre @Dis perched here.@n
+~
+@DThis large ugly bird stares at you quietly with beady eyes.@n
+~
+65672 0 0 0 1074462720 0 0 0 0 E
+7 18 5 1d1+70 1d2+1
+0 3675
+6 6 0
+BareHandAttack: 4
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 4
+E
+#13111
+muskrat rat~
+@DA @ymusk@Drat@n~
+@DA @ymusk@Drat @gmoves through the weeds.@n
+~
+@yA large greasey haired rat with short legs and a long hairless tail.@n
+~
+2056 0 0 0 1835136 0 0 0 0 E
+8 18 5 1d1+80 1d2+1
+0 5200
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 3
+E
+#13112
+hound bog boghound~
+@gA @Dbog@yhound@n~
+@yA @Dbog@yhound stands here with his nose to the wind.@n
+~
+@yThis large mangy beast looks half starved.  Its teeth are yellow and cracked as
+it snarls at you, ears back.  Despite its decrepit state the beast looks
+formidable.  @n
+~
+2072 0 0 0 67108928 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+0 13000
+8 8 0
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 5
+E
+#13113
+snapping turtle~
+@ya @gsn@ya@gpping @yt@gurtle@n~
+@yA @gsn@ya@gpping @yt@gurtle blends into its surroundings as best it can.
+~
+@yA @gsn@ya@gpping @yt@gurtle crawls along slowly.  A large hard shell sprouting four legs a head and a tail.  Although slow this beast looks formidable with long claws and a beak-like snout.    
+~
+2056 0 0 0 1048704 0 0 0 0 E
+9 19 -10 1d100+200 1d2+4
+0 8000
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 5
+E
+#13114
+small turtle~
+@ga s@Ym@Ga@gl@Gl t@gu@Gr@gt@Gl@ge@n~
+@gA s@Ym@Ga@gl@Gl t@gu@Gr@gt@Gl@ge@n sits here quietly.@n
+~
+@GThis small turtle moves along slowly minding his own business.  Its hard glossy shell is dark green with a high dome.  Its head is aslo dark green with three bright yellow @Ystripes @Grunning from its nose back into its shell.@n
+~
+136 0 0 0 1073743872 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+0 900
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 2
+E
+#13115
+young alligator~
+@ga @Gyoung @galligator@n~
+@ga @Gyoung @galligator lays here motionless.@n
+~
+@gThis medium sized alligator rests on his stomach motionless.  Still a log it waits for unsuspecting prey to stray too close.@n
+~
+67592 0 0 0 17827968 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+0 15000
+8 5 0
+BareHandAttack: 10
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 5
+E
+#13116
+young crocodile~
+@ga young @Gcrocodile@n~
+@gA young @Gcrocodile @glays here motionless.@n
+~
+It looks unfinished.
+@GThis long thin lizard slinks along slowly as it searches for territory of its own.@n
+~
+67592 0 0 0 1050816 0 0 0 0 E
+15 18 -2 3d3+400 2d2+6
+0 19000
+8 8 0
+BareHandAttack: 10
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 4
+Size: 5
+E
+#13117
+bog beast~
+@Da bog beast@n~
+@DA bog beast@w stands here snarling.@n
+~
+@DThis monstrous beast has four legs.  It looks like a cross between a wolf and a
+bear.  It has large ears and a short stubby tail.  It seems to be ignoring all
+around it as it goes about its business.  @n
+~
+2056 0 0 0 64 0 0 0 0 E
+25 10 -7 5d5+800 4d4+10
+0 49000
+8 8 0
+BareHandAttack: 9
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13118
+wood nymph~
+@Ga @Ywood @Mnymph@n~
+@yA @Ywood @Mnymph @ydarts about energeticly.@n
+~
+@MThis lithe little creature fritters around with youthful exuberance.  Her @Yhair@M is long and golden accented by the small @Bflower @Mis tucked behind her left ear.  Her @yskin @Mis a soft brown matching the color of the bark of the tree.  She wears a skimpy little @Gdress@M made of willow leaves, her every movement revealing a small section of succulent skin.@n
+~
+563214 0 0 0 1050688 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 5
+Size: 4
+E
+#13119
+bog boar~
+@ya @Db@yo@Dg @yb@Do@ya@Dr@n~
+@yA @Db@yo@Dg @yb@Do@ya@Dr @yroots around here.@n
+~
+@yThis large wild pig has long @Wtusks@y and coarse wiry hair.  A long thin tail coils up over his haunches.@n
+~
+65544 0 0 0 16777216 0 0 0 0 E
+14 16 1 2d2+200 30d2+2
+0 14700
+8 8 0
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13120
+adult alligator~
+@Gan adult alligator@n~
+@GAn adult alligator@g moves along here very slowly.@n
+~
+@GRows of @Wsharp@G teeth line the mouth of this monster lizard.@n
+~
+2056 0 0 0 1050816 0 0 0 0 E
+20 17 -3 4d4+400 3d3+9
+0 32000
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 6
+E
+#13121
+adult crocodile croc~
+@gan adult crocodile@n~
+@gA large croc idles here watching you intently.@n
+~
+@gThis huge croc has tough green skin and a mouth full of menacing teeth.@n
+~
+2164744 0 0 0 18090176 0 0 0 0 E
+28 14 -8 5d5+800 4d4+12
+0 61000
+8 8 0
+BareHandAttack: 10
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 7
+E
+#13122
+troll rogue~
+@Da troll @mrogue@n~
+@DA troll @mrogue @Dlurks here.@n
+~
+@DA troll @mrogue @Dis here waiting for the opportunity to attack unseen.@n
+~
+526394 0 0 0 119080976 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+BareHandAttack: 11
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 6
+E
+#13123
+troll rogue~
+@Da troll @mrogue@n~
+@DA troll @mrogue @Dlurks here.@n
+~
+@DA troll @mrogue @Dis here waiting for the opportunity to attack unseen.@n
+~
+526362 0 0 0 117508112 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+BareHandAttack: 11
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 6
+E
+#13124
+troll shaman~
+@ga troll shaman@n~
+@gA troll shaman stands here.@n
+~
+@gA female troll shaman stands here in quiet meditation.  Her massive form bulging muscles ripple dispite her relaxed state.@n
+~
+6154 0 0 0 2680 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+BareHandAttack: 5
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 1
+Size: 6
+E
+#13125
+troll shaman~
+@ga troll shaman@n~
+@gA troll shaman stands here.@n
+~
+@gA female troll shaman stands here in quiet meditation.  Her massive form bulging muscles ripple dispite her relaxed state.@n
+~
+526348 0 0 0 2168 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+BareHandAttack: 5
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 1
+Size: 6
+E
+#13126
+troll sentry warrior~
+@Ba troll sentry@n~
+@BA troll sentry stands ready for battle.@n
+~
+@BA massive troll stands here dutifully keeping watch for intruders.  She appears to be under some sort of spell, standing here almost trancelike.  With a thousand yard stare in her eyes she stands perfectly still watching the trail in front of her.@n
+~
+530442 0 0 0 2560 0 0 0 0 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 2
+BareHandAttack: 5
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13127
+troll warrior~
+@Ba troll sentry@n~
+@BA troll warrior stands ready for battle.@n
+~
+@BA massive troll stands here idly.  Despite her relaxed posture the muscles beneath her armor ripple with power.@n
+~
+526350 0 0 0 2048 0 0 0 0 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 2
+BareHandAttack: 5
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13128
+male troll berserker sentry~
+@ra troll sentry@n~
+@rA troll sentry stands ready for battle.@n
+~
+@rA massive troll stands here dutifully keeping watch for intruders.  He appears to be under some sort of spell, standing here almost trancelike.  With a thousand yard stare in his eyes he stands perfectly still watching the trail in front of him.@n
+~
+530474 0 0 0 83888640 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 1
+BareHandAttack: 9
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 6
+E
+#13129
+male troll berserker sentry~
+@ra troll berserker@n~
+@rA troll stands here looking tense,@n
+~
+@rA massive troll stands here with a crazy look in his eyes, as if he could come unhinged at the slightest provocation.@n
+~
+530472 0 0 0 83888128 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 1
+BareHandAttack: 9
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 6
+E
+#13130
+male troll berserker sentry~
+@ra troll berserker~
+@rA troll sentry stands ready for battle.@n
+~
+@rA massive troll stands here dutifully keeping watch for intruders.  He appears to be under some sort of spell, standing here almost trancelike.  With a thousand yard stare in his eyes he stands perfectly still watching the trail in front of him.@n
+~
+530474 0 0 0 83888640 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 1
+BareHandAttack: 9
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 6
+E
+#13131
+troll rogue~
+@Da troll @mrogue@n~
+@DA troll @mrogue @Dlurks here.@n
+~
+@DA troll @mrogue @Dis here waiting for the opportunity to attack unseen.@n
+~
+526394 0 0 0 119080976 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+BareHandAttack: 11
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 6
+E
+#13132
+adolescent troll female~
+@gan @Gadolescent @ytro@gl@yl@n~
+@gAn @Gadolescent @ytro@gl@yl is here eyeing her surroundings.@n
+~
+@gThis troll is blooming into adulthood,  Her muscles ripple under her skin.@n
+~
+526348 0 0 0 2112 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 6
+E
+#13133
+python snake~
+@ga p@yy@gt@yh@go@yn@n~
+@gA p@yy@gt@yh@go@yn @glays in wait.@n
+~
+@gThis large snake is patterned in @ybrown @gand green, its scales glisten as if wet.@n
+~
+67720 0 0 0 1640576 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+6 8000
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 5
+E
+#13134
+python snake~
+@ya p@gy@gt@yh@go@yn@n~
+@yA p@gy@gt@yh@go@yn lies in wait.@n
+~
+@yThis large snake is patterned in @ggreen @yand brown, its scales glisten as if wet.@n
+~
+67720 0 0 0 1640576 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+0 11000
+8 8 0
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 5
+E
+#13135
+kobold lost wandering~
+@ga lost kobold@n~
+@gA lost kobold is wandering here.@n
+~
+@gThis creature looks a lot like a biped crocodile.@n
+~
+526348 0 0 0 1050624 0 0 0 0 E
+14 16 3 2d2+154 2d2+3
+140 16000
+8 8 1
+BareHandAttack: 8
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 4
+E
+#13136
+green hag~
+@ga green h@Ga@gg@n~
+@gA green h@Ga@gg @Dlurks here.
+~
+@gShe is covered with moss which hangs loosely over pale and dirty skin.@n
+~
+526348 0 0 0 68159736 2 0 0 0 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 2
+BareHandAttack: 8
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 5
+E
+#13137
+ha naga ha-naga~
+@GAn ha-naga@n~
+@GAn ha-naga slithers here.@n
+~
+@GThis creature is bright green, its scales glisten as if polished.  It has large powerful arms and a snakes body.@n
+~
+10264 0 0 0 68683968 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+BareHandAttack: 2
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 6
+E
+#13138
+wood elf green~
+@ga green @yelf@n~
+@gA green @yelf @Dstalks @yhere.@n
+~
+@gThis elf has brown skin and brown hair.  He is clothed in furs and leathers.@n
+~
+526360 0 0 0 526400 0 0 0 0 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 1
+BareHandAttack: 13
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+#13139
+wood elf green~
+@ga green @yelf@n~
+@gA green @yelf @Dstalks @yhere.@n
+~
+@gThis elf has brown skin and brown hair.  She is clothed in furs and leathers. @n
+~
+526360 0 0 0 526400 0 0 0 0 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 2
+BareHandAttack: 13
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+#13140
+wild elf~
+@ya @gw@yi@gl@yd @gelf@n~
+@yA @gw@yi@gl@yd @gelf blends in quietly.@n
+~
+@gThis elf has wild eyes and unkempt hair.@n
+~
+526360 0 0 0 1640512 0 0 0 0 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 1
+BareHandAttack: 8
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 5
+E
+#13141
+wild elf~
+@ya @gw@yi@gl@yd @gelf@n~
+@yA @gw@yi@gl@yd @gelf blends in quietly.@n
+~
+@gThis elf has wild eyes and unkempt hair.@n
+~
+526360 0 0 0 1640512 0 0 0 0 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 2
+BareHandAttack: 8
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 5
+E
+#13142
+lizardfolk lizard folk~
+@ga @Dl@giza@yr@gd@yf@go@Dl@gk@n~
+@gA @Dl@giza@yr@gd@yf@go@Dl@gk stands here ready for anything.@n
+~
+@gThis beast stands on two legs, it has a massive tail and heavily muscled arms separated by a massive chest.@n
+~
+534536 0 0 0 67110976 0 0 0 0 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+#13143
+lizardfolk lizard folk~
+@ga l@Gi@gz@ya@grd@yf@go@Gl@gk@n~
+@gA l@Gi@gz@ya@grd@yf@go@Gl@gk stands here ready for anything.@n
+~
+@gThis beast stands on two legs, it has a massive tail and heavily muscled arms separated by a massive chest.@n
+~
+534536 0 0 0 67110976 0 0 0 0 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 2
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+#13144
+anaconda snake~
+@gan a@yn@ga@Dc@go@yn@gd@Da@n~
+@gAn a@yn@ga@Dc@go@yn@gd@Da @gmoves here very slowly.@n
+~
+@DThis massive serpent looks more like a water logged tree then a snake.@n
+~
+67592 0 0 0 17107008 0 0 0 0 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 7
+E
+#13145
+anaconda snake~
+@yan a@gn@Da@gc@yo@gn@Dd@ga@n~
+@yAn a@gn@Da@gc@yo@gn@Dd@ga @ymoves here very slowly.@n
+~
+@DThis massive serpent looks more like a water logged tree then a snake.@n
+~
+67592 0 0 0 17107008 0 0 0 0 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 7
+E
+#13146
+snake boa constrictor~
+@ga @gb@Go@ga @Gc@go@Gn@gs@Gt@gr@Gi@gc@Gt@go@Gr@n~
+@gA @gb@Go@ga @Gc@go@Gn@gs@Gt@gr@Gi@gc@Gt@go@Gr @gslithers here.@n
+~
+@gThis snake moves slowly.@n
+~
+75800 0 0 0 1116224 0 0 0 0 E
+16 15 0 3d3+208 2d2+2
+160 19200
+8 8 0
+BareHandAttack: 4
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 5
+E
+#13147
+snake boa constrictor~
+@ga @gb@yo@ga @yc@go@yn@gs@yt@gr@yi@gc@yt@go@yr@n~
+@gA @gb@yo@ga @yc@go@yn@gs@yt@gr@yi@gc@yt@go@yr @gslithers through the weeds.@n
+~
+@gThis snake moves slowly.@n
+~
+75800 0 0 0 1116224 0 0 0 0 E
+17 15 0 3d3+221 2d2+2
+170 21675
+8 8 0
+BareHandAttack: 4
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 2
+Size: 5
+E
+$

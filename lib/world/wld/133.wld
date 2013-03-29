@@ -1,0 +1,62 @@
+#13300
+quagmire load room~
+undefined~
+133 8 0 0 0 0
+D0
+~
+~
+0 0 13203
+D1
+~
+~
+0 0 13301
+D2
+~
+~
+0 0 13251
+D3
+~
+~
+0 0 13113
+D4
+~
+~
+0 0 13115
+D5
+~
+~
+0 0 13245
+S
+#13301
+The Void~
+   You don't think that you are not floating in nothing.  You can see
+a strange portal located above you.
+~
+133 0 0 0 0 0
+D0
+~
+~
+0 0 13170
+D1
+~
+~
+0 0 13181
+D2
+~
+~
+0 0 13177
+D3
+~
+~
+0 0 13300
+D4
+~
+~
+0 0 13158
+D5
+~
+~
+0 0 13106
+S
+T 1200
+$~

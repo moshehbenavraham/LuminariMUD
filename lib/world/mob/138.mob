@@ -1,0 +1,56 @@
+#13800
+long horned sheep~
+@wa long horned sheep@n~
+@wA long horned sheep grazes here.@n
+~
+@wThis animal is wooley with heavy horns that wrap around the side of its head.@n
+~
+8 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 7
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 4
+E
+#13802
+inn innkeep bub barkeep Milek~
+@YMilek@n~
+@YMilek the innkeep tends bar here.@n
+~
+@wHe is dressed in a clean white shirt and blue @capron@w.  He has a large and
+neatly trimmed mustache and curly golden locks that hang over his ears and just
+over his collar.  @n
+~
+530462 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+1500 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+$

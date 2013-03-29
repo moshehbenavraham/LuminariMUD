@@ -1,0 +1,696 @@
+#2900
+@YShard's Crystal Void~
+This void of space and time contains specks of light from distant stars.  A
+large glowing crystal hovers in the void.  Gaseous nebulas swirl in a playful
+dance of colors and depth.
+~
+29 0 0 0 0 10
+D1
+~
+~
+0 0 2901
+E
+crystal~
+A large glowing sea blue crystal hums with power and force.
+~
+S
+#2901
+The Gates Of Masbath~
+   Large iron gates stand between massive stone blocks.  The massive blocks
+create an impass, not to mention the gate.  Atop the walls figures can been seen
+walking back and forth.  Dense underbrush runs from the treeline to the south up
+to walls.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2902
+E
+archway~
+A wooden archway.
+~
+S
+#2902
+Commoner's Road~
+   Standing on Commoner's Road is a sign pointing left and right.  Each
+direction reveals small wooden huts, some with smoke bellowing from them.  The
+pathway is made from carved stones, providing easy travel.  
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2903
+D2
+~
+~
+0 0 2901
+D3
+~
+~
+0 0 2927
+E
+statue~
+A small statue to the gods.
+~
+S
+#2903
+Commoner's Road~
+   The cobblestone road extends east then turns north after giving passage to a
+building.  A guard house rests to the north.  The massive stone blocks creating
+the wall are covered in moss.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2932
+D1
+~
+~
+0 0 2904
+D3
+~
+~
+0 0 2902
+S
+#2904
+Commoner's Road~
+   The road turn to the north after a small move east.  A bunkhouse can be seen
+in the distance.  The cobblestone provides a firm footing.  One of the stones is
+missing.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2905
+D3
+~
+~
+0 0 2903
+S
+#2905
+Commoner's Corner~
+   The road extends north and west in this spot.  To the east is a bunkhouse.  
+The cobblestone path is in terrible shape.  Moss covers the stone wall to the
+south.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2908
+D1
+~
+~
+0 0 2906
+D3
+~
+~
+0 0 2904
+S
+#2906
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2907
+D3
+~
+~
+0 0 2905
+S
+#2907
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D2
+~
+~
+0 0 2906
+D3
+~
+~
+0 0 2908
+S
+#2908
+Gold Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2909
+D1
+~
+~
+0 0 2907
+D2
+~
+~
+0 0 2905
+S
+#2909
+Gold Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2912
+D1
+~
+~
+0 0 2910
+D2
+~
+~
+0 0 2908
+S
+#2910
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2911
+D3
+~
+~
+0 0 2909
+S
+#2911
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D2
+~
+~
+0 0 2910
+D3
+~
+~
+0 0 2912
+S
+#2912
+Gold Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2913
+D1
+~
+~
+0 0 2911
+D2
+~
+~
+0 0 2909
+S
+#2913
+Gold Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2916
+D1
+~
+~
+0 0 2914
+D2
+~
+~
+0 0 2912
+S
+#2914
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2915
+D3
+~
+~
+0 0 2913
+S
+#2915
+Orc Bunk~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D2
+~
+~
+0 0 2914
+D3
+~
+~
+0 0 2916
+S
+#2916
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2915
+D2
+~
+~
+0 0 2913
+D3
+~
+~
+0 0 2917
+S
+#2917
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2916
+D3
+~
+~
+0 0 2918
+S
+#2918
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2917
+D2
+~
+~
+0 0 2931
+D3
+~
+~
+0 0 2919
+S
+#2919
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2918
+D3
+~
+~
+0 0 2920
+S
+#2920
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2919
+D3
+~
+~
+0 0 2921
+S
+#2921
+Noble's Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2920
+D2
+~
+~
+0 0 2922
+S
+#2922
+Silver Road~
+This unfinished room was created by Shard.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2921
+D2
+~
+~
+0 0 2923
+S
+#2923
+Silver Road~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2922
+D1
+~
+~
+0 0 2928
+D2
+~
+~
+0 0 2924
+S
+#2924
+Silver Road~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2923
+D2
+~
+~
+0 0 2925
+S
+#2925
+Silver Road~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2924
+D2
+~
+~
+0 0 2926
+S
+#2926
+Commoner's Corner~
+   The corner of this road stops as the wall turns providing shelter to it's
+dwellers.  To the north Silver Road Extends towards the market district.  The
+gatehouse can be seen to east, past a large pile of garbge.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2925
+D1
+~
+~
+0 0 2927
+S
+#2927
+Commoner's Road~
+   Commoner's Road extends the length of the city running east and west along
+the south wall.  To the north is a large pile of garbage.  The road is made from
+cobblestone and provides firm ground to walk upon.  The smell here is terrible.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2934
+D1
+~
+~
+0 0 2902
+D3
+~
+~
+0 0 2926
+S
+#2928
+Market Avenue~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2929
+D3
+~
+~
+0 0 2923
+S
+#2929
+Market Avenue~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2930
+D3
+~
+~
+0 0 2928
+S
+#2930
+Market Avenue~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2931
+D3
+~
+~
+0 0 2929
+S
+#2931
+Market Avenue~
+You are in an unfinished room.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2918
+D2
+~
+~
+0 0 2930
+S
+#2932
+Guard House~
+   Sitting in the guard house are cells used to hold law-breakers.  The guard
+captain's office sits to the east.  A large clerical desk rests near the west
+wall.  Three lamps hang providing light for the inhabitants.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2933
+D2
+~
+~
+0 0 2903
+S
+#2933
+Guard's Office~
+   A desk sits in the center of the room as bookcases line the walls.  A wooden
+end table holds a lamp providing light into the room.  A large red and black
+flag is hung on the wall.
+~
+29 0 0 0 0 0
+D3
+~
+~
+0 0 2932
+S
+#2934
+Garbage Pile~
+   A large pile of garbage from the outpost.  The stench is terrible.  The
+garbage is contained by a wooden gate.
+~
+29 0 0 0 0 0
+D2
+~
+~
+0 0 2927
+S
+#2950
+@YBrigantine Square@n~
+   A large ring of marble rocks two and three feet in size line a walkway which
+intersects this newly created village.  The dirt is soft and fine.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2952
+D1
+~
+~
+0 0 2951
+D2
+~
+~
+0 0 2954
+D3
+~
+~
+0 0 2953
+S
+#2951
+@YBrigantine School@n~
+   Paper is strewn across a table to the east.  Candles hang from the walls
+providing light for schollars that study here.  Bookcases made of oak line the
+north and south walls.
+~
+29 0 0 0 0 0
+D3
+~
+~
+0 0 2950
+E
+table~
+Old maps and other relics from the first age.
+~
+E
+relics~
+Small statues of dragons are shown in drawings.
+Large polished saphires, rubies and diamonds act as paper wieghts.
+~
+E
+bookcase~
+Various books regarding "The Ages"
+The Dragon Legacy
+The First Age
+The Second Age
+~
+E
+gems~
+Very large gems of masterfull quailty.
+~
+S
+#2952
+@YBrigantine Weaponsmith@n~
+   Weapons rest upon the walls.  The floor is littered with stands for oddly
+shaped polearms, swords and other munitions.  A counter towards the north wall
+sits in front of a bookcase.
+~
+29 0 0 0 0 0
+D2
+~
+~
+0 0 2950
+E
+bookcase~
+A vast array of books lay upon the shelves of this oak bookcase.
+~
+E
+counter~
+Upon the four foot tall counter sits a small metal lockbox.
+~
+E
+lockbox~
+The lockbox appears to be under some sort of spell.
+~
+S
+#2953
+@YBrigantine Armorsmith@n~
+   Armor stands carry all sorts of different types of protection.  The counter
+is along the west wall.  Shields hang from the wall to the north.
+~
+29 0 0 0 0 0
+D1
+~
+~
+0 0 2950
+E
+lockbox~
+It seems to be magically guarded.
+~
+E
+counter~
+A lockbox rests here.
+~
+S
+#2954
+@YBrigantine Tavern@n~
+   Four large oak pillars hold the second story of the tavern.  A small stage to
+the south and the floorspace is dominated by tables for patrons.  A stoic man
+stands behind the counter serving thirsty travelers.
+~
+29 0 0 0 0 0
+D0
+~
+~
+0 0 2950
+D4
+~
+~
+0 0 2955
+D5
+~
+~
+0 0 2956
+S
+#2955
+@YBrigantine Bunkhouse@n~
+   A straw bed lays on the floor near the south wall.  A small lamp provides dim
+light to the room.
+~
+29 0 0 0 0 0
+D5
+~
+~
+0 0 2954
+E
+lamp~
+It's not that kind of lamp.
+~
+S
+#2956
+@YNewbie Arena Entrance@n~
+   A small paddock into the arena stands here.  The walls are made from wood.  
+~
+29 0 0 0 0 0
+D4
+~
+~
+0 0 2954
+S
+$~

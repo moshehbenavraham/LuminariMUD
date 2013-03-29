@@ -1,0 +1,304 @@
+#6800
+A proposal~
+   Builder: Anson, Zone: 68 A Ransacked Mine, Player level: 3-7, Rooms: 20,
+Mobs: 3, Objects: ?  , Triggers: ?  , Theme: A Dwarven mine is overrun by a band
+of imps.  A vision of the dwarves' deceased clanhead guides you through the
+story.  Imps populate the mine - most densely in the lower levels.  Would like
+zone to be on the southern face of one of them mountain northeast of Mage's
+Tower.  No quests in mind yet - I want the storyline/storytelling to be the
+prime focus of the zone.  
+~
+68 0 0 0 0 0
+S
+#6801
+Before the Mine~
+ A stone archway stands nearly indiscernable against the backdrop of the brown
+mountain.  Moss clings to the bricks like a child suckling at its mother's teat,
+and vines slowly creep upward, as if to snatch it away in its green fingers.  
+Sparse plantlife scales the face of the mountain.  Underfoot, a long forgotten
+path leads from the increasingly dense forest of the south to the entrance of
+the mine.
+~
+68 0 0 0 0 3
+D0
+~
+~
+0 0 6802
+S
+#6802
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D2
+~
+~
+0 0 6801
+D5
+~
+~
+0 0 6803
+S
+#6803
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D4
+~
+~
+0 0 6802
+D5
+~
+~
+0 0 6804
+S
+#6804
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6805
+D4
+~
+~
+0 0 6803
+S
+#6805
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6811
+D1
+~
+~
+0 0 6810
+D2
+~
+~
+0 0 6804
+D3
+~
+~
+0 0 6806
+S
+#6806
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6808
+D1
+~
+~
+0 0 6805
+D2
+~
+~
+0 0 6809
+D3
+~
+~
+0 0 6807
+S
+#6807
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D1
+~
+~
+0 0 6806
+S
+#6808
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D2
+~
+~
+0 0 6806
+S
+#6809
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6806
+S
+#6810
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D3
+~
+~
+0 0 6805
+S
+#6811
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6813
+D1
+~
+~
+0 0 6812
+D2
+~
+~
+0 0 6805
+S
+#6812
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D3
+~
+~
+0 0 6811
+S
+#6813
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D2
+~
+~
+0 0 6811
+D5
+~
+~
+0 0 6814
+S
+#6814
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6815
+D4
+~
+~
+0 0 6813
+S
+#6815
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D2
+~
+~
+0 0 6814
+D3
+~
+~
+0 0 6816
+S
+#6816
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D0
+~
+~
+0 0 6817
+D1
+~
+~
+0 0 6815
+S
+#6817
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D1
+~
+~
+0 0 6818
+D2
+~
+~
+0 0 6816
+S
+#6818
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D1
+~
+~
+0 0 6819
+D3
+~
+~
+0 0 6817
+S
+#6819
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D3
+~
+~
+0 0 6818
+D5
+~
+~
+0 0 6820
+S
+#6820
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D1
+~
+~
+0 0 6821
+D4
+~
+~
+0 0 6819
+S
+#6821
+An unfinished room~
+You are in an unfinished room.
+~
+68 0 0 0 0 0
+D3
+~
+~
+0 0 6820
+S
+$~

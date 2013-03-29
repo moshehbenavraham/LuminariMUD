@@ -1,0 +1,456 @@
+#10400
+Lena~
+Lena~
+Map maker Lena sits behind the desk selling and making maps.
+~
+   It looks unfinished.  She has beautiful fair skin, her clothing looks new, a
+nice silk shirt, and a pair of silk pants.  Her long whit hair flows gently down
+her back, and she wears a small pair of half-moon glasses.  
+~
+10 0 0 0 120 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 2
+Size: 5
+E
+T 10406
+#10401
+Chwin~
+Chwin~
+Chwin stands behind his desk polishing a sword.
+~
+   Chwin has a rugged look about him, his cloths are torn in some places, and
+his hair is all messed up.  
+~
+10 0 0 0 120 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 2
+Size: 5
+E
+T 10406
+#10402
+Arwin Mic'Zell~
+Arwin Mic'Zell~
+Arwin Mic'Zell fiddles with some armour behind his desk.
+~
+   It looks unfinished.  Arwin Mic'Zell wears some of the finest cloths you have
+ever seen, they seem to be custom made, and very expensive.  He has short blond
+hair, and he stands rather tall.  
+~
+10 0 0 0 120 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 4
+Class: 4
+Size: 5
+E
+T 10406
+#10403
+elven townsmen~
+an elven townsmen~
+An elven townsmen walks around the city.
+~
+   It looks unfinished.  It is hard to tell this townsmen from the others, they
+all look almost exactly the same, his hair is blond, and shoulder length.  His
+cloths look new and he has a peaceful aura about him.  
+~
+72 0 0 0 96 0 0 0 0 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 5
+Size: 5
+E
+#10404
+elven woman~
+an elven woman~
+An elven woman walks about the city.
+~
+   She has long flowing white hair, her body is well built, but still beautiful.
+Her cloths are well crafted and she looks to be loving.  
+~
+72 0 0 0 96 0 0 0 0 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 2
+BareHandAttack: 13
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 4
+Class: 2
+Size: 5
+E
+#10405
+Village Elder~
+the Village Elder~
+The Village Elder stands here watching you.
+~
+   This man seems to be the oldest elf in the village, he has short white hair,
+his face is worn looking.  Even though he looks old, he still seems to be
+beautiful.  His clothes look to be some of the best you have seen.  
+~
+10 0 0 0 96 0 0 0 0 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+6 6 1
+BareHandAttack: 13
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 1
+Size: 5
+E
+T 10411
+T 10412
+T 10414
+#10406
+Ligern~
+Ligern~
+Ligern, the village warrior, sits watching the fire.
+~
+   Ligern looks to be younge, but he has many scars all over his body, the fire
+light illuminates his body, makeing him seem older then he actually is.  
+Although he has many scars, he looks to be strong, and more powerfulthen any
+other in the village.  
+~
+10 0 0 0 96 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 4
+Size: 5
+E
+#10407
+squirrel~
+a small squirrel~
+A small squirrel frolics around.
+~
+   A chestnut brown squirrel, the is about medium size moves around in the
+woods.  
+~
+72 0 0 0 0 0 0 0 0 E
+4 19 7 0d0+40 1d2+0
+40 1200
+8 8 2
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 1
+Class: 3
+Size: 5
+E
+#10408
+ugly troll~
+an ugly troll~
+An ugly troll stumbles around here.
+~
+   This has to be one of the ugliest things ever seen, it has large cuts on it's
+body, and in some places it is missing skin.  He wears nothing but a loincloth,
+and a small belt.  
+~
+104 0 0 0 0 0 0 0 0 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 3
+Class: 0
+Size: 5
+E
+#10409
+Jak~
+Jak~
+Jak the shop keeper sits behind his desk.
+~
+   He wears a long raddy trench coat, and his hair is all straggly.  He has
+multiple cuts on his face, and a long beard.  
+~
+10 0 0 0 120 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 1
+Size: 5
+E
+T 10406
+#10410
+orc~
+an orc~
+An orc moves in the shadows.
+~
+   This creature almost matches a trolls uglyness, the stench that comes from
+him smells like rotting flesh.  His armor looks weak, and he wears no weapon.  
+He looks to be a little strong.  
+~
+104 0 0 0 0 0 0 0 0 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 1
+BareHandAttack: 13
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 1
+Class: 4
+Size: 5
+E
+#10411
+wood imp~
+a wood imp~
+A wood imp watches you carefully.
+~
+   This wood imp looks like a giant tree, he stands at 8'3" and has a moss
+beard.  His branches are all messed up and he has no leaves.  
+~
+3144 0 0 0 32 0 0 0 0 E
+16 15 0 3d3+208 2d2+2
+160 19200
+8 8 1
+BareHandAttack: 7
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 2
+Class: 3
+Size: 5
+E
+#10412
+elide postmistress postmaster~
+postmistress Elide~
+A woman stands about the room, giving people there mail.
+~
+   She wears a pair of specticles, and a long white coat.  Her hair is a bright
+pink, and is in a pony tail.  She stands up straight looking at you sternly.  
+~
+190474 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 2
+Class: 1
+Size: 5
+E
+#10413
+Jewel~
+Jewel~
+Jewel stands here smiling sweetle.
+~
+   Jewel looks rather pretty.  She has long brown hair, and she wears some odd
+looking clothes.  She has a well built body and looks very nice.  
+~
+10 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 4
+Class: 2
+Size: 5
+E
+#10414
+hell beast~
+hells hound~
+A hell hound looks at you angrily.
+~
+   This is a very large dog, his hair is messed up, and he glows a bit.  
+~
+104 0 0 0 120 0 0 0 0 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 0
+BareHandAttack: 3
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 5
+Class: 2
+Size: 5
+E
+#10415
+kelly dog~
+a border collie~
+A pretty border collie sits by the chair.
+~
+   She is a medium sized black and white dog, she has a long fluffy tail, and a
+small head.  Her head cocks sideways as you look at her, and she wears an
+expression as if asking who you are.  
+~
+74 0 0 0 0 0 0 0 0 E
+2 20 8 0d0+20 1d2+0
+20 300
+6 6 2
+Race: 5
+Class: 4
+Size: 5
+E
+#10416
+guard town armored~
+Town Gurad~
+A heavily armored Guard stands here.
+~
+   The gurad looks to be unnaffected by your presence. His large form is
+completely covered by armor. His face expressionless, his body motionless. He
+just looks to be one big living statue.
+~
+10 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 2
+Size: 5
+E
+#10429
+Weatherman~
+the Weatherman~
+The Weatherman watches the sky.
+~
+   He seems to be a regular man, wearing large glasses, and other business
+clothes.  
+~
+10 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 1
+Size: 5
+E
+T 10416
+$

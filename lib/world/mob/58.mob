@@ -1,0 +1,19 @@
+#5800
+mob unfinished~
+the test mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+$

@@ -1,0 +1,395 @@
+Text      aggressive settings~
+Body      settings that allow a warrior to roll for initiative against agro mobs
+settings that allow for a warrior to chase fleeing victems
+settings that allow for a warrior to protect a given target
+~
+Name      Turxx~
+IdNum     219
+Dated     1359016014
+Level     1
+Room      13211
+Flags     0 0 0 0
+End
+Text      shieldpunch~
+Name      Turxx~
+IdNum     219
+Dated     1359016731
+Level     1
+Room      13184
+Flags     0 0 0 0
+End
+Text      paging interruption~
+Body      Let me know if you want this on the forums instead.  When you are viewing a
+help, or a long list with zlist or mlist or whatever, you have to specifically
+hit q to stop.  I propose that ANY input other than return, R, or B, count as Q
+and exit the paging.
+~
+Name      Ambanya~
+IdNum     121
+Dated     1359529013
+Level     33
+Room      11700
+Flags     0 0 0 0
+End
+Text      riposte:  newline~
+Body      yes
+~
+Name      Zusuk~
+IdNum     1
+Dated     1359542030
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      parry takes moves, casting issue, backstab~
+Body      blah
+~
+Name      Zusuk~
+IdNum     1
+Dated     1359544844
+Level     34
+Room      31715
+Flags     0 0 0 0
+End
+Text      Mount command~
+Body      Mounts should be flagged as being mine, if they are, and I should be able to
+hop on them just by typing 'mount' not 'mount horse'.
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1360001241
+Level     10
+Room      9617
+Flags     0 0 0 0
+End
+Text      Group command - group all~
+Body      New group command: group all.  Automatically includes any followers in your
+group Also, group add - adds someone following you to a group.  Honestly, the
+group leader should add people.  You shouldn't be able to join a group, or some
+pvp craziness will ensue.
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1360002821
+Level     10
+Room      9000
+Flags     0 0 0 0
+End
+Text      Lore and mounts~
+Body      It seems like I should be able to look at my mount's stats without a bunch of
+points in lore
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1360003344
+Level     10
+Room      9018
+Flags     0 0 0 0
+End
+Text      xp for charmies~
+Body      you should get xp for charmies kill?  do some brainstorming
+~
+Name      Zusuk~
+IdNum     1
+Dated     1360004679
+Level     34
+Room      113
+Flags     0 0 0 0
+End
+Text      Animal type should prevent speech~
+Body      Animals can't talk.  You could limit that with the animal race, I think, to
+make it easy.
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1360006097
+Level     10
+Room      120
+Flags     0 0 0 0
+End
+Text      PvP & Non-PvP~
+Body      When you create a character it can either be PvP or Non-PvP. If you're Non-
+PvP then you literally can't be attacked anywhere but if you are PvP then you can be attacked anywhere. (Except for the 
+noobie area.)
+~
+Name      Crezilin~
+IdNum     110
+Dated     1360113676
+Level     10
+Room      100
+Flags     0 0 0 0
+End
+Text      Treat wounds while resting~
+Body      You should be able to treat your own wounds while resting
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1360178112
+Level     14
+Room      3001
+Flags     0 0 0 0
+End
+Text      items~
+Body      mailable items ftw
+~
+Name      Taure~
+IdNum     132
+Dated     1360962807
+Level     33
+Room      1291
+Flags     0 0 0 0
+End
+Text      Levelup interface~
+Body      I suggest a single command that handles all the levelup stuff, including
+class, boost, prac, train, spells, and whatever else.  It would provide you with
+a numbered list of all the options you need to handle, and each line would turn
+from yellow to green as you completed that section.  It would limit your ability
+to do it on the fly from the command line, but it'd be a lot more friendly.  It
+would have to automatically omit options that don't apply, like no boost like if
+you have no points, or spell line if you have no spells.
+~
+Name      Ambanya~
+IdNum     121
+Dated     1361084953
+Level     33
+Room      1204
+Flags     0 0 0 0
+End
+Text      backstab~
+Body      Currently only working with pierce weapons.
+Picked up 'thieves dagger' which is stab damage and it does not backstab.
+~
+Name      Nobbuya~
+IdNum     271
+Dated     1361108942
+Level     8
+Room      12515
+Flags     0 0 0 0
+End
+Text      chess of mid~
+Body      put a sign here warning that area is dangerous
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361459762
+Level     1
+Room      3066
+Flags     0 0 0 0
+End
+Text      helpers~
+Body      helpers should not assist animals
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361461246
+Level     1
+Room      3047
+Flags     0 0 0 0
+End
+Text      animal money~
+Body      outside of newbie areas, animals shouldnt have coins
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361461478
+Level     1
+Room      3113
+Flags     0 0 0 0
+End
+Text      subraces in olc~
+Body      It would be nice if we could set the sub races to actual races we have on the MUD.  My zones will heavily feature humanoids and half orcs, and I would like to flag my npcs as half orcs somehow.
+~
+Name      Treyorn~
+IdNum     255
+Dated     1361479423
+Level     31
+Room      5921
+Flags     0 0 0 0
+End
+Text      spell/compose priority~
+Body      stand
+It takes a while to compose all the spells,can we prioritize which we wanna mem/compose ?
+~
+Name      Johor~
+IdNum     278
+Dated     1361505908
+Level     27
+Room      30713
+Flags     0 0 0 0
+End
+Text      mlist <keyword>~
+Body      similar to olist <keyword>, lists mobiles that contain <keyword>
+~
+Name      Nashak~
+IdNum     240
+Dated     1361650711
+Level     34
+Room      3067
+Flags     0 0 0 0
+End
+Text      Epic-races suggestion~
+Body      No one knows exactly how these strange creatures came into being. Some suggest 
+that it was perhaps the curse of a god, the spell of a powerful mage or perhaps 
+even the inadvertent result of a farmer and his favorite cow. What is known 
+however, is that minotaurs are one of the fiercest humanoid creatures in Lumina. 
+Although not numerous as a species, they make their presence felt where ever 
+they live. Standing at around 10 feet tall with their huge muscles bulging and 
+their sharp horns gleaming, they are truly an awesome sight to behold. There 
+are few minotaur settlements in Lumina, but they are typically found on the 
+plains. Society in these settlements is controlled by a martial code of law, 
+often ruled by the clan leader and his hunters. Minotaurs usually remain aloof 
+from the world in general, considering many races to be weak and despising most 
+magic users as a rule. As a true warrior race, most minotaurs excel as Warrior,berserker
+and rangers, gaining an edge through their animal instincts.
+( lv1 l) feat power attack,improved critical,Great fortitude                            
+(lvl 1 ) Natural armor +5
+(lvl 1) +5 str, +1 con, -3 int, -3 cha.                                         
+(lvl 1) ability to track.                                                       
+(lvl 1) adds goring damage (natural weapon 1d8)
+(lvl 5) Colossal Grip -able to wield 2 handed weapon at one hand
+(lvl 10) Whirwind
+( lvl 15) 5% Probability Deathblow damage (crit 200%)  (weapon base modifier)                        
+(lvl 20) Greater Whirwind?
+(lvl 20) Undying Rage - WHen hp dropped below 20% ,will gain +4 dmg reduction/+4 saves spells/ 15% damage for 10 secs 
+treat me
+(lvl 30)Greater Deathblow damage (Crit 400%) 5% prob
+ *note added few feats/skills at some lvl to motivate players
+~
+Name      Johor~
+IdNum     278
+Dated     1361834098
+Level     6
+Room      3054
+Flags     0 0 0 0
+End
+Text      Suggested Cleric Spells~
+Body      From: http://www.d20srd.org/srd/spellLists/clericSpells.htm
+Level 1 Spells: Command, Entropic Shield, Divine Grace; Level 2 Spells: Calm Emotions, Hold Person, Spiritual Weapon; Level 3 Spells: Glyph of Warding, Locate Object, Magic Vestment; Level 4 Spells: Divine Power, Divination (alternative to Lore), Lesser Planar Ally; Level 5 Spells: Righteous Might, Spell Resistance, Scrying; Level 6 Spells: Banishment, Geas/Quest, Heroes' Feast; Level 7: ... none!; Level 8: ... none!; Level 9: Storm of Vengeance
+~
+Name      Ramza~
+IdNum     287
+Dated     1362068816
+Level     21
+Room      100
+Flags     0 0 0 0
+End
+Text      quests~
+Body      When creating quests, it shows description at the name.  I think it would look
+better if the quest name was listed when the command quest list is used.  A
+simple command "quest info" could show the description without actually joining
+the quest.  Also, I don't think quest rewards should be affected by happy hour
+bonuses.
+~
+Name      Treyorn~
+IdNum     255
+Dated     1362104339
+Level     31
+Room      5921
+Flags     0 0 0 0
+End
+Text      Ideas for epic races.~
+Body      Leshay - http://www.d20srd.org/srd/epic/monsters/leshay.htm
+Paragons - http://www.d20srd.org/srd/epic/monsters/paragonCreature.htm
+Nightwalker - http://www.d20srd.org/srd/monsters/nightshade.htm#nightwalker
+Worm that Walks - http://www.d20srd.org/srd/epic/monsters/wormThatWalks.htm
+Mithral Golems - http://www.d20srd.org/srd/epic/monsters/golem.htm#mithralGolem
+~
+Name      Ramza~
+IdNum     287
+Dated     1362276372
+Level     25
+Room      100
+Flags     0 0 0 0
+End
+Text      show char load-max in do_score~
+Name      Zusuk~
+IdNum     1
+Dated     1362952102
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      mag_damage -> room_events~
+Body      trace of X seconds of elements based on mag_damage using
+room events to make cool effects!
+PHAT idea!
+hi5 self!
+~
+Name      Zusuk~
+IdNum     1
+Dated     1363034910
+Level     34
+Room      376
+Flags     0 0 0 0
+End
+Text      Crafting actions~
+Body      Personally, I think that you should be able to do more than just chat and gossip while you're crafting -- at the very least, people should be able to look at help files.
+~
+Name      Ramza~
+IdNum     287
+Dated     1363050275
+Level     30
+Room      369
+Flags     0 0 0 0
+End
+Text      Showskill and Showclass~
+Body      I think that there should be a command or at least something you could look at to see what all bonus skills/trains/spells a class gets without actually having to first take a level in said class.
+~
+Name      Ramza~
+IdNum     287
+Dated     1363118803
+Level     30
+Room      3063
+Flags     0 0 0 0
+End
+Text      autoproc~
+Body      for objects, i.e. storage chest
+~
+Name      Nashak~
+IdNum     240
+Dated     1363178504
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      mxp toggle screen~
+Body      aye, check Gauntlet mud's toggle screen.
+~
+Name      Nashak~
+IdNum     240
+Dated     1363306935
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      mxp olc~
+Body      aye, check Gauntlet mud's toggle screen.. only adapted to OLC :)
+~
+Name      Nashak~
+IdNum     240
+Dated     1363306949
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text       display spellname for scrolls in olist~
+Body      add spell name to olist type for scrolls
+~
+Name      Nashak~
+IdNum     240
+Dated     1363355288
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text       help files for spells should contain their level in there somewhere~
+Body      instead of having to page through the entire spell list it'd be nice if you could just help 'spell name' and see what level its supposed to be
++w
+~
+Name      Gorgja~
+IdNum     307
+Dated     1363378329
+Level     1
+Room      3001
+Flags     0 0 0 0
+End

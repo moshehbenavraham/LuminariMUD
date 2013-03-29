@@ -1,0 +1,407 @@
+#31100
+chimerae guardian~
+a chimerae~
+All three sets of a chimerae's eyes glare straight at you.
+~
+   It stands still as a statue, its stance rigid and unmoving.  It has the
+hindquarters of a goat, the forequarters of a strong lion and the wings of a
+black dragon.  It is enormously and evilly impressive.    
+~
+10 0 0 0 0 0 0 0 0 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 4
+Size: 5
+E
+#31101
+gorgimera~
+a gorgimera~
+A gorgimera turns two of its heads your way as you enter the cave.
+~
+   It is a grotesque abomination to nature, a freak of creation that has
+managed to stay alive due to its brute strength and ferocity.    
+~
+10 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 3
+Size: 5
+E
+#31102
+dracolich guardian~
+a dracolich~
+The undead remains of a huge dragon rises as you approach.
+~
+   Two tiny pinpoints of light glare from its eyelets, its skeletal frame
+moving jerkily as it moves to block your progress into the cave.    
+~
+10 0 0 0 0 0 0 0 0 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 0
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 4
+Class: 2
+Size: 5
+E
+#31103
+dragon black~
+a black dragon~
+A black dragon moves about in the darkness of the room.
+~
+   It is hard to make out any details of the creature save for the fact that it
+is an enormous thing, its bulk seeming endless.    
+~
+10 0 0 0 0 0 0 0 0 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 1
+Size: 5
+E
+#31104
+dragon blue~
+a blue dragon~
+A blue dragon turns its malevolent eyes upon you.
+~
+   Its eyes narrow to mere slits as it takes in the fact that someone of your
+stature was not only stupid enough to enter into its lair, but also somehow
+wily enough to get past the guardian.    
+~
+10 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 2
+Size: 5
+E
+#31105
+dragon red~
+a red dragon~
+A red dragon tosses back its head and jets a plume of fire into the air.
+~
+   The dragon appears less than pleased that you have intruded upon its domain.
+~
+10 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 2
+Size: 5
+E
+#31106
+dragon white~
+a white dragon~
+A white dragon turns it icy gaze your way, eyes narrowing.
+~
+   The gleaming scales of the dragon glow with a bright, cold beauty which
+detracts from its powerful evil.  Do not be distracted by the beauty and wealth
+of this creature.  It will kill you.    
+~
+10 0 0 0 0 0 0 0 0 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 0
+Size: 5
+E
+#31107
+dragon green~
+a green dragon~
+A green dragon mucks about in its own excrement, not even aware of you.
+~
+   The dragon appears perfectly content to rot and wither, laying in a pile of
+its own refuse.  It is old and no longer has the desire to fight and rampage.
+It must soon find a successor.    
+~
+10 0 0 0 0 0 0 0 0 E
+28 9 -8 5d5+610 4d4+6
+280 58800
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 0
+Size: 5
+E
+#31108
+dragon topaz~
+a topaz dragon~
+A topaz dragon storms in a rage at you, screeching its anger.
+~
+   So much for a little PR work, here.    
+~
+10 0 0 0 0 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 2
+Size: 5
+E
+#31109
+dragon crystal~
+a crystal dragon~
+A crystal dragon appears pleased that you have come to call.
+~
+   Come to call?!  This is the den of a dragon!  And yet this beast seems
+extremely pleased that you are here, indeed looks ready to engage in
+conversation.    
+~
+10 0 0 0 0 0 0 0 0 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 0
+Size: 5
+E
+#31110
+dragon emerald~
+an emerald dragon~
+An emerald dragon instantly assumes a defensive posture as you enter.
+~
+   It does not attack, however it looks more than ready for a fight.    
+~
+10 0 0 0 0 0 0 0 0 E
+28 9 -8 5d5+610 4d4+6
+280 58800
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 5
+Class: 2
+Size: 5
+E
+#31111
+dragon faerie~
+a faerie dragon~
+A strange, small lizard with wings and a big grin flies at you.
+~
+   With its full of mischief, it opens its mouth to reveal a set of long,
+spiked teeth and a forked tonuge.    
+~
+10 0 0 0 0 0 0 0 0 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 0
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 3
+Size: 5
+E
+#31112
+fire drake~
+a fire drake~
+What looks to be a young red dragon flies straight for you, jetting flame.
+~
+   It is much too small to be a dragon of any sort, however its speed and fire
+breath seems more than sufficient to give it some credibility as a dangerous
+foe.    
+~
+10 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 5
+Class: 1
+Size: 5
+E
+#31113
+gryphon guardian~
+a gryphon~
+A gryphon stands proudly before the entrance into the cave.
+~
+   It blocks entry with a firm look and a level stare.    
+~
+10 0 0 0 0 0 0 0 0 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 3
+Class: 5
+Size: 5
+E
+#31114
+wyvern~
+a wyvern~
+A long, leathery brown serpent flies at you with its teeth bared.
+~
+   It speeds directly for you, intent on a strong, aggressive attack.  Run?  
+~
+10 0 0 0 0 0 0 0 0 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 1
+Size: 5
+E
+$

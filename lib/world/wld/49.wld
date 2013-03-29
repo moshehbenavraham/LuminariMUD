@@ -1,0 +1,251 @@
+#4900
+The Old Gate~
+The wooden bridge connects the forest to the town of Ethramal
+~
+49 0 0 0 0 3
+D0
+~
+~
+0 0 4901
+S
+#4901
+Path to Town Square~
+Nothing.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4902
+D2
+~
+~
+0 0 4900
+S
+#4902
+Ethramal Town Square~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4914
+D1
+~
+~
+0 0 4903
+D2
+~
+~
+0 0 4901
+D3
+~
+~
+0 0 4907
+S
+#4903
+Path to Mayor's House~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D1
+~
+~
+0 0 4904
+D3
+~
+~
+0 0 4902
+S
+#4904
+Outside Mayor's House~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D1
+~
+~
+0 0 4905
+D3
+~
+~
+0 0 4903
+S
+#4905
+Mayor's Lobby~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D3
+~
+~
+0 0 4904
+D4
+~
+~
+0 0 4906
+S
+#4906
+Mayor's Office~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D5
+~
+~
+0 0 4905
+S
+#4907
+Path to Barracks~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D1
+~
+~
+0 0 4902
+D3
+~
+~
+0 0 4908
+S
+#4908
+Outside the Barracks~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D1
+~
+~
+0 0 4907
+D3
+~
+~
+0 0 4909
+S
+#4909
+Barracks Lobby~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4910
+D1
+~
+~
+0 0 4908
+D2
+~
+~
+0 0 4912
+D4
+~
+~
+0 0 4911
+S
+#4910
+Barracks Dining Hall~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D2
+~
+~
+0 0 4909
+S
+#4911
+Soldiers' Room~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D4
+~
+~
+0 0 4913
+D5
+~
+~
+0 0 4909
+S
+#4912
+Barracks Supply Closet~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4909
+S
+#4913
+Captain's Office and Room~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D5
+~
+~
+0 0 4911
+S
+#4914
+Path to Rear Gate~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4915
+D2
+~
+~
+0 0 4902
+S
+#4915
+Rear Gate~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4916
+D2
+~
+~
+0 0 4914
+S
+#4916
+A Muddy Path~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D0
+~
+~
+0 0 4917
+D2
+~
+~
+0 0 4915
+S
+#4917
+Altar~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+D2
+~
+~
+0 0 4916
+S
+#4918
+Path to Blackmarsh~
+You are in an unfinished room.
+~
+49 0 0 0 0 0
+S
+$~

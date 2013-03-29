@@ -1,0 +1,46 @@
+#3400
+Ghost Voltaire~
+Ghostly visage of Voltaire~
+A ghostly visage stands at the entrance to the maze
+~
+The ghostly visage of Voltaire is dressed in a black hooded robe.  The only
+thing that can be seen under the hood are his sunken eyes ablaze with fire.
+~
+8675338 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+#3401
+Deer~
+a deer stands pawing the ground~
+The deer has stoopid eyes and a fat tongue
+~
+It looks unfinished.
+~
+524296 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 1875
+8 8 0
+BareHandAttack: 9
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 10
+Size: 5
+Walkin: $n prances in from 
+Walkout: $n prances off 
+E
+$

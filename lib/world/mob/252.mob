@@ -1,0 +1,192 @@
+#25200
+bat~
+a huge black bat~
+A huge black bat hovers before you.
+~
+   It doesn't seem to want to attack, it simply seems to be watching you, almost
+with intelligent eyes.  
+~
+196684 0 0 0 80 0 0 0 -200 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 0
+BareHandAttack: 4
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 4
+Size: 5
+E
+#25201
+gypsy zigeuner~
+the Zigeuner Gypsy~
+A Zigeuner Gypsy seems shocked by your presence here.
+~
+   Walking head down, mumbling to himself, you are the last thing this guy
+expected.  
+~
+6216 0 0 0 0 0 0 0 -300 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 4
+Size: 5
+E
+#25202
+gypsy cigano~
+the Cigano Gypsy~
+A Cigano Gypsy spots you and turns away at a quick pace.
+~
+   He seems to be on his way to take care of something.  
+~
+6344 0 0 0 0 0 0 0 -300 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 3
+Size: 5
+E
+#25203
+gypsy tsigani~
+a Tsigani Gypsy~
+A Tsigani Gypsy comes running at you, weapon drawn!
+~
+   Of all the different gypsies in the castle, you had to find the one with a
+deathwish...  
+~
+6248 0 0 0 0 0 0 0 -300 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+BareHandAttack: 3
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 4
+Class: 0
+Size: 5
+E
+#25204
+vampyre greater~
+a Greater Vampyre~
+A Greater Vampyre flings himself on you in a frenzy of Bloodlust!
+~
+   You really don't have the time to stop and check this guy out, he is
+attacking you!  
+~
+229976 0 0 0 80 0 0 0 -700 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#25205
+vampyre lesser~
+a Lesser Vampyre~
+A Lesser Vampyre attacks with a power that only a vampyre could possess.
+~
+   Watch the teeth - something you were supposed to remember about the teeth.  
+~
+168536 0 0 0 80 0 0 0 -800 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+BareHandAttack: 8
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 0
+Size: 5
+E
+#25206
+Lord vampyre~
+the Vampyre Lord~
+A huge, terrifying man-like thing is about to bite your neck.
+~
+   He moves so fast, it is hard to tell anything about him at all.  
+~
+2650 0 0 0 80 0 0 0 -1000 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+BareHandAttack: 4
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 0
+Size: 5
+E
+$

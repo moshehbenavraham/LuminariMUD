@@ -1,0 +1,79 @@
+#7900
+paladin grand knight~
+the Grand Knight of Paladins~
+The Grand Knight is standing here, waiting for someone to help.
+~
+   The Knight is standing here, smiling at you.  He is dressed all in white,
+blue and silver.  He looks VERY strong, as he stands here, ready to help the
+innocent.  
+~
+26894 0 0 0 16 0 0 0 1000 E
+26 10 -7 5d5+570 4d4+6
+260 50700
+8 8 1
+Str: 17
+Dex: 17
+Int: 17
+Wis: 17
+Con: 17
+Cha: 17
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 3
+Size: 5
+E
+T 7901
+#7901
+rat large~
+the large rat~
+There is a large rat here, poking through the foodstuffs lying around.
+~
+   The large rat is about two feet long from head to tail and has claws the size
+of your fingers, looking very nasty.  It seems to be quite occupied with all the
+chewed open foodstuffs lying about the room.  
+~
+42 0 0 0 0 0 0 0 -800 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 4
+Class: 2
+Size: 5
+E
+#7902
+cleaver~
+the Cleaver~
+The Cleaver is here eyeing you hungrily in anticipation of its next meal.
+~
+   The Cleaver is a huge spidery chittinous creature with four large spindly
+arms ending in cleaverlike talons that will surely cut you to ribbons.  
+~
+256120 0 0 0 65552 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 0
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 2
+Size: 5
+E
+$

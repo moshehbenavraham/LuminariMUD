@@ -1,0 +1,421 @@
+#31001
+brownie forest~
+the forest brownie~
+A forest brownie scampers about here.
+~
+   The forest brownie winks at you and scurries away.  Quite an amicable
+fellow.    
+~
+204 0 0 0 1048580 0 0 0 800 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 5
+Class: 3
+Size: 5
+E
+#31002
+wolf~
+the wolf~
+a wolf trots by, looking for a rabbit
+~
+   The wolf looks rather hungry.  You see him trying to decide if YOU taste
+like rabbit.    
+~
+76 0 0 0 1048576 0 0 0 -300 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 2
+Size: 5
+E
+#31003
+rabbit brown~
+the brown rabbit~
+A brown rabbit hops along merrily.
+~
+   The rabbit looks up at you with big brown eyes, then scoots away..  Hey..  
+There goes lunch!    
+~
+200 0 0 0 0 0 0 0 400 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 1
+Class: 5
+Size: 5
+E
+#31004
+tomal woodsman~
+Tomal~
+A woodsman watches you, a stalk of grass hanging from his mouth
+~
+   The woodsman chuckles and says, 'Howdy stranger- the name is Tomal..  Howya
+doing?  '
+~
+76 0 0 0 0 0 0 0 800 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 1
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 4
+Size: 5
+E
+#31005
+demon guardian~
+the guardian demon~
+A shadowy form steps out of the mist.
+~
+   You see a nightmarish array of teeth and claws, the guardian demon is
+determined to rip your guts out.    
+~
+42 0 0 0 56 0 0 0 -1000 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 4
+Size: 5
+E
+#31006
+guard graye guardsman~
+the Graye guardsman~
+The Graye guardsman is posted here.
+~
+   The guardsman smiles at you kindly.  He says, 'better stick with me guy--
+its a dangerous world out there.  '
+~
+10 0 0 0 0 0 0 0 900 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 1
+Size: 5
+E
+#31007
+demon imp~
+the demon imp~
+A tiny demon snarls at you.
+~
+   It seems like a relatively harmless little demon, but those sharp teeth
+might hurt if they were wrapped around your arm.    
+~
+76 0 0 0 1048576 0 0 0 -800 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 3
+Size: 5
+E
+#31008
+minor demon~
+the minor demon~
+A minor demon jumps out of the shadows at you!
+~
+   The demon resembles little, but a sinewy mass of flesh, tendons, and teeth.
+It glares at you with pure fury in it's eyes.    
+~
+104 0 0 0 4 0 0 0 -900 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 5
+Class: 4
+Size: 5
+E
+#31009
+citizen graye man~
+the Graye Citizen~
+A citizen of Graye rushes by here, looking over his shoulder.
+~
+   The citizen looks rather nervous- You would too if your town was beseiged by
+demons.    
+~
+200 0 0 0 0 0 0 0 700 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 2
+Size: 5
+E
+#31010
+citizen gray woman~
+the Graye Citizen~
+A citizen of Graye rushes by here, looking over her shoulder.
+~
+   The citizen looks rather nervous- You would too if your town was beseiged by
+demons.    
+~
+200 0 0 0 0 0 0 0 700 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 2
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 5
+Class: 0
+Size: 5
+E
+#31011
+demon major~
+a major demon~
+A major demon lurks about here.
+~
+   You look deep into the eyes of the beast.  You sense no absolutely no
+intellect, only raw power and rage.    
+~
+108 0 0 0 4 0 0 0 -900 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 0
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 2
+Class: 1
+Size: 5
+E
+#31012
+guardian rift~
+the rift guardian~
+A shadow wraith drifts into your way.
+~
+   All you see is a fog-like apparition, with two glowing red eyes...    
+~
+42 0 0 0 4 0 0 0 -900 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 5
+Size: 5
+E
+#31013
+guard jail~
+the jail guard~
+A jail guard patrols here, whipping the prisoners.
+~
+   The guard seems to be, well, mostly human.  He is covered in boils and tufts
+of hair.  He glares at you with his one good eye and says, 'Put down that
+weapon, prisoner!  '
+~
+46 0 0 0 0 0 0 0 -800 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 5
+Size: 5
+E
+#31014
+rymat~
+Rymat~
+The King's Advisor is here, weeping.
+~
+   He looks at you and begs, 'please!  They have taken him!  I can see that you
+are a great adventurer..  Please bring him back to us!  ' The advisor turns
+from you and continues to sob uncontrollably.    
+~
+10 0 0 0 0 0 0 0 900 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 3
+Class: 1
+Size: 5
+E
+#31015
+irgon arch demon~
+the Arch-Demon Irgon~
+The Arch-Demon Irgon emerges from the shadows.
+~
+   Irgon frowns down upon you.  His oily black skin reflects the torchlight.  
+A thick white claw points at you, and he utters, 'prepare to die.  '
+~
+42 0 0 0 4 0 0 0 -900 E
+28 9 -8 5d5+610 4d4+6
+280 58800
+8 8 1
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 5
+Class: 4
+Size: 5
+E
+#31016
+scrytin demon~
+Scrytin~
+Scrytin, the demon lord's apprentice, smiles at you.
+~
+   Scrytin looks at you kindly, and suddenly you feel very peacefull and
+relaxed.  You stare directly into his eyes, and feel yourself slipping deeper
+and deeper...  NOOO!!  Scrytin growls, 'Won't become a minion of mine eh?..  
+Then you shall DIE!  '
+~
+104 0 0 0 0 0 0 0 -999 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 5
+Class: 4
+Size: 5
+E
+#31017
+relnar king~
+Relnar~
+The good king Relnar is here.
+~
+   You look into the eyes of the descendant of Graye, and know now why his city
+is so prosperous and happy.    
+~
+10 0 0 0 0 0 0 0 999 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 4
+Size: 5
+E
+$

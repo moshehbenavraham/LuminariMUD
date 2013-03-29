@@ -1,0 +1,2608 @@
+#0
+RESERVED DO NOT EDIT~
+RESERVED DO NOT EDIT~
+RESERVED DO NOT EDIT
+~
+RESERVED DO NOT EDIT
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+0 0 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 1
+Size: 5
+E
+#1
+Puff dragon fractal~
+Puff~
+Puff the Fractal Dragon is here, contemplating a higher reality.
+~
+   Is that some type of differential curve involving some strange, and unknown
+calculus that she seems to be made out of?  
+~
+516106 0 0 0 65552 0 0 0 1000 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+BareHandAttack: 12
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 5
+Size: 5
+Walkin: $n stomps in from
+E
+T 95
+#2
+cleric healer~
+the healer~
+A healer in a white luminescent robe is tending to the wounded.
+~
+This beautiful woman at one time used to piously offer her healing skills to any
+in need.  But times are rough and now she can only afford to help those that are
+just starting their adventures.  Type 'heal' to see what services she offers.  
+~
+188426 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 1
+Size: 5
+E
+#3
+questmaster~
+the questmaster~
+The questmaster is waiting for a brave adventurer to step forth.
+~
+   Many adventurers come here to seek glory by attempting to solve the quests
+given to them by this old man.  The quests are not easy, sometimes nearly
+impossible.  But they will always be a challenge.  The questmaster looks at you
+and says, 'help autoquest should show you all you need to know'.  
+~
+188426 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+T 138
+T 139
+T 143
+#4
+healer~
+the healer~
+A healer in a white luminescent robe is tending to the wounded.
+~
+   This beautiful woman at one time used to piously offer her healing skills to
+any in need.  But times are rough and now she can only afford to help those that
+are just starting their adventures.  Type 'heal' to see what services she
+offers.  Type 'heal <spell>' to buy one of her spells.  
+~
+253962 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 2
+Size: 5
+E
+#5
+jack russell~
+Jack Russell~
+Jack Russell hunts with his dogs.
+~
+   The Jack Russell takes its name from the Reverend John Russell who bred one
+of the finest strains of terriers for working fox in Devonshire, England in the
+mid-to-late 1800's.  Rev.  Russell (1795-1883), apart from his church
+activities, had a passion for fox hunting and the breeding of fox hunting dogs
+he is also said to be a rather flamboyant character, probably accounting for his
+strain of terrier's notability and the name of our terrier today.  
+~
+72 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 5
+Size: 5
+E
+T 21
+#6
+john russell~
+John Russell~
+John Russell seems to have lost his dog.
+~
+   John Russell maintained his strain of fox terriers bred strictly for working,
+and the terrier we know of today as the Jack Russell is much the same as the
+pre-1900's fox terrier.  The Jack Russell has survived the changes that have
+occured in the modern-day Fox Terrier because it has been preserved by working
+terrier enthusiasts in England for more than 100 years.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 0
+Size: 5
+E
+#7
+jack russell terrier~
+the Jack Russell terrier~
+A Jack Russell terrier is following a scent.
+~
+   Jack Russell Terriers are a type, or strain, of working terrier they are not
+purebred in the sense that they have a broad genetic make-up, a broad standard,
+and do not breed true to type.  You will see different "types" of JRTs, from
+long-bodied, short, crooked legs to a more proportioned length of body and
+longer legs.  This is a result of having been bred strictly for hunting since
+their beginning in the early 1800's, and their preservation as a working breed
+since.  
+~
+10 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+E
+#8
+wishbone~
+Wishbone~
+Wishbone begins yet another adventure.
+~
+   Wishbone is a Jack Russell Terrier played by a dog named Soccer.  This
+adorable little actor has his own series on PBS and gets credit for introducing
+children to over 40 stories from classic literature.  Wishbone became so popular
+after his series started in 1994 that he now has his own line of children's
+books and plush toys.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 0
+Size: 5
+E
+#9
+sick looking dog~
+a sick looking dog~
+A sick looking dog gags on something in its mouth.
+~
+   The dog is unkept and unhealthy.  It does not look like it has been eating
+very well.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 5
+Size: 5
+E
+T 95
+#10
+clone~
+the clone~
+A boring old clone is standing here.
+~
+   This clone is nothing to look at.  No, really, it is quite boring.  
+~
+188426 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 1
+Size: 5
+E
+#11
+zombie undead humanoid flesh falling~
+a zombie~
+@wA zombie lurches around here, its clutching hands seeking its prey.@n
+~
+@wWhat was once someone's son or husband is now little more than rotting flesh and
+tattered clothes.  He appears to have once been a farmer, based on the tattered
+pair of overalls hanging from his rotting frame.  Now he is undead, his frozen
+joints and ligaments causing him to lurch about in an awkward way.  @n
+~
+188424 0 0 0 262144 2 0 0 0 E
+6 18 6 1d1+60 1d2+1
+0 0
+8 8 1
+BareHandAttack: 7
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 5
+E
+#12
+moose eddie~
+Moose, the Jack Russel Terrier~
+Moose is lounging about enjoying his fame.
+~
+   Moose is the name of the cute little Jack Russell Terrier who became famous
+when he landed the role of Eddie in the TV show Frasier.  Moose is also a
+leading star in the movie My Dog Skip and is known for his performances
+throughout the U.  S.  Currently Moose lives in Los Angeles with two of his
+sons, Enzo and Moosie.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 5
+E
+#13
+kind soul~
+a kind soul~
+A very kind and caring soul is here looking out for those who need it.
+~
+   She immediately reminds you of your mother.  Constantly worrying about
+everyone and everything.  She is always around to help out those who have hit
+hard times and need a little boost.  
+~
+253962 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 94
+#14
+tutorial questmaster~
+the tutorial questmaster~
+A questmaster is waiting for a brave adventurer to step forth.
+~
+   Many adventurers come here to seek glory by attempting to solve the quests
+given to them by this old woman. The quests are not easy, sometimes nearly
+impossible. But they will always be a challenge. The questmaster looks at you
+and says, 'are you up for a challenge? '
+~
+253962 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 0
+Size: 5
+E
+T 3
+T 1
+#15
+quest mobile~
+a quest mob~
+A quest mob wanders around aimlessly waiting to be slaughtered.
+~
+   This mobiles sole purpose is to be hunted down and killed.  
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 0
+Size: 5
+E
+T 144
+#16
+ogre questogre~
+a quest ogre~
+A huge quest ogre has a pair of wings attached to its back as if he could fly.
+~
+   Though large and intimidating this ogre does not seem to realize that he
+would strike fear into the hearts of most mortals. Instead everything seems to
+scare it to death. It is as if he has seen the future and he knows he is going
+to die. A crude pair of small wings are attached to its back and it seems to be
+trying to fly away.
+~
+253962 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 2
+Size: 5
+E
+T 2
+#17
+Socrates~
+Socrates~
+Socrates patiently waits to help new builders.
+~
+   Socrates (469-399BC), Greek philosopher, who profoundly affected Western
+philosophy through his influence on Plato. Born in Athens, the son of
+Sophroniscus, a sculptor, and Phaenarete, a midwife, he received the regular
+elementary education in literature.
+~
+516106 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 4
+Size: 5
+E
+T 196
+T 194
+T 183
+#18
+Friedrich Nietzsche~
+Friedrich Nietzsche~
+Friedrich Nietzsche searches for those wishing to become Overmen.
+~
+   Nietzsche, Friedrich Wilhelm (1844-1900), German philosopher, poet, and
+classical philologist, who was one of the most provocative and influential
+thinkers of the 19th century. One of Nietzsche's fundamental contentions was
+that traditional values had lost their power in the lives of individuals. 
+Nietzsche maintained that all human behavior is motivated by the will to power.
+~
+516106 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 3
+Size: 5
+E
+#19
+aerial servant shape~
+the aerial servant~
+An amorphous shape is floating in the air.
+~
+   As you stare at this amorphous shape, it begins to appear to take the shape
+of a cloud-like humanoid.  
+~
+188426 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+#20
+elemental~
+the elemental~
+An elemental is standing patiently here.
+~
+   This creature is the essence of the elements, and appears to be waiting
+patiently for something to occur.  
+~
+188426 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 1
+Size: 5
+E
+#21
+Plato~
+Plato~
+Plato offers advice to any who are in need.
+~
+   Plato (circa 428-347 BC), Greek philosopher, one of the most creative and
+influential thinkers in Western philosophy. 
+~
+516106 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+T 198
+T 184
+#22
+aristotle~
+Aristotle~
+Aristotle wanders the hallways constantly in search of more knowledge.
+~
+   Aristotle (384-322 BC), Greek philosopher and scientist, who shares with
+Plato and Socrates the distinction of being the most famous of ancient
+philosophers. 
+~
+516106 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+T 197
+T 185
+#23
+confucius~
+Confucius~
+Confucius is busy following the way.
+~
+   Confucianism, major system of thought in China, developed from the teachings
+of Confucius and his disciples, and concerned with the principles of good
+conduct, practical wisdom, and proper social relationships. Confucianism has
+influenced the Chinese attitude toward life, set the patterns of living and
+standards of social value, and provided the background for Chinese political
+theories and institutions. 
+~
+516106 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 4
+Size: 5
+E
+T 186
+#24
+gateguard guard quest~
+the example gateguard~
+The gateguard watches the gate carefully swinging the key around on its chain.
+~
+   He stands his watch carefully eyeing anyone who approaches. Disdain for the
+local government and the miserable wages has corrupted most of the gateguards.
+A simple bribe of about 10 gold is all it takes to get past them.
+~
+253962 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 4
+Size: 5
+E
+T 4
+T 5
+T 7
+T 8
+#25
+variable questmaster master~
+the variable questmaster~
+The variable questmaster is waiting to set you.
+~
+   This questmaster will save a variable to your player file to remember wether
+or not you have done his quest. This way you can only do this quest once. 
+~
+253962 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+E
+T 192
+T 191
+T 190
+#26
+protector magic eight ball~
+the protector of the magic eight ball~
+The protector of the magic eight balls ensures everyone gets an eight ball before they leave.
+~
+   This strange humanoid lacks any distinguishing features. It is dressed in a
+white robe cinched about the waist with a white rope. It seems to have a
+strange power about it. 
+~
+253962 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 0
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 5
+Size: 5
+E
+T 188
+#27
+man james bond stockdale admiral~
+James Stockdale~
+A man beaten to the brink of his life stares up at you with powerful eyes.
+~
+   James Stockdale was shotdown by anti-aircraft fire during Vietnam. He was
+held as a POW for seven years. He spent over half of this time in solitary
+confinement in leg irons. Even being incapacitated he was still able to lead
+the POW underground resistance successfully. For this he was routinely tortured
+and beaten resulting in permament disablement from a repeatedly broken leg,
+broken back, and shoulders being wrenched from their sockets. When his captors
+attempted to use him as televised propaganda he slit his scalp with a razor. 
+When they covered the cut with a hat he beat himself with a stool until his face
+was swollen beyond recognition. As a final attempt he slit his wrists rather
+than allow himself to be used or let down his fellow POW's. His captors found
+him unconscious and near death. The torture stopped after that and they no
+longer attempted to use him. He received the Medal of Honor for his actions.
+~
+262154 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 1
+Size: 5
+E
+T 187
+#28
+carl von clausewitz~
+Carl Von Clausewitz~
+Carl Von Clausewitz is hunkered down in a corner of the cell plotting an escape plan.
+~
+   Carl von Clausewitz was born in Burg bei Magdeburg, Prussia in 1780. 
+Clausewitz's father was an officer in the Prussian Army Carl entered the
+Prussian military service at the age of twelve years, eventually attaining the
+rank of Major General. He is most famous for his military treatise Vom Kriege,
+translated into English as On War.
+~
+262154 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 2
+Size: 5
+E
+T 182
+#29
+epictetus crippled man~
+Epictetus~
+A crippled man seems content with his life and abysmal surroundings.
+~
+   Epictetus spent his youth as a slave in Rome to Epaphroditos, a very wealthy
+freedman of Nero. Even as a slave, Epictetus used his time productively,
+studying Stoic Philosophy under Musonius Rufus. He was eventually freed and
+lived a relatively hard life in ill health in Rome, during which time he became
+a cripple due to a bad knee. He was exiled along with other philosophers by the
+emperor Domitian sometime between 89 and 95.
+~
+262154 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 2
+Size: 5
+E
+T 181
+#30
+spy underground resistance~
+the spy for the underground~
+A spy from the underground resistance is discreetly looking for some new recruits.
+~
+   The underground resistance has been blamed for most of the crime in the city
+and it has been rumoured that many new recruits often end up missing. The few
+that do manage to come back are often damaged both physically and mentally.
+~
+8 0 0 0 0 0 0 0 0 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 2
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+T 174
+#31
+prison commissar~
+the Commissar~
+The prison commissar walks with his back straight and his nose held high.
+~
+   The Commissar is the highest ranking official in the prison and is
+responsible for all interrogation and the propaganda it produces.
+~
+10 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 173
+T 72
+#32
+hired muscle~
+the hired muscle~
+Some hired muscle is willing to do just about anything for the right price.
+~
+   This grisly mercenary is covered in scars from numerous fights. His eyes
+show an intense hatred and a blankness of intelligence that seems to convey the
+truth about brawn without brains.
+~
+8 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+E
+#33
+Homer Simpson~
+Homer Simpson~
+Homer Simpson is wandering around aimlessly in a dream like state.
+~
+   The infamous cartoon character has come to life and roams this World spouting
+words of wisdom to fellow travellers. He is decked out in his usual blue pants
+and food stained white t-shirt.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+T 178
+#34
+chuck norris~
+Chuck Norris~
+The one, the only, Chuck Norris dominates the World around him.
+~
+   Chuck is a martial arts star, winning numerous martial arts championships
+including being a six-time undefeated World Professional MiddleWeight Karate
+Champion with a record of 65-5. He is also a renowned teacher in the martial
+arts and if you are lucky he may pass on some of his wisdom to you.
+~
+253962 0 0 0 65552 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 5
+Class: 2
+Size: 5
+E
+T 175
+#35
+ghoul undead creature~
+a ghoul~
+@wAn undead creature is here, its foul stench enough to drive away even the stoutest warrior.@n
+~
+@wThis creature was once human but no more.  Now it hungers for the flesh of the
+dead, searching for bodies to consume in cemeteries and on battlefields.  Its
+own flesh is partially rotted, the lips fallen away to reveal rotting teeth with
+chunks of flesh stuck between them.  The eyelids of this creature have long
+since rotted away as well, leaving the pale, glaring eyes unprotected from the
+flies that now attack them.  @n
+~
+8 0 0 0 393216 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 2
+BareHandAttack: 10
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 2
+Size: 5
+E
+#36
+skeleton giant undead~
+@wa giant skeleton@n~
+@wA giant skeleton is here, its bones hung with pieces of torn cloth.@n
+~
+@wStanding nearly eight feet tall, this skeleton looks to have been dead a long
+time.  Its bones have been bleached white in places, while in other places there
+is evidence of sword cuts.  A broken arrow seems to be stuck in its shoulder
+blade and its long finger bones are tipped with blood and gore.  The remains of
+its clothes hang in tatters from its body, as do small clumps of ligaments and
+flesh.  @n
+~
+98312 0 0 0 393344 0 0 0 0 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 0
+BareHandAttack: 8
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 6
+Size: 6
+E
+#37
+mummy undead monster summoned figure~
+@wa @Wmu@wmm@wy@n~
+@wA figure wrapped in strips of cloth stands here silently.@n
+~
+@wThis creature was once a living thing, but upon its death it was wrapped in
+strips of cloth for burial.  Had those who loved the person it was known what
+horrors would befall it after its internment, they would have undoubtedly chosen
+cremation.  Risen from the halls of the dead by fell magic, this creature must
+now walk the world in service to his master.  The cloth that was so lovingly
+wrapped around its body is coming free in places, showing the rotting flesh
+beneath.  There are signs of violence on the creature as well, from a large gash
+in its left arm, to several missing fingers on its right hand.  @n
+~
+237576 0 0 0 395512 0 0 0 0 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+BareHandAttack: 9
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 3
+Size: 5
+E
+#38
+mummy undead monster summoned lord~
+a mummy lord~
+A mummy lord is standing here.
+~
+   Wrapped head to toe in old decaying strips of cloth, this being's gaze is
+from beyond the grave.  Imbued with magics of empires lost, this being is the
+incarnation of death itself, a great king or lord of men descrated after death
+and infused with powerful magic that animates it.
+~
+237576 0 0 0 395512 0 0 0 -1000 E
+30 8 -10 6d6+650 5d5+7
+0 0
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 3
+Size: 5
+E
+#39
+dragon young red monster summoned~
+a young red dragon~
+A young red dragon is standing here.
+~
+   A magnificent young red dragon, cloaked in thick red scales cascading around
+its body stands here.  Chromatic dragons are amongst the most fierce and the
+great reds are then again even more so.  Too young to have a great hoard of it's
+own, this young dragon, like all other dragons, hungers for treasure.
+~
+237576 0 0 0 395512 0 0 0 -1000 E
+30 8 -10 6d6+650 5d5+7
+0 0
+8 8 0
+BareHandAttack: 8
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 11
+SubRace 2: 17
+SubRace 3: 9
+Race: 4
+Class: 3
+Size: 7
+E
+#40
+dagger animated summoning shelgarn blade~
+an animated @cdagger@n~
+A sharp dagger of focused power hovers in the air here.
+~
+   Created by powerful magic and sheer will power, this dagger seems to have a
+mind of its own.  Sharpened beyond that of normal weapons and seeking the
+lifeblood of those opposed to its master, this blade is relentless in it's need
+to complete it's masters orders.
+~
+8 0 0 0 393344 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 0
+8 8 0
+BareHandAttack: 11
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 4
+Class: 5
+Size: 5
+E
+#41
+badger dire~
+@na @rdire@n badger~
+A dire badger is standing here.
+~
+   A fierce looking badger with a thick coat of fur stalks around the area.  
+His outline shimmers at various points testifying to its magical nature.
+~
+8 0 0 0 2048 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 0
+8 8 2
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#42
+dire boar~
+a @rdire@n boar~
+A dire-boar is pacing around here.
+~
+   Brought into being by great magics, the Dire Boar's outline shimmers a little
+as it paces around the area.
+~
+8 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+0 0
+8 8 2
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#43
+dire wolf~
+a @rdire@n wolf~
+A dire wolf is sniffing the area here.
+~
+With long dark shaggy fur, this wolf is exceptionally large.  He has long
+vicious teeth.
+~
+8 0 0 0 2048 2 0 0 0 E
+5 19 7 1d1+50 1d2+0
+0 0
+8 8 1
+BareHandAttack: 4
+Dex: 14
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#44
+steed horse phantom~
+@ca phantom steed@n~
+A phantom steed stands here.
+~
+This looks like a ghostly medium sized horse.
+~
+2097160 0 0 0 395472 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 0
+8 8 1
+BareHandAttack: 4
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#45
+eye eyeball wizard~
+a wizard eye~
+A magical wizard eye is floating here.
+~
+This apparition looks exactly like a humanoid eyeball, but much
+larger.  It also shimmers with magical energy.
+~
+4251658 0 0 0 537329912 18 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 0
+8 8 0
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 4
+E
+#46
+spider dire large~
+@na @rdire@n spider~
+A large dire spider skitters past here.
+~
+   Green and black spots cover the exoskeleton of this extraordinary large
+spider.  The eight legged creature has many eyes which emit a deep red glow.  
+Some sort of liquid seems drop drip slowly from its waiting mouth.
+~
+4194312 0 0 0 526464 16400 0 0 0 E
+7 18 5 1d1+70 1d2+1
+0 0
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#47
+wall force pure~
+a wall of force~
+@cA wall of pure force stands here.@n
+~
+This wall is nearly invisible, only the occasionally reflection of flight
+and hum of magical energy make you aware of its presence.
+~
+12836875 0 0 0 65536 0 0 0 0 E
+9 20 4 1d1+700 0d0+0
+0 0
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 5
+SubRace 2: 14
+SubRace 3: 0
+Race: 7
+Class: 3
+Size: 9
+E
+#48
+bear dire large~
+@na @rdire@n bear~
+A large dire bear stands on all fours here.
+~
+Thick black and brown fur cover this huge dire bear.  Despite the thick
+fur, the massive muscles of this creature are still visible.  She has
+huge fangs for a bear, and massive claws.
+~
+8 0 0 0 2048 0 0 0 0 E
+9 17 4 1d1+90 1d2+1
+0 0
+8 8 2
+BareHandAttack: 8
+Str: 20
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#49
+hound dog faithful transparent guard~
+a faithful hound~
+A faithful transparent hound sits here on guard.
+~
+This looks like a typical large sheep dog, except that he seems to be
+transparent.
+~
+4374537 0 0 0 131076 24578 0 0 0 E
+7 18 5 1d1+70 1d2+1
+0 0
+8 8 1
+BareHandAttack: 4
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 10
+SubRace 2: 14
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#50
+tiger dire~
+@na @rdire@n tiger~
+A dire tiger carefully surveys the area, ready to pounce.
+~
+   The dire tiger is a much larger relative of the more common jungle and plains
+tigers of storybooks.  It seems almost supernaturally graceful, but on all fours
+it stands tall enough to look a human in the eye.  Its coat is glossy and smooth
+with orange and yellow stripes.  Of particular interest are its claws, which are
+all around a foot long.  It paces quietly, glaring around the room as if looking
+for something to rip apart.
+~
+33554440 0 0 0 67110912 16384 0 0 0 E
+11 17 3 2d2+121 1d2+1
+0 0
+8 8 2
+BareHandAttack: 4
+Str: 18
+Dex: 18
+Con: 18
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#51
+elemental blazing fire~
+@ra fire elemental@n~
+@RA blazing fire elemental is hovering here.@n
+~
+This creature is man-shaped, with a torso that leads to a single stream
+of flames.  Fire composes its whole body, and dark shadow eyes identify
+where its face probably would be.
+~
+536961048 0 0 0 131072 256 0 0 0 E
+13 16 2 2d2+143 2d4+2
+0 0
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 11
+SubRace 2: 10
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 6
+E
+#52
+elemental hulking earth~
+@yan earth elemental@n~
+@YA hulking earth elemental stands here.@n
+~
+This creature is man-shaped, huge and hulking in figure.  The legs
+the thickness of trees support its body.  A body which is composed
+completely of rock, earth and bits of plant-life debris like roots.
+It has two perfectly shaped black orbs on its head.
+~
+536928264 0 0 0 268435456 2 0 0 0 E
+13 16 2 4d4+200 2d4+2
+0 0
+8 8 0
+BareHandAttack: 6
+Str: 28
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 8
+SubRace 2: 10
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 7
+E
+#53
+elemental air tornado like tornado-like spinning~
+@can air elemental@n~
+@CA tornado-like air elemental is spinning here.@n
+~
+This creature is shaped like a powerful, mini tornado.  It is
+perpetually spinning and the only reason you can make out its
+presence is the constant bits of debris spinning about which
+identify its shape.  In addition it has triangle shaped eyes
+near where one would guess its head is.
+~
+570482712 0 0 0 8519764 66 0 0 0 E
+13 16 2 4d4+130 1d6+2
+0 0
+8 8 0
+BareHandAttack: 10
+Dex: 22
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 1
+SubRace 2: 10
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 5
+E
+#54
+elemental water living wave~
+@ba water elemental@n~
+@BA water elemental that looks like a living wave is here.@n
+~
+This creature is shaped like a huge powerful living wave.
+Its form is composed purely of water, and you even see a
+little goldfish swimming inside its body.  The water of that
+forms this creatures body is constantly swirling and moving.
+You can identify two black square shaped eyes on where its
+head must be.
+~
+570548248 0 0 0 268697792 66 0 0 0 E
+13 15 2 2d2+150 2d6+2
+0 0
+8 8 0
+BareHandAttack: 9
+Str: 18
+Dex: 18
+Con: 18
+SavingFort: 4
+SavingRefl: 3
+SavingWill: 4
+SavingPoison: 3
+SavingDeath: 4
+SubRace 1: 20
+SubRace 2: 10
+SubRace 3: 0
+Race: 8
+Class: 3
+Size: 7
+E
+#55
+ghost~
+@Wa ghost@n~
+@WA ghost is floating here, its form wavering in and out.@n
+~
+@WAlthough it is apparent that this was a living thing, the form is has taken
+after death gives no indication what it was in life.  Its form seems to waver,
+as if it is having a hard time remaining in this world.  The call from the other
+side is strong, but its master's call seems to be stronger.  @n
+~
+4300808 0 0 0 264408 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+0 0
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 5
+E
+#56
+spectre figure translucent~
+@Wa spectre@n~
+@WA translucent figure stands here glaring at the living.@n
+~
+@WThis creature was once a living thing and it still maintains all of the features
+it had in life.  Although it is translucent, it is still evident that it was
+once a warrior, it still wears the armor it died in.  A long, bloody gash in one
+side appears to have been the cause of its death, although there are various
+other wounds that appear to have been inflicted upon it that must have been very
+painful.  Its gaze falls on the living with a kind of hatred born only from
+jealousy, mostly likely because it is dead while they still yet live.  @n
+~
+4309000 0 0 0 264408 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+0 0
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 5
+E
+#57
+banshee ghostly form woman~
+@wa @cbanshee@n~
+@cThe ghostly form of a woman floats here, her hair flying about her like snakes.@n
+~
+@cWhat was one a beautiful woman has been twisted into the ghostly form of a
+creature consumed by hatred and jealousy.  Her long, pale hair flies about her
+head as if it has a life of its own and the long ethereal gown she wears
+flutters and moves as she floats inches above the ground.  Her face has been
+contorted by the pain of death and heartache, her eyes glowing with a white hot
+hatred.  Her scream is said to herald death, its piercing cries loud enough to
+rupture eardums.  @n
+~
+4431880 0 0 0 395472 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+0 0
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 1
+Size: 5
+E
+#58
+wight~
+@wa wight@n~
+@wA horrid creature is here, its eyes a burning red color.@n
+~
+@wThis undead creature is a wight, the stuff of nightmares.  Its skin is mummified
+and a dark brown in color.  The skeleton underneath is obviously twisted,
+although by evil or physical damage is hard to tell.  Its clothing is relatively
+intact, with only a few rips in them to show where swords and axes have left
+long gashes in the leather flesh beneath.  Its eyes are a burning red color, the
+evil and hatred behind their gaze sending many running in fear for the very
+lives.  @n
+~
+4251656 0 0 0 264400 2 0 0 0 E
+13 16 2 2d2+143 2d2+2
+0 0
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 4
+Size: 0
+E
+#59
+blade sword animated~
+@wan animated blade@n~
+A @wlarge, black blade hovers in the air here, awaiting its master's orders.@n
+~
+   @wThis large, black blade is nearly four feet long and six inches wide at the
+base.  The metal it is made out of is black with @Wsilver@w streaks in it, created
+by an age-old method of folding two types of metal many times to attain a blade
+that is virtually unbreakable.  The edges of the blade are sharp enough to split
+a hair and there are @cr@wu@cn@we@cs@w along its length, their meaning lost in time.  The
+pommel of the weapon has been crafted to look like two ram's horns curling up
+towards the blade and a skull sits just above the leather wrapped handgrip on
+either side, @jemeralds@w glittering where the eyes would be.  @n
+~
+4431880 0 0 0 67108864 270338 0 0 0 E
+19 14 -1 3d3+247 3d3+3
+0 0
+8 8 0
+BareHandAttack: 3
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 6
+Size: 4
+E
+#60
+bear black~
+a black bear~
+A bear stands here, its black fur matted with blood.
+~
+@wThis small bear is covered from nose to tail in thick, black fur.  Deep brown
+eyes peer out from a dog-like face and its small, rounded ears swivel back and
+forth to catch any sounds around it.  There is blood in its fur, matting the
+thick coat in several places.  It is apparent by the large white teeth and long
+black claws that this bear is dangerous despite its small size.  @n
+~
+83894280 0 0 0 2240 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 4
+E
+#61
+boar~
+a boar~
+A boar is here, snorting and rooting at the ground.
+~
+@wThe coat of this animal is bristly with white hairs scattered amongst the
+dominating black fur.  Long tusks protrude from its pig-like snout and small
+beady eyes take in everything around it.  Its stumpy legs end in cloven hooves
+that are sharp enough to rip flesh and its muscular body makes it quick and
+strong.  @n
+~
+83894280 0 0 0 526528 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 2
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#62
+lion cat~
+a lion~
+A large cat paces back and forth here.
+~
+@yThis large male lion has a mane that frames a feline face and drapes back over
+powerful shoulders.  The mouth of the cat is filled with large, white teeth made
+for ripping flesh from bone or crushing the windpipe of prey.  Paws as large as
+a man's head are equipped with claws that could easily separate a head from the
+body.  Its tail twitches with irritation, the fluff of hair at its tip making
+swishing noises in the air.  @n
+~
+83894280 0 0 0 526528 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 2
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#63
+crocodile~
+a crocodile~
+A crocodile is here, its mouth wide open.
+~
+It looks unfinished.
+~
+67108872 0 0 0 2048 2 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 1
+BareHandAttack: 4
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#64
+hyena laughing dog~
+a hyena~
+A large dog prowls around here.
+~
+@wThis large, dog-like creature has a spotted coat and a narrow head that ends in
+a muzzle filled with sharp teeth.  Its eyes are dark in color and seem
+emotionless when stared into.  Its hind legs are shorter than its front legs,
+causing the back to slope downwards and giving it a skulking gait.  When it
+barks, the sound is closer to laughter than a dog's bark and is eerily
+unnerving.  @n
+~
+71303176 0 0 0 526464 16400 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#65
+leopard snow~
+a snow leopard~
+A snow leopard is crouched here.
+~
+@wThis @Wwhite@w leopard has a small head with rounded ears that swivel to catch any
+nearby sounds.  Its fur is slightly longer than most big cats, probably due to
+the temperature in the regions it calls home.  Its paws are equipped with
+retractable claws that are long and thin, and as sharp as daggers.  The white
+teeth that can be seen inside its maw are sharp as well, easily capable of
+ripping a small animal to shreds in second.  @n
+~
+83943432 0 0 0 526544 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 2
+BareHandAttack: 8
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#66
+skull spider~
+a skull spider~
+A skull rests on the ground here.
+~
+@WWhat at first looked like a human skull lying on the ground, is now revealed as
+a skull used as a home for a large spider.  Its legs extend out of the openings
+of the skull, allowing it to skitter quickly across the ground without being
+impeded by its bulky home.  Other than the legs, the only parts of the spider
+that are visible are the glowing red eyes that can be seen peering out the
+orbital sockets of the skull and two long fangs dripping with venom just visible
+behind the remainder of the skull's top teeth.  @n
+~
+121872392 0 0 0 264400 16386 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#67
+beetle fire~
+@va fire beetle@n~
+@vA large @Vbeetle@v stands here, its front legs twitching occasionally.@n
+~
+@VThis large beetle has a deep, @vpurple@V shell and six long legs covered in tiny
+hairs.  Its small eyes are a dark black and have no eyelids so they stare
+continuously.  When it walks it makes a chittering sound and its method of
+locomotion is more of a rocking trot than a smooth gait.  When necessary, this
+type of beetle has the ability to light itself up brightly, allowing it to see
+in dark places.  This light can also be so bright as to temporarily stun those
+who are to close.  @n
+~
+121888776 0 0 0 2256 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+0 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#68
+hound cayhound dog red~
+@ra cayhound@n~
+@wA large @rred@w dog is here, drooling and panting.@n
+~
+@wThis dog stands head to chest with most humans and weighs more than 200 pounds.
+Its coat is a deep @rred@w@w color and very thick, especially around the neck.  When
+it opens its mouth to pant, rivulets of thick drool flow past long sharp teeth
+to fall to the ground with a loud plop.  It looks like a friendly enough
+creature, although there is an intelligence in its deep @tbrown@w eyes that is
+lacking in most other canines.  @n
+~
+105113608 0 0 0 272600 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 7
+E
+#69
+creature dracaves~
+a dracaves~
+@wAn odd-looking creature is here, scratching at the ground with its claws.@n
+~
+@w@yThis creature resembles a wyvern, with a dragon's long, reptilian neck and head.
+Scales cover its body and the two legs that support the creature's bulk, flowing
+back and down the tail to a lethal barb.  The massive wings are nearly seven
+feet across when fully extended and covered in feathers of a dull brown color,
+The body is the same shade of brown, with mottled patches of @lg@jr@le@je@ln@y spotting the
+back and head, while the underbelly of the creature is a @Ttan@y color.  The black
+eyes set above a large mouth filled with tiny, sharp teeth seem to have a kind
+of benevolent intelligence to them.  @n
+~
+54648840 0 0 0 395480 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 7
+E
+#70
+horse warhorse brilliant white heavy paladinmount~
+@na @Wbrilliant white@n heavy warhorse@n~
+@nA @Wbrilliant white@n heavy warhorse is standing here.
+~
+@WThis horse looks like it has been brushed by a loving groom.  Its long mane is
+free of tangles or burrs and its iron-shod feet are shiny and clean.  It stomps
+the ground occasionally, as if it is impatient to be off on a journey or to be
+in the middle of a glorious fight.  The bridle and saddle it wears are also
+freshly-polished, the silver fastenings gleaming when the light hits them.  
+This is certainly a fine mount.  @n
+~
+270532616 0 0 0 395472 2 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 1
+BareHandAttack: 4
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#71
+destrier black jet horse~
+@wa jet black destrier@n~
+@wA very large horse is here, snorting and stomping the ground.@n
+~
+Its coat is a black so deep that it seems to soak up any light that hits it and
+its long mane is the same shade with sections that have gone white with age.  
+Although this might not be the youngest horse on the battlefield, there is
+something in its eyes and demeanor that tells you it would be a fearsome
+defender of its master.  It has been saddled with a large black saddle with a
+high pommel to keep its rider in the seat and the long reins leading from its
+silver bridle have been tied to keep them from dragging the ground.  @n
+~
+270540808 0 0 0 10384 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#72
+grey dappled stallion~
+@wa da@Wp@wp@Wled@w grey stallion@n~
+@WA large stallion is here, prancing and snorting in agitation.@n
+~
+@wIts coat is a mixture of greys and whites that form a dappled coloration all
+over its body.  The only places that are not dappled are the tall black socks
+that color his legs. Muscles ripple beneath his coat as he tosses his head and
+snorts, stamping one foot as if in a demand for attention.  He has been fitted
+with a saddle and bridle, both of which are made of leather with silver
+fittings.  Behind the saddle is a drape made of overlapping pieces of leather,
+to keep arrows from hitting the horse's rump.  @n
+~
+270540824 0 0 0 2240 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 6
+E
+#73
+horse warhorse destrier~
+@wa well-armored@W destrier@n~
+@wA large warhorse is here, waiting impatiently for its master.@n
+~
+@wThis large horse is a black and white warhorse, completely covered from ears to
+tail in leather armor.  When it moves the saddle it wears creaks and the jingle
+of its harness is almost musical to the ears.  Its feet are the size of dinner
+plates and festooned with long black hair at the fetlock.  They have been
+polished to a deep black color and when the horse stamps it foot in impatience,
+sparks fly from its iron shoes.  @n
+~
+270606360 0 0 0 2240 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#74
+warhorse horse~
+@ya golden warhorse@n~
+@yA golden horse stands here in full steel armor.@n
+~
+@yThis warhorse is a golden color, at least the parts of its coat seen between the
+armor it wears is.  The armor is made of overlapping plates of steel that follow
+the curve of the horse's neck and across its rump.  Plates of steel hang
+vertically across the front of the horse's chest to protect it from spears and
+arrows and a full steel mask protects its face.  The high pommel of its saddle
+is designed to keep the rider in its seat and the bridle it wears has reins that
+have been tied to keep them from dragging the ground.  @n
+~
+304111624 0 0 0 264400 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#75
+horse warhorse painted~
+@ta @Tp@ya@oin@yt@te@Td@t warhorse@n~
+A horse covered in warpaint is standing here.
+~
+@tThis horse is a deep brown color with large feet and a long mane.  The areas of
+its body not covered by the large, fur-covered saddle have been painted with
+crude drawings and handprints.  Its face has been painted to look like a demon,
+complete with white paint on its ears to make them look like horns.  On its
+shoulders are runes which represent bravery and valor in battle, while
+handprints on its rump seem to indicate the number of battles it has been in.  @n
+~
+270622728 0 0 0 272576 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 6
+E
+#76
+caparisoned destrier horse~
+@ca b@Cri@Wght@cly@c caparisoned destrier@n~
+@cA horse in bright trappings is standing here patiently.@n
+~
+@cThis large horse has been fitted out with brightly colored trappings that drape
+it from ears to tail.  Normally these types of trappings are used for
+tournaments and processions, but these look to be everyday wear for the horse.
+The bright colors of the chest drape are spattered with mud and what looks to be
+dried blood.  Tears on the rump draping show where swords have slashed at the
+horse as it wheeled and charged in a battle.  The fact that the creature is
+still alive is a testament to its training, and more than a little luck.  @n
+~
+270622728 0 0 0 272576 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#77
+dog wardog~
+@ya wardog@n~
+@yA large dog wearing a saddle and leather armor is standing here.@n
+~
+@yThis large dog is fitted out with a small saddle and leather armor that covers
+its neck and hindquarters.  A drape of leather studded with metal hangs across
+its chest and a pair of reins loop across its slathering muzzle.  It doesn't
+look like a very friendly dog, but its master seems to be in full control of it.
+Although it is too small to be ridden by a human, some of the more diminutive
+races would find this to be a fine mount to take into battle.  @n
+~
+274849800 0 0 0 264400 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#78
+mob unfinished~
+@wa warpony@n~
+@wA pony wearing a small saddle and leather armor is standing here patiently.@n
+~
+@yThis small pony is a dirty white color and very shaggy.  It stands no more
+than three feet at the shoulders and is fitted out with a small saddle covered
+in fur and leather armor that protects its chest and hindquarters.  Too small
+for a human or anything larger than a dwarf, this small pony looks to be the
+perfect mount for the smaller races of the realm.  Its sharp little hooves have
+been tipped with steel to increase the damage that they can do and a face mask
+with a tiny steel horn covers its head from muzzle to ears.  @n
+~
+270557192 0 0 0 264400 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#79
+griffon battle creature~
+@Ta battle griffon@n~
+@TA creature is here that looks like a cross between a lion and an eagle.@n
+~
+@TThis is the fabled @tgriffon@T, a mythical creature that is a cross between a lion
+and eagle.  The lion's body is fitted out with a saddle which has been placed
+high on its shoulders in order to not impede the giant wings that protrude from
+the griffon's body.  Long @oclaws@T tip the avian front feet of the creature, the
+rear feet are those of a lion with equally sharp claws.  The great eagle head is
+surrounded by @Wwhite@T feathers and the large beak looks to be able to rip through
+flesh with little effort.  Beady @wblack@T eyes survey the surroundings, possibly
+looking for prey.  @n
+~
+274980888 0 0 0 460888 90114 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#80
+bat night hunter~
+@wa night hunter@n~
+@wA giant bat hangs here, its ears twitching towards any sounds.@n
+~
+Larger than most bats, this creature has long leather wings which it wraps
+around itself whenever it hangs upside down to rest.  Its ears are a little
+large for its head and its eyes are a little small.  In its mouth can be seen
+long, sharp teeth and a long red tongue.  Unlike most bats, this one seems to
+like the company of its master, following where it is lead and doing whatever it
+is bid to do.  It seems to be more intelligent than its smaller cousins, is it
+possible that being around magic-users has taught it some things?
+~
+134217736 0 0 0 2048 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#81
+cat black panther~
+@wa black panther@n~
+@wA large black cat stalks around, its head low to the ground.@n
+~
+This large cat has a thick black coat that gleams when the light hits it.  This
+same fur helps to conceal it in shadowy places, making it an excellent stalker
+of prey.  Although it seems to be obedient to its master, there is a feral look
+in the creature's eyes, as if at any moment it could break loose from its
+master's control and wreak havoc on any creature unfortunate enough to be in its
+path.
+~
+151003160 0 0 0 2112 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 2
+BareHandAttack: 9
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 5
+E
+#82
+mouse~
+@ta tiny mouse@n~
+@tA tiny mouse is here, sniffing the air and looking very cute.@n
+~
+This tiny creature is covered in brown fur and has large round ears atop its
+tiny head.  Its tiny little eyes are a deep brown color and its long whiskers
+surround a tiny pink nose.  As a familiar it doesn't seem like it would be very
+useful, but then again mice can go places people cannot so that may not be
+entirely true.
+~
+151003160 0 0 0 2048 2 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 1
+BareHandAttack: 4
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 3
+E
+#83
+eagle bird~
+@can eagle@n~
+@cA large bird has found a place to roost here, and is glaring about threateningly.@n
+~
+Nearly three feet tall from talon to head this large bird looks like it could be
+quite dangerous.  Its large feet are tipped with deadly-looking claws and its
+beaks looks like it could rip the flesh from bone without any problems.  As its
+head swivels around to look at its surroundings, there appears to be an
+intelligence in its beady black eyes that is not seen in other birds.
+~
+151068696 0 0 0 133120 16384 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 0
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#84
+raven bird~
+@wa raven@n~
+@wA black bird has found a roost here and is looking around with curiosity.@n
+~
+Covered in black feathers that have a blue tint to them, this bird is nearly two
+feet tall.  Its feet are tipped by long claws and on one foot is a small case
+for carrying messages.  Its small black eyes look at everything with a curious
+gleam, perhaps contemplating what it can safely steal or kill.  Altough ravens
+are known to be intelligent by their very nature, this one seems to have an
+intelligence that far outstrips that of its brothers and sisters.
+~
+151003144 0 0 0 133120 0 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 0
+BareHandAttack: 8
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 6
+E
+#85
+imp demon~
+an imp~
+A very small demon with wings is bouncing around and making funny noises here.
+~
+This small demon has flesh of a dark red tint and tiny white horns that protrude
+from the top of his bulbous head.  His long fingers are tipped with long black
+nails and his feet are too large for his body.  The wings that have sprouted
+from his shoulders look like red leather and are torn in several places, as if
+he has recently been in a fight.  He bounces around his master's feet, making
+noises that sound like imitations of animals one second and some foreign
+language the next.
+~
+167780376 0 0 0 67110912 16386 0 0 0 E
+1 20 9 0d0+10 1d6+0
+0 0
+8 8 1
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#86
+pixie creature elf~
+a pixie~
+A creature resembling an elf with wings is here, flitting about in the air.
+~
+This creature is a pixie and she is one of a race of fey creatures known for
+their love of pranks.  Not much larger than a small bird, she has the features
+of an elf, from the pointed ears to the angular features of her face.  Her skin
+has a shimmering appearance, as if it has been dusted with silvery dust, and her
+hair is a purple color that seems to change colors as the light hits it.  Her
+gossamer wings are nearly invisible when she flies, their movements so fast that
+they are a blur to the eye.  When she is still they appear to be translucent
+with a myriad of colors rippling trough them.
+~
+151003144 0 0 0 133120 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 9
+Class: 3
+Size: 2
+E
+#87
+faerie dragon faeriedragon~
+a faerie dragon~
+A tiny dragon with gossamer wings flits about here, spitting out little bursts of sparks.
+~
+Resembling a very tiny dragon with faerie wings, this is a race of creature from
+the world of the fey.  Magical by nature, they do inherit some features from
+their larger cousins, such as the ability to breath fire and ice, although their
+area of affect is significantly less.  Other features they have inherited are
+their scaly skin and the tiny row of spines that run down the back of this one.
+It also has rather sharp teeth and pair of tiny white horns poking up from its
+reptilian head.  One major difference is the wings that this creature uses to
+flit around.  They look like the wings found on pixies with translucent colors
+rippling through them as the little dragon flutters them to remain aloft.
+~
+151003144 0 0 0 133184 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 9
+Class: 5
+Size: 3
+E
+#88
+dragon pseudodragon pseudo~
+a pseudo dragon~
+A small dragon has found a roost here, and looks around with a bored intelligence.
+~
+Although it may resemble its larger cousin, the red dragon, in both color and
+physical features, this small pseudo dragon is one of a race of fey creatures
+that abhores the very idea of violence for the sake of violence.  If attacked it
+will defend itself or its master, but it seems far more interested in staying
+clean.  This catlike affinity for cleanliness is not the only feline quality
+this race of creature has, they are also very aloof and tend to ignore anyone
+but their master.
+~
+151003160 0 0 0 133120 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 9
+Class: 0
+Size: 4
+E
+#89
+hound hellhound~
+a hellhound~
+A large hound with glowing red eyes glares around as it growls menacingly.
+~
+This creature is straight from the abyss, its very nature that of evil and
+discord.  Its body is that of a large dog with a long hairless tail tipped by a
+ball of flame that seems to have a life of its own.  Where there was once a
+canine muzzle there is nothing but a bloody skull, the mouth of which is filled
+with razor-sharp teeth and a bloody, forked tongue.  Horns sprout from the top
+of the skull, curling back into a thick mane that resembles writhing flames more
+than it does hair and the eyes of the creature are a red so deep that they seem
+to be burning coals.  The feet of the creature are the size of a man's head and
+dagger-like claws make them not only dangerous but deadly as well.
+~
+151003160 0 0 0 2112 2 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+BareHandAttack: 9
+SubRace 1: 10
+SubRace 2: 0
+SubRace 3: 0
+Race: 10
+Class: 5
+Size: 6
+E
+#90
+sphere wall prism prismatic~
+a prismatic sphere~
+A prismatic sphere is here.
+~
+This wall is nearly invisible, only the occasionally reflection of flight
+and hum of magical energy make you aware of its presence.
+~
+12836875 0 0 0 65536 0 0 0 0 E
+34 5 -2 6d6+1500 5d5+9
+0 0
+8 8 0
+Str: 22
+Dex: 22
+Int: 50
+Wis: 50
+Con: 22
+Cha: 50
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 5
+SubRace 2: 14
+SubRace 3: 4
+Race: 7
+Class: 0
+Size: 9
+E
+#91
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 5
+Size: 0
+E
+#92
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 0
+E
+#93
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 0
+E
+#94
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 0
+E
+#95
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#96
+mob unfinished~
+the unfinished mob~
+An unfinished mob stands here.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 0
+E
+#97
+waitress jenny jennifer woman girl maiden~
+Jenny the waitress~
+The waitress is waiting with a pot of coffee.
+~
+   Although she seems to be a mere maiden, Jennifer is a veteran of the greasy
+spoon, and enjoys serving the builders who come here in their overalls after a
+hard day laying bricks and writing triggers.
+~
+24586 0 0 0 0 0 0 0 10 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 3
+Size: 5
+E
+#98
+travelling saleswoman woman~
+the travelling saleswoman~
+This saleswoman is laden with gadgets and gizmos that are outrageously priced.
+~
+   A combination of good business sense, charming personality, and good looks
+has made her a success at pushing useless products on uneducated buyers.  Only
+on a rare occasion does she sell anything useful.  
+~
+253962 0 0 0 2128 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+E
+T 98
+#99
+death grim reaper Hookah~
+Death~
+Death the Grim Reaper is smoking a Hookah.
+~
+   The dark-robed skeletal figure radiates an unendurable coldness. It is
+however, his day off, and he is using a water pipe that he picked up in
+Istanbul. It smells like he is smoking strawberries.
+~
+256026 0 0 0 65616 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+$

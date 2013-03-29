@@ -1,0 +1,25 @@
+CircleMUD v3.0 Shop File~
+#13802~
+-1
+1.20
+6.00
+5sword
+-1
+%s Haven't got anything like that here, sorry.~
+%s Have you come here to waste my time?  I'm not buying anything I haven't seen first.~
+%s I don't think I can sell that in here, try taking it to the city.~
+%s I'm sorry bub but that's more then I can spend tight now.~
+%s Come back with some money, I don't want to have to throw you out.~
+%s For %d gold we have a deal.~
+%s For %d gold we have a deal.~
+0
+3
+13802
+0
+13802
+-1
+0
+28
+0
+0
+$~

@@ -1,0 +1,98 @@
+[Mar 20 2013] - Nashak
+  new help files: hallow, unhallow, insect plague, wall of fire, wall of thorns, fire seeds, transport via plants, creeping doom, fire storm, control plants, finger of death, whirlwind, elemental swarm, shambler
+[Mar 19 2013] - Zusuk
+  added help files:  natures ally 3-9, freedom of movement, spike stones, call lightning storm and death ward
+  sped up the casting event, its now set to 7/10th's of a second per call (reduced from 1 second)
+[Mar 19 2013] - Taure
+  added some more mobiles for Nashak to zone 94
+[Mar 19 2013] - Zusuk
+  new help file:  animal shapes
+  added new druid spell:  animal shapes
+  added new function (spec_wear_off) to handle special spell/skill wear-offs in magic.c
+  added 'study' command for druids (for animal companion selection)
+[Mar 19 2013] - Nashak
+  added help files for spells: spellstaff, faerie fire, goodberry, jump
+  new druid spells: fire storm, elemental swarm, whirlwind, finger of death, control plants, creeping doom
+  added do_disengage command
+[Mar 19 2013] - Treyorn
+  Released Wizard Mansion
+[Mar 19 2013] - Zusuk
+  moved the '# of prac sessions left' to the bottom of the interface
+  categorized skills:  active, passive, casting-skill, crafting-skill
+  replaced ALL wait_state's with new SET_WAIT
+[Mar 18 2013] - Zusuk
+  fixed bug in treasure.c that would cause apply_move to go over the cap
+[Mar 18 2013] - Nashak
+  added ITEM_SPELLBOOK to inventory command ("look in spellbook"), ITEM_NOTE also ("read note")
+  added ITEM_PLANT item type for transport via plants spell
+  transport via plants spell
+[Mar 17 2013] - Zusuk
+  lowered level of the 'file' command to LVL_IMMORT
+  added a function in weather.c called "reset_dailies" for resetting daily-usage skills...  it is called every 6 game hours currently
+[Mar 17 2013] - Nashak
+  added boot high in do_who
+[Mar 17 2013] - Zusuk
+  updated cleric/paladin helpfiles showing they get 'turn undead'
+  modified dam_killed_vict() so it can handle 'turn undead' - thanks CWG for code bits
+  added new event cooldown for 'turn undead' and the cooldown saves (players.c)
+  added 'turn undead' skill to paladin (level 3) and clerics
+  added monk_gear_ok in class.c to enforce monk restrictions for gear for calculating bare-hand damage, and armor-bonuses
+  look in spellbook now shows the spell-level in the [] instead of pages taken
+  added an appropriate message if you attempt to scribe a scroll that isn't a wizard spell
+  added bonuses for favored enemy
+  changed delay for casting spells from 8 seconds to PULSE_VIOLENCE 
+  made sure starting spellbook has some spells
+  made sure wizards start off with a spellbook
+  made sure wizards start with scribe for free
+  added thee ability to OLC spellbooks to edit a list of pre-determined spells
+  found a bug in saving wizard spellbooks, fixed her up
+  fixed a typo with alchemal to alchemical
+[Mar 16 2013] - Zusuk
+  fixed random misc-armor keywords
+  item_worn in new mxp code was defaulting to 'hold' command, changed to 'wear'
+  fixed random armor keywords
+[Mar 16 2013] - Nashak
+  added mxp to do_equipment (remove item)
+  added mxp to do_inventory (can wield/wear/hold/quaff/eat items by clicking on them)
+[Mar 15 2013] - Zusuk
+  you can't memorize wizard spells without the spell in your spellbook or a scroll
+  the 'spells' command for wizards will now reflect whether you have a spell scribed (or in a scroll)
+[Mar 14 2013] - Zusuk
+  modified objsave_parse_objects to handle spellbooks
+  added new scribe command, help SCRIBE (thanks CWG)
+  made it so you when you 'look in' spellbooks or scrolls, it now lists spells (thanks CWG)
+  added some utility functions for spellbooks in memorize.c
+[Mar 14 2013] - Nashak
+  added spellstaff spell for druids
+  changed do_cast to use new event based wait instead of WAIT_STATE
+  alphabetized mag_manual and manual spell declarations for easier code navigation
+  do_lore no longer shows numeric alignment values
+[Mar 14 2013] - Zusuk
+  added 'vision' helpfile
+  changed the message in spell_parser for when you ran out of slots/spells
+  added help files:  sorcererous-energy and preparation
+[Mar 13 2013] - Nashak
+  added NPC class to do_mlist
+  fixed dumbarse Zusuk's errors in simple math :P
+[Mar 13 2013] - Zusuk
+  added a wear-off message for wait-state
+  added {wait} to prompt if you are affected by the new wait-state
+  added a condition statement to keep characters from training crafting skills (they have to be increased by usage)
+  fixed a typo in do_flee
+  reduced wait-state on flee from 100 to 50
+[Mar 13 2013] - Nashak
+  display Z in rlist for rooms with zone commands
+[Mar 13 2013] - Zusuk
+  converted castle.c to a more general zone_procs.c file (future zone procs can be placed here)
+  old changelog archived in luminari/docs/ directory
+  Several small tweaks to the crafting system
+  Several bug fixes to the crafting system
+  Added DISENCHANT command, please report bugs!
+  Added LOADMAGIC command to simulate our new random-treasure system
+  Added new random-treasure system (ported from d20mud, thanks Gicker and d20 Staff!)
+  Added a cap to object value on read_objectcs in db.c
+  Fixed a mix-up in values in oasis.h defines for maximum weaopn num-dice and size-dice
+  NEWS now will be a copy of our changelog and updated on update_luminari script
+  CHANGELOG system changed, staff needs to update-announce changes via changelog command on the luminari playing port
+  ***
+EOF

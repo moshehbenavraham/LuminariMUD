@@ -1,0 +1,19 @@
+#4900
+guardian gate~
+Gate Guardian~
+A nine foot tall Gate Guardian stands on one side of the Dying Gate.
+~
+It looks unfinished.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+0 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 6
+Class: 3
+Size: 0
+E
+$

@@ -1,0 +1,218 @@
+Text      mtransform, ask orme~
+Body      yes!
+~
+Name      Zusuk~
+Notes     is this still an issue?  I was messing around with it to try to fix the bug, and it seems to function properly...
+~
+IdNum     1
+Dated     1358787426
+Level     34
+Room      100
+Flags     4 0 0 0
+End
+Text      Lore still shows numerical alignment~
+Body      Title says it all.  If you lore a mob, you see its numerical alignment, not
+the new letter value.
+~
+Name      Gwyneth~
+IdNum     221
+Dated     1359254141
+Level     2
+Room      18602
+Flags     1 0 0 0
+End
+Text      animals using gear~
+Body      teehee
+~
+Name      Zusuk~
+IdNum     1
+Dated     1360133904
+Level     34
+Room      1207
+Flags     0 0 0 0
+End
+Text      can't add color to socials~
+Body      D'oh!
+~
+Name      Zusuk~
+IdNum     1
+Dated     1360871571
+Level     34
+Room      1291
+Flags     0 0 0 0
+End
+Text      portal~
+Body      portal (unlike gate) shouldn't work between planes
+~
+Name      Zusuk~
+IdNum     1
+Dated     1361343997
+Level     34
+Room      55561
+Flags     0 0 0 0
+End
+Text      companions~
+Body      companiosn shouldn't count towards charmee count
+~
+Name      Zusuk~
+IdNum     1
+Dated     1361394889
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      mem times~
+Body      might be a bug in it
+(concentration)
+~
+Name      Zusuk~
+IdNum     1
+Dated     1361516397
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      ENTERPRISE area lifts~
+Body      The panel of instructions for the turbolift do not work.
+~
+Name      Ramza~
+IdNum     287
+Dated     1362276738
+Level     25
+Room      24110
+Flags     0 0 0 0
+End
+Text      mount kills do not give exp~
+Body      When your mount kills a mob, it yields 0 exp.
+~
+Name      Dreracan~
+IdNum     302
+Dated     1362685925
+Level     8
+Room      14001
+Flags     0 0 0 0
+End
+Text      size change and gear~
+Body      if you enlarge and wield a huge weapon, then shrink
+back down it should force the weapon to be removed
+~
+Name      Zusuk~
+IdNum     1
+Dated     1362732498
+Level     34
+Room      371
+Flags     0 0 0 0
+End
+Text      off-hand weapon dual wielding~
+Body      gotta make sure that there is a heavy penalty to attacks
+if the off-hand weapon someone is dual wielding is NOT
+a size-class smaller than the character
+~
+Name      Zusuk~
+IdNum     1
+Dated     1362739179
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      Problems with Price Selling / Appraise / Charisma~
+Body      Occasionally, it seems that getting raises in the appraise skill -- either through direct raises or raising my intelligence -- sometimes lowers the prices I get for selling stuff. Moreover, the same effect happens with charisma. It doesn't seem quite consistent across the board as sometimes I do get favorable prices. But often the proper relationship is inverted.
+~
+Name      Ramza~
+IdNum     287
+Dated     1362795270
+Level     30
+Room      24810
+Flags     0 0 0 0
+End
+Text      Crafting and multiclassing~
+Body      Multiclassing seems to break the crafting system. It says that my various skills are only at level one, even though I am a Level 29 Cleric / 1 Rogue.
+~
+Name      Ramza~
+IdNum     287
+Dated     1362795368
+Level     30
+Room      24809
+Flags     1 0 0 0
+End
+Text      continual flame in the dark~
+Body      Trying to cast 'continual flame' in a room that's too dark (shouldn't my infravision take care of that anyway?) Evidently the room is too dark for me to find the flame. If I go to a brighter area, I can find the flame again. 
+~
+Name      Ditty~
+IdNum     300
+Dated     1362948591
+Level     4
+Room      5901
+Flags     0 0 0 0
+End
+Text      text formatting~
+Body      it turns out the text formatting can be problematic
+for scripts that require spoken commands
+~
+Name      Zusuk~
+IdNum     1
+Dated     1362961545
+Level     34
+Room      1204
+Flags     0 0 0 0
+End
+Text      char-creation~
+Body      enter twice, sometimes y/n doesn't show up
+~
+Name      Zusuk~
+IdNum     1
+Dated     1363207510
+Level     34
+Room      376
+Flags     0 0 0 0
+End
+Text      spells don't show up in known spells list~
+Body      they only show up inside the spellbook
++w
+~
+Name      Gorgja~
+IdNum     307
+Dated     1363377108
+Level     1
+Room      3001
+Flags     1 0 0 0
+End
+Text      wizard scribing~
+Body      For some reason it tells me that the scroll with cause light wound i have been trying to scribe is for a spell that does not exist. 
+If as i'm assuming it is because it is a divine spell then it should probably say something about that to the player.
+~
+Name      Gorgja~
+IdNum     307
+Dated     1363377890
+Level     1
+Room      3001
+Flags     1 0 0 0
+End
+Text      endurance - scribing, memorizing~
+Name      Gorgja~
+IdNum     307
+Dated     1363378113
+Level     1
+Room      3001
+Flags     1 0 0 0
+End
+Text      endurance - scribing, memorizing~
+Body      endurance scribes as a 1st circle spell but memorizes as a 2nd circle i guess? it does not allow me to memorize it as a 1st circle.
+~
+Name      Gorgja~
+IdNum     307
+Dated     1363378207
+Level     1
+Room      3001
+Flags     1 0 0 0
+End
+Text      Stealthy Bug~
+Body      I'm a rogue and above level 2 and don't have "Stealthy". 
+~
+Name      Crezilin~
+IdNum     110
+Dated     1363563291
+Level     10
+Room      25520
+Flags     1 0 0 0
+End

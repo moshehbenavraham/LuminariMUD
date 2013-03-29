@@ -1,0 +1,2161 @@
+#65000
+The Ocean~
+You are in an unfinished room.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65010
+D1
+~
+~
+0 0 65001
+D2
+~
+~
+0 0 64390
+S
+#65001
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65011
+D1
+~
+~
+0 0 65002
+D2
+~
+~
+0 0 64391
+D3
+~
+~
+0 0 65000
+S
+#65002
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65012
+D1
+~
+~
+0 0 65003
+D2
+~
+~
+0 0 64392
+D3
+~
+~
+0 0 65001
+S
+#65003
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65013
+D1
+~
+~
+0 0 65004
+D2
+~
+~
+0 0 64393
+D3
+~
+~
+0 0 65002
+S
+#65004
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65014
+D1
+~
+~
+0 0 65005
+D2
+~
+~
+0 0 64394
+D3
+~
+~
+0 0 65003
+S
+#65005
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65015
+D1
+~
+~
+0 0 65006
+D2
+~
+~
+0 0 64395
+D3
+~
+~
+0 0 65004
+S
+#65006
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65016
+D1
+~
+~
+0 0 65007
+D2
+~
+~
+0 0 64396
+D3
+~
+~
+0 0 65005
+S
+#65007
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65017
+D1
+~
+~
+0 0 65008
+D2
+~
+~
+0 0 64397
+D3
+~
+~
+0 0 65006
+S
+#65008
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65018
+D1
+~
+~
+0 0 65009
+D2
+~
+~
+0 0 64398
+D3
+~
+~
+0 0 65007
+S
+#65009
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65019
+D1
+~
+~
+0 0 65100
+D2
+~
+~
+0 0 64399
+D3
+~
+~
+0 0 65008
+S
+#65010
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65020
+D1
+~
+~
+0 0 65011
+D2
+~
+~
+0 0 65000
+S
+#65011
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65021
+D1
+~
+~
+0 0 65012
+D2
+~
+~
+0 0 65001
+D3
+~
+~
+0 0 65010
+S
+#65012
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65022
+D1
+~
+~
+0 0 65013
+D2
+~
+~
+0 0 65002
+D3
+~
+~
+0 0 65011
+S
+#65013
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65023
+D1
+~
+~
+0 0 65014
+D2
+~
+~
+0 0 65003
+D3
+~
+~
+0 0 65012
+S
+#65014
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65024
+D1
+~
+~
+0 0 65015
+D2
+~
+~
+0 0 65004
+D3
+~
+~
+0 0 65013
+S
+#65015
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65025
+D1
+~
+~
+0 0 65016
+D2
+~
+~
+0 0 65005
+D3
+~
+~
+0 0 65014
+S
+#65016
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65026
+D1
+~
+~
+0 0 65017
+D2
+~
+~
+0 0 65006
+D3
+~
+~
+0 0 65015
+S
+#65017
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65027
+D1
+~
+~
+0 0 65018
+D2
+~
+~
+0 0 65007
+D3
+~
+~
+0 0 65016
+S
+#65018
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65028
+D1
+~
+~
+0 0 65019
+D2
+~
+~
+0 0 65008
+D3
+~
+~
+0 0 65017
+S
+#65019
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65029
+D1
+~
+~
+0 0 65110
+D2
+~
+~
+0 0 65009
+D3
+~
+~
+0 0 65018
+S
+#65020
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65030
+D1
+~
+~
+0 0 65021
+D2
+~
+~
+0 0 65010
+S
+#65021
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65031
+D1
+~
+~
+0 0 65022
+D2
+~
+~
+0 0 65011
+D3
+~
+~
+0 0 65020
+S
+#65022
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65032
+D1
+~
+~
+0 0 65023
+D2
+~
+~
+0 0 65012
+D3
+~
+~
+0 0 65021
+S
+#65023
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65033
+D1
+~
+~
+0 0 65024
+D2
+~
+~
+0 0 65013
+D3
+~
+~
+0 0 65022
+S
+#65024
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65034
+D1
+~
+~
+0 0 65025
+D2
+~
+~
+0 0 65014
+D3
+~
+~
+0 0 65023
+S
+#65025
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65035
+D1
+~
+~
+0 0 65026
+D2
+~
+~
+0 0 65015
+D3
+~
+~
+0 0 65024
+S
+#65026
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65036
+D1
+~
+~
+0 0 65027
+D2
+~
+~
+0 0 65016
+D3
+~
+~
+0 0 65025
+S
+#65027
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65037
+D1
+~
+~
+0 0 65028
+D2
+~
+~
+0 0 65017
+D3
+~
+~
+0 0 65026
+S
+#65028
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65038
+D1
+~
+~
+0 0 65029
+D2
+~
+~
+0 0 65018
+D3
+~
+~
+0 0 65027
+S
+#65029
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65039
+D1
+~
+~
+0 0 65120
+D2
+~
+~
+0 0 65019
+D3
+~
+~
+0 0 65028
+S
+#65030
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65040
+D1
+~
+~
+0 0 65031
+D2
+~
+~
+0 0 65020
+S
+#65031
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65041
+D1
+~
+~
+0 0 65032
+D2
+~
+~
+0 0 65021
+D3
+~
+~
+0 0 65030
+S
+#65032
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65042
+D1
+~
+~
+0 0 65033
+D2
+~
+~
+0 0 65022
+D3
+~
+~
+0 0 65031
+S
+#65033
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65043
+D1
+~
+~
+0 0 65034
+D2
+~
+~
+0 0 65023
+D3
+~
+~
+0 0 65032
+S
+#65034
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65044
+D1
+~
+~
+0 0 65035
+D2
+~
+~
+0 0 65024
+D3
+~
+~
+0 0 65033
+S
+#65035
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65045
+D1
+~
+~
+0 0 65036
+D2
+~
+~
+0 0 65025
+D3
+~
+~
+0 0 65034
+S
+#65036
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65046
+D1
+~
+~
+0 0 65037
+D2
+~
+~
+0 0 65026
+D3
+~
+~
+0 0 65035
+S
+#65037
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65047
+D1
+~
+~
+0 0 65038
+D2
+~
+~
+0 0 65027
+D3
+~
+~
+0 0 65036
+S
+#65038
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65048
+D1
+~
+~
+0 0 65039
+D2
+~
+~
+0 0 65028
+D3
+~
+~
+0 0 65037
+S
+#65039
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65049
+D1
+~
+~
+0 0 65130
+D2
+~
+~
+0 0 65029
+D3
+~
+~
+0 0 65038
+S
+#65040
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65050
+D1
+~
+~
+0 0 65041
+D2
+~
+~
+0 0 65030
+S
+#65041
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65051
+D1
+~
+~
+0 0 65042
+D2
+~
+~
+0 0 65031
+D3
+~
+~
+0 0 65040
+S
+#65042
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65052
+D1
+~
+~
+0 0 65043
+D2
+~
+~
+0 0 65032
+D3
+~
+~
+0 0 65041
+S
+#65043
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65053
+D1
+~
+~
+0 0 65044
+D2
+~
+~
+0 0 65033
+D3
+~
+~
+0 0 65042
+S
+#65044
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65054
+D1
+~
+~
+0 0 65045
+D2
+~
+~
+0 0 65034
+D3
+~
+~
+0 0 65043
+S
+#65045
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65055
+D1
+~
+~
+0 0 65046
+D2
+~
+~
+0 0 65035
+D3
+~
+~
+0 0 65044
+S
+#65046
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65056
+D1
+~
+~
+0 0 65047
+D2
+~
+~
+0 0 65036
+D3
+~
+~
+0 0 65045
+S
+#65047
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65057
+D1
+~
+~
+0 0 65048
+D2
+~
+~
+0 0 65037
+D3
+~
+~
+0 0 65046
+S
+#65048
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65058
+D1
+~
+~
+0 0 65049
+D2
+~
+~
+0 0 65038
+D3
+~
+~
+0 0 65047
+S
+#65049
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65059
+D1
+~
+~
+0 0 65140
+D2
+~
+~
+0 0 65039
+D3
+~
+~
+0 0 65048
+S
+#65050
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65060
+D1
+~
+~
+0 0 65051
+D2
+~
+~
+0 0 65040
+S
+#65051
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65061
+D1
+~
+~
+0 0 65052
+D2
+~
+~
+0 0 65041
+D3
+~
+~
+0 0 65050
+S
+#65052
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65062
+D1
+~
+~
+0 0 65053
+D2
+~
+~
+0 0 65042
+D3
+~
+~
+0 0 65051
+S
+#65053
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65063
+D1
+~
+~
+0 0 65054
+D2
+~
+~
+0 0 65043
+D3
+~
+~
+0 0 65052
+S
+#65054
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65064
+D1
+~
+~
+0 0 65055
+D2
+~
+~
+0 0 65044
+D3
+~
+~
+0 0 65053
+S
+#65055
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65065
+D1
+~
+~
+0 0 65056
+D2
+~
+~
+0 0 65045
+D3
+~
+~
+0 0 65054
+S
+#65056
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65066
+D1
+~
+~
+0 0 65057
+D2
+~
+~
+0 0 65046
+D3
+~
+~
+0 0 65055
+S
+#65057
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65067
+D1
+~
+~
+0 0 65058
+D2
+~
+~
+0 0 65047
+D3
+~
+~
+0 0 65056
+S
+#65058
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65068
+D1
+~
+~
+0 0 65059
+D2
+~
+~
+0 0 65048
+D3
+~
+~
+0 0 65057
+S
+#65059
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65069
+D1
+~
+~
+0 0 65150
+D2
+~
+~
+0 0 65049
+D3
+~
+~
+0 0 65058
+S
+#65060
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65070
+D1
+~
+~
+0 0 65061
+D2
+~
+~
+0 0 65050
+S
+#65061
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65071
+D1
+~
+~
+0 0 65062
+D2
+~
+~
+0 0 65051
+D3
+~
+~
+0 0 65060
+S
+#65062
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65072
+D1
+~
+~
+0 0 65063
+D2
+~
+~
+0 0 65052
+D3
+~
+~
+0 0 65061
+S
+#65063
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65073
+D1
+~
+~
+0 0 65064
+D2
+~
+~
+0 0 65053
+D3
+~
+~
+0 0 65062
+S
+#65064
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65074
+D1
+~
+~
+0 0 65065
+D2
+~
+~
+0 0 65054
+D3
+~
+~
+0 0 65063
+S
+#65065
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65075
+D1
+~
+~
+0 0 65066
+D2
+~
+~
+0 0 65055
+D3
+~
+~
+0 0 65064
+S
+#65066
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65076
+D1
+~
+~
+0 0 65067
+D2
+~
+~
+0 0 65056
+D3
+~
+~
+0 0 65065
+S
+#65067
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65077
+D1
+~
+~
+0 0 65068
+D2
+~
+~
+0 0 65057
+D3
+~
+~
+0 0 65066
+S
+#65068
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65078
+D1
+~
+~
+0 0 65069
+D2
+~
+~
+0 0 65058
+D3
+~
+~
+0 0 65067
+S
+#65069
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65079
+D1
+~
+~
+0 0 65160
+D2
+~
+~
+0 0 65059
+D3
+~
+~
+0 0 65068
+S
+#65070
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65080
+D1
+~
+~
+0 0 65071
+D2
+~
+~
+0 0 65060
+S
+#65071
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65081
+D1
+~
+~
+0 0 65072
+D2
+~
+~
+0 0 65061
+D3
+~
+~
+0 0 65070
+S
+#65072
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65082
+D1
+~
+~
+0 0 65073
+D2
+~
+~
+0 0 65062
+D3
+~
+~
+0 0 65071
+S
+#65073
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65083
+D1
+~
+~
+0 0 65074
+D2
+~
+~
+0 0 65063
+D3
+~
+~
+0 0 65072
+S
+#65074
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65084
+D1
+~
+~
+0 0 65075
+D2
+~
+~
+0 0 65064
+D3
+~
+~
+0 0 65073
+S
+#65075
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65085
+D1
+~
+~
+0 0 65076
+D2
+~
+~
+0 0 65065
+D3
+~
+~
+0 0 65074
+S
+#65076
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65086
+D1
+~
+~
+0 0 65077
+D2
+~
+~
+0 0 65066
+D3
+~
+~
+0 0 65075
+S
+#65077
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65087
+D1
+~
+~
+0 0 65078
+D2
+~
+~
+0 0 65067
+D3
+~
+~
+0 0 65076
+S
+#65078
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65088
+D1
+~
+~
+0 0 65079
+D2
+~
+~
+0 0 65068
+D3
+~
+~
+0 0 65077
+S
+#65079
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65089
+D1
+~
+~
+0 0 65170
+D2
+~
+~
+0 0 65069
+D3
+~
+~
+0 0 65078
+S
+#65080
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65090
+D1
+~
+~
+0 0 65081
+D2
+~
+~
+0 0 65070
+S
+#65081
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65091
+D1
+~
+~
+0 0 65082
+D2
+~
+~
+0 0 65071
+D3
+~
+~
+0 0 65080
+S
+#65082
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65092
+D1
+~
+~
+0 0 65083
+D2
+~
+~
+0 0 65072
+D3
+~
+~
+0 0 65081
+S
+#65083
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65093
+D1
+~
+~
+0 0 65084
+D2
+~
+~
+0 0 65073
+D3
+~
+~
+0 0 65082
+S
+#65084
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65094
+D1
+~
+~
+0 0 65085
+D2
+~
+~
+0 0 65074
+D3
+~
+~
+0 0 65083
+S
+#65085
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65095
+D1
+~
+~
+0 0 65086
+D2
+~
+~
+0 0 65075
+D3
+~
+~
+0 0 65084
+S
+#65086
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65096
+D1
+~
+~
+0 0 65087
+D2
+~
+~
+0 0 65076
+D3
+~
+~
+0 0 65085
+S
+#65087
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65097
+D1
+~
+~
+0 0 65088
+D2
+~
+~
+0 0 65077
+D3
+~
+~
+0 0 65086
+S
+#65088
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65098
+D1
+~
+~
+0 0 65089
+D2
+~
+~
+0 0 65078
+D3
+~
+~
+0 0 65087
+S
+#65089
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65099
+D1
+~
+~
+0 0 65180
+D2
+~
+~
+0 0 65079
+D3
+~
+~
+0 0 65088
+S
+#65090
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65300
+D1
+~
+~
+0 0 65091
+D2
+~
+~
+0 0 65080
+S
+#65091
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65301
+D1
+~
+~
+0 0 65092
+D2
+~
+~
+0 0 65081
+D3
+~
+~
+0 0 65090
+S
+#65092
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65302
+D1
+~
+~
+0 0 65093
+D2
+~
+~
+0 0 65082
+D3
+~
+~
+0 0 65091
+S
+#65093
+The Ocean~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 7
+D0
+~
+~
+0 0 65303
+D1
+~
+~
+0 0 65094
+D2
+~
+~
+0 0 65083
+D3
+~
+~
+0 0 65092
+S
+#65094
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65304
+D1
+~
+~
+0 0 65095
+D2
+~
+~
+0 0 65084
+D3
+~
+~
+0 0 65093
+S
+#65095
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65305
+D1
+~
+~
+0 0 65096
+D2
+~
+~
+0 0 65085
+D3
+~
+~
+0 0 65094
+S
+#65096
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65306
+D1
+~
+~
+0 0 65097
+D2
+~
+~
+0 0 65086
+D3
+~
+~
+0 0 65095
+S
+#65097
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65307
+D1
+~
+~
+0 0 65098
+D2
+~
+~
+0 0 65087
+D3
+~
+~
+0 0 65096
+S
+#65098
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65308
+D1
+~
+~
+0 0 65099
+D2
+~
+~
+0 0 65088
+D3
+~
+~
+0 0 65097
+S
+#65099
+A Field~
+This unfinished room was created by Zusuk.
+~
+650 65536 0 0 0 2
+D0
+~
+~
+0 0 65309
+D1
+~
+~
+0 0 65190
+D2
+~
+~
+0 0 65089
+D3
+~
+~
+0 0 65098
+S
+$~

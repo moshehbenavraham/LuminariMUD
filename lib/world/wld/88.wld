@@ -1,0 +1,545 @@
+#8800
+Rosealees~
+You are in an unfinished room.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8801
+S
+#8801
+A dew covered meadow.~
+Tall waving grass in a @Glush@g meadow.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8802
+D3
+~
+~
+0 0 8800
+D5
+~
+~
+0 0 -1
+E
+grass~
+The grass is darkest green and velvety soft gently waving in the breeze.
+~
+S
+#8802
+The base of an Ulmus tree.~
+This Ulmus tree is gigantic, easily twice as big as most.  It's
+silver barked branches sending out flickering rainbow lights
+throughout the meadow in the sunshine.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8803
+D3
+~
+~
+0 0 8801
+D4
+~
+~
+0 0 8805
+D5
+~
+~
+0 0 -1
+E
+tree~
+This tree has silver bark that is tough as the metal it resembles. These
+trees are unusually large as a species, however this one is considered
+gigantic...easily twice as big as any in the grove behind it.
+~
+S
+#8803
+A dew covered meadow.~
+Emerald green fills the vision from the waving grasses
+that fill this area of the meadow.  Many of the Capim have
+gathered here to play.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8804
+D3
+~
+~
+0 0 8802
+E
+Capim~
+These creatures are hardly more than three feet tall, slim and willowy
+like the grasses they inhabit.  Their skin has a light green hue that
+allows them to blend easily into their surroundings.
+~
+E
+capim~
+These creatures are hardly more than three feet tall, slim and willowy
+like the grasses they inhabit.  Their skin has a light green hue that
+allows them to blend easily into their surroundings.
+~
+E
+grass~
+The grass is darkest green and velvety soft gently waving in the breeze.
+~
+E
+grasses~
+The grass is darkest green and velvety soft gently waving in the breeze.
+~
+S
+#8804
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D3
+~
+~
+0 0 8803
+S
+#8805
+Slick notches are carved in the bark of this Ulmus tree.~
+The notches here are extremely slick as they are covered in the slimy sap of the tree.
+This sap makes it extremely difficult to move either up or down
+the height of the tree.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8806
+D5
+~
+~
+0 0 8802
+S
+#8806
+Slick notches are carved in the bark of this Ulmus tree.~
+The notches here are even more treacherous, they were carved deeper into the
+silver bark of the tree.  Ulmus sap oozes out of the notches creating
+streams of the slimy stuff flowing down to the base of the tree.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8807
+D5
+~
+~
+0 0 8805
+S
+#8807
+Slick notches are carved in the bark of this Ulmus tree.~
+The notches here are not cut very deep making them dryer but hard to cling to.
+Even at this shallow depth sap manages to ooze from the wound on the surface of the tree.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8808
+D5
+~
+~
+0 0 8806
+S
+#8808
+Notches in the Umas tree and the collar of the lowest branch.~
+The lowest branch of this Ulmus tree starts here.  It is as silver as
+the trunk of the tree itself and reaches far out over the meadow.  
+It droops earthward allowing the small statured people of the
+trees ample room to live.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8809
+D5
+~
+~
+0 0 8807
+S
+#8809
+The lowest branch of an Ulmus tree.~
+The broad branch of the tree is littered with the scraps
+left by one of the Prata, a child of the trees.  This 
+space is obviously home to one of the children.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8810
+D3
+~
+~
+0 0 8808
+S
+#8810
+The lowest branch of an Ulmus tree.~
+Fairly clean it looks like one of the children has
+been busy picking up.  Far to the side is a small
+pile of diverse items the children use to keep 
+themselves clean.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8811
+D3
+~
+~
+0 0 8809
+S
+#8811
+The lowest branch of an Ulmus tree.~
+An open area on the branch, from this space one
+can see for miles in either direction. The water
+from the upper branches drips down making everything
+damp.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8812
+D3
+~
+~
+0 0 8810
+S
+#8812
+A sheltered area on the branch.~
+Stubs and nubs of the branch stick up here and
+there creating places for the children to sit.
+This sheltered area provides a gathering place
+for the Prata.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8813
+D3
+~
+~
+0 0 8811
+S
+#8813
+The lowest branch of an Ulmus tree.~
+The branch starts to narrow here puddles from the dripping
+water have pooled creating a fresh water source.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8814
+D3
+~
+~
+0 0 8812
+S
+#8814
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D3
+~
+~
+0 0 8813
+D5
+~
+~
+0 0 8815
+S
+#8815
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8814
+D5
+~
+~
+0 0 8816
+S
+#8816
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8815
+D5
+~
+~
+0 0 8817
+S
+#8817
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8816
+D5
+~
+~
+0 0 8818
+S
+#8818
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8824
+D3
+~
+~
+0 0 8819
+D4
+~
+~
+0 0 8817
+S
+#8819
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8818
+D3
+~
+~
+0 0 8820
+S
+#8820
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8819
+D4
+~
+~
+0 0 8821
+S
+#8821
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8822
+D5
+~
+~
+0 0 8820
+S
+#8822
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8823
+D5
+~
+~
+0 0 8821
+S
+#8823
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D3
+~
+~
+0 0 8822
+S
+#8824
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8825
+D3
+~
+~
+0 0 8818
+S
+#8825
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8826
+D3
+~
+~
+0 0 8824
+S
+#8826
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8827
+D3
+~
+~
+0 0 8825
+S
+#8827
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8828
+D3
+~
+~
+0 0 8826
+S
+#8828
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D3
+~
+~
+0 0 8827
+D4
+~
+~
+0 0 8829
+S
+#8829
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8830
+D5
+~
+~
+0 0 8828
+S
+#8830
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D3
+~
+~
+0 0 8831
+D5
+~
+~
+0 0 8829
+S
+#8831
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8830
+D3
+~
+~
+0 0 8832
+S
+#8832
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D1
+~
+~
+0 0 8831
+D4
+~
+~
+0 0 8833
+S
+#8833
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D4
+~
+~
+0 0 8834
+D5
+~
+~
+0 0 8832
+S
+#8834
+New BuildWalk Room~
+This unfinished room was created by Rosealee.
+~
+88 0 0 0 0 0
+D5
+~
+~
+0 0 8833
+S
+$~

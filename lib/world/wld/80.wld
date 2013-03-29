@@ -1,0 +1,49 @@
+#8000
+A Split in the Pathway~
+   This is the center of a fairly long pathway, although it still obviously
+connects three distant buildings- one to the North, one to the East and one to
+the West.  The pathway continues onwards to each building, its shallow trench
+carved out from the ground, providing even footing for those going between the
+buildings of this complex.  In the very middle of the pathway's trench is a
+far-reaching @Gflower@n garden.  The @Gflower@n garden is centered on the pathways,
+equally far from both sides of the trench.  Where the @Gflower@n gardens meet on the
+pathway's split is a small @cpool@n.
+~
+80 0 0 0 0 13
+D5
+   The hatch, when closely examined from inside the pool, is shown to have a
+metal ring used to open it upwards.  The pool itself does not feel wet at all,
+it just feels like air, and one may see themselves stepping straight through the
+pots and pans.~
+hatch Hatch~
+3 0 8001
+E
+flower garden Flower Garden ~
+This flower garden contains many flowers, all arranged in a manner that really
+encapsulates the beauty of both each individual flowers and their cohesion as a
+system.  It is multi-tiered, with ground cover, short flowers, tall flowers, and
+shrubs.  
+~
+E
+pool Pool~
+Cut stones mark the edges of this rectangular pool, reaching up to about the
+hips of an average sized human.  The pool itself is filled with a tainted
+looking water- it's all brown and murky.  This might be explained by the fact
+that it was used to wash pots and pans, apparent due to the many pots and pans
+sunk at its bottom.  In the very middle of the pool is a hatch, that is mostly
+hidden by pots and pans and the water, but able to be seen by perceptive
+individuals.  
+~
+S
+#8001
+The Entrance to a Cavern~
+You are in an unfinished room.
+~
+80 256 0 0 0 0
+D4
+   A hatch lies at the top of the ladder.
+~
+hatch Hatch~
+1 0 8000
+S
+$~

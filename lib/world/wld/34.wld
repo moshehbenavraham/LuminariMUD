@@ -1,0 +1,1362 @@
+#3400
+Korthan's Zone~
+undefined~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 -1
+S
+#3401
+Nordmaar Field~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3403
+D1
+~
+~
+0 0 3400
+D3
+~
+~
+0 0 3405
+S
+#3402
+Nordmaar Field~
+   To the west the Keep seems quite alive with activity as if the defenders are
+expecting an attack any minute.  The trodden earth is packed down and almost
+cement like and is stained with dried blood.  The pathway is littered on either
+side with broken bones and old broken weapons.  The path to the west continues
+toward the Keep.  The eastern path leads to the safety of the forest.  Q
+~
+34 0 0 0 0 2
+D2
+~
+~
+0 0 3400
+D3
+~
+~
+0 0 3403
+S
+#3403
+Nordmaar Field~
+   To the north, the walls of Nordmaar Keep sprout from the ground as though
+carved out of the mountains surrounding it.  From this distance it appears many
+large crossbows and catapults are loaded and ready to defend.  The battlements
+are fortified in such a way as to discourage any attack short of divine
+reckoning.  All around, for as far as one can see, tall grasses sway in the
+breeze.
+~
+34 0 0 0 0 2
+D0
+~
+~
+0 0 3406
+D1
+~
+~
+0 0 3402
+D2
+~
+~
+0 0 3401
+D3
+~
+~
+0 0 3404
+S
+#3404
+Nordmaar Field~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3403
+D2
+~
+~
+0 0 3405
+S
+#3405
+Nordmaar Field~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3404
+D1
+~
+~
+0 0 3401
+S
+#3406
+Outside The Courtyard~
+   A broken set of iron-bound doors partially blocks the way to the north.  A
+huge pot hangs broken overhead that was once used to pour boiling oil onto would
+be attackers.  It is evident from the blocks, and timber on either side of the
+path that repairs have been put on hold.  The path continues to the north into
+the courtyard.  To the south the path leads to the field.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3407
+D2
+~
+~
+0 0 3403
+S
+#3407
+Nordmaar Keep Courtyard~
+   If the walls were imposing, the keep itself is spellbinding.  The chill in
+the courtyard seems to emanate a bit from the walls, but almost floods out of
+the keep itself.  The walls are lined with shields, swords, and bows ready to be
+snatched up at the first sign of an impending attack.  Other than items strewn
+about, the courtyard seems to be kept in immaculate condition.  To the north an
+impassable wall of hedges 20 feet high can be seen.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3408
+D2
+~
+~
+0 0 3406
+S
+#3408
+Labyrinth To The Keep~
+   The famed labyrinth of Voltaire lies before you.  This is where the
+formidable maze begins.  There are impenatrable rows of hedges at each
+intersection.  The hedges are glowing green with magic.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3409
+D2
+~
+~
+0 0 3407
+S
+#3409
+Within The Maze~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3410
+D2
+~
+~
+0 0 3408
+S
+#3410
+Within The Maze~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless .
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 3411
+S
+#3411
+Within The Maze~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 -1
+D2
+~
+~
+0 0 3412
+S
+#3412
+Within The Maze~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 -1
+D5
+~
+~
+0 0 3413
+S
+#3413
+Within The Maze~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3414
+D4
+~
+~
+0 0 -1
+S
+#3414
+Maze Exit~
+   Each turn looks just as the last, glowing green hedges along a path of
+endless intersections.  The cobblestone path appears to be heavily trodden.  
+The maze appears to be endless.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3415
+D3
+~
+~
+0 0 -1
+S
+#3415
+Before The Steps~
+   Up ahead the keep seems a mountain unto itself.  It appears the engineers of
+Nordmaar Keep tried to rival the mountains in size, but were forced to abandon
+the project half way up.  The huge grey-walled structure has sheer walls which
+rise about three stories high.  Slits are cut through the walls all around for
+archers to defend attacks from any side.  North leads to the Keep, while the
+south pathway leads back into the labyrinth.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3416
+D2
+~
+~
+0 0 3414
+S
+#3416
+Front Steps Of Nordmaar Keep~
+   The steps in front of the keep lead to the extremely stout door that serves
+as the entrance to the keep.  The door seems to be made of the same material as
+the front gate, thick, iron-bound oak.  The builders seem to have wanted to be
+sure that if by chance the opposing forces made it past the exterior walls, they
+would have trouble getting into the keep itself.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3417
+D2
+~
+~
+0 0 3415
+S
+#3417
+Nordmaar Keep Foyer~
+   Inside of the keep, there are murals and suits of armor lining the walls on
+either side.  Most of the armor appears to be ancient, while some of it appears
+to be so heavily gilded that it could not possibly be used for any real battle,
+only for festivals or parades.  The murals depict battles with every kind of
+enemy real and mythical.
+~
+34 8 0 0 0 0
+D1
+~
+~
+0 0 3418
+D2
+~
+~
+0 0 3416
+D3
+~
+~
+0 0 3426
+S
+#3418
+Southern Hallway of Nordmaar Keep, 1st Floor~
+   This hallway is very much the same as the foyer, with suits of armor and
+murals depicting battle scenes.  There is a door to the south with smells of
+food emanating from it.  The sounds of a bustling kitchen can be heard from the
+doorway.  The hallway continues to the east and west.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3421
+D2
+~
+~
+0 0 3419
+D3
+~
+~
+0 0 3417
+S
+#3419
+Kitchen~
+   A wave of heat emanating from a large oven in the middle of the kitchen
+greets those coming into the kitchen.  The food here comes from the most famed
+delicacies from all around the world.  An island, supporting a large cutting
+block, sits in the back of the room.  A rack suspended from the ceiling holds a
+variety of pots and pans, while a block of carving knives sits on the counter
+waiting to be used.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3418
+D1
+~
+~
+0 0 3420
+S
+#3420
+Secret Pantry~
+   Shelves containing exotic herbs and spices from all across the land lines the
+walls of the pantry.  The air assaults the senses with a barrage of smells
+ranging from delicious to detestable.  The vast array of ingredients at the
+disposal of the head chef would rival that of (insert biggest cityname here).
+~
+34 0 0 0 0 0
+D3
+~
+~
+0 0 3419
+S
+#3421
+Southeastern Corner of Nordmaar Keep, 1st Floor~
+   The corner is dimly lit by two torches on either side of the southern and
+northern hallways.  The flickering torchlight glitters on a large armored statue
+in the corner.  The exits are north to the eastern hallway or west to the
+southern hallway.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3422
+D3
+~
+~
+0 0 3418
+S
+#3422
+Eastern Hallway of Nordmaar Keep, 1st Floor~
+   The eastern hallway is decorated with long draping tapestries along both
+walls.  The heavy velvet tapestries depict the King's journey through life.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3423
+D1
+~
+~
+0 0 3425
+D2
+~
+~
+0 0 3421
+S
+#3423
+Eastern Hallway of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3424
+D2
+~
+~
+0 0 3422
+S
+#3424
+Northeast Corner of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3423
+D3
+~
+~
+0 0 3430
+S
+#3425
+Dining Hall~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D3
+~
+~
+0 0 3422
+S
+#3426
+Southwestern Corner of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3427
+D1
+~
+~
+0 0 3417
+D2
+~
+~
+0 0 3435
+S
+#3427
+Western Hallway of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3428
+D2
+~
+~
+0 0 3426
+S
+#3428
+Western Hallway of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3429
+D2
+~
+~
+0 0 3427
+D3
+~
+~
+0 0 3434
+S
+#3429
+Northwest Corner of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3432
+D2
+~
+~
+0 0 3428
+S
+#3430
+Northern Hallway of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3424
+D3
+~
+~
+0 0 3431
+S
+#3431
+Before The Spiralling Staircase, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3439
+D1
+~
+~
+0 0 3430
+D3
+~
+~
+0 0 3432
+S
+#3432
+Northern Hallway of Nordmaar Keep, 1st Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3431
+D3
+~
+~
+0 0 3429
+S
+#3433
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3432
+S
+#3434
+Entrance To The Barracks~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3437
+D1
+~
+~
+0 0 3428
+D2
+~
+~
+0 0 3438
+D3
+~
+~
+0 0 3436
+S
+#3435
+Latrine~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3426
+S
+#3436
+Guard Barracks~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3434
+S
+#3437
+Guard Barracks~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3434
+S
+#3438
+Guard Barracks~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3434
+S
+#3439
+Spiralling Staircase~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3431
+D4
+~
+~
+0 0 3440
+S
+#3440
+Spiralling Staircase~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3442
+D4
+~
+~
+0 0 3441
+D5
+~
+~
+0 0 3439
+S
+#3441
+Spiralling Staircase~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3463
+D4
+~
+~
+0 0 3462
+D5
+~
+~
+0 0 3440
+S
+#3442
+Before The Spiralling Staircase, 2nd Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3440
+D1
+~
+~
+0 0 3443
+D3
+~
+~
+0 0 3445
+S
+#3443
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3444
+D3
+~
+~
+0 0 3442
+S
+#3444
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3447
+D3
+~
+~
+0 0 3443
+S
+#3445
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3442
+D3
+~
+~
+0 0 3446
+S
+#3446
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3445
+D2
+~
+~
+0 0 3458
+S
+#3447
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3444
+D2
+~
+~
+0 0 3448
+S
+#3448
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3447
+D1
+~
+~
+0 0 3449
+D2
+~
+~
+0 0 3450
+S
+#3449
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D3
+~
+~
+0 0 3448
+S
+#3450
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3448
+D2
+~
+~
+0 0 3451
+S
+#3451
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3450
+D3
+~
+~
+0 0 3452
+S
+#3452
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3451
+D3
+~
+~
+0 0 3453
+S
+#3453
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3455
+D1
+~
+~
+0 0 3452
+D2
+~
+~
+0 0 3454
+D3
+~
+~
+0 0 3456
+S
+#3454
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3453
+S
+#3455
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3453
+S
+#3456
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3453
+D3
+~
+~
+0 0 3457
+S
+#3457
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3461
+D1
+~
+~
+0 0 3456
+S
+#3458
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3446
+D2
+~
+~
+0 0 3459
+S
+#3459
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3458
+D2
+~
+~
+0 0 3461
+D3
+~
+~
+0 0 3460
+S
+#3460
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3459
+S
+#3461
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3459
+D2
+~
+~
+0 0 3457
+S
+#3462
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3483
+D5
+~
+~
+0 0 -1
+S
+#3463
+Before The Spiralling Staircase, 3rd Floor~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3441
+D1
+~
+~
+0 0 3466
+D3
+~
+~
+0 0 3464
+S
+#3464
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3463
+D3
+~
+~
+0 0 3465
+S
+#3465
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3464
+D2
+~
+~
+0 0 3479
+S
+#3466
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3467
+D3
+~
+~
+0 0 3463
+S
+#3467
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D2
+~
+~
+0 0 3468
+D3
+~
+~
+0 0 3466
+S
+#3468
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3467
+D2
+~
+~
+0 0 3469
+S
+#3469
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3468
+D2
+~
+~
+0 0 3470
+S
+#3470
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3469
+D2
+~
+~
+0 0 3471
+S
+#3471
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3470
+D3
+~
+~
+0 0 3472
+S
+#3472
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3471
+D2
+~
+~
+0 0 3473
+D3
+~
+~
+0 0 3474
+S
+#3473
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3472
+S
+#3474
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3472
+D2
+~
+~
+0 0 3475
+D3
+~
+~
+0 0 3476
+S
+#3475
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3474
+D2
+~
+~
+0 0 3490
+S
+#3476
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3474
+D2
+~
+~
+0 0 3477
+D3
+~
+~
+0 0 3478
+S
+#3477
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3476
+S
+#3478
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3482
+D1
+~
+~
+0 0 3476
+S
+#3479
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3465
+D2
+~
+~
+0 0 3480
+S
+#3480
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3479
+D2
+~
+~
+0 0 3482
+D3
+~
+~
+0 0 3481
+S
+#3481
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3480
+S
+#3482
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3480
+D2
+~
+~
+0 0 3478
+S
+#3483
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3462
+D2
+~
+~
+0 0 3484
+S
+#3484
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3483
+D2
+~
+~
+0 0 3485
+S
+#3485
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3484
+D2
+~
+~
+0 0 3486
+S
+#3486
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3485
+D2
+~
+~
+0 0 3487
+S
+#3487
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3486
+D4
+~
+~
+0 0 3488
+S
+#3488
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D3
+~
+~
+0 0 3489
+D5
+~
+~
+0 0 3487
+S
+#3489
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D1
+~
+~
+0 0 3488
+S
+#3490
+New BuildWalk Room~
+This unfinished room was created by Korthan.
+~
+34 0 0 0 0 0
+D0
+~
+~
+0 0 3475
+S
+$~

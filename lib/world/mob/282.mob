@@ -1,0 +1,188 @@
+#28200
+balrog small~
+a small balrog~
+A small winged balrog is here gazing at you with demonic red eyes
+~
+   The Balrog is a winged creature with eyes which seem to pervade your being
+and tear your soul apart.    
+~
+72 0 0 0 0 0 0 0 -100 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 5
+Size: 5
+E
+#28201
+balrog winged elder~
+the Elder Balrog~
+The Elder Balrog is here...gnawing happily on your body.
+~
+   Well hes trying to consume you, bones and all.  Yuck.    
+~
+2120 0 0 0 16 0 0 0 -150 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 1
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 3
+Class: 0
+Size: 5
+E
+#28202
+balrog winged grand~
+the Grand Balrog~
+The Grand High Balrog is here, kicking your ass.
+~
+   Hes umm, killing you
+~
+2120 0 0 0 16 0 0 0 -200 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 5
+Size: 5
+E
+#28204
+slave human chained~
+a human slave~
+A human slave is chained to the wall here.
+~
+   He looks pretty pathetic, maybe you should end his misery
+~
+14 0 0 0 0 0 0 0 50 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 3
+Size: 5
+E
+#28205
+kerjim lord evil~
+Kerjim~
+Kerjim, lord of the balrogs sits here on his throne.
+~
+   His enormous wings take up almost the entire room, the pitch black wings with
+thick red veins running through them spread out behind Kerjim.  He sits idley on
+this throne, secure in his power and knowledge that none in his realm would dare
+oppose him.
+~
+2058 0 0 0 16 0 0 0 -50 E
+33 6 -12 6d6+975 5d5+8
+2500 81675
+8 8 0
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 3
+Size: 7
+E
+#28206
+lilith~
+Lilith~
+Lileth stands here in all her magnificence.
+~
+   She is extremely beutiful, with glowing gold hair cascading down her
+shoulders, adorned with precious jewlery from all over the cosmos.    
+~
+2058 0 0 0 16 0 0 0 30 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 2
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 2
+Class: 1
+Size: 5
+E
+#28207
+undead zombie~
+the undead zombie~
+The Undead Corpse is here, attempting to persuade you to join the living dead
+~
+   Hes just a rotted corpse, with gangly ripped arms and a detachable head
+~
+10 0 0 0 16 0 0 0 -500 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 2
+Size: 5
+E
+$

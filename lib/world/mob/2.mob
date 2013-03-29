@@ -1,0 +1,488 @@
+#200
+baker's assistant~
+the baker's assistant~
+An assistant to the baker is learning the trade.
+~
+   He sifts some flour with glazed over eyes that seem to be somewhere else.  
+Obviously daydreaming of better things.  His white apron is covered in floor.
+He stands a good six feet tall, all skin and bones.    
+~
+10 0 0 0 0 0 0 0 0 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+T 78
+#201
+apprentice healer~
+the apprentice healer~
+An apprentice healer helps any who are in need.
+~
+   He has devoted his life to selflessly aid those who are in need of either
+physical or mental aid.  The clerics of Sanctus are well known for their aiding
+those physically wounded, but are seldom known for their great prowess in the
+emotoinal aid they give.    
+~
+72 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+T 146
+#202
+horse pets ~
+the horse~
+A beautiful horse shakes it's head and swishes it's tail.
+~
+   The horse has been well groomed and seems to be in excellent shape.    
+~
+10 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+E
+#203
+stablemasters petshops~
+the stablemaster~
+The stablemaster is busily cleaning out the stalls.
+~
+   He looks and smells like the rest of the stables.  His clothes are the same
+color and texture as the manure that he shovels into a wheelbarrow beside him.
+He could definitely use a bath.  But he does know his horses and makes a living
+selling, training, and breeding them.    
+~
+10 0 0 0 0 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+T 338
+#204
+horse pets mare~
+the fine mare~
+A gentle and kind horse stares at you.
+~
+   The horse seems to be well trained and somewhat....  Lazy.  Doesn't look
+like it would be fast, but it probably has some great endurance.    
+~
+10 0 0 0 0 0 0 0 0 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+#205
+horse pets stallion~
+the stallion~
+A sleek and mean looking horse tramps impatiently.
+~
+   The horse looks about ready to bolt, a strange gleam in it's eyes makes you
+wonder why this animal is even standing here.  The animal looks wild.    
+~
+10 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+E
+#206
+chunky philosopher man old~
+a chunky philosopher~
+An old man roams about whispering to himself.
+~
+   He is a large middle-aged man missing most of his hair.  He ambles about
+seemingly oblivious to his own girth and the world around him.  Occasionally he
+rambles on about truth, existence, and other esoteric topics that better mind
+than his have already questioned.  
+~
+72 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+T 200
+#207
+angel jack russell terrier~
+@wA@Wng@wel@n~
+@wA@Wng@we@Wl@w, the Jack Russell Terrier, is racing around looking for someone to play with.@n
+~
+   This dog has to be on drugs.  She never stops running around looking for
+attention or someone to play with.  Her breath smells strangely of bacon.  She
+appears to be beggin for some treats.  
+~
+72 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 2
+BareHandAttack: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 4
+Size: 5
+E
+T 152
+T 153
+T 155
+T 156
+#208
+haruspex diviner~
+@cthe @jh@car@ju@csp@jex@n~
+@cA @jha@cr@ju@csp@je@cx is predicting your demise.@n
+~
+   She is a diviner of what the future holds.  Her predictions are gathered by
+the inspection of the entrails of sacrificial animals.  
+~
+72 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 2
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+#209
+Granan wanderer lost prophet~
+@AG@cra@An@aa@cn, the Wa@an@ade@Are@ar@n~
+@AG@cra@An@aa@cn, the Wa@an@ade@Are@ar@c is here, contemplating the cosmos.
+~
+   Granan the Wanderer was named so after his village was destroyed by raiders
+and he was left to fend for himself.  Townsfolk found him wandering the
+wilderness speaking gibberish and half frozen.  They took him in and clothed and
+fed him, but he still leaves at night to wander the wilderness in search of
+what, nobody knows.
+~
+72 0 0 0 0 0 0 0 0 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+#210
+questmaster shopkeeper~
+the quest shopkeeper~
+A shopkeeper with a variety of powerful quest items waits for a customer.
+~
+   Experienced adventurers often come to her since she carries the best
+equipment in the realm. But, the prices are steep and only the most experienced
+questors can afford to pay her.
+~
+253962 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+T 167
+#211
+phoenix~
+the phoenix~
+A phoenix looks up at you with intelligent eyes.
+~
+   This beautiful and magical bird is the source of many tales.  Most so
+outrageous they can't be true, or can they?
+~
+10 0 0 0 0 0 0 0 0 E
+3 19 8 0d0+30 1d2+0
+30 675
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 0
+Size: 5
+E
+T 203
+#212
+pirate parrot~
+a parrot with an eye patch~
+This parrot seems to have lost his pirate. He squawks incessantly.
+~
+   The parrot paces back and forth with a look of authority.  The usual
+scratching of its small feet is punctuated by a thudding.  Upon closer
+inspection the parrot has a wooden leg and an eye patch!
+~
+8 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 5
+Size: 5
+E
+T 204
+#213
+quest guru old man~
+@wth@We @Cq@cu@Ce@cs@Ct @Wg@wu@Wr@wu@n~
+@wAn o@Wl@wd man k@Wn@wown across t@Wh@we rea@Wl@wms as @wth@We '@Cq@cu@Ce@cs@Ct @Wg@wu@Wr@wu@W'@w ha@Ws @wseen and do@Wn@we it al@Wl.@n
+~
+   This aged man still has a spring to his step.  He is fully equipped with
+assorted items he has collected over his years of exploring and adventuring.
+~
+253960 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+T 44
+#214
+old magi guard~
+the magi guard~
+An old magi has been guarding the orb for decades, his sanity seems questionable.
+~
+   After over 50 years of guard duty this magi seems to have lost touch with
+reality.  He stares blankly around the room and doesn't seem to even notice you.
+He wears a plain grey robe and is a member of the magi guards, a once elite
+group of magi dedicated to protecting the Orb of Sanctum.
+~
+10 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+T 61
+#215
+magi guard young~
+the magi guard~
+A young member of the magi guard watches over the Orb of Sanctum.
+~
+   This elite member of the magi guard has dedicated her life to protecting the
+orb and maintaining the precarious balance within the protected walls of
+Sanctus.  The magi guards numbers have dwindled over the years to only a select
+few who have the necessary skills to protect this most valuable of treasures.
+~
+10 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 5
+Size: 5
+E
+T 62
+#216
+old thief master rogue~
+Aluatris the master thief~
+Aluatris, the master thief stands before you, hands resting on his daggers.
+~
+   Garbed in black, the signature color if the assassins guild, Aluatris treds
+lightly on the balls of his feet making almost no sound as he passes.
+~
+8 0 0 0 0 0 0 0 1000 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+BareHandAttack: 10
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 5
+E
+#218
+woman fashionable interior design~
+a woman dressed in the latest fashions~
+A prissy woman dressed in the latest fashion struts past.
+~
+   She has a haughty expression on her face with her large nose stuck up in the
+air.  She looks around in discuss at her surroundings.  A large badge over her
+right breast is labeled "interior designer."  
+~
+8 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 5
+E
+T 218
+$

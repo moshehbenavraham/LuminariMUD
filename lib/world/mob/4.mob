@@ -1,0 +1,825 @@
+#400
+grass snake~
+a grass snake~
+A grass snake is coiled up in the grass.
+~
+   The grass snake is a mottled, dark green color then blends in perfectly with
+the shadows in the grass.  It looks alert and ready to attack.
+~
+10 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+BareHandAttack: 11
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#401
+Giant Mosquito~
+a giant mosquito~
+A giant mosquito buzzes around.
+~
+   The mosquito buzzes quite loudly as it flies about the area, which isn't
+surprising considering that it's the size of a large bird.  Its abdomen could
+probably hold several liters of blood, if it found a victim.
+~
+10 0 0 0 0 0 0 0 -250 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+BareHandAttack: 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 2
+Size: 4
+E
+#403
+flashing firefly~
+a flashing firefly~
+A firefly flits freely to and fro, flashing fancifully.
+~
+   The firefly has a phosphorescent abdomen, which blinks at apparently random
+intervals as it flies through the tangled weeds and branches.
+~
+10 0 0 0 0 0 0 0 -225 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 2
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#406
+bluebird bird~
+a brightly-colored bluebird~
+A bluebird flies through the area and lands on a branch.
+~
+   The bluebird is named for its blue head, wings, and tail.  Its belly is red
+and white.  It surveys the area carefully, ready to protect itself in case of
+danger.
+~
+10 0 0 0 0 0 0 0 -225 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+BareHandAttack: 8
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 5
+E
+#410
+bear~
+a fearsome, growling bear~
+A large bear, snorts, puffs, and claws at the dirt.
+~
+   The bear is covered in thick brown fur.  Its face is little more than black
+eyes and a black nose, until it yawns and reveals enormous teeth.  It claws look
+awfully sharp as well.
+~
+10 0 0 0 0 0 0 0 -300 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 9
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 6
+E
+#412
+wary chipmunk~
+a wary chipmunk~
+A small chipmunk warily watches for any movement.
+~
+   The chipmunk chitters noisily at anything that moves, as observed from its
+perch on a branch.  It's a tiny, delicate, fearful creature, but that rip on its
+ear just might be a battle scar.
+~
+10 0 0 0 0 0 0 0 -200 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 4
+E
+#415
+quiet cricket~
+a quiet cricket~
+A cricket stops chirping as it detects movement in the area.
+~
+   The cricket is a small, black insect known primarily for the noises it makes
+at night and its usefulness as food for bigger critters.
+~
+10 0 0 0 0 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 2
+BareHandAttack: 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 2
+Size: 4
+E
+#416
+cute little mouse~
+a cute little mouse~
+A cute little mouse is here.
+~
+   The bane of housewives everywhere, this adorable little mouse squeaks softly
+as it looks around with its tiny black eyes.  It looks harmless.
+~
+10 0 0 0 0 0 0 0 0 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+BareHandAttack: 8
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#421
+rotting undead humanoid zombie~
+a rotting zombie~
+A rotting, undead humanoid staggers limply around.
+~
+   The zombie is decayed beyond ability to discern gender or race.  Its skin has
+just about completely sloughed off, leaving behind drying muscles and bloated
+viscera.  What skin remains is grey.  The only thing about the zombie that
+appears intact are its teeth, which look perfectly chiseled.
+~
+10 0 0 0 0 0 0 0 -300 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 1
+BareHandAttack: 4
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 3
+Size: 5
+E
+#422
+mean ghoul~
+a mean-looking ghoul~
+A mean-looking ghoul sharpens its claws.
+~
+   This hardened, drying undead shimmers with a clear patina of magic, marking
+it as a ghoul.  Its gaze, although through sunken, dark eyes, shows a spark of
+intelligence.  Its claws appear to have gotten a lot of use, but haven't lost
+their edge.
+~
+10 0 0 0 0 0 0 0 -200 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 0
+BareHandAttack: 5
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 6
+Size: 5
+E
+#423
+rickety skeleton~
+a rickety skeleton~
+A rickety skeleton has risen from its resting place.
+~
+   There is not much left of the original creature; just the bones.  The
+skeleton shambles in rickety fashion everywhere it moves, and although
+apparently mindless, it does seem ready to react to stimuli with violence.
+~
+10 0 0 0 0 0 0 0 -300 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 0
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 3
+Size: 5
+E
+#426
+slimy brown slug~
+a slimy brown slug~
+A slimy, dark brown slug slithers in the dirt.
+~
+   The slug is an insect made out of pretty much nothing but slime, it seems.  
+It leaves a wet trail behind it everywhere it goes.  Considering that it's about
+the size of a fist, it's particularly disgusting.
+~
+10 0 0 0 0 0 0 0 -200 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+BareHandAttack: 12
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#430
+healthy rat~
+a healthy-looking rat~
+A rat with healthy fur sniffs the underbrush as it looks for food.
+~
+   This rat looks quite well fed and healthy, so there must be an abundance of
+whatever rats eat in the forest here.  Although it looks soft and sleek, it may
+carry diseases, so it's best to leave it alone.
+~
+10 0 0 0 0 0 0 0 -200 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 4
+E
+#433
+beautiful redbird~
+a beautiful redbird~
+A beautiful redbird is sitting on the side of the bridge.
+~
+   The redbird, also known as a cardinal, is named for the vivid red color of
+its feathers.  It has a tuft of feather on its head that look almost like a hat,
+and black feathers cover its face.  Its feathers seem a bit worn, and it may
+have been in a scuffle recently.
+~
+10 0 0 0 0 0 0 0 -200 E
+16 15 0 3d3+208 2d2+2
+160 19200
+8 8 1
+BareHandAttack: 11
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 4
+E
+#434
+grizzled muskrat~
+a grizzled muskrat~
+A grizzled muskrat chews on a root.
+~
+   The muskrat looks like a cross between a beaver and a rat, but with sharps
+claws on all four feet.  It's about two feet long, and its face is covered in
+battle scars.  It has been blinded in one eye.  The muskrat hisses at anything
+that comes too close.
+~
+10 0 0 0 0 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 2
+BareHandAttack: 11
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 4
+E
+#435
+slimy leech~
+a slimy leech~
+A slimy leech awaits a victim.
+~
+   The leech, a small black worm, is resting on a reed that sticks up out of the
+water.  It awaits something to walk close enough to serve as a meal.
+~
+10 0 0 0 0 0 0 0 -250 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#440
+bullfrog frog~
+an unimpressed bullfrog~
+A bullfrog is quite content to remain where it is sitting.
+~
+   This bullfrog is even larger than most, and looks like it could bite the hand
+off a child if it wanted to.  It rests passively enough, unused to being
+disturbed by lesser creatures.
+~
+10 0 0 0 0 0 0 0 -300 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 4
+E
+#441
+noisy crow~
+a noisy crow~
+A crow caws loudly from overhead.
+~
+   The crow's black beak and feathers have made it an omen of darkness in some
+cultures, and from the racket it makes cawing overhead, that's quite
+understandable.  Its talons are quite long, even for a predatory bird, and it's
+missing a few feathers.
+~
+10 0 0 0 0 0 0 0 -300 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 4
+E
+#444
+grasshopper~
+a grasshopper~
+A grasshopper hops from place to place.
+~
+   The grasshopper, a large green bug with long back legs for jumping, doesn't
+stay in any one place for long as it hops about doing bug things.
+~
+16777226 0 0 0 0 0 0 0 0 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 2
+BareHandAttack: 9
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#447
+small boy child~
+a small boy~
+A small boy is here playing in the dirt.
+~
+   The small boy, around perhaps age four, is digging aimlessly in the dirt.  
+His face and arms (and most of the rest of him, for that matter) are caked with
+dirt, so he seems to have been here a while.  Strangely, there is a slight
+glowing aura within his eyes.
+~
+10 0 0 0 0 0 0 0 200 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 6
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 6
+Size: 4
+E
+#449
+jedidiah~
+Jedidiah~
+Jedidiah is standing here, waiting to help you.
+~
+   Jedidiah is a tall human man with dark eyes.  Something about his face and
+body language make him seem mysterious, but it's hard to pin it down.  He seems
+friendly, however.
+~
+188426 0 0 0 80 0 0 0 300 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 1
+BareHandAttack: 7
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 5
+E
+#450
+unwelcoming teenager teenage girl~
+an unwelcoming teenage girl~
+An unwelcoming teenage girl looks around with her arms folded.
+~
+   The teenage human girl has flat, brown hair and is on the skinny side.  
+Something about her demeanor makes it clear whom she considers welcome and whom
+she doesn't.  She looks harmless, but there's just something strange about her
+that's hard to nail down.
+~
+10 0 0 0 0 0 0 0 -200 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 2
+BareHandAttack: 13
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#453
+samuel~
+Samuel~
+Samuel the shopkeeper holds a steady smile, ever ready to peddle his wares.
+~
+   Samuel is a bit on the short side for a human, and a bit chubby as well.  
+Perhaps during the slow hours in the shop he has nothing better to do than
+nibble on sweets.  He seems quite friendly.
+~
+188426 0 0 0 0 0 0 0 500 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 1
+BareHandAttack: 13
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#460
+fuzzy caterpillar~
+a fuzzy caterpillar~
+A fuzzy caterpillar inches around on a reed.
+~
+   The caterpillar, more or less a fuzzy worm, seems completely oblivious to the
+world around it as it seeks for something green to gnaw on.  It has rings of
+color ranging from brown to black, and is a great deal larger than average.
+~
+10 0 0 0 0 0 0 0 -200 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 15
+Class: 3
+Size: 4
+E
+#466
+tame rabbit~
+a tame-looking rabbit~
+A tame-looking rabbit nibbles on some grass.
+~
+   Although the rabbit watches everything with curiousity and alertness, it
+doesn't seem particularly nervous.  Its fur is soft and clean.
+~
+10 0 0 0 0 0 0 0 -250 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 1
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 3
+Size: 4
+E
+#471
+aggressive raccoon~
+an aggressive raccoon~
+A strangely aggressive raccoon paces the area looking for something to bite.
+~
+   Raccoon are normally quite harmless, and flee whenever they see larger
+creatures, but this one has a strange glow in its eyes, and it begins to growl
+anytime something enters the room.  It looks like it's ready to pounce at any
+moment!
+~
+10 0 0 0 0 0 0 0 -300 E
+11 17 3 2d2+121 1d2+1
+110 9075
+8 8 2
+BareHandAttack: 8
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 4
+E
+#475
+bloody coyote~
+a bloody coyote~
+A coyote drips blood from its jaws, leaving a trail.
+~
+   This coyote is a bit on the skinny side, but it glares around the area with
+definite malice.  Its teeth and claws, and much of its fur, are bloody from a
+fresh kill.  It snarls at anything that moves.
+~
+10 0 0 0 0 0 0 0 -300 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 5
+E
+#480
+wispy translucent ghost~
+a wispy, translucent ghost~
+A ghost is barely visible against the background as it floats around.
+~
+   The ghost is almost completely transparent and is hard to see, even knowing
+it's there.  Wisps of ectoplasm comprise its shape, and a soft crying sound is
+head emanating from within it.
+~
+10 0 0 0 0 0 0 0 -300 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 0
+BareHandAttack: 5
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 2
+Class: 0
+Size: 5
+E
+#481
+zachary~
+Zachary~
+Zachary the shopkeep picks at his fingernails with a knife.
+~
+   Although short for a human, he's definitely on the stocky side and clearly
+quite strong.  He seems a bit unfriendly for a shopkeeper, but it's clear that
+he's the kind of man who gets things done.  Judging from the care with which he
+watches everything, it's unlikely a thief could escape without a fight.
+~
+188426 0 0 0 0 0 0 0 500 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 1
+BareHandAttack: 11
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 6
+Size: 5
+E
+#491
+warbling finch~
+a warbling finch~
+A finch warbles a cheerful tune.
+~
+   A small, bright yellow and green bird, this finch sings as though trying to
+cheer up the entire world.  Finches are valued as pets for just that reason.  
+This one looks like it'd be hard to catch, though.
+~
+10 0 0 0 0 0 0 0 200 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 2
+BareHandAttack: 4
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 2
+Size: 4
+E
+#493
+predatory wolf~
+a predatory wolf~
+A wolf prepares to snatch its supper.
+~
+   The wolf licks its chops as it smells something made of meat and blood
+entering the area.  Perhaps a particularly stealthy creature could make it by
+without becoming dinner, but that seems unlikely.  
+~
+10 0 0 0 0 0 0 0 -350 E
+14 16 1 2d2+154 2d2+2
+140 14700
+8 8 1
+BareHandAttack: 8
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 3
+Class: 6
+Size: 5
+E
+$

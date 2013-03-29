@@ -1,0 +1,27 @@
+#6801
+imp~
+an ash-skinned imp~
+An ash-skinned imp tries to blend into the shadows.
+~
+   Purely reflective eyes sit in the center of this imp's face, and one would
+have to wonder if anything lay behind them at all.  Ash skin is pulled loosely
+over the imp's frame, leaving little room for muscle tone, and a bloated gut
+protrudes obscenely.  
+~
+8 0 0 0 2048 0 0 0 0 E
+4 19 7 2d20+20 1d2+0
+40 501
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 12
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 3
+Size: 4
+E
+$

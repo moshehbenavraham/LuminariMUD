@@ -1,0 +1,224 @@
+Text      Trelux Backstab~
+Body      You penetrate their back with your superb pincers. 
+~
+Name      Crezilin~
+IdNum     110
+Dated     1359825864
+Level     10
+Room      22004
+Flags     0 0 0 0
+End
+Text      Trelx Backstab~
+Body      <Target> is in torment from your superb pincers.
+~
+Name      Crezilin~
+IdNum     110
+Dated     1359827433
+Level     10
+Room      22003
+Flags     0 0 0 0
+End
+Text      Call animal companion wear off message~
+Body      You are now able to 'call animal companion' again.
+
+the command is 'call companion'
+~
+Name      Miran~
+IdNum     173
+Dated     1359985609
+Level     20
+Room      113
+Flags     1 0 0 0
+End
+Text      skill elven crafting misspelled:  elvent crafting(inc)~
+Body      .
+~
+Name      Ornir~
+IdNum     162
+Dated     1360313174
+Level     32
+Room      1207
+Flags     1 0 0 0
+End
+Text      acid arrow message~
+Body      yes
+idea:  Ornir says, 'Zusuk conjures an acidic arrow, launching it at $N'
+~
+Name      Zusuk~
+IdNum     1
+Dated     1360318106
+Level     34
+Room      1207
+Flags     0 0 0 0
+End
+Text      invalid helpfile~
+Body      After fixing the bug with the slots.  It tells you to help memorization.  It
+says to type sorc to check how many slots, which is wrong.
+~
+Name      Sorrow~
+IdNum     247
+Dated     1360632847
+Level     7
+Room      100
+Flags     0 0 0 0
+End
+Text      tree, dispite its size (dispite = Despite)~
+Name      Thuul~
+IdNum     267
+Dated     1360959298
+Level     6
+Room      13212
+Flags     1 0 0 0
+End
+Text      tree, dispite its size (Should read despite)~
+Body      gos You mean I can alter the text myself?
+
+~
+Name      Thuul~
+IdNum     267
+Dated     1360959327
+Level     6
+Room      13212
+Flags     1 0 0 0
+End
+Text      build~
+Body      mobs need formatting
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361464915
+Level     3
+Room      3034
+Flags     1 0 0 0
+End
+Text      build~
+Body      mobs are dragons
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361465705
+Level     4
+Room      29637
+Flags     1 0 0 0
+End
+Text      build~
+Body      machine is dragon cleric
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361467399
+Level     5
+Room      29630
+Flags     1 0 0 0
+End
+Text      build~
+Body      races are wrong
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361467661
+Level     5
+Room      26316
+Flags     1 0 0 0
+End
+Text      build~
+Body      get all corpse
+frogs dont have fists
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361468758
+Level     5
+Room      26335
+Flags     0 0 0 0
+End
+Text      build~
+Body      races
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361470210
+Level     6
+Room      27432
+Flags     1 0 0 0
+End
+Text      build~
+Name      Karenthael~
+IdNum     223
+Dated     1361471047
+Level     6
+Room      27402
+Flags     1 0 0 0
+End
+Text      build~
+Body      l
+replace vainity smurf with vanity smurf
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361471078
+Level     6
+Room      27402
+Flags     1 0 0 0
+End
+Text      build~
+Body      races wrong
+~
+Name      Karenthael~
+IdNum     223
+Dated     1361472195
+Level     6
+Room      10116
+Flags     1 0 0 0
+End
+Text      I suspect that the HELP TELEPORT isn't in the right place :P~
+Body      I suspect that the HELP TELEPORT isn't in the right place :P
+	
+~
+Name      Luther~
+IdNum     291
+Dated     1362062579
+Level     1
+Room      3001
+Flags     0 0 0 0
+End
+Text      shapechange ooze~
+Body      change, not changes.
+
+~
+Name      Ornir~
+IdNum     162
+Dated     1362357349
+Level     32
+Room      4707
+Flags     1 0 0 0
+End
+Text      portal punctuation~
+Body      You enter a dark smokey portal, and you are transported elsewhere
+no period
+~
+Name      Treyorn~
+IdNum     255
+Dated     1362514507
+Level     31
+Room      5903
+Flags     1 0 0 0
+End
+Text      alchemal is alchemical~
+Name      Zusuk~
+IdNum     1
+Dated     1363357537
+Level     34
+Room      1204
+Flags     1 0 0 0
+End
+Text      endurance help file~
+Body      endurance help file should read 'raises the constitution of the target' instead of raises the endurance of the target. helps with the confusion
+~
+Name      Gorgja~
+IdNum     307
+Dated     1363383784
+Level     3
+Room      5909
+Flags     0 0 0 0
+End

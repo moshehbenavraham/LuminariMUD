@@ -1,0 +1,180 @@
+### 31 6 1344223852
+hey man i got your corpse for you :P
+
+I fell asleep at my keyboard when you logged on
+
+what's your current mud's address if i wanna go visit it?
+~
+### 26 1 1351680079
+i changed the code so you can have one follower/pet regardless of charisma score..
+but normally you can only have followers equal to your charisma bonus, otherwise
+they will turn on you...
+~
+### 31 1 1351682095
+I got your suggestion/idea about switching practice/train.  I'm definitely in
+favor of the idea.  Its actually a fairly big switch at first glance, but I'm
+going to add it to my 'wish-list.'  I prioritize basic mechanics and bug-fixes
+at this stage though, so it may be a bit before I get to it.
+Thanks so much for your input :)
+~
+### 75 1 1352378986
+Re:  Torches and Light Sources
+
+So this whole issue with light sources and torches is actually a topic I haven't
+finalized as far as gameplay.  At the current time you can just nab a permanent
+light source from one of the newbie zones and be done with the whole system of
+torches burning out, etc.
+
+But if its so easy to get a light source that is permanent, why even have light
+sources except for novelty?  :p
+
+Anyhow I transferred your 'bug' to the forum on the website (www.luminarimud.com)
+to try and get the community to express an opinion as we develop.
+~
+### 42 1 1352391270
+re:  pets and teleporters
+The teleporter system is actually a temporary system of getting around until
+our zones are attached properly...
+
+I apologize for the inconvenience it causes :(
+~
+### 52 1 1352564070
+re: treat injury
+yessir, treat injury over-inflates hps...  i haven't decided whether its staying that
+way, but I coded it that way to make it easier on players during testing phase :)
+
+thanks for your vigillance, i really appreciate it :)  I work directly off these
+bug/idea reports
+~
+### 83 1 1352569131
+yeah the mace vaprak gave you was flagged to stun you permanently
+i'm sure he did it by mistake
+be careful what you accept stuff from :P  hahah
+but seriously, sorry about the trouble, i changed the mace and took it off
+your character, just ask vaprak to reload it for you next time you see him
+it should be fixed
+... maybe it'd be smart to have me load it for you in case there are any issues :P
+~
+### 52 1 1352575825
+autoscan has been implemented
+~
+### 52 1 1352576521
+help zones is how you know what keywords to use with your teleporter
+
+in the future those details will be hidden, but we are in a testing phase so
+we want our players to access everything easily right now
+~
+### 52 1 1352576582
+i implemented the ability to 'exam' things while resting/sitting
+i also fixed the other things you pointed out, and some of your suggestions
+are good but I have to prioritize other things right now...  i noted your
+ideas as all resolved and moved the ones I haven't implemented yet to the website
+idea list
+
+thanks so much for your input!
+-zusuk
+~
+### 62 1 1354513621
+linking quagmire
+
+hey troy i was goign to link quagmire to the telporter, but then ir ealized you
+never gave me a target room vnum for teleporting
+~
+### 33 1 1354867080
+Helix tells you, 'If you see Kordon or pink tell him Rekka and/or Ox says hi.'
+~
+### 78 110 1355104204
+Hey Dredd! I need you to help me with a heist. It concerns that very wealthy guy. If you can put him to sleep or something equally useful I'll steal his equipment. I'll give you some of the armor if you do. 
+~
+### 152 1 1355417317
+newbie equipment for all new characters will match their size now
+~
+### 181 1 1356806451
+the luminari codebase will be available for download once we hit beta
+
+regards,
+zusuk
+~
+### 181 1 1356818732
+http://luminarimud.com/codebase/
+~
+### 202 1 1358674749
+with our current system, a command is required because of multi-classing
+example, if you are a mage/cleric
+you'd type rest
+but i wouldn't know which spell list to recover
+
+please let me know if this addressed your idea request or not
+~
+### 173 1 1360071784
+ spello(SPELL_CHILL_TOUCH, "chill touch", 0, 0, 0, POS_FIGHTING,
+TAR_CHAR_ROOM | TAR_FIGHT_VICT, TRUE, MAG_DAMAGE | MAG_AFFECTS,
+"You feel your strength return.", 1, 5, NECROMANCY)
+~
+### 244 1 1361443642
+re:  resize glasses large
+
+to resize an item, you will need a crafting kit (you should have started with one,
+if you lost it, you can buy it in sanctus, down and north from the temple)
+
+place the item in the kit you want resized
+
+type:  resize <new size>
+so in your example:
+put glasses kit
+resize large
+
+-zusuk
+~
+### 211 132 1361595187
+Please either see me in game or email me at taurefea@@luminarimud.com as soon as possible.
+
+Thank you, 
+Taure Fea
+~
+### 221 1 1361643745
+re:  cooldown on call mount
+
+i couldn't think of a reason why a cooldown should be replaced with a long
+summoning time...  so i rejected the idea...  if there is a good reason
+though, please repost on the website forum for discussion
+
+cheers,
+zusuk
+~
+### 148 132 1361836941
+Please see me in game regarding your zone.
+Taure
+~
+### 307 1 1363696723
+re:  help files containing levels
+
+Its a great idea, and I initially did it, but I found it problematic
+so early in development because we are constantly shifting spells
+around as we are balancing the new system...
+
+Eventually its our goal to have that info either in a help file
+or in a command...
+
+Thanks for all your great ideas/bug reports, its help us a lot
+~
+### 110 1 1363696806
+re: stealthy bug
+
+yeah i changed it recently, in order to receive your free skill
+you will have to respec... sorry about the inconvenience!
+
+-zusuk
+~
+### 240 1 1363793678
+re: helpfiles
+
+i don't have a list, i think my original plan was to play through
+a bit and see what helpfiles we need, but i'm happy with what
+we got...
+
+anything else you think we need to get done before i pack up
+the early-beta version of our code?
+
+-mosheh
+~

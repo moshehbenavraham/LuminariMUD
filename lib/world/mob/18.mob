@@ -1,0 +1,363 @@
+#1809
+dragon old silver yitzaka~
+an old silver dragon~
+An old silver dragon named Yitzaka is here.
+~
+   This huge, old silver dragon is covesilver in glistening silver scales from
+head to tail.  Large bat-like wings extend from his back, and smoke escapes his
+nostrils as he paces back and forth.
+~
+237834 0 0 0 80 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 1
+BareHandAttack: 7
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 4
+Class: 3
+Size: 7
+E
+#1810
+terminator~
+a series 800 terminator~
+A terminator is looking for a human to kill.
+~
+   This metal endoskeleton is the perfect killing weapon.  The mechanical red
+eyes scan the area for anything living.    
+~
+72 0 0 0 0 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+BareHandAttack: 9
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#1811
+hunter killer~
+a aerial hunter killer~
+A flying hunter killer zooms past you, it's turbines whining.
+~
+   This flying metal machine has a mind of it's own and was made for the sole
+purpose of hunting down humans and killing them.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 5
+Class: 4
+Size: 5
+E
+#1812
+hunter killer tank~
+a hunter killer tank~
+A huge metal tank rolls past, bones crunching under it's weight.
+~
+   Yet another machine made by machines to purge the world of humans.    
+~
+72 0 0 0 0 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 0
+Size: 5
+E
+#1813
+Centurion~
+a centurion~
+A centurion runs past.
+~
+   This four legged gun pod is fast and deadly accurate.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 12
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 2
+Size: 5
+E
+#1814
+silverfish~
+a silverfish~
+A silverfish is trying to sneak up on you.
+~
+   This small centipede like robot finds it's way into the resistance force
+hideouts and explodes, sending razor sharp shrapnel in all directions.    
+~
+72 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 10
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 4
+Size: 5
+E
+#1816
+dragon red old aiysav~
+an old red dragon~
+An old red dragon named 'Aiysav' is here.
+~
+  This red dragon is huge even with respects to other dragons.  Glistening
+thick red scales cover her body all the way to her morning-star-like tail.
+A huge maw with sword-like teeth slowly breathes in and out as she stretches
+her massive dragon wings.
+~
+237610 0 0 0 1114188 0 0 0 0 E
+34 5 -14 6d6+1354 5d5+9
+340 86700
+8 8 2
+BareHandAttack: 11
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 4
+Class: 3
+Size: 7
+E
+#1817
+guerilla soldier~
+a guerilla soldier~
+A soldier of the resistance force is looking for a terminator to kill.
+~
+   Born in battle, it's all this soldier has ever known.    
+~
+72 0 0 0 0 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 0
+BareHandAttack: 7
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 5
+Size: 5
+E
+#1818
+terminator~
+an autonomous terminator~
+An autonomous terminator is guarding skynet.
+~
+   This terminator was made as a sentry to keep all from entering skynet
+laboratories.    
+~
+10 0 0 0 0 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 0
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 0
+Size: 5
+E
+#1819
+guerilla child~
+a guerilla child~
+A child is learning helping the soldiers with their wounds.
+~
+   Even the children take part in this war with the machines.  They care for
+the wounded, run messages, help with the equipment.  No one is free until the
+machines are destroyed.    
+~
+14 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 3
+Size: 5
+E
+#1820
+guerilla officer~
+a guerilla officer~
+An officer of the resistance force is leading his soldiers into battle.
+~
+   His eyes tell you what he dares not say to his troops, this battle is
+hopless, lives are waster killing machines that can just be rebuilt.    
+~
+72 0 0 0 0 0 0 0 0 E
+32 7 -12 6d6+950 5d5+8
+320 76800
+8 8 0
+BareHandAttack: 6
+Str: 21
+Dex: 21
+Int: 21
+Wis: 21
+Con: 21
+Cha: 21
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 3
+Class: 1
+Size: 5
+E
+#1821
+german shepherd~
+a german shepherd~
+A german shepherd sniffs your hand.
+~
+   The resistance uses this dog to detect terminators.    
+~
+10 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+BareHandAttack: 4
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 5
+Class: 3
+Size: 5
+E
+#1822
+kyle reese~
+Kyle Reese~
+Kyle Reese is hiding from the terminators.
+~
+   If only he knew what the future held for him.    
+~
+2376 0 0 0 84 0 0 0 0 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 1
+BareHandAttack: 12
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 5
+Class: 5
+Size: 5
+E
+$

@@ -1,0 +1,33 @@
+#12
+CircleMUD~
+<*> Staff Simplex~
+1200 1299 10 0 f 0 0 0 -1 -1 1
+R 0 1291 1226 -1 	(a builder's bulletin board)
+O 0 1226 99 1291 	(a builder's bulletin board)
+O 0 1289 1 1291 	(	ca 	Cpo	Wrt	Cal	c to the builders' academy	n)
+O 0 1288 1 1291 	(	va bean bag chair	n)
+O 0 1287 1 1291 	(	ta 	Twicker 	tswing	n)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+M 0 1208 8 1207 	(a target dummy)
+R 0 1204 3098 -1 	(a holy help bulletin board)
+O 0 3098 99 1204 	(a holy help bulletin board)
+O 0 1286 1 1204 	(	ta bench	n)
+M 0 1212 1 1200 	(the scoreboard mob)
+O 0 1212 1 1200 	(a game console)
+M 0 1208 8 1208 	(a target dummy)
+R 0 1293 1227 -1 	(a staff bulletin board)
+O 0 1227 99 1293 	(a staff bulletin board)
+R 0 1202 3097 -1 	(a frozen bulletin board)
+O 0 3097 99 1202 	(a frozen bulletin board)
+R 0 1290 3096 -1 	(a social bulletin board)
+O 0 3096 99 1290 	(a social bulletin board)
+M 0 1200 1 1201 	(the Immortal Innkeeper)
+M 0 1201 1 1205 	(the Immortal Postmaster)
+S
+$

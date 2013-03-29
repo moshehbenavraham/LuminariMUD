@@ -1,0 +1,152 @@
+#2100
+female hobbit~
+a female hobbit~
+A female hobbit attempts to prepare dinner.
+~
+   This female hobbit has a perpetual smile on her face, and her eyes twinkle in
+the light.  She busily scampers around the house, gathering this and that.  She
+appears quite happy.
+~
+4106 0 0 0 0 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#2101
+older male hobbit~
+an older male hobbit~
+An older male hobbit is sitting here, smoking some pipeweed.
+~
+   This hobbit is typical of other hobbits.  He has short curly hair, quite
+rotund, and also has a thick mass of dark hair growing on his feet.
+~
+6154 0 0 0 0 0 0 0 0 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#2102
+little girl hobbit~
+a hobbit girl~
+A small hobbit girl hordes her toys in the corner here.
+~
+   This little girl has quite a shine in her eyes, typical of the youths in this
+town.  She loves to play toys with her brother, and garden with her momma.
+~
+10 0 0 0 0 0 0 0 0 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 2
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 3
+E
+#2103
+little boy hobbit~
+a little boy hobbit~
+A small boy hobbit tries to play with his sister.
+~
+   This little boy, by human standards, is well into middle age.  However, he is
+a hobbit, who are known to be long-lived.  Short in stature and rotund like his
+father, he is still a child.
+~
+10 0 0 0 0 0 0 0 0 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 3
+E
+#2104
+alfo halfling shop~
+Alfo the Shopkeeper~
+A squat, powerful Halfling stands behind the counter, rummaging through his wares.
+~
+   This short and squat Halfling wanders about town, looking for whomever is
+interested in what he has to offer.  He is known throughout the lands for having
+some of the most obscure equipment imaginable.  
+~
+10254 0 0 0 256 0 0 0 0 E
+15 15 1 3d3+195 2d2+2
+150 16875
+8 8 1
+BareHandAttack: 13
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#2105
+halfling commoner~
+a halfling commoner~
+A halfling commoner wanders about town.
+~
+   This male Halfling wanders around town, buying and selling wares seemingly at
+random.  He has jet black hair, huge bushy sideburns, and brown eyes that dart
+nervously from here to there.  His common clothes are well worn, but still in
+good condition.
+~
+16460 0 0 0 0 0 0 0 0 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+T 2101
+$

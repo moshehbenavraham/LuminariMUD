@@ -1,0 +1,2702 @@
+#13100
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13127
+D1
+~
+~
+0 0 13101
+S
+T 13102
+#13101
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13126
+D1
+~
+~
+0 0 13102
+D3
+~
+~
+0 0 13100
+S
+#13102
+@bA Slow Moving Stream@n~
+   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13125
+D1
+~
+~
+0 0 13103
+D3
+~
+~
+0 0 13101
+S
+#13103
+@bA Slow Moving Stream@n~
+   @DBlack @Bwater coagulates in a slow churning clog.  @wGreasy @Dgrey @wslime @Bforms
+@Bswirling spliral patterns on the waters surface.  @wGnats @Dswarm thick and low
+@Dover the waters surface, their mass movements making them appear to be on
+@Dentity.  Thick clumps of @Gglossy @ggre@Ge@gn moss @Dgrows along the edges near bog and
+@Dmud bar.  @wThe fog here has a putrid tint to it, bitter in nose and mouth.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13124
+D1
+~
+~
+0 0 13104
+D3
+~
+~
+0 0 13102
+S
+#13104
+@DA Mud Bar@n~
+   @DA mud bar rises up between the water flowing by to the north and east and
+@Dthe silt deposits to the west.  A large alligator rests atop the mound in the
+@Dsoft mud, ready to slide into the water should anyone get too close.  The mound
+@Dis coated by a greasy film making footing difficult.  @wA dense fog hangs
+@woverhead allowing very little sunlight to penatrate.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13123
+D1
+~
+~
+0 0 13105
+D3
+~
+~
+0 0 13103
+S
+#13105
+@bA Slow Moving Stream@n~
+   @bCompleting it's journey though the bog, the muddy river slowly empties out
+@bto the south.  The murky water is a brownish green color.  Numerous forms of
+@balgae grow along the banks and float in the water.  A bloated body drifts
+@bdownstream as well, bobbing slowly past with current.  The badly decomposed
+@bbody is all that remains of what used to be a fat human.  The body is naked,
+@band any valuables have been looted long ago.  @wA thick fog hovers just over the
+@wsurface of the water, blocking the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13122
+D1
+~
+~
+0 0 13106
+D3
+~
+~
+0 0 13104
+S
+#13106
+@bWet @DLand@n~
+   @DTall reeds and cat tails rise out of a foot or so of water.  The ground
+@Dbeneath the water feels soft and spongy but otherwise firm.  Thick swarms of
+@Dgnats and mosquitos swarm thick through the air, filling you nose and mouth as
+@Dyou breath.  Soft spashing noises can be heard as amphibious animals move on
+@Dthe surface within the dense growth of foliage.    
+@D~
+131 1 0 0 0 7
+D0
+~
+~
+0 0 13121
+D1
+~
+~
+0 0 13107
+D3
+~
+~
+0 0 13105
+S
+#13107
+@DA Small Cluster of Run Down Huts@n~
+   @DSeveral huts have fallen into disrepair littering the landscape.  Scattered
+@Dat random these huts have long since been abandoned, most of them no longer
+@Dstanding but toppled into heaps of rotting material.  The ground is covered
+@Dwith close to a foot of stagnant water.  The smell of dead and rotting plants
+@Dpermeates thoughout the air.  Several turtles have congregated atop one of the
+@Dfallen stuctures, quietly mingling amongst themselves peacefully.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13120
+D1
+~
+~
+0 0 13108
+D3
+~
+~
+0 0 13106
+S
+#13108
+@yA Turn in the Path@n~
+   @yHere the path turns east and north, curving in a lazy arc as continued foot
+@ytraffic works to cut the corner in a continued effort to save a step in their
+@yjourney.  The ground here is firm and dry, the grass pounded into the ground
+@yforming a fine powder that rises slightly to form small dust clouds at you feet
+@ywith each footfall.  There is the faint smell of urine and feces in the air.  
+@y
+@y@n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13119
+D1
+~
+~
+0 0 13109
+D3
+~
+~
+0 0 13107
+S
+#13109
+@yA Quiet Path@n~
+   @yThis peacefull path leads by a group of brightly colored huts.  The eery
+@ysong of a lonely bird fills the air with haunting notes, beautiful in their
+@ydark melody.  Totems line the south side of this path, carved from petified
+@ywood they tower into the air, their tops obscured by the fog making their true
+@yheight impossible to determine.  The ground is dry and solid, free of litter
+@yand weeds it appears this area is tended regularly, holy ground intended to
+@yplease the gods.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13118
+D1
+The path slops easily and you see a pole with lines on it.
+~
+~
+0 0 13110
+D3
+~
+~
+0 0 13108
+S
+#13110
+@DA Peaceful Path@n~
+   @DThis quiet path leads by a cluster of brightly colored huts.  The haunting
+@Dsounds of an inconsistant wind fill the air with eery notes, a dark and
+@Dbeautiful song.  Totems line the south side of this path, carved from petified
+@Dwood they tower into the air, their tops obscured by the fog making their true
+@Dheight impossible to determine.  The ground is dry and solid, free of litter
+@Dand weeds it appears this area is tended regularly, holy ground intended to
+@Dplease the gods.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13117
+D1
+~
+~
+0 0 13111
+D3
+~
+~
+0 0 13109
+S
+#13111
+@yA Bend in a Trail@n~
+   @yHere the trail bends north and west around the edge of an array of huts.  
+@yIt curves soflty as the path changes direction.  Evidence of heavy foot traffic
+@yis apparent as there is no plant growth here.  The ground is soft and yeilding
+@ybeneath your feet, padded by a thick layer of peat.  A large muskrat darts in
+@yfrom the north, deciding something is wrong it turns and retreats the way it
+@ycame, visable only a moment.  The angry cry of a bird of prey pierces the air
+@yfrom somewhere above.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13116
+D1
+~
+~
+0 0 13112
+D3
+~
+~
+0 0 13110
+S
+#13112
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13115
+D1
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13111
+S
+#13113
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13114
+D3
+~
+~
+0 0 13112
+S
+#13114
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13141
+D2
+~
+~
+0 0 13113
+D3
+~
+~
+0 0 13115
+S
+#13115
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13140
+D1
+~
+~
+0 0 13114
+D2
+~
+~
+0 0 13112
+D3
+~
+~
+0 0 13116
+S
+#13116
+@yA Wide Trail@n~
+   @DA wide path cuts between the huts from north to south.  Heavily traveled the
+@Dground has been beaten bare and smooth.  The ground is soft and yielding,
+@Dgiving slightly with each footfall.  The sounds of young trolls making trouble
+@Dand having fun filter into your ears from all directions.  A bog hound pup
+@Ddarts from between some huts and across the path pursued by a young club
+@Dwileding troll.  An adult troll can be heard from somewhere out of sight
+@Dlaughing at the chase.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13139
+D1
+~
+~
+0 0 13115
+D2
+~
+~
+0 0 13111
+D3
+~
+~
+0 0 13117
+S
+#13117
+@yA Cluster of Crude Huts@n~
+   @DWithin a haphazard collection of cloddish huts.  Erected randomly through
+@Dthe area these huts utilize a hodge-podge of construction materials.  The basic
+@Dframework of these huts is of similar nature, long @ywooden@D poles fastened
+@Dtogether with bindings held stable with cross members of smaller pieces of @ywood@D
+@Dand long @wbones@D.  Some of the huts use the weapons of unlucky travelers, @Wlances@D,
+@D@ystaffs and bows@D all bound together to create an efficive if unsightly shelter.
+@DEach hovel is covered by materials as mismatched as their framework.  Some
+@Dcovered by the streached @Ghi@Yde@D of some unfortunate animals.  Others with @ygrasses
+@yand willows@D woven together interlacing the main supports.  There are some, more
+@Dfacny, covered with the @Wb@Ca@Wn@Cn@We@Cr@Ws@D, @gc@yl@go@ya@gk@ys@D and @Bg@ca@Br@cm@Be@cn@Bt@cs@D of trespassers past.  
+@DFootpaths are worn between the huts with large main walkways to the west
+@Drunning north and south and to the north running east and west.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13138
+D1
+~
+~
+0 0 13116
+D2
+~
+~
+0 0 13110
+D3
+~
+~
+0 0 13118
+S
+#13118
+@yA Cluster of Crude Huts@n~
+   @DWithin a haphazard collection of cloddish huts.  Erected randomly through
+@Dthe area these huts utilize a hodge-podge of construction materials.  The basic
+@Dframework of these huts is of similar nature, long @ywooden@D poles fastened
+@Dtogether with bindings held stable with cross members of smaller pieces of @ywood@D
+@Dand long @wbones@D.  Some of the huts use the weapons of unlucky travelers, @Wlances@D,
+@D@ystaffs and bows@D all bound together to create an efficive if unsightly shelter.
+@DEach hovel is covered by materials as mismatched as their framework.  Some
+@Dcovered by the streached @yh@gi@yd@ge@D of some unfortunate animals.  Others with @ygrasses
+@yand willows@D woven together interlacing the main supports.  There are some, more
+@Dfacny, covered with the @Yb@ya@Yn@yn@Ye@yr@Ys@D, @Rclo@raks@D and @Bg@ba@Brm@be@Bnts@D of trespassers past.  
+@DFootpaths are worn between the huts with large main walkways to the east
+@Drunning north and south and to the north running east and west.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13137
+D1
+~
+~
+0 0 13117
+D2
+~
+~
+0 0 13109
+D3
+~
+~
+0 0 13119
+S
+#13119
+@yA Beaten Path@n~
+   @DA slimey muck coats the ground, small pools of black water collect within
+@Dthe greasy mud.  This heavily traveled area is the intersection of a small path
+@Dcoming in from the west to connect with the main walkway leading north and
+@Dsouth.  Large distorted foot prints can be seen within the muck at your feet.
+@DThere is a wide streak running through here, claw marks tracing swirled lines
+@Dalong its edges, the evidence of a large aligator recently making his way
+@Dthough.  Small bubbles randomly rise from beneath the ground popping on the
+@Dsurface.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13136
+D1
+~
+~
+0 0 13118
+D2
+~
+~
+0 0 13108
+D3
+~
+~
+0 0 13120
+S
+#13120
+@yA Small Foot Path@n~
+   @y Lighty traveled this path is narrow with tall grass and reeds rising on
+@yeither side.  The trail appears to continue west and south, leading to a
+@ycluster of small run down huts in either direction.  There is a loud hissing
+@ynoise coming from within the reeds, the sound of warning granted a crocodile
+@ytoo full or too lazy to consider you a tasty treat.  A low rumble follows the
+@yhissing as the grasses come to life, indicating the location of the large
+@ylizard as it moves farther into the cover of the tall grass.    
+@y~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13135
+D1
+~
+~
+0 0 13119
+D2
+~
+~
+0 0 13107
+D3
+~
+~
+0 0 13121
+S
+#13121
+@gA Cluster of Small Run Down Huts@n~
+   @DS@yeveral small huts are clustered here at random@D.  @y There is little evidence
+@yof use or traff@Di@yc as the grasses grow thick here and do not @Da@yppear to have been
+@ydisturbed in quite some time.  The huts themselves appear to be abandoned as
+@ythey have fallen into disrepair with one having collapsed into a heap of ro@Dt@yted
+@ywoo@gd@yen poles and mangy hides.  The @gg@yround under the grass and weeds is covered
+@ywith several inches of @Dw@ba@Dt@be@Dr@m.  @y With each step or shift of your weight you can
+@yfeel the bog sink beneath you treacherously threaten@mi@yng to give way and swallow
+@yyou into the depths beneath the bog@D.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13134
+D1
+~
+~
+0 0 13120
+D2
+~
+~
+0 0 13106
+D3
+~
+~
+0 0 13122
+S
+#13122
+@bA Slow Moving Stream@n~
+   @bThe river slowly flows in from the north and out the south.  To the west
+@bmuck has built up to the level of the water, constricting the flow.  A large
+@bcrocodile rests just below the surface near the eastern shore of the bog,
+@bwaiting patiently for a careless being to reach over the side for a drink.  @wA
+@wthick fog hangs low on the waters surface obscuring your vision.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13133
+D1
+~
+~
+0 0 13121
+D2
+~
+~
+0 0 13105
+D3
+~
+~
+0 0 13123
+S
+#13123
+@bA Slow Moving Stream@n~
+   @wDense fog flows through here, circulating in a barrel roll.  Churning in a
+@wcircular motion it sweeps over the water in a thick cloud swallowing everything
+@win its path.  @bThick black water fills a putrid pool of a slimy sludge.  It is
+@bcoated with a waxy film.  Nothing moves in the water, it is perfectly still.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13132
+D1
+~
+~
+0 0 13122
+D2
+~
+~
+0 0 13104
+D3
+~
+~
+0 0 13124
+S
+#13124
+@DThe Delta of a Muddy Stream@n~
+   @DThick sludge fills the area, mud and silt brought by the river builds up
+@Dhere.  This foul deposit has built up over many years.  Its surface is wet and
+@Dglossy, smooth like glass it is marred only by a few small trails from small
+@Dinsects running across it.  The trails disappear slowly after the insects
+@Dpassing.  @wA thick fog floats just above your head, completly blocking out the
+@wsky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13131
+D1
+~
+~
+0 0 13123
+D2
+~
+~
+0 0 13103
+D3
+~
+~
+0 0 13125
+S
+#13125
+@gA Small Island@n~
+   @yA small island, the ground here is solid and higher then the surrounding
+@ybog.  Small trees once grew here, now devoid of leaves, the thick fog long
+@ysince having choked the life from them.  Now they are nothing more then
+@ydecaying perches for the ugly birds that inhabit this place.  The ground here
+@yis black and slimy, covered with rotting @Dvegitation@y keeped moist by the
+@yperpetual mist and darkness.    
+@y~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13130
+D1
+~
+~
+0 0 13124
+D2
+~
+~
+0 0 13102
+D3
+~
+~
+0 0 13126
+S
+#13126
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13129
+D1
+~
+~
+0 0 13125
+D2
+~
+~
+0 0 13101
+D3
+~
+~
+0 0 13127
+S
+#13127
+@DA Floating Bog~
+   On this floating bog the ground is very soft.  Clouds of noxious gases rise
+up periodically, escaping from below.  Tall reeds and cat-tails grow as high as
+six feet here.  Willow bushes grow sparsely, popping up randomly out of the
+floating, rotting vegetation.  Swarms of gnats and mosquitoes float by in small
+black clouds.  A small wave ripples across the soft ground as something large
+moves near by.  A thick fog hangs low overhead, completely obscuring the sky.
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13128
+D1
+~
+~
+0 0 13126
+D2
+~
+~
+0 0 13100
+S
+#13128
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13155
+D1
+~
+~
+0 0 13129
+D2
+~
+~
+0 0 13127
+S
+#13129
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13154
+D1
+~
+~
+0 0 13130
+D2
+~
+~
+0 0 13126
+D3
+~
+~
+0 0 13128
+S
+#13130
+@wA Graveyard of Disgarded Bones@n~
+   @wThe entire area is covered with the bones of dead and devoured animals.  
+@wThe center is piled high, the bones of countless animals discarded into a
+@wheaping mound.  The ground about the pile littered unfastidiously with bones of
+@wevery shape and size.  The skulls of every manor of creature stand out in
+@wabundance, the only hints to the beings these bones once blonged to.  Many are
+@whumanoid scattered amid the skulls of beast, bird and reptile.  Some of them
+@wcracked and bashed, clues to the cause of death.  Nothing lives here, this is a
+@wplace for the forgotten remains of those overcome by time or battle.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13153
+D1
+~
+~
+0 0 13131
+D2
+~
+~
+0 0 13125
+D3
+~
+~
+0 0 13129
+S
+#13131
+@DA Massive Dead Tree@n~
+   @DThe skeleton of a colossal dead tree stands here.  Towering into the sky its
+@Dtop disappearing into the fog that blankets overhead.  Massive limbs fan out
+horizontally in all directions.  Large chunks of bark litter the ground beneath
+@Dthe tree where they have fallen after rotting off.  Long strings of black @gmoss@D
+@Dhang down through the limbs onto the ground, like a great veil mourning a once
+@Dmajestic life.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13152
+D1
+~
+~
+0 0 13132
+D2
+~
+~
+0 0 13124
+D3
+~
+~
+0 0 13130
+S
+#13132
+@bA Slow Moving Stream@n~
+   @bStagnant water stands here in a filthy pond.  The waters surface is coated
+@bwith a slimy moss.  Swarms of insects hover amassed in tight clusters just
+@babove the waters surface.  Several small frogs have congregated here sitting
+@blightly atop the thin layer of slimy moss that coats the surface.  Sitting very
+@bstill they wait till just the right moment when they shoot their tongues out
+@band pull in a juicy bug from the air.  @wDense fog blankets overhead, obscuring
+@wthe sky completely.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13151
+D1
+~
+~
+0 0 13133
+D2
+~
+~
+0 0 13123
+D3
+~
+~
+0 0 13131
+S
+#13133
+@bA Slow Moving Stream@n~
+   @bIn the middle of a large pool of stagnant water.  Sickly looking lily pads
+@bgrow sparcly across the surface of the water, stugling to survive.  The surface
+@bof the water is strewn with all types floating crap.  A large section of the
+@bbog has broken free and now floats in the middle of the water.  Several small
+@bturtles lounge upon the section of bog, ready to move off into the water should
+@ba predatory animals get too close.  @wA light layer of fog blankets the area.  A
+@wsoft silvery light gives everything an eerie glow.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13150
+D1
+~
+~
+0 0 13134
+D2
+~
+~
+0 0 13122
+D3
+~
+~
+0 0 13132
+S
+#13134
+@bA Slow Moving Steam@n~
+   @bThe soft current flows in from the north carrying with it all manure of
+@bfloating debris depositing them here where they drift quietly.  Dead fish,
+@bsticks, weeds and various other undefinable bob about the surface.  @wThe fog
+@where moves about in waves, churning, the light intesity changing with each
+@wmotion of the fog bank@n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13149
+D1
+~
+~
+0 0 13135
+D2
+~
+~
+0 0 13121
+D3
+~
+~
+0 0 13133
+S
+#13135
+@DA Muddy Play Area@n~
+   @DThick sloppy black mud covers the ground.  Several mud pies and crude toys
+@Dlitter the area, no longer found to be entertaining to whatever young troll
+@Dleft them to be forgotten and buried.  Deep trenches have been dug, winding and
+@Dintersecting to create make believe river beds and flood plains.  A large chair
+@Dhas been erected near the edge of the pathway, covered with animal @yfurs @Dto
+@Dserve as a comfortable place where elder trolls can watch over youngsters at
+@Dplay.  A long switch rests against the arm of the chair, a reminder of the
+@Dconsequences of misbehavior.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13148
+D1
+~
+~
+0 0 13136
+D2
+~
+~
+0 0 13120
+D3
+~
+~
+0 0 13134
+S
+#13136
+@yA Beaten Path@n~
+   @yThe swamp grasses here have been beaten flat by heavy foot traffic.  
+@yLeading north and south it is little more then a wide trail cut into the tall
+@ythick swamp grass.  Black swamp grass rises on either side.  Something hisses
+@yloadly from somewhere unseen.  A pecuiliar @Ds@gt@Dench@y fills the air, a thick oder
+@ythat seems to stick to your nose and mouth.    
+@y~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13147
+D1
+~
+~
+0 0 13137
+D2
+~
+~
+0 0 13119
+D3
+~
+~
+0 0 13135
+S
+#13137
+@yA Cluster of Crude Huts@n~
+   @DWithin a haphazard collection of cloddish huts.  Erected randomly through
+@Dthe area these huts utilize a hodge-podge of construction materials.  The basic
+@Dframework of these huts is of similar nature, long @ywooden@D poles fastened
+@Dtogether with bindings held stable with cross members of smaller pieces of @ywood@D
+@Dand long @wbones@D.  Some of the huts use the weapons of unlucky travelers, @Wlances@D,
+@D@ystaffs and bows@D all bound together to create an efficive if unsightly shelter.
+@DEach hovel is covered by materials as mismatched as their framework.  Some
+@Dcovered by the streached @Yhide@D of some unfortunate animal.  Others with @ygrasses
+@yand willows@D woven together interlacing the main supports.  There are some, more
+@Dfacny, covered with the @Rba@Wnn@Bers@D, @Gcl@Yoa@Gks@D and @Mgarm@Cents@D of trespassers past.  
+@DFootpaths are worn between the huts with large main walkways to the east
+@Drunning north and south and to the south running east and west.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13146
+D1
+~
+~
+0 0 13138
+D2
+~
+~
+0 0 13118
+D3
+~
+~
+0 0 13136
+S
+#13138
+@yA Cluster of Crude Huts@n~
+   @DWithin a haphazard collection of cloddish huts.  Erected randomly through
+@Dthe area these huts utilize a hodge-podge of construction materials.  The basic
+@Dframework of these huts is of similar nature, long @ywooden@D poles fastened
+@Dtogether with bindings held stable with cross members of smaller pieces of @ywood@D
+@Dand long @wbones@D.  Some of the huts use the weapons of unlucky travelers, @Wlances@D,
+@D@ystaffs and bows@D all bound together to create an efficive if unsightly shelter.
+@DEach hovel is covered by materials as mismatched as their framework.  Some
+@Dcovered by the streached @Ghide@D of some unfortunate animal.  Others with @ygrasses
+@yand willows@D woven together interlacing the main supports.  There are some, more
+@Dfacny, covered with the @Rba@Wnn@Rers@D, @Bcl@Roa@Bks@D and @Wgar@Cme@Wnts@D of trespassers past.  
+@DFootpaths are worn between the huts with large main walkways to the west
+@Drunning north and south and to the south running east and west.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13145
+D1
+~
+~
+0 0 13139
+D2
+~
+~
+0 0 13117
+D3
+~
+~
+0 0 13137
+S
+#13139
+@yA Twist in the Trail@n~
+   @yThe path curves slighty from north and south to the west befor turning north
+@yagain.  A small fountain has been placed here, fashioned from a large hollowed
+@yout log it taps into the dark wather below the bog.  A @Gfr@go@Gg @y rests on the edge
+@ymotionless for several moments befor diving into the water and disappearing
+@yinto the depths.  A Sudden surge in water pressure causes the water level to
+@yraise quickly to spill over the edge befor dropping sharply and again settleing
+@yat its previous level.    
+@y@n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13144
+D1
+~
+~
+0 0 13140
+D2
+~
+~
+0 0 13116
+D3
+~
+~
+0 0 13138
+S
+#13140
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13143
+D1
+~
+~
+0 0 13141
+D2
+~
+~
+0 0 13115
+D3
+~
+~
+0 0 13139
+S
+#13141
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13142
+D2
+~
+~
+0 0 13114
+D3
+~
+~
+0 0 13140
+S
+#13142
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13169
+D2
+~
+~
+0 0 13141
+D3
+~
+~
+0 0 13143
+S
+#13143
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13168
+D1
+~
+~
+0 0 13142
+D2
+~
+~
+0 0 13140
+D3
+~
+~
+0 0 13144
+S
+#13144
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13167
+D1
+~
+~
+0 0 13143
+D2
+~
+~
+0 0 13139
+D3
+~
+~
+0 0 13145
+S
+#13145
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13166
+D1
+~
+~
+0 0 13144
+D2
+~
+~
+0 0 13138
+D3
+~
+~
+0 0 13146
+S
+#13146
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13165
+D1
+~
+~
+0 0 13145
+D2
+~
+~
+0 0 13137
+D3
+~
+~
+0 0 13147
+S
+#13147
+@yA Beaten Path@n~
+   @yThe swamp grasses here have been beaten flat by heavy foot traffic.  
+@yLeading north and south it is little more then a wide trail cut into the tall
+@ythick swamp grass.  Black @Dswamp grass @yrises on either side.  Unknown beasts lie
+@yin ambush concealed within the thick grass.  Their location betrayed by by
+@yimpatience, their slight movements creating waves in the grass around them.  
+@yThe path is litered with trash.  Broken and discarded containers, old bones and
+@yvarious other items without value have been dropped and forgotton.  Junk
+@ycluttering the edges of the path where they had been kicked aside by passing
+@yfeet.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13164
+D1
+~
+~
+0 0 13146
+D2
+~
+~
+0 0 13136
+D3
+~
+~
+0 0 13148
+S
+#13148
+@bA Slow Moving Stream@n~
+   @bThick muddy water flows in from the north.  Its course taking it south to
+@bcurve back around to the west in a gradual loop turning again to flow north
+@bbefor cutting sharply to the west.  It is here where the murky current is
+@bforced into these narrow twists and turns that the current is perhaps the most
+@bswift.  @wThe grey light within the fog seems to reflect everything in the same
+@wsoft grey, the fog giving the light the illution of depth, so the light itself
+@wseems material.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13163
+D1
+~
+~
+0 0 13147
+D2
+~
+~
+0 0 13135
+D3
+~
+~
+0 0 13149
+S
+#13149
+@bA Slow Moving Stream@n~
+   @bBlack water flows in from the east at swift rate emptying into a wide still
+@bmere.  The bog opens up here where the muddy waters flow and gather b4 draining
+@bslowly south and out of the bog.  The surface here is pretty clean.  Further
+@bsouth onto the delta where all the things carried this far by the currents
+@baccumulate.  @wThe fog here seems a bit thinner and higher, visability is better
+@wif not good.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13162
+D1
+~
+~
+0 0 13148
+D2
+~
+~
+0 0 13134
+D3
+~
+~
+0 0 13150
+S
+#13150
+@bA Slow Moving Stream@n~
+   @bThe muddy river fans out, to the north west the bog encroaches or perhaps it
+@bis the river that erodes the bog.  When you look closer its hard to tell for
+@bsure.  The water here grows stagnant, the gentle flow of water from upstream
+@bdoing little to help.  Three small alligators swin in slow circles here, gentle
+@bripples eminating from them as they slowly cruise.  They drift in deliberate
+@bpaths cutting each other off, perhaps a challange for territory.  Each wanting
+@bthe others to leave yet none bold enough to physically engage anouther.  So
+@bthey have an uneasy peace, not yet strong enough to evict the intruders there
+@bis a grudging truce.  @wHeavy fog enshrouds the area.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13161
+D1
+~
+~
+0 0 13149
+D2
+~
+~
+0 0 13133
+D3
+~
+~
+0 0 13151
+S
+#13151
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13160
+D1
+~
+~
+0 0 13150
+D2
+~
+~
+0 0 13132
+D3
+~
+~
+0 0 13152
+S
+#13152
+@yA Small Island Landmass@n~
+   @ySolid ground has risen up withing the bog.  The ground here is bare and
+@ymoist.  Black @Dweeds@y somehow grow here, like sickly ferns they are tall stalks
+@ywith many leaves fanning from either side.  They are glossy, looking almost
+@ywet, it is very hard to tell by looking if they are in fact wet or waxy and
+@yglossy by design.  They may in fact be survivors from a tim long ago, a time
+@ywhen the sun would shine here.  A time befor this dense fog swallowed the area.
+@y@n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13159
+D1
+~
+~
+0 0 13151
+D2
+~
+~
+0 0 13131
+D3
+~
+~
+0 0 13153
+S
+#13153
+@yA Small Island Landmass@n~
+   @yThe ground is solid here, rising slightly above the surrounding bog.  Dead
+@yand decaying trees stand here quietly wasting away to nothing.  Sunlight long
+@ysince forgotten ceasing to bring them life.  Several fallen trucks crawl with
+@y@Dinsects@y and @wworms@y as they disitegrate into the earth from which they came.  A
+@ylong beaked bird hops about energetically atop the logs pecking in and pulling
+@yfat @Wgrubs@y out of the soft wood.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13158
+D1
+~
+~
+0 0 13152
+D2
+~
+~
+0 0 13130
+D3
+~
+~
+0 0 13154
+S
+#13154
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13157
+D1
+~
+~
+0 0 13153
+D2
+~
+~
+0 0 13129
+D3
+~
+~
+0 0 13155
+S
+#13155
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13156
+D1
+~
+~
+0 0 13154
+D2
+~
+~
+0 0 13128
+S
+#13156
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13183
+D1
+~
+~
+0 0 13157
+D2
+~
+~
+0 0 13155
+S
+#13157
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13182
+D1
+~
+~
+0 0 13158
+D2
+~
+~
+0 0 13154
+D3
+~
+~
+0 0 13156
+S
+#13158
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13181
+D1
+~
+~
+0 0 13159
+D2
+~
+~
+0 0 13153
+D3
+~
+~
+0 0 13157
+S
+#13159
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13180
+D1
+~
+~
+0 0 13160
+D2
+~
+~
+0 0 13152
+D3
+~
+~
+0 0 13158
+S
+#13160
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13179
+D1
+~
+~
+0 0 13161
+D2
+~
+~
+0 0 13151
+D3
+~
+~
+0 0 13159
+S
+#13161
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13178
+D1
+~
+~
+0 0 13162
+D2
+~
+~
+0 0 13150
+D3
+~
+~
+0 0 13160
+S
+#13162
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13177
+D1
+~
+~
+0 0 13163
+D2
+~
+~
+0 0 13149
+D3
+~
+~
+0 0 13161
+S
+#13163
+@bA Slow Moving Stream@n~
+   @bFlowing in angrily from the west the muddy water calms and settles as i
+@bwinds its way south.  A huge snake moves through the water heading south with
+@bthe current.  Its writhing movements propell it along swiftly leaving an uneven
+@band wavy wake.  @wDense foggy gloom seems to absorb everything more then a few
+@wfeet away from you.  Everything is devoid of color, outlines fade and cease to
+@wexist, solid objects disolving into the intense brume.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13176
+D1
+~
+~
+0 0 13164
+D2
+~
+~
+0 0 13148
+D3
+~
+~
+0 0 13162
+S
+#13164
+@DA Log Bridge@n~
+   @yThe stream gets very narrow here.  A huge tree trunk has floated in and
+@ybecome lodged between the banks on either side of the muddy water.  Several
+@yclumps of the bog that had broken away further up steam have drifted in to
+@ybecome stuck, unable to float past the tree trunk spanning the river.  Several
+@yof the sections have appeared to begin to grow together to form a small dam
+@ytogether with to log.  The water is considerably higher upstream of the
+@yblockage.  It forces its way under the obstructions to come rushing out from
+@ybeneath the partially submerged trunk with all the fury the tiny water flow can
+@ymuster.  The log itself looks to be firmly in place.  It appears to have been
+@yrolled up with a good part of either end resting atop the bog.  Perhaps
+@yfloating in during a period of high water to be placed here when levels
+@yreceded.  The bark on the top side has been worn smooth and in places worn off.
+@yThough it is narrow and wet making it appear very slick this little bridge
+@ylooks stable and well traveled.  An effective if precarious river crossing.  
+@y@wThough it is really a pretty short distance across the heavy fog nearly hides
+@wthe far side from view, making it appear much farther than it really is.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13175
+D1
+~
+~
+0 0 13165
+D2
+~
+~
+0 0 13147
+D3
+~
+~
+0 0 13163
+S
+#13165
+@bA Slow Moving Stream@n~
+   @bA large pool forms as the river widens.  Flowing in from the north it
+@bgathers quietly in a large pool befor flowing westward.  A large oddly shaped
+@bchunk of bog has broken away to float motionless in the center of the pool.  
+@bTwo large snapping turtles quietly socialize atop the floating vegitation.  A
+@bthick swarm of gnats hover near the turtles who appear to be immune to the
+@bpests.  @wThe fog here seems to be a bit higher, making it a bit easier for you
+@wto identify distant shapes.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13174
+D1
+~
+~
+0 0 13166
+D2
+~
+~
+0 0 13146
+D3
+~
+~
+0 0 13164
+S
+#13166
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13173
+D1
+~
+~
+0 0 13167
+D2
+~
+~
+0 0 13145
+D3
+~
+~
+0 0 13165
+D5
+~
+clump~
+1 0 13268
+S
+#13167
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13172
+D1
+~
+~
+0 0 13168
+D2
+~
+~
+0 0 13144
+D3
+~
+~
+0 0 13166
+S
+#13168
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13171
+D1
+~
+~
+0 0 13169
+D2
+~
+~
+0 0 13143
+D3
+~
+~
+0 0 13167
+S
+#13169
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13170
+D2
+~
+~
+0 0 13142
+D3
+~
+~
+0 0 13168
+E
+reeds~
+There seems to be a passage through the reeds.
+~
+S
+T 101
+T 13101
+#13170
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13169
+D3
+~
+~
+0 0 13171
+S
+#13171
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13196
+D1
+~
+~
+0 0 13170
+D2
+~
+~
+0 0 13168
+D3
+~
+~
+0 0 13172
+S
+#13172
+@bA Slow Moving Stream@n~
+   @bFlowing in from the north the stream takes a sharp turn to the west.  The
+@babrupt change in direction causes slight turbulence on the waters surface.  
+@bEddies and miniature whirlpools deface the surface.  A small stick is trapped
+@bin the swirling waters.  It spins from one eddy to the next occasionally being
+@bpulled under to pop up somewhere else.  @wThick fog hangs low making vision
+@wdifficult.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13195
+D1
+~
+~
+0 0 13171
+D2
+~
+~
+0 0 13167
+D3
+~
+~
+0 0 13173
+S
+#13173
+@bA Slow Moving Stream@n~
+   @bThe water seems to move faster here, the canal cut through the bog
+@bconsiderably slimmer here then elsewhere.  A frog swims through the water tward
+@bthe north shore.  When he reaches the bank rather then climb up out of the
+@bwater it dives and disappears under the bog.  A small crocodile drifts
+@bdownstream mostly submerged like an old log.  @wDense fog cloaks the area with a
+@wdismal haze.  The faint grey light does little to warm the feel of this place.
+@wThick with bugs and muck and rotting dead things this entire bog is most
+@wunpleasant.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13194
+D1
+~
+~
+0 0 13172
+D2
+~
+~
+0 0 13166
+D3
+~
+~
+0 0 13174
+S
+#13174
+@bA Slow Moving Stream@n~
+   @bMuddy water flows in from the west befor making a gentle turn south.  A very
+@blarge alligator swims upstream at an easy pace.  The top of his head the only
+@bvisable part of his body above the water.  Occasionally his massive tail
+@bpierces the surface as he pushes himself against the current.  The wake left by
+@bhis passing lapping water up onto the bog bank.  @wThe fog here hangs thick and
+@wlow restricting visibility.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13193
+D1
+~
+~
+0 0 13173
+D2
+~
+~
+0 0 13165
+D3
+~
+~
+0 0 13175
+S
+#13175
+@yTrampled ground@n~
+   @yThe grass here is tramped into a bottle neck to the south.  It narrows into
+@ya trail leading to a log that has drifted in and become lodged and now serves
+@yas a bridge over the water to the south.  Local inhabitants appear to come from
+@yand go in all directions for the use of the bridge.  Puddles of @Dblack wat@be@Dr@y
+@ypool in the deeper indentations of the path.  Sudden movements within the grass
+@yremind you youre not alone.  As dreary and dismal this bog may seem, life
+@yabounds.    
+@y~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13192
+D1
+~
+~
+0 0 13174
+D2
+~
+~
+0 0 13164
+D3
+~
+~
+0 0 13176
+S
+#13176
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow thickly here, thriving in the
+@Dfloating vegetation that rots here.  Swarms of gnats and mosquitoes float by in
+@Dsmall black clouds.  @n@bWater@n@D seeps up through the ground and is several inches
+@Ddeep here.  A thick fog hangs low overhead completely obscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13191
+D1
+~
+~
+0 0 13175
+D2
+~
+~
+0 0 13163
+D3
+~
+~
+0 0 13177
+S
+#13177
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow thickly here, thriving in the
+@Dfloating vegetation that rots here.  Swarms of gnats and mosquitoes float by in
+@Dsmall black clouds.  @n@bWater@n@D seeps up through the ground and is several inches
+@Ddeep here.  A thick fog hangs low overhead completely obscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13190
+D1
+~
+~
+0 0 13176
+D2
+~
+~
+0 0 13162
+D3
+~
+~
+0 0 13178
+S
+#13178
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow thickly here, thriving in the
+@Dfloating vegetation that rots here.  Swarms of gnats and mosquitoes float by in
+@Dsmall black clouds.  @n@bWater@n@D seeps up through the ground and is several inches
+@Ddeep here.  A thick fog hangs low overhead completely obscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13189
+D1
+~
+~
+0 0 13177
+D2
+~
+~
+0 0 13161
+D3
+~
+~
+0 0 13179
+S
+#13179
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13188
+D1
+~
+~
+0 0 13178
+D2
+~
+~
+0 0 13160
+D3
+~
+~
+0 0 13180
+S
+#13180
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13187
+D1
+~
+~
+0 0 13179
+D2
+~
+~
+0 0 13159
+D3
+~
+~
+0 0 13181
+S
+#13181
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13186
+D1
+~
+~
+0 0 13180
+D2
+~
+~
+0 0 13158
+D3
+~
+~
+0 0 13182
+S
+#13182
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13185
+D1
+~
+~
+0 0 13181
+D2
+~
+~
+0 0 13157
+D3
+~
+~
+0 0 13183
+S
+#13183
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13184
+D1
+~
+~
+0 0 13182
+D2
+~
+~
+0 0 13156
+S
+#13184
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13211
+D1
+~
+~
+0 0 13185
+D2
+~
+~
+0 0 13183
+S
+#13185
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13210
+D1
+~
+~
+0 0 13186
+D2
+~
+~
+0 0 13182
+D3
+~
+~
+0 0 13184
+S
+#13186
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13209
+D1
+~
+~
+0 0 13187
+D2
+~
+~
+0 0 13181
+D3
+~
+~
+0 0 13185
+S
+#13187
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13208
+D1
+~
+~
+0 0 13188
+D2
+~
+~
+0 0 13180
+D3
+~
+~
+0 0 13186
+S
+#13188
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13207
+D1
+~
+~
+0 0 13189
+D2
+~
+~
+0 0 13179
+D3
+~
+~
+0 0 13187
+S
+#13189
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow thickly here, thriving in the
+@Dfloating vegetation that rots here.  Swarms of gnats and mosquitoes float by in
+@Dsmall black clouds.  @n@bWater@n@D seeps up through the ground and is several inches
+@Ddeep here.  A thick fog hangs low overhead completely obscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13206
+D1
+~
+~
+0 0 13190
+D2
+~
+~
+0 0 13178
+D3
+~
+~
+0 0 13188
+S
+#13190
+@bOpen Water@n~
+   @bOver open water, the surface is eerily still.  Green @n@Gmoss@n@b coats the surface
+@bwith millions of tiny disks.  There appears to be a very slight current here
+@bslowly circulating the tiny disks of moss in tiny eddies.  Occasionally a
+@bfrog's head pops through the surface with a gentle ripple before again
+@bdisappearing into the depths.  Swarms of insects are thick here, moving in
+@bsudden waves as if all of the same mind.  Tall reeds sprout up to the west and
+@bsouth marking the shore.  @n
+~
+131 1 0 0 0 6
+D0
+~
+~
+0 0 13205
+D1
+~
+~
+0 0 13191
+D2
+~
+~
+0 0 13177
+D3
+~
+~
+0 0 13189
+S
+#13191
+@bOpen Water@n~
+   @bOver open water, the surface is eerily still.  Green @n@Gmoss@n@b coats the surface
+@bwith millions of tiny disks.  There appears to be a very slight current here
+@bslowly circulating the tiny disks of moss in tiny eddies.  Occasionally a
+@bfrog's head pops through the surface with a gentle ripple before again
+@bdisappearing into the depths.  Swarms of insects are thick here, moving in
+@bsudden waves as if all of the same mind.  Tall reeds sprout up to the south
+@bmarking the shore.  The northern shore is marked by tall fine grasses.  @n
+~
+131 1 0 0 0 6
+D0
+~
+~
+0 0 13204
+D1
+~
+~
+0 0 13192
+D2
+~
+~
+0 0 13176
+D3
+~
+~
+0 0 13190
+S
+#13192
+@bOpen Water@n~
+   @bOver open water, the surface is eerily still.  Green @n@Gmoss@n@b coats the surface
+@bwith millions of tiny disks.  There appears to be a very slight current here
+@bslowly circulating the tiny disks of moss in tiny eddies.  Occasionally a
+@bfrog's head pops through the surface with a gentle ripple before again
+@bdisappearing into the depths.  Swarms of insects are thick here, moving in
+@bsudden waves as if all of the same mind.  Tall reeds sprout up to the east and
+@bsouth marking the shore.  @n
+~
+131 1 0 0 0 6
+D0
+~
+~
+0 0 13203
+D1
+~
+~
+0 0 13193
+D2
+~
+~
+0 0 13175
+D3
+~
+~
+0 0 13191
+S
+#13193
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow thickly here, thriving in the
+@Dfloating vegetation that rots here.  Swarms of gnats and mosquitoes float by in
+@Dsmall black clouds.  @n@bWater@n@D seeps up through the ground and is several inches
+@Ddeep here.  A thick fog hangs low overhead completely obscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13202
+D1
+~
+~
+0 0 13194
+D2
+~
+~
+0 0 13174
+D3
+~
+~
+0 0 13192
+S
+#13194
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13201
+D1
+~
+~
+0 0 13195
+D2
+~
+~
+0 0 13173
+D3
+~
+~
+0 0 13193
+S
+#13195
+@bA Slow Moving Stream@n~
+   @bThe river begins to bottle neck in from the east, becoming half its width
+@bvery quickly.  A part of the bog forms small peninsula between the water
+@bflowing through the bottle neck and the stagnant water trapped to the east.  A
+@blarge alligator slides of the tip of the peninsula disappearing into the water
+@bwithout a sound.  @wThe fog seems higher here, still thick enough to completly
+@wblock out the sky.  A soft grey light is all you have to see by.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13200
+D1
+~
+~
+0 0 13196
+D2
+~
+~
+0 0 13172
+D3
+~
+~
+0 0 13194
+S
+#13196
+@bA Slow Moving Stream@n~
+   @bA stagnant section of the river.  Insects swarm here thick and loud.  The
+@bwaters surface is covered by tiny green disks.  The currents in this little
+@bcorner whorling them into a giant spiral.  @wThe fog too seems to be circulating
+@wslowly as if there were a slight updraft raising from the surface of the water.
+@w@n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13199
+D1
+~
+~
+0 0 13197
+D2
+~
+~
+0 0 13171
+D3
+~
+~
+0 0 13195
+S
+#13197
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13198
+D2
+~
+~
+0 0 13170
+D3
+~
+~
+0 0 13196
+S
+#13198
+@DA Floating Bog~
+@D   @DOn a floating bog, the ground here is very soft.  Clouds of noxious @n@Ggases@n@D
+@Drise up periodically escaping from below.  Tall reeds and cat tails grow as
+@Dhigh as six feet here.  Willow bushes grow sparsely popping up randomly out of
+@Dthe floating vegetation that rots here.  Swarms of gnats and mosquitoes float
+@Dby in small black clouds.  A small wave ripples across the soft ground as
+@Dsomething large moves near by.  A thick fog hangs low overhead completely
+@Dobscuring the sky.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13225
+D2
+~
+~
+0 0 13197
+D3
+~
+~
+0 0 13199
+S
+#13199
+@bA Slow Moving Stream@n~
+   @bWider here than just upstream the current slows a bit.  The only clue to the
+@bcurrent at all is a large section of bog floating mid stream.  A large turtle
+@brests perched atop it enjoying a lazy ride south.  A large area of water is
+@bdisturbed swelling and swirling abrutly as something very large made a quick
+@bmovent just below the waters surface.  @wThe fog hangs heavy, obscuring anything
+@wmore than a few feet away.  @n
+~
+131 1 0 0 0 2
+D0
+~
+~
+0 0 13224
+D1
+~
+~
+0 0 13198
+D2
+~
+~
+0 0 13196
+D3
+~
+~
+0 0 13200
+S
+$~

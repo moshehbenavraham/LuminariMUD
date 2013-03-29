@@ -1,0 +1,125 @@
+This file contains any messages produced by compilers while
+running configure, to aid debugging if configure makes a mistake.
+
+configure:540: checking for less
+configure:573: checking for gcc
+configure:686: checking whether the C compiler (gcc  ) works
+configure:702: gcc -o conftest    conftest.c  1>&5
+configure:728: checking whether the C compiler (gcc  ) is a cross-compiler
+configure:733: checking whether we are using GNU C
+configure:761: checking whether gcc accepts -g
+configure:796: checking whether gcc -Wall also needs -Wno-char-subscripts
+configure:832: checking whether gcc accepts -Wno-char-subscripts
+configure:864: checking whether gcc accepts -fno-builtin
+configure:912: checking for gethostbyaddr
+configure:1001: checking for socket
+configure:1090: checking for malloc
+configure:1186: checking for crypt
+configure:1235: checking for crypt in -lcrypt
+configure:1282: checking how to run the C preprocessor
+configure:1362: checking for ANSI C header files
+configure:1466: checking for sys/wait.h that is POSIX.1 compatible
+configure:1511: checking for fcntl.h
+configure:1511: checking for sys/fcntl.h
+configure:1511: checking for errno.h
+configure:1511: checking for net/errno.h
+configure:1511: checking for string.h
+configure:1511: checking for strings.h
+configure:1551: checking for limits.h
+configure:1551: checking for sys/time.h
+configure:1551: checking for sys/select.h
+configure:1551: checking for sys/types.h
+configure:1551: checking for unistd.h
+configure:1591: checking for memory.h
+configure:1591: checking for crypt.h
+configure:1591: checking for assert.h
+configure:1591: checking for arpa/telnet.h
+configure:1591: checking for arpa/inet.h
+configure:1631: checking for sys/stat.h
+configure:1631: checking for sys/socket.h
+configure:1631: checking for sys/resource.h
+configure:1631: checking for netinet/in.h
+configure:1631: checking for netdb.h
+configure:1671: checking for signal.h
+configure:1671: checking for sys/uio.h
+configure:1671: checking for mcheck.h
+configure:1710: checking whether crypt needs over 10 characters
+configure:1776: checking for working const
+configure:1851: checking for pid_t
+configure:1884: checking for size_t
+configure:1917: checking for ssize_t
+configure:1950: checking whether time.h and sys/time.h may both be included
+configure:1999: checking for struct in_addr
+configure:2038: checking for typedef socklen_t
+configure:2074: checking return type of signal handlers
+configure:2115: checking for vprintf
+configure:2222: checking for gettimeofday
+configure:2222: checking for select
+configure:2222: checking for snprintf
+configure:2222: checking for strcasecmp
+configure:2222: checking for strdup
+configure:2222: checking for strerror
+configure:2222: checking for stricmp
+configure:2222: checking for strlcpy
+configure:2222: checking for strncasecmp
+configure:2222: checking for strnicmp
+configure:2222: checking for strstr
+configure:2222: checking for vsnprintf
+configure:2280: checking for inet_addr
+configure:2280: checking for inet_aton
+configure:2338: checking if accept is prototyped
+configure:2395: checking if atoi is prototyped
+configure:2452: checking if atol is prototyped
+configure:2509: checking if bind is prototyped
+configure:2566: checking if bzero is prototyped
+configure:2623: checking if chdir is prototyped
+configure:2680: checking if close is prototyped
+configure:2737: checking if crypt is prototyped
+configure:2794: checking if fclose is prototyped
+configure:2851: checking if fcntl is prototyped
+configure:2908: checking if fflush is prototyped
+configure:2965: checking if fprintf is prototyped
+configure:3022: checking if fputc is prototyped
+configure:3079: checking if fputs is prototyped
+configure:3136: checking if fread is prototyped
+configure:3193: checking if fscanf is prototyped
+configure:3250: checking if fseek is prototyped
+configure:3307: checking if fwrite is prototyped
+configure:3364: checking if getpeername is prototyped
+configure:3421: checking if getpid is prototyped
+configure:3478: checking if getrlimit is prototyped
+configure:3535: checking if getsockname is prototyped
+configure:3592: checking if gettimeofday is prototyped
+configure:3649: checking if htonl is prototyped
+configure:3706: checking if htons is prototyped
+configure:3763: checking if inet_addr is prototyped
+configure:3820: checking if inet_aton is prototyped
+configure:3877: checking if inet_ntoa is prototyped
+configure:3934: checking if listen is prototyped
+configure:3991: checking if ntohl is prototyped
+configure:4048: checking if perror is prototyped
+configure:4105: checking if printf is prototyped
+configure:4162: checking if qsort is prototyped
+configure:4219: checking if read is prototyped
+configure:4276: checking if remove is prototyped
+configure:4333: checking if rewind is prototyped
+configure:4390: checking if select is prototyped
+configure:4447: checking if setitimer is prototyped
+configure:4504: checking if setrlimit is prototyped
+configure:4561: checking if setsockopt is prototyped
+configure:4618: checking if snprintf is prototyped
+configure:4675: checking if socket is prototyped
+configure:4732: checking if sprintf is prototyped
+configure:4789: checking if sscanf is prototyped
+configure:4846: checking if strcasecmp is prototyped
+configure:4903: checking if strdup is prototyped
+configure:4960: checking if strerror is prototyped
+configure:5017: checking if stricmp is prototyped
+configure:5074: checking if strlcpy is prototyped
+configure:5131: checking if strncasecmp is prototyped
+configure:5188: checking if strnicmp is prototyped
+configure:5245: checking if system is prototyped
+configure:5302: checking if time is prototyped
+configure:5359: checking if unlink is prototyped
+configure:5416: checking if vsnprintf is prototyped
+configure:5473: checking if write is prototyped

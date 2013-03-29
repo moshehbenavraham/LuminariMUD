@@ -1,0 +1,52 @@
+#4800
+innkeeper female warrior beautiful~
+the innkeeper~
+A beautiful female warrior is here, attending to the needs of the guests of the inn.
+~
+It looks unfinished.
+~
+8388618 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#4801
+postmaster clerk postal~
+@athe postal clerk@n~
+@aA clerk is behind the counter, sorting mail into the cubbyholes.@n
+~
+   @aHis clothes are old, but clean and neat, and the glasses perched on his nose
+have been repaired with what appears to be a stick pin.  He looks to be an older
+gentleman, with graying hair and hands curled with arthritis.  There is a
+twinkle in his blue eyes as he greets those who come for mail and he sends each
+person away with a smile and a blessing for their safe journey.  @n
+~
+8896522 0 0 0 0 0 0 0 0 E
+31 7 -11 6d6+925 5d5+8
+310 72075
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+$

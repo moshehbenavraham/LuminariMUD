@@ -1,0 +1,188 @@
+#2300
+Rocky Ledge~
+A dark and stormy knight module.
+
+Designed and written by Owen Stephens
+Modified and adapted for Luminari by Bakarus
+~
+23 0 0 0 0 0
+D1
+.
+~
+~
+3 0 2301
+S
+T 2304
+#2301
+Tor Entrance~
+   The massive tor towers above the surrounding country.  A few narrow ledges
+offer scant protection from the elements, but a closer inspection reveals a
+massive, arched entryway at least 20 feet tall and 10 feet wide, set into the
+side of the hill.  The ground just outside it slopes away from the doorway,
+directing the falling water out and away.  Given this fact and the sturdy nature
+of the hill, whatever space lies beyond the door should be both dry and safe
+from lightning and hail.  The construction seems quite sturdy, so the likelihood
+of collapse, even in severe conditions such as these, is remote.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2302
+D3
+~
+~
+0 0 2300
+S
+T 2305
+#2302
+Inside the Tor~
+   The stone chamber beyond the entrance measures at least ten paces square.  
+Peeling paint and broken scrollwork suggest that it was once decorated with some
+care, but now only dust remains.  Three massive stone doors one each to the left
+and right, and one directly across from the entrance lead deeper into the tor.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2303
+D3
+~
+~
+1 0 2301
+S
+#2303
+Intersection~
+   The sound of hissing rain, pounding hail, and howling wind from outside is
+interrupted only by the occasional loud crack of thunder.  Still, this room
+seems stable enough for the most part.  Even when the thunder seems to shake the
+very ground, not so much as a mote of dust filters down from the ceiling.  The
+doors leading into the tor, however, do show signs of weakness, seeming to
+tremble with every thunderclap.
+~
+23 0 0 0 0 0
+D0
+~
+stone massive door~
+2 0 2305
+D1
+~
+stone massive door~
+2 0 2304
+D2
+~
+stone massive door~
+2 0 2306
+D3
+~
+stone massive door~
+2 0 2302
+S
+T 2306
+#2304
+Stone Chamber~
+   The long stone hall ends in a stone chamber furnished only with cracked,
+moldering tables on which lie rusted implements of iron.  Rain falls into the
+middle of the room from a shaft in the ceiling that must run all the way to the
+top of the tor.  From the bottom of the shaft dangles a rope, swinging slightly.
+A drain in the center of the floor allows the water to escape, but old, dark
+stains suggest that it was used to carry away other fluids long ago.
+~
+23 0 0 0 0 0
+D1
+~
+~
+0 0 2309
+D2
+~
+~
+1 0 2307
+D3
+~
+~
+0 0 2303
+S
+T 2307
+#2305
+Dusty Chamber~
+   This chamber, like the rest of the tor, has been covered in a blanket of
+dust.  The only object of interest in this chamber is a statue at the far end.
+It resembles a sarcophagus standing upright, except that the head of the figure
+carved upon its lid looks distorted and seems to have tendrils instead of hair.
+A pair of batlike wings extends from its temples.
+~
+23 0 0 0 0 0
+D0
+~
+~
+1 0 -1
+D2
+~
+~
+0 0 2303
+S
+T 2312
+#2306
+Dusty Room~
+   This room is empty save for dust and a single, small, stone chest in the
+center of the floor.  Evidently no one has disturbed this chamber for many
+years.  The floor is made of carved stone tiles, laid in an alternating pattern
+that is almost dizzying.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2303
+D1
+~
+~
+1 0 -1
+S
+#2307
+Hallway~
+   At the end of this hallway is a small chamber whose wooden door lies on the
+floor.  The smell of dust pervades the air, and the sound of thunder is muted
+here.  Numerous body-shaped lumps are visible through the doorway, each wrapped
+carefully in layers of grey thread like woven mummies.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2304
+D2
+~
+~
+0 0 2308
+S
+T 2309
+#2308
+Storage Room~
+   The dust hangs thick here, covering body-shaped lumps all across the room.  
+The raging storm outside is barely audible here.  The lumps on the ground are
+wrapped in what seems to be a thin silky substance.  There are scattered weapons
+and piece of armor throughout the room, all crumbling from rust and age.
+~
+23 0 0 0 0 0
+D0
+~
+~
+0 0 2307
+S
+#2309
+A Dark Chamber~
+   A long, stone table dominates the center of this chamber, and bright bits of
+gold wink from within the dust that covers the floor.  Upon the table lies the
+well-preserved corpse of a tall humanoid wearing the tabard and belts of a
+knight.
+~
+23 0 0 0 0 0
+D3
+~
+~
+0 0 2304
+S
+T 2315
+$~

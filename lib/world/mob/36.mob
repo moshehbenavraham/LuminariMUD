@@ -1,0 +1,317 @@
+#3600
+black pawn~
+the Pawn of the Black Court~
+You see a pawn standing here waiting for orders.
+~
+   The Black Pawn looks quite like a small knight without his powerful steed.  
+His armor is shiny and black.  He stands ready to give his life for the Crown.
+
+~
+206 0 0 0 16 0 0 0 -400 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 4
+Class: 3
+Size: 5
+E
+#3601
+white pawn~
+the Pawn of the White Court~
+You see a pawn standing here waiting for orders.
+~
+   The White Pawn looks quite like a small knight without his powerful steed.  
+His armor is spotless and white.  He stands ready to give his life for the
+Crown.  
+~
+206 0 0 0 16 0 0 0 400 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 1
+Size: 5
+E
+#3602
+black rook castle~
+the Black Rook~
+In the corner you see a large, black, stone castle on wheels.
+~
+   The Black Rook is a very large man-made tomb on wheels.  Just from the looks
+of it, it will probably be YOUR tomb.  
+~
+229386 0 0 0 16 0 0 0 -600 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 5
+Size: 5
+E
+#3603
+white rook castle~
+the White Rook~
+In the corner you see a large, white, stone castle on wheels.
+~
+   The White Rook is a very large man-made tomb on wheels.  Just from the looks
+of it, it will probably be YOUR tomb.  
+~
+229386 0 0 0 16 0 0 0 600 E
+27 9 -8 5d5+590 4d4+6
+270 54675
+8 8 0
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 1
+Size: 5
+E
+#3604
+black knight~
+the Black Knight~
+Here stands a magnificent knight of the dark realm.
+~
+   The Black Knight is here, riding his ebony black war horse.  His eyes flash
+behind his visor in vengence.  
+~
+42 0 0 0 16 0 0 0 -400 E
+18 14 0 3d3+234 3d3+3
+180 24300
+8 8 0
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 2
+Class: 3
+Size: 5
+E
+#3605
+white knight~
+the White Knight~
+Here stands a magnificent knight of the light realm.
+~
+   The White Knight is here, riding his ivory white war horse.  His eyes gleam
+behind his visor in joy.  
+~
+42 0 0 0 16 0 0 0 400 E
+18 14 0 3d3+234 3d3+3
+180 24300
+8 8 0
+Str: 12
+Dex: 12
+Int: 12
+Wis: 12
+Con: 12
+Cha: 12
+SavingFort: 4
+SavingRefl: 4
+SavingWill: 4
+SavingPoison: 4
+SavingDeath: 4
+Race: 5
+Class: 4
+Size: 5
+E
+#3606
+black bishop priest~
+the Black Bishop~
+A dark priest stands here.
+~
+   The Black Bishop seems willing to help you straight into your grave so he can
+bless you properly.  
+~
+10 0 0 0 16 0 0 0 -500 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 4
+Class: 4
+Size: 5
+E
+#3607
+white bishop priest~
+the White Bishop~
+A light priest stands here.
+~
+   The White Bishop seems willing to help you in any possible so that he can
+attain a higher spirituality.  
+~
+10 0 0 0 16 0 0 0 500 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 2
+Size: 5
+E
+#3608
+black queen~
+the Black Queen~
+The Black Queen stands here.
+~
+   The Black Queen is a strikingly beautiful woman with pale skin and a mass of
+dark hair that crowns her head like a black cloud.  If looks could kill, you
+would already be dead.  
+~
+2094 0 0 0 16 0 0 0 -750 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 2
+Class: 4
+Size: 5
+E
+#3609
+white queen~
+the White Queen~
+The White Queen stands here.
+~
+   The White Queen is a stunningly beautiful woman with dark skin and a mass of
+light hair that frames her head like the sun.  This is surely love at first
+sight for you.  
+~
+2094 0 0 0 16 0 0 0 750 E
+29 9 -9 5d5+630 4d4+6
+290 63075
+8 8 0
+Str: 19
+Dex: 19
+Int: 19
+Wis: 19
+Con: 19
+Cha: 19
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 4
+Size: 5
+E
+#3610
+black king~
+the Black King~
+The Black King stands here.
+~
+   The Black King is a menacing figure.  You can easily understand why he is the
+king and you are not.  
+~
+2110 0 0 0 16 0 0 0 -999 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 1
+Size: 5
+E
+#3611
+white king~
+the White King~
+The White King stands here.
+~
+   The White King is a stately figure.  You can easily understand why he is the
+king and you are not.  
+~
+2110 0 0 0 16 0 0 0 999 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 0
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 1
+Class: 4
+Size: 5
+E
+$

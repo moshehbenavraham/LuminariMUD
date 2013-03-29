@@ -1,0 +1,1259 @@
+#6700
+Graven Hollow Camp Area Description~
+This zone will be related to the Wizard Mansion (1-6).  The half-orc Yahg and
+his fallen comrade are from this village/nomadic camp.  There are a lot of
+things trouble the camp.  There are dire wolves killing off their
+livestock(cows, sheep) that need to be taken care of in a quest.  There are some
+villagers that have mysteriously gone missing.  The other villagers are blaming
+trolls that live in a cave past the pastures.  There will be a quest to make a
+fishing pole for a young villager who broke his fishing pole.  There will be a
+couple small shops for weapon/armor upgrades.  They will be expensive so it
+won't be easy to upgrade.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6766
+S
+#6701
+Before The Wooden Gate~
+   A large fence made from pine logs and branches bridge across the northern end
+of the opening here.  A large gate is swung open to the north with a large
+wooden carved sign above it.  'Graven Hollow Camp' is etched using a simple font
+in the common language.  The area is kept clear.  Someone has swept or cleared
+all of the needles and leaves towards the woods to the south and east.  A couple
+of benches are lodged into the ground here for travelers to rest before entering
+the camp or to enjoy nature.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6702
+D2
+~
+~
+0 0 -1
+D3
+~
+~
+0 0 6764
+S
+#6702
+Along The Path Inside The Camp~
+   The path is made up of just plain dirt but it is well maintained by the
+villagers.  Pine trees with about a twelve inch diameter have been cut and used
+as a lining for the path, giving it a defined route.  Maples, oaks and an
+occasional pine tree line the western side of the path.  There are a series of
+carts along the east side of the path that must be used by the villagers to
+transport goods throughout the village.  An enormous gate to the outside of the
+camp lies to the south and the path continues along to the north.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6703
+D2
+~
+~
+0 0 6701
+S
+#6703
+Around The Bend~
+   The path comes to a turn here going south and west.  Cut down pine trees are
+used as lining for the path.  Large oaks have been cut down along the north side
+and have been carved into sitting stools.  A broken wooden cart has been
+discarded off the path on the eastern side.  It appears the the wood has rotted
+making it disabled.  Vines and moss are starting to grow around it.  Eventually
+the cart will be completely consumed by nature herself.
+~
+67 0 0 0 0 2
+D2
+~
+~
+0 0 6702
+D3
+~
+~
+0 0 6704
+S
+#6704
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6706
+D1
+~
+~
+0 0 6703
+D3
+~
+~
+0 0 6705
+S
+#6705
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 8 0 0 0 0
+D1
+~
+~
+0 0 6704
+S
+#6706
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6707
+D2
+~
+~
+0 0 6704
+S
+#6707
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6710
+D2
+~
+~
+0 0 6706
+D3
+~
+~
+0 0 6708
+S
+#6708
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 8 0 0 0 0
+D1
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 6709
+S
+#6709
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 8 0 0 0 0
+D1
+~
+~
+0 0 6708
+S
+#6710
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6711
+D1
+~
+~
+0 0 6721
+D2
+~
+~
+0 0 6707
+D3
+~
+~
+0 0 6776
+S
+#6711
+Reed Marshland~
+   Large stones make up a pathway that heads to the north and the west.  
+Without the stones, any traveler would sink into the soft, mucky mud and would
+become stuck.  Tall reeds stand about six feet tall with light brown roots and
+small leaves at the top.  A small pond is seen off the the northwest with lily
+pads covering the shoreline.  Scattered cattails emerge from the wall of reeds
+surrounding the stone path.  The smell of decaying algae and pond scum lingers
+in the air.
+~
+67 0 0 0 0 16
+D0
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6710
+D3
+~
+~
+0 0 6715
+S
+#6712
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6711
+S
+#6713
+Marshland Garden~
+   The large stone path continues here around a bend in the marsh.  A stone wall
+has been built here and carved into to create a place for a comforting floral
+garden.  Only local flowers have been planted in the garden, with no outside
+species of plants spotted.  Visually it is a nice break from the plain six foot
+reeds surrounding the entire marsh.  The stones beneath your feet are stained
+green and brown from the constant exposure to mud and fallen reeds.  To the west
+is a small pond with a lot of vegetative growth.  It does not appear to be a
+great swimming hole.
+~
+67 0 0 0 0 16
+D2
+~
+~
+0 0 6711
+D3
+~
+~
+0 0 6714
+S
+#6714
+Breakneck Pond~
+   The water is brown and murky making it unable to determine how for down the
+bottom is.  Green and red colored milfoil infests the pond preventing a lot of
+other plant life to grow.  Dead submerged pine trees stick out from the surface.
+This area must have been flooding over at one point, which killed the small pine
+forest.  Small lily pads are developing on the surface edges.  In the deeper
+section of the pond there is no visible plant life, but it is still murky.  
+Marshland surrounds the entire area.
+~
+67 0 0 0 0 7
+D1
+~
+~
+0 0 6713
+D2
+~
+~
+0 0 6715
+S
+#6715
+End Of The Stone Pathway~
+   The large stone pathway ends in the southwest corner of the marsh.  A small
+pond covered in vegetation is seen to the north and there is access to it via
+some fallen pines that have been placed at the end of the path to create a
+bridge over the muck.  The pine forest that protects the western side of the
+village prevents anyone from going to the west.  The reeds open up a bit to the
+north and more cattails are present the closer to the water they are.  The pond
+does not appear that is is swimmable and would most likely require a boat to
+navigate.  The largest tree trunk in the area is right next to the pond, perfect
+for sitting.
+~
+67 0 0 0 0 16
+D0
+~
+~
+0 0 6714
+D1
+~
+~
+0 0 6711
+S
+#6716
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6717
+D3
+~
+~
+0 0 6715
+S
+#6717
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6716
+D3
+~
+~
+0 0 6718
+S
+#6718
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6717
+D2
+~
+~
+0 0 6719
+S
+#6719
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6718
+D1
+~
+~
+0 0 6711
+S
+#6720
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D3
+~
+~
+0 0 6719
+S
+#6721
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D1
+~
+~
+0 0 6722
+D3
+~
+~
+0 0 6710
+S
+#6722
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6723
+D1
+~
+~
+0 0 6725
+D2
+~
+~
+0 0 6724
+D3
+~
+~
+0 0 6721
+S
+#6723
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6767
+D2
+~
+~
+0 0 6722
+S
+#6724
+Mr. Marorin's Quest Emporium~
+   A collection of all types of trinkets are spread across the store here.  
+Amulets from the city of Valcrest, runes from the Magic Tower, ore mined from
+the Dwarven Catacombs, beaded clothing crafted by the Trolls and assorted
+weaponry are precisely placed on shelving.  Some of the rarest items in the
+entire realm are available for sale here.  Finely carved wooden shelves and
+glass enclosures display the items properly.  The craftsmanship of this store
+outshines the entire camp.  A small room is seen off the east and the exit back
+to the main road is through the door to the north.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6722
+D1
+~
+~
+0 0 6777
+S
+#6725
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D1
+~
+~
+0 0 6726
+D3
+~
+~
+0 0 6722
+S
+#6726
+Graven Hollow Eastern Gate~
+   The gravel road in town comes to an end at the eastern most exit of the camp.
+A very basic wooden gate can swing both in and outside of the camp.  It is
+certainly not protection from outsiders but mainly used to keep animals out or
+inside of the camp.  A metal loop hung over the post of the fence is used to
+keep the gate shut.  There does not appear to be any type of lock or even a
+place to put a lock on the gate.  A large field with gardens and grazing animals
+is seen past the gate to the east.  The gravel road into camp leads west.
+~
+67 4 0 0 0 2
+D1
+~
+gate~
+1 0 6727
+D3
+~
+~
+0 0 6725
+S
+#6727
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6728
+D1
+~
+~
+0 0 6755
+D2
+~
+~
+0 0 6763
+D3
+~
+~
+0 0 6726
+S
+#6728
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6729
+D2
+~
+~
+0 0 6727
+S
+#6729
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6730
+D1
+~
+~
+0 0 6732
+D2
+~
+~
+0 0 6755
+D3
+~
+~
+0 0 6728
+S
+#6730
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 4 0 0 0 2
+D0
+~
+~
+0 0 6731
+D2
+~
+~
+0 0 6729
+S
+#6731
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6730
+S
+#6732
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6733
+D2
+~
+~
+0 0 6756
+D3
+~
+~
+0 0 6729
+S
+#6733
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6757
+D3
+~
+~
+0 0 6732
+S
+#6734
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6735
+D2
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6733
+S
+#6735
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 4 0 0 0 2
+D0
+~
+~
+0 0 6736
+D2
+~
+~
+0 0 6734
+S
+#6736
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6737
+D2
+~
+~
+0 0 6735
+S
+#6737
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D3
+~
+~
+0 0 6736
+D5
+~
+~
+0 0 6738
+S
+#6738
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6739
+D4
+~
+~
+0 0 6737
+S
+#6739
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6738
+D2
+~
+~
+0 0 6740
+S
+#6740
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6739
+D1
+~
+~
+0 0 6741
+S
+#6741
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6742
+D3
+~
+~
+0 0 6740
+S
+#6742
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6743
+D3
+~
+~
+0 0 6741
+S
+#6743
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6744
+D2
+~
+~
+0 0 6742
+S
+#6744
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6745
+D3
+~
+~
+0 0 6743
+S
+#6745
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6744
+S
+#6746
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6747
+D3
+~
+~
+0 0 6745
+S
+#6747
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6746
+D2
+~
+~
+0 0 6748
+S
+#6748
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6747
+D2
+~
+~
+0 0 6749
+S
+#6749
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6748
+D3
+~
+~
+0 0 6750
+S
+#6750
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6749
+D2
+~
+~
+0 0 6751
+S
+#6751
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6750
+D1
+~
+~
+0 0 6754
+D2
+~
+~
+0 0 6752
+S
+#6752
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6751
+D1
+~
+~
+0 0 6753
+S
+#6753
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6754
+D3
+~
+~
+0 0 6752
+D4
+~
+~
+0 0 6774
+S
+#6754
+New Buildwalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6753
+D3
+~
+~
+0 0 6751
+S
+#6755
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6729
+D1
+~
+~
+0 0 6756
+D2
+~
+~
+0 0 6762
+D3
+~
+~
+0 0 6727
+S
+#6756
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6732
+D1
+~
+~
+0 0 6757
+D2
+~
+~
+0 0 6761
+D3
+~
+~
+0 0 6755
+S
+#6757
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6733
+D1
+~
+~
+0 0 6758
+D2
+~
+~
+0 0 6760
+D3
+~
+~
+0 0 6756
+S
+#6758
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6734
+D2
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6757
+S
+#6759
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6758
+D3
+~
+~
+0 0 6760
+S
+#6760
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6757
+D1
+~
+~
+0 0 6759
+D3
+~
+~
+0 0 6761
+S
+#6761
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6756
+D1
+~
+~
+0 0 6760
+D3
+~
+~
+0 0 6762
+S
+#6762
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6755
+D1
+~
+~
+0 0 6761
+D3
+~
+~
+0 0 6763
+S
+#6763
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6727
+D1
+~
+~
+0 0 6762
+S
+#6764
+Maple Tree Stand~
+   There are much fewer pine trees here than deeper in the woods to the west.  
+The dominant tree species here are maples with a few scattered oaks.  
+Footprints that resemble the size of a human foot, maybe slightly larger, are
+present throughout the entire area.  The maples have been tapped to collect and
+harvest the sap within to make syrup.  Small metal tubes are screwed into the
+maples about four or five feet from the ground.  Metal pails hang from the tubes
+to collect the leaking sap.  The path is much wider than from the west, and
+opens up to the east, where the forest seems to end.
+~
+67 0 0 0 0 3
+D1
+~
+~
+0 0 6701
+D3
+~
+~
+0 0 6765
+S
+#6765
+Along The Pine Forest Path~
+   The path is a bit wider here than it was deeper into the forest.  The trees
+are not as abundant or as old here.  Loggers must have stopped at around this
+point in the past.  The trees are definitely a generation younger than the trees
+to the west inside the forest.  Since there are less pines, there are some
+deciduous species of oak and maple.  There are bird's nests built into the oak
+trees and thick bubbling sap oozing from the maples.  Dead brown leaves help
+cover the forest floor along with the pine needles.  The forest gets thicker to
+the west and opens up even more to the east.
+~
+67 0 0 0 0 3
+D1
+~
+~
+0 0 6764
+D3
+~
+~
+0 0 6766
+S
+#6766
+Thick Pine Forest~
+   Tall pines stretch one hundred feet into the air.  There are very few
+branches on the lower levels of trees as the pines are fighting against each
+other for the sunlight above.  The path has been created by adventurers and
+travelers walking upon it and was not intentionally or originally planned to
+have been a main route through the forest.  Roots and small stones emerge from
+the center of the path and making the path uneven.  Brown needles dropped from
+the pines litter the entire area, giving the forest floor a dark, dirty color.
+The overshadow of the pine canopy keeps the forest dark, but there is dim light
+coming from the east.
+~
+67 0 0 0 0 3
+D1
+~
+~
+0 0 6765
+S
+#6767
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6770
+D1
+~
+~
+0 0 6769
+D2
+~
+~
+0 0 6723
+D3
+~
+~
+0 0 6768
+S
+#6768
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6767
+S
+#6769
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D3
+~
+~
+0 0 6767
+S
+#6770
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 2
+D0
+~
+~
+0 0 6773
+D1
+~
+~
+0 0 6771
+D2
+~
+~
+0 0 6767
+D3
+~
+~
+0 0 6772
+S
+#6771
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D3
+~
+~
+0 0 6770
+S
+#6772
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D1
+~
+~
+0 0 6770
+S
+#6773
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6770
+S
+#6774
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D2
+~
+~
+0 0 6775
+D5
+~
+~
+0 0 6753
+S
+#6775
+New BuildWalk Room~
+This unfinished room was created by Treyorn.
+~
+67 0 0 0 0 0
+D0
+~
+~
+0 0 6774
+S
+#6776
+Ricamro's Heart And Sole Fishing Shack~
+   The small shop is constructed of large oak planks that have been planed down,
+most likely by hand, so that each board has a consistent thickness.  The counter
+is made from more oak planks that have been stained a russet color.  Stuffed and
+mounted fish cover the top of the walls throughout the small shack.  Lures,
+hooks, sinkers, reels and other accessories line the shelves along the southern
+wall.  Hand crafted bamboo and other assorted rods are neatly organized in a
+specialized rack.  Small tags hanging by the guides on rods, list the price.  
+To the east, a wooden door with a port hole style window is swung open outside
+and is the only exit from the store.
+~
+67 8 0 0 0 0
+D1
+~
+~
+0 0 6710
+S
+#6777
+A Clean, Well-Lighted Place~
+   The room is mostly barren with a couple of empty tables.  There is one table
+in the back corner of the room with an old man sitting by himself.  The light
+shines in from outside the window and casts a shadow over the old man from the
+tree leaves.  The table is a small, circular, wooden table with cracks showing
+its age.  A saucer of brandy sits on the edge lined up next to a line of empty
+saucers.  A small leather coin purse lies on the table opposite of the empty
+saucers.  There is no music playing, just a well lighted environment with an old
+man hiding in the darkness.  The only way out is back into the emporium.
+~
+67 0 0 0 0 0
+D3
+~
+~
+0 0 6724
+S
+$~

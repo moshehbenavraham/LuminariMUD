@@ -1,0 +1,3310 @@
+#9100
+At a Shining Gate to an Enormous Orphanage~
+   The wide, heavy, brass gate, which provides the main entrance to a large
+compound of whitewashed buildings, is decorated by sweet-smelling honeysuckle,
+which twirls around its cleanly-polished, shining bars.  The bars are spaced for
+decoration rather than defense and permit an unhindered view of the green acres
+and buildings beyond.  Sounds of childish enjoyment are floating on the air and
+make a delightful chorus with the chirping of birds.
+~
+91 0 0 0 0 1
+D0
+The gate is quite impressive, as is the landscaping beyond.
+~
+gate~
+1 0 9101
+D1
+The orphanage walls stretch off into a copse of trees in this direction.
+~
+~
+0 0 -1
+D2
+The pathway leads to the highway, just outside of the capital.
+~
+~
+0 0 -1
+D3
+Pink and yellow flowers line the short road to the gate.
+~
+~
+0 0 -1
+D5
+A flat, maintained road leads to the gate.
+~
+~
+0 0 -1
+E
+gate bars~
+The bars of the gate are just close enough together to prevent a youngster from
+squeezing through, but the gate itself isn't particularly sturdy and appears to
+have been designed more for show than defense.  It is still quite lovely,
+however.
+~
+S
+#9101
+An Impressively-landscaped Entranceway~
+   The area is immaculately landscaped with a careful eye for nuance and detail.
+Everthing is in its place, from the junipers which are evenly spaced inside the
+walls which surround the compound, to the uniform gravel pathway that leads to
+each building.  A large, carefully gardened courtyard expands to the north,
+where several large, appealing, whitewashed buildings mark its periphery.  
+Dozens of children are seen playing in the field there; some sitting on benches,
+others running along gravel pathways.  It is apparent from both the atmosphere
+of peace and the uniform tunics, as well as the general cleanliness, that things
+here are well tended.  Even the gravel pathway leading eastward to the stable
+has been raked smooth.
+~
+91 0 0 0 0 1
+D0
+A large, pleasant courtyard opens up in this direction.
+~
+~
+0 0 9104
+D1
+A large, quiet stable sits empty.
+~
+~
+0 0 9102
+D2
+The gate leading to the countryside stands here.
+~
+gate~
+1 0 9100
+D3
+A row of junipers lines the wall.
+~
+~
+0 0 -1
+D5
+The crunchy gravel of the pathway has been raked evenly.
+~
+~
+0 0 -1
+S
+#9102
+The Stable~
+   The stable is a large, long building with dozens of stalls.  It is a large,
+airy building, but has no loft.  There are about twenty stalls here, and
+probably another twenty back further.  Since most of the stalls are empty, the
+reason for the building's size is certainly not obvious; it may have been
+something else that was converted.  Or perhaps it's just to create extra chores
+for the older children.  The packed dirt floor is cleanly swept, the posts which
+line each stall and support the ceiling are whitewashed, and there's not a soul
+in sight to stable horses or other such duties.
+~
+91 8 0 0 0 0
+D0
+The stalls are all empty.
+~
+~
+0 0 -1
+D1
+There is plenty more empty stable in this direction.
+~
+~
+0 0 9103
+D2
+The stalls are all empty.
+~
+~
+0 0 -1
+D3
+The entrance to the orphanage is back this way.
+~
+~
+0 0 9101
+D4
+The rafters are free of nests and other debris.
+~
+~
+0 0 -1
+D5
+The hard dirt floor has been swept clear of detritus.
+~
+~
+0 0 -1
+S
+#9103
+Back of the Stable~
+   The rest of the stable is just as clean as the first.  There are around
+twenty stalls, none of which stable any horses.  The windows along the rafters
+allow beams of sunlight to illuminate lazy patterns on the dusty floor.  The
+only thing of note in this area is a large haycart, piled high with freshly cut
+hay.  There continues to be a conspicuous absence of a stableboy.
+~
+91 8 0 0 0 0
+D0
+The stalls are all empty.
+~
+~
+0 0 -1
+D1
+A large pile of hay is here, waiting to be eaten by horses.
+~
+~
+0 0 -1
+D2
+The stalls are all empty.
+~
+~
+0 0 -1
+D3
+The floor is so clean you don't seem to have left any tracks.
+~
+~
+0 0 9102
+D4
+The rafters are free of nests and other debris.
+~
+~
+0 0 -1
+D5
+The hard-packed dirt is cleanly swept.
+~
+~
+0 0 -1
+E
+hay~
+The pile of hay has a conspicuous bulge in it.
+~
+E
+bulge~
+The bulge in the hay is out of place with the orderliness of the stables.  
+Perhaps a search will reveal the contents.
+~
+S
+T 9100
+#9104
+Upon a Circular Gravel Pathway in the Courtyard~
+   A large, circular gravel pathway winds around the courtyard.  Statuary has
+been placed along it, and young new trees have been planted to line and give
+shade to the walkway.  Some children are playing tag, or murder the draconian,
+or whatever kids play these days, while others are studying or chatting.  There
+is a smaller building to the west, a large building to the east, and a large
+complex of buildings to the north.  All the buildings are uniformly whitewashed
+to match the orphans' tunics.
+~
+91 0 0 0 0 1
+D0
+The pathway continues around the courtyard in this direction.
+~
+~
+0 0 9115
+D1
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9105
+D2
+The gravel pathway leads out of the orphanage in this direction.
+~
+~
+0 0 9101
+D3
+The flowers planted around the courtyard exude a pleasant aroma.
+~
+~
+0 0 -1
+D5
+There's a mysterious wet spot in the gravel here. Someone must have spilled.
+~
+~
+0 0 -1
+E
+statuary statues~
+Most of the statues are unremarkable figures performing various artistic
+movements.
+~
+E
+flowers~
+The flowers planted all around the courtyard are in bloom this time of year, and
+with favorable wind, a soothing scent may linger.
+~
+E
+wet spot~
+Identifying the cause of the gravel discoloration, beyond that it was caused by
+the recent spill of some clear liquid, is unlikely.
+~
+S
+#9105
+Upon a Circular Gravel Pathway in the Courtyard~
+   The gray gravel pathway continues on its way around the courtyard.  Careful
+gardening lines the pathway, and groups of children chase each other about,
+squealing all the while.  The center of the courtyard, a small, grassy knoll, is
+to the north.  There seems to be a lot of activity in the building to the east
+as a noticeable din is heard from that direction.
+~
+91 0 0 0 0 1
+D0
+The grassy knoll looks pleasant and inviting.
+~
+~
+0 0 9116
+D1
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9106
+D2
+A small fence separates the courtyard from the stable.
+~
+~
+0 0 -1
+D3
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9104
+D5
+Lots of crunchy gravel.
+~
+~
+0 0 -1
+E
+stable~
+The flat side of the stable is free from blemish.
+~
+E
+knoll~
+It's a small, rounded, grassy hill, and it really brings the courtyard together.
+~
+S
+#9106
+In Front of the Mess Hall~
+   A large, noisy, white building opens to the courtyard here.  The doors are
+wide open and held in place against the wind by leather straps tied to posts.  
+A chaotic din of clanging cutlery punctuated by shouts of glee and hatred blares
+from within.  The mouthwatering scent of a hearty meal floats lightly on the
+breeze.  The gravel pathway winds to the north and west as it circles the
+courtyard.
+~
+91 0 0 0 0 1
+D0
+The gravel pathway continues past a two-story building in this direction.
+~
+~
+0 0 9111
+D1
+A tremendous racket is heard beyond this door.
+~
+door~
+1 0 9107
+D2
+A small fence prevents movement southward behind the stable.
+~
+~
+0 0 -1
+D3
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9105
+D5
+How do they keep so many kids here without much litter?
+~
+~
+0 0 -1
+S
+#9107
+Inside the Noisy Mess Hall~
+   Long rows of benches stretch from here eastward, occupied by youngsters who
+are either eating or shouting to converse above the noise.  Fortunately, all of
+the food seems to be on plates or in mouths, the place is surprisingly clean for
+a building that feeds hundreds of children three times daily.  The meal today
+appears to be some sort of stew.
+~
+91 8 0 0 0 0
+D0
+The walls are lined with benches, which are lined with children.
+~
+~
+0 0 -1
+D1
+The mess hall stretches further in this direction.
+~
+~
+0 0 9108
+D2
+The walls are lined with benches, which are lined with children.
+~
+~
+0 0 -1
+D3
+The relative quiet of the courtyard lies beyond this door.
+~
+door~
+1 0 9106
+D4
+Some uninspired, lackluster streamers decorate the ceiling.
+~
+~
+0 0 -1
+D5
+Somehow, the floor isn't covered in six inches of rotting food.
+~
+~
+0 0 -1
+E
+food stew~
+Looking over a hunched shoulder, it appears that the meal is a thick, meaty
+stew, which is perfect for the growing child.  It actually smells pretty good!
+~
+E
+bench benches~
+The benches are hard, plain, and sturdy.  They look uncomfortable, but that
+might have the admirable benefit of reducing dawdling.
+~
+S
+#9108
+Back of the Mess Hall~
+   The long rows of benches continue to the west, full of children sitting
+shoulder to shoulder and stuffing their faces.  The kitchen, which lies to the
+east, seems to be every bit as busy as the mess hall.  Children are lined up in
+front of a window leading to the kitchen, receiving bowls of stew.  Sounds of
+munching, screaming, and laughing echo through the area.  It's almost too loud
+to think in here.
+~
+91 8 0 0 0 0
+D0
+The walls are lined with benches, which are lined with children.
+~
+~
+0 0 -1
+D1
+To the left of the window, an open entranceway grants access to the kitchen.
+~
+~
+0 0 9109
+D2
+The walls are lined with benches, which are lined with children.
+~
+~
+0 0 -1
+D3
+These really are long benches, now that you take another look.
+~
+~
+0 0 9107
+D4
+Someone flung their food upwards, where it stuck to the ceiling.
+~
+~
+0 0 -1
+D5
+How often do they sweep and mop this floor? Every ten minutes?
+~
+~
+0 0 -1
+E
+window~
+The line in front of the window isn't very long, but behind it are a few
+matronly ladies handing out full bowls.
+~
+E
+food stew~
+Looking over a hunched shoulder, it appears that the meal is a thick, meaty
+stew, which is perfect for the growing child.  It actually smells pretty good!
+~
+E
+bench benches~
+The benches are hard, plain, and sturdy.  They look uncomfortable, but that
+might have the admirable benefit of reducing dawdling.
+~
+S
+#9109
+A Busy, Militaristic Kitchen~
+   The kitchen stretches from here to the north.  On the west end lies a window,
+behind which the servers usually stand to hand out bowls of aromatic stew.  
+There are several preparation tables and four ovens to the north, which are not
+in use today.  There are three large cauldrons on the south wall being
+attentively stirred and seasoned, heated by coals beneath a grate.  Several
+assistants are hurrying about, performing various tasks.  The kitchen is, by all
+accounts, immaculate, especially for one as busy as this.
+~
+91 8 0 0 0 0
+D1
+A small door here probably leads to some sort of storage cellar.
+~
+door~
+1 0 9110
+D3
+~
+~
+0 0 9108
+S
+#9110
+A Cool, Dry Cellar~
+   This room is cold and dark and has no windows.  The walls seem thick, and are
+plastered over for insulation.  The shelves are heavily stocked with vegetables,
+grains, and fruit.  There is a large wooden box here that radiates a noticeable
+chill.  The fruit and vegetables are all seasonal and therefore fresh.
+~
+91 8 0 0 0 0
+D3
+~
+door~
+1 0 9109
+S
+#9111
+In Front of the Recruitment Center~
+   The front of the recruitment center is much like the other buildings,
+following the same white theme, but has a second floor and seems to have plenty
+of room.  Directly above is a patio overlooking the courtyard.  The recruitment
+converstaion and metallic banging can still be heard from within.  A number of
+colorful posters decorate the outside of the building, enticing impressionable
+youths inside. The gravel pathway continues north and south.
+~
+91 0 0 0 0 1
+D0
+The gravel pathway forks east and west ahead.
+~
+~
+0 0 9112
+D1
+The recruitment center is easily identifiable by appealing signs and posters.
+~
+door~
+1 0 9122
+D2
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9106
+D3
+The center of the courtyard is dominated by a large, grassy knoll.
+~
+~
+0 0 9116
+D4
+A sunny second-story patio overlooks the courtyard.
+~
+~
+0 0 -1
+D5
+Crunchy gravel underfoot, grass and gardening to either side.
+~
+~
+0 0 -1
+E
+patio~
+The patio is support by metal bars, and there's no way to see what exactly is up
+there from below.  You can see that there is no sunshade overhanging it,
+however.
+~
+E
+poster posters~
+The posters are images of heroes in action poses.
+~
+S
+#9112
+A Corner of the Courtyard~
+   This part of the courtyard doesn't have any buildings opening to it, but it
+does have a conspicuously worn trail leading off to the east, between the
+recruitment center and the school.  The gravel pathway circles around the
+courtyard to the west and south.
+~
+91 0 0 0 0 1
+D0
+Beyond an iron fence lies a playground.
+~
+~
+0 0 -1
+D1
+A well-worn dirt trail leads away from the courtyard.
+~
+~
+0 0 9128
+D2
+The gravel pathway circles the courtyard.
+~
+~
+0 0 9111
+D3
+The gravel pathway circles the courtyard.
+~
+~
+0 0 9113
+D5
+Someone ineffectually placed a long rock between the gravel and the dirt trail.
+~
+~
+0 0 -1
+E
+long rock~
+A long, heavy rock sits between the gravel pathway and the dirt trail.  It's
+been there for a while and is mostly sunken into the ground, so it's hard to
+tell if it was supposed to act as a deterrent, or was the beginning of an
+abandoned paving project.
+~
+E
+trail~
+It's hard to tell if the trail is supposed to be there, but it has clearly
+developed from frequent usage.  It leads away from the courtyard to the east,
+between buildings.
+~
+S
+#9113
+A Statue of Naneth, Which Overlooks the Courtyard~
+   The gravel pathway around the courtyard circles to the east and west.  To the
+south is the knoll.  A benevolent and beautiful statue of Naneth, shown in her
+motherhood aspect, stands here proudly, and a small altar for prayer lies beside
+it.  The altar and the statue are lined with flowers.  The statue commands just
+a little bit of reverance, and the kids tend to play in other areas of the
+courtyard.  Some do come to sit here, from time to time, to experience her love.
+~
+91 0 0 0 0 1
+D0
+A statue of Naneth stands here, next to a small altar.
+~
+~
+0 0 -1
+D1
+The gravel pathway continues in this direction.
+~
+~
+0 0 9112
+D2
+The knoll looks like a warm place to sit in the sunlight.
+~
+~
+0 0 9116
+D3
+The gravel pathway continues around the courtyard.
+~
+~
+0 0 9114
+D4
+The heavens seem a little closer near the statue, somehow.
+~
+~
+0 0 -1
+D5
+There is not as much foot traffic on this section of path.
+~
+~
+0 0 -1
+E
+statue naneth~
+The statue is taller than a human, and is on a small pedestal.  Naneth is shown
+leaning forward slightly, with one arm cradling a nursing babe, and the other
+are reaching downward, palm facing out, beckoning children to come to her
+embrace.  The statue's aspect is very serene and loving.  The artist was
+unquestionably brilliant.
+~
+E
+altar~
+The altar is just short enough for an average child to fold her arms across to
+pray to Naneth and is covered by an embroidered cushion.
+~
+S
+#9114
+In Front of the Headmaster's House~
+   The headmaster's house is directly to the west, and is of the same
+architectural style as the rest of the compound.  No special ornamentation marks
+it save a window to the living room.  The courtyard stretches to the south and
+east.  To the northeast is a playground and a school.  To the north is a large
+dormitory.  The gravel pathway circles the courtyard to the east and south.
+~
+91 0 0 0 0 1
+D0
+Another pathway splits off to the north, leading to a larger building.
+~
+~
+0 0 9134
+D1
+The gravel pathway circumnavigates the courtyard.
+~
+~
+0 0 9113
+D2
+The gravel pathway circumnavigates the courtyard.
+~
+~
+0 0 9115
+D3
+The headmaster's stately white house is here on the edge of the courtyard.
+~
+door~
+1 0 9119
+D5
+The gravel of the pathway has been evenly raked.
+~
+~
+0 0 -1
+S
+#9115
+In Front of the Apprenticeship Coordinator's Office~
+   The apprenticeship coordinator's office is to the west.  It is a modest
+building, about the size of a small house.  It is painted the same shining white
+as the rest of the buildings.  The architecture is unornamented in any way.  
+The gravel pathway continues north and south, and the center of the courtyard is
+to the east, with sounds of laughter and gaiety enticing all comers thence.
+~
+91 0 0 0 0 1
+D0
+The gravel pathway circles around the courtyard, and splits off to the north.
+~
+~
+0 0 9114
+D1
+The courtyard is dominated by the large knoll in the middle.
+~
+~
+0 0 9116
+D2
+The gravel pathway continues around the courtyard in this direction.
+~
+~
+0 0 9104
+D3
+A sign indicates that the building here is the Apprenticeship Coordinator's office.
+~
+door~
+1 0 9117
+D5
+The gravel in front of this building seems better-raked than elsewhere.
+~
+~
+0 0 -1
+E
+office~
+The office is a stately yet modest building.  The wooden paneling is freshly whitewashed.
+~
+S
+#9116
+A Grassy Knoll in the Center of the Courtyard~
+   The large, grassy knoll in the center of the courtyard is a popular spot with
+children, who come to chat, run, read, or just sit and enjoy the sunlight.  
+From here, there is a clear view of most of the complex, and the gardening and
+architecture comes together quite admirably to confer an atmosphere of
+tranquility and activity simultaneously.  It is an excellent environment for
+children, and whoever designed the orphanage certainly knew what he or she was
+doing.
+~
+91 0 0 0 0 1
+D0
+There's a quieter area with an honored statue to the north.
+~
+~
+0 0 9113
+D1
+The recruitment center doesn't appear particularly busy yonder.
+~
+~
+0 0 9111
+D2
+Over the top of the stable, you can see quite far into the distance.
+~
+~
+0 0 9105
+D3
+The knoll is a bit steeper there, and the grass is more worn.
+~
+~
+0 0 9115
+D5
+The knoll has thick, soft grass covering its surface.
+~
+~
+0 0 -1
+E
+knoll~
+The grass on the knoll is marked by indentations from small feet and bottoms.
+~
+S
+#9117
+A Plain Waiting Area~
+   The room is designed to accommodate visitors as they wait to meet with the
+apprenticeship coordinator.  Farmers, politicians, and craftsmen of every ilk
+come here to find a suitable apprentice.  The good reputation of the orphans
+raised here ensures that there are several applicants per day.  To the south is
+where the coordinator interviews the applicants to receive an apprentice from
+the orphanage.  The room has several comfortable chairs, a small table, and not
+much else.
+~
+91 8 0 0 0 0
+D0
+The wall, while clean, is bare.
+~
+~
+0 0 -1
+D1
+The large courtyard with all its activity is beyond this door.
+~
+door~
+1 0 9115
+D2
+There are a few accolades framed and hung on the wall near the door.
+~
+~
+0 0 9118
+D3
+The stark white of the walls can be awfully bright in morning sunlight.
+~
+~
+0 0 -1
+D5
+The wooden floor is bare and unlacquered, requiring less maintenance.
+~
+~
+0 0 -1
+E
+table~
+The table has nothing on it. Perhaps you should hop up and dance thereon.
+~
+E
+chair chairs~
+The chairs are wooden, polished, square, and uncomfortable.
+~
+E
+accolade accolades~
+Certificates stating things like "For admirable scholarship" and "Best Hair",
+framed and hung for all to see.
+~
+S
+#9118
+The Apprenticeship Coordinator's Spartan Office~
+   The office is tidy and spare.  A desk sits in front of several chairs, where
+those seeking to accept an apprentice out of the orphanage's ranks are
+interviewed to ensure that no children are given to any who might be abusive.  
+The chairs in front of the desk have worn small furrows into the wood paneled
+floor from constant use.  One wall has a shelf containing sheaves of paper, and
+the other has a large cabinet for storing documents and curios.
+~
+91 8 0 0 0 0
+D0
+The waiting area is to the north.
+~
+~
+0 0 9117
+D1
+Letters of gratitude from graduated orphans are on the east wall, around the window.
+~
+~
+0 0 -1
+D2
+Scuff marks mar the walls where the coordinator's chair banged against it.
+~
+~
+0 0 -1
+D3
+A shelf has been built onto the wall.
+~
+~
+0 0 -1
+D5
+The wooden floor is dusty in the corners.
+~
+~
+0 0 -1
+E
+letter letters~
+A large number of handwritten letters, detailing the individual's new life and
+gratitude for the new chance at life, cover much of the empty space on the east
+wall.
+~
+E
+cabinet~
+The cabinet is small and has a single drawer
+~
+E
+shelf~
+The shelf has been carefully organized to keep track of important papers.
+~
+E
+papers~
+One stack of papers is held in place by a gleaming silvery coin, which catches
+your eye.  One stack of papers is held in place by a small broken gavel, which
+catches your eye.
+~
+S
+#9119
+The Headmaster's Living Room~
+   The living room of the headmaster's house has been carefully decorated by an
+artful hand.  Numerous knick knacks line a desk againt a wall, and a china
+cabinet displays antiques and fine dishes.  Some oil lamps on the walls
+illuminate the room after dark.  A leather couch, an unusual luxury, is in front
+of a small table.  There is a window beside the door, looking out into the
+courtyard.
+~
+91 8 0 0 0 0
+D0
+An archway leads to a small study.
+~
+~
+0 0 9121
+D1
+A picture windows gives a view of the courtyard, and a door grants access.
+~
+door~
+1 0 9114
+D2
+A desk with knick knacks on it is against the wall.
+~
+~
+0 0 -1
+D3
+A doorway leads to another room.
+~
+door~
+1 0 9120
+D4
+The ceiling, aside from smoke marks above the lamps, is unremarkable.
+~
+~
+0 0 -1
+D5
+The floor is clean, polished tile.
+~
+~
+0 0 -1
+E
+table~
+The table has a few picture books on it.
+~
+E
+books~
+The picture books illustrate popular fables and are very colorful.
+~
+E
+lamp lamps~
+The lamps are kept full of oil in case visitors need to be entertained after
+hours.
+~
+E
+couch~
+A couch made of an unusual material, leather, sits in front of a small table,
+looking expensive.
+~
+E
+knick knacks~
+The small figurines and models look like their value is purely sentimental, but
+they sure are cute.
+~
+E
+desk~
+The primary function of this desk is to keep the knick knacks off the ground.
+~
+E
+china cabinet~
+The sturdy glass cabinet holds some expensive-looking dishes.
+~
+E
+window~
+The picture window is a few feet square and is free of curtains.  The view is of
+the northern end of the courtyard and the statue there.
+~
+E
+statue~
+You can't make out much detail on the statue from here.
+~
+S
+#9120
+The Headmaster's Bedroom~
+   This the the headmaster's bedroom.  It is clean and plain.  A large,
+comfortable bed lies against the wall, and a dark wooden cabinet is against the
+other wall.  A large window in the western wall looks out into the forest, and
+makes the room seem larger than it is.  There are two chairs in front of the
+window, gazing outward.  They are probably for the headmaster and his wife to
+relax in when they have time to themselves, which to be honest, probably isn't
+often.  All hints of work are carefully kept out of the room.
+~
+91 8 0 0 0 0
+D0
+A comfortably, fluffy bed is against the north wall.
+~
+~
+0 0 -1
+D1
+There are antlers above the door.
+~
+door~
+1 0 9119
+D2
+A wooden cabinet is against this wall.
+~
+~
+0 0 -1
+D3
+The window in this wall peeks over the wall to the scenery beyond.
+~
+~
+0 0 -1
+D4
+The ceiling is plain.
+~
+~
+0 0 -1
+D5
+A thickly-woven rug covers much of the panelled floor.
+~
+~
+0 0 -1
+E
+antlers~
+The antlers above the door, absent any sort of hunting equipment of any kind,
+are more likely from a purchase than a conquest.  Whose idea it was to hang them
+here is unclear.
+~
+E
+cabinet~
+The large, wooden cabinet contains nothing but the identical uniforms worn by
+the headmaster and headmistress.
+~
+E
+bed~
+The bed isn't ornate by any measure, but it does look well-crafted and very
+comfortable.
+~
+E
+window~
+The window gives a serene view of the forested hills beyond.  It is open,
+allowing a nice draft to blow through the house.
+~
+E
+rug~
+The rug is to protect weary, aging feet from a hard wooden floor.
+~
+S
+#9121
+A Cluttered Study~
+   The study is lined on every wall with books, and a small window on the north
+wall lets some light in.  A comfortable leather chair is here, held together by
+brass tacks.  There is a small table by the chair that holds whatever the
+headmaster or headmistress is reading at the time.  There is also an oil lamp on
+the table to allow reading after dark.
+~
+91 8 0 0 0 0
+D0
+Books line the wall, beneath a small window to let some light in.
+~
+~
+0 0 -1
+D1
+Books line every inch of the wall.
+~
+~
+0 0 -1
+D2
+An archway leads to the living room.
+~
+~
+0 0 9119
+D3
+Books line every inch of the wall.
+~
+~
+0 0 -1
+D4
+The ceiling is dark with smoke from the lamp.  This room must be used often
+after hours.
+~
+~
+0 0 -1
+D5
+The wooden floor has scuff marks from the room's single chair.
+~
+~
+0 0 -1
+E
+chair leather~
+It's a leather chair held together by brass tacks.  It looks both stately and
+comfortable.
+~
+E
+desk~
+The reading desk has a couple books on religion and philosophy, indicating the
+current interests of the house's occupants.
+~
+E
+book books~
+The books cover every imaginable topic and comprise a quite impressive little
+library.
+~
+S
+#9122
+The Recruitment Center~
+   This building was designed to allow various groups seeking acolytes to have a
+space set aside for recruitment.  Representatives from the cityguards of major
+cities, the Mages, Clerics, Warriors, Paladings, and Druids Guilds come here
+regularly to see recruits from among the orphans.  Unlike the apprenticeship
+program, these groups have alreay proven their trustworthiness and do not need
+to have their selections approved.  The only rule is that the children must come
+willingly.  The building doesn't seem particularly busy at the moment.  This
+area in an entranceway of sorts, and beyond posters on the walls, there's not
+much here.
+~
+91 8 0 0 0 0
+D0
+The walls are lined with poster extolling the virtues of various organizations.
+~
+~
+0 0 -1
+D1
+Areas set aside for demonstrations are to the east.
+~
+~
+0 0 9123
+D2
+The walls are lined with poster extolling the virtues of various organizations.
+~
+~
+0 0 -1
+D3
+There is a small target above the door with an area in it.
+~
+door~
+1 0 9111
+D4
+Smokestains darken the ceiling, but you can't see what might have caused them.
+~
+~
+0 0 -1
+D5
+The tile floor has been mopped and polished.
+~
+~
+0 0 -1
+E
+target~
+There is a target above the door with an arrow in it.  It's probably hard to
+demonstrate skill with a bow without something to shoot at.
+~
+E
+posters poster~
+The posters certainly give an appealing picture of membership in each
+organization.  They tend to depict well-dressed heroes rescuing children and old
+ladies, or fighting orcs.
+~
+S
+#9123
+A Martial Demonstration Area~
+   This are is for the representatives of the various martial groups to display
+their prowess to the children, generally with friendly bouts of sparring.  A
+ring has been roped off in the center of the are, marking a safe area to swing
+swords around.  Some practice weapons line the walls, and there are some chairs
+against the walls, facing the sparring ring.
+~
+91 8 0 0 0 0
+D0
+Practice weapons line the walls, above a row of chairs.
+~
+~
+0 0 -1
+D1
+A magic demonstration area is here, competing for attention.
+~
+~
+0 0 9124
+D2
+Practice weapons line the walls, above a row of chairs.
+~
+~
+0 0 -1
+D3
+The exit is this way, past a bunch of posters.
+~
+~
+0 0 9122
+D4
+Smokestains darken the ceiling, but you can't see what might have caused them.
+~
+~
+0 0 -1
+D5
+The floor in the center of the ring is badly damaged by gouges and scrapes.
+~
+~
+0 0 -1
+E
+chair chairs~
+The number of chairs facing the ring is probably wishful thinking.
+~
+E
+weapons practice~
+The practice weapons, designed to hurt pride rather than cause real damage, have
+seen plenty of use.
+~
+E
+ring spar sparring~
+The floor of the sparring area is gouged, scraped, scuffed, and worn, probably
+from recruiters sparring in full plate.
+~
+S
+#9124
+A Magic Demonstration Area~
+   This area is for representatives from various magic organizations to
+demonstrate their power.  Not as much sparring happens here, because a fireball
+is deadly whether you meant it or not, but there are other ways.  Sometimes
+injured children are brought in to be healed, for example, and a spout of blue
+flame shot from fingertips is guaranteed to please.  There are dummies in the
+middle of the room that are almost indistinguishably demolished by countless
+spells.  A staircase in the east wall leads to the upper floor.
+~
+91 8 0 0 0 0
+D0
+A row of chairs lines the wall, and there are burn marks in the wood panelling.
+~
+~
+0 0 -1
+D1
+Next to the stairs, this wall was burned black next by an overzealous spell.
+~
+~
+0 0 -1
+D2
+A row of chairs lines the wall, and there are burn marks in the wood panelling.
+~
+~
+0 0 -1
+D3
+A martial demonstration area is there, competing for attention.
+~
+~
+0 0 9123
+D4
+The staircase leads to the second floor.
+~
+~
+0 0 9125
+D5
+The floor is slick with some mysterious greasy substance from some spell.
+~
+~
+0 0 -1
+E
+chair chairs~
+It looks like the fire marks on the walls above the chairs could have been made
+while the chair were occupied, and that seems like a really bad idea, although
+it would make for quite a show.
+~
+E
+dummy dummies practice~
+The dummies are blackened cinder, and are much smaller than when they were made.
+~
+S
+#9125
+A Quieter Area for Discussion~
+   If an orphan shows enough interest to be a potential recruit, the recruiter
+will bring them to this floor to discuss membership benefits.  The area is a bit
+more intimate, with couches arranged closely together to allow for quiet
+conversation.  However, by the time the kids make it to this point, they are
+usually already sold.  The room is also used as a lounge for the recruiters to
+rest in.
+~
+91 8 0 0 0 0
+D0
+Two couches are against the wall.
+~
+~
+0 0 -1
+D1
+There is a window beside the stairwell.
+~
+~
+0 0 -1
+D2
+The walls here are undecorated, but white and clean.
+~
+~
+0 0 -1
+D3
+A small lounge leads to the outdoor patio.
+~
+~
+0 0 9126
+D5
+The stairway leads into the magic demonstration area.
+~
+~
+0 0 9124
+E
+couch couches~
+The couches appear quite comfortable, and are arranged to allow for several
+separate intimate conversations to take place at once.
+~
+S
+#9126
+A Small Lounge for Recruiters~
+   Since the orphanage can't afford to keep the kids forever, they are
+interested in keeping the recruiters happy.  A small self-serve bar is stocked
+with alcohol and the makings of sandwiches, and there are some lockers in which
+to place personal belongings.  There is also a basket of fresh tobacco on a
+table between some lounge chairs, waiting to be smoked.
+~
+91 8 0 0 0 0
+D0
+The bar is untended.
+~
+~
+0 0 -1
+D1
+The discussion area is characteristically quiet.
+~
+~
+0 0 9125
+D2
+Some lockers line the wall, but none appear to be in use at the moment.
+~
+~
+0 0 -1
+D3
+Fresh air drafts in from the patio.
+~
+~
+0 0 9127
+D5
+There's a stain on the floor where something was spilled.
+~
+~
+0 0 -1
+E
+tobacco~
+The tobacco looks to be of high quality.
+~
+E
+bar~
+There is wine and whiskey behind the counter.
+~
+E
+lockers~
+You can't see any lockers with anything inside.
+~
+E
+sandwich sandwiches~
+The sandwich fixings are all there, waiting to be assembled.  Maybe you should
+assemble a sandwich.
+~
+S
+#9127
+A Spacious, Airy Patio~
+   The patio is above the doorway to the recruitment center, overlooking the
+courtyard.  The view is excellent and quite enjoyable.  Ostensibly, it is for
+recruiters to watch for worthy candidates from the playing children below, but
+in reality, it's for sitting around upon, discussing politics or theology, and
+drinking.  A small railing indicates that you should not attempt to leap to the
+ground below.
+~
+91 0 0 0 0 1
+D0
+A railing lines the patio.
+~
+~
+0 0 -1
+D1
+The top floor is quiet.
+~
+~
+0 0 9126
+D2
+A railing lines the patio.
+~
+~
+0 0 -1
+D3
+The view of the courtyard is worthy of lingering observation.
+~
+~
+0 0 -1
+D4
+A few birds are flying around.
+~
+~
+0 0 -1
+D5
+If there wasn't a patio here, you'd have fallen to the ground.
+~
+~
+0 0 -1
+E
+railing~
+The railing lining the patio is wrought iron.
+~
+E
+courtyard~
+The courtyard is just as impressive from above as it was from below.
+~
+S
+#9128
+Between Buildings~
+   A trail leads between the school to the north and the recruitment center to
+the south.  There are no windows on either building that look down in this
+direction.  The buildings are far enough apart that sunlight shines here, and
+the grass appear healthy on either side of the trail.
+~
+91 0 0 0 0 1
+D0
+The school seems fairly large, but there are a lot of children here.
+~
+~
+0 0 -1
+D1
+The dirt path continues.
+~
+~
+0 0 9129
+D2
+The stark white wall of teh recruitment center is wet from recent washing.
+~
+~
+0 0 -1
+D3
+The courtyard is in this direction.
+~
+~
+0 0 9112
+D5
+The dirt path is covered in small footprints.
+~
+~
+0 0 -1
+E
+recruitment center~
+The wall of the recruitment center is white and plain and devoid of useful
+detail.
+~
+E
+school~
+There's not much to see about the school from here, other than its size.
+~
+S
+#9129
+A Trail Behind the Complex~
+   The dirt path splits off here, heading south past the kitchen, north behind
+the school, and west to the courtyard.  The dirt trail follows more where
+hurried children would probably run, rather than were a gardener would place it
+for aesthetic value.  The wall surrounding the complex has some young trees
+planted in front of it.
+~
+91 0 0 0 0 1
+D0
+The trail leads between the school and the orphanage's wall there.
+~
+~
+0 0 9157
+D1
+A freshly-planted row of fruit tree saplings is here, a resonably distance out from the wall.
+~
+~
+0 0 -1
+D2
+The trail heads off behind the recruitment center and kitchen.
+~
+~
+0 0 9130
+D3
+The bustling courtyard is in this direction.
+~
+~
+0 0 9128
+D5
+A season of heavy rains could really do some damage to this trail.
+~
+~
+0 0 -1
+E
+trees young fruit~
+The trees are little more than saplings, but they look like cottonwoods and will
+eventually provide quite a bit of shade when they grow taller.  Why the back
+ends of the buildings needs shade escapes you.  Perhaps it'll keep them cooler.
+The fruit trees are just saplings and carry no fruits.  They might be apricots,
+peaches, nectarines, or something similar.
+~
+S
+#9130
+A Trail Behind Buildings~
+   The dirt pathway passes behind the recruitment center and mess hall here.  
+It wends its way southward, to what appears to be an outhouse.  The area is
+fairly quiet, although you can still hear plenty of activity from other areas.
+A row of young trees lines the wall to the east.
+~
+91 0 0 0 0 1
+D0
+The dirt path has a fork up ahead.
+~
+~
+0 0 9129
+D1
+A freshly-planted row of fruit tree saplings is here, a resonably distance out from the wall.
+~
+~
+0 0 -1
+D2
+The path looks like it ends at an outhouse.
+~
+~
+0 0 9132
+D3
+The back ends of the buildings have been whitewashed and forgotten.
+~
+~
+0 0 -1
+D5
+Numerous fresh footprints mar the dirt of the path.
+~
+~
+0 0 -1
+E
+fruit tree sapling saplings~
+The fruit trees are just saplings and carry no fruits.  They might be apricots,
+peaches, nectarines, or something similar.
+~
+E
+buildings~
+There is no way into the buildings from here.
+~
+S
+#9132
+In Front of an Outhouse~
+   Tucked away, out of smelling distance of the rest of the complex, is an
+outhouse, which lies to the west.  The trail behind all the buildings, worn
+through the grass where thousands of little feet have trod, leads here to the
+outhouse.  To the east is the stable, but there is no ingress from this side.
+~
+91 0 0 0 0 1
+D0
+The trail leads back to the rest of the complex this way.
+~
+~
+0 0 9130
+D1
+A particularly unpleasant effluvium wafts from the outhouse.
+~
+door~
+1 0 9133
+D2
+Junipers, less well tended than those in other places, line the wall.
+~
+~
+0 0 -1
+D3
+The rear of the stable.
+~
+~
+0 0 -1
+D5
+There are quite a number of fresh footprints in the dirt.
+~
+~
+0 0 -1
+E
+outhouse~
+It's an outhouse, although wider than most.
+~
+E
+stable~
+Since there's no way from here to the stable, you'd hate to be a stablehand who
+had a disagreeable dinner.
+~
+S
+#9133
+Inside a Sizable Outhouse~
+   There is room in here for at least six children, if they're not too set on
+personal space or privacy.  The outhouse design is fairly basic, and the smell
+is also what one would expect.  A row of holes line the bench, with obvious
+purpose.  The entire thing is built of rough-hewn wood, although the seats on
+the bench may have been sanded, since they are now worn more or less smooth.
+~
+91 8 0 0 0 0
+D0
+Someone has scrawled a crude penis into the wall. How juvenile!
+~
+~
+0 0 -1
+D1
+The bench looks uncomfortable, but it's not designed for casual lounging.
+~
+~
+0 0 -1
+D2
+Nondescript wooden panelling comprises the entirety of the outhouse.
+~
+~
+0 0 -1
+D3
+Fresh air can be found beyond this door.
+~
+door~
+1 0 9132
+D4
+The ventilation holes aren't doing a very good job.
+~
+~
+0 0 -1
+D5
+You know what's down there without needing to look.
+~
+~
+0 0 -1
+E
+penis vandalism graffiti~
+It looks like that wall has been painted over and vandalised repeatedly.  The
+offending graffiti is scrawled into new brown paint.
+~
+E
+holes~
+The holes are for crapping into, if you haven't figured it out.
+~
+S
+#9134
+The Gravel Pathway Diverges~
+   The pathway splits off in three directions from here.  There are a playground
+and school to the east, two small houses to the north followed by a large
+dormitory, and the courtyard is to the south.  The gravel has been recently
+raked into perfect conformity.  There's either a child somewhere who got into
+trouble, or a gardener who isn't paid enough.
+~
+91 0 0 0 0 1
+D0
+The gravel pathway leads past some houses and to a large dormitory.
+~
+~
+0 0 9136
+D1
+A playground has been built in that direction.
+~
+~
+0 0 9135
+D2
+The courtyard and the buildings around it are to the south.
+~
+~
+0 0 9114
+D3
+The wall, and the forest beyond it, it visible between the houses.
+~
+~
+0 0 -1
+D5
+Someone raked the hell out of this gravel.
+~
+~
+0 0 -1
+E
+gravel path pathway~
+The gravel here has been meticulously rakes.  Not a single pebble is off the
+path.  It's almost a shame to walk on it.
+~
+S
+#9135
+A Joyous Playground~
+   The playground is filled with all sorts of fun equipment, such as swings to
+the north, a jungle gym to the west, and to the northeast, a small wooden
+castle.  There is plenty of sand to play in, and it has been amply taken
+advantage of; little mounds of it dot the area where orphans tried to make
+castles and ended up with mountains instead.  Innumerable footprints make the
+sand rough, everywhere.
+~
+91 0 0 0 0 1
+D0
+The swings are this way.
+~
+~
+0 0 9138
+D1
+The jungle gym is ready to be clambered over by all comers.
+~
+~
+0 0 9137
+D2
+There is a plain iron fence around the playground.
+~
+~
+0 0 -1
+D3
+If a person had any reason to leave the playground, this is the way they'd go.
+~
+~
+0 0 9134
+D5
+Footprints and odd mounds of sand abound.
+~
+~
+0 0 -1
+E
+gym jungle~
+The large jungle gym to the east is perfect for imitating scampering monkeys,
+which is its most common usage.
+~
+E
+swings~
+A row of mankind's best and oldest toys is to the north.
+~
+E
+conspicuous~
+One oddly conspicuous pile of sand is against the edge of the playground,
+looking as though it has something to hide.
+~
+E
+mound mounds~
+The mounds are of varying sizes and shapes, and seem all to be failed attempts
+at creating somehting else.  One in particular seems oddly conspicuous.
+~
+S
+#9136
+In Front of the Assistant's House~
+   The house the west appears plain from the outside.  It is white, like
+everything else, and is much smaller that the headmaster's house.  The gravel
+pathway isn't as meticulously raked as it was in the area just south of here,
+and it continues past another house to the north and to the dormitory beyond.
+~
+91 0 0 0 0 0
+D0
+The pathway leads past another house and to a large dormitory beyond.
+~
+~
+0 0 9148
+D1
+An iron fence cordones off a playground in front of a school.
+~
+~
+0 0 -1
+D2
+The pathway leads to the rest of the complex and the courtyard.
+~
+~
+0 0 9134
+D3
+The assistant's house is plain, even compared to the other buildings.
+~
+door~
+1 0 9149
+D5
+Gravel pathway.
+~
+~
+0 0 -1
+E
+crooked~
+One of the pots is leaning slightly to the left as thought it's propped up on
+something.
+~
+E
+plant plants pot pots~
+The plants are aromatic herbs such as thyme and oregano, and the area smells
+pleasant as a result.  One of the pots is crooked.
+~
+E
+house~
+The assistant's house has some small plants in pots beside the door, but is
+otherwise unornamented.
+~
+S
+#9137
+A Jungle Gym~
+   The jungle gym is a beautiful monstrosity of iron.  It is a carefully
+prepared cubic gridwork with all the rough edges polished off, for children to
+play on.  If one ever fell, he or she would hit about ten rows of bars on the
+way down; fortunately, the children seem to be quite nimble in their climbing.
+The school doors are wide open to the north, and the school itself is a wide,
+single-story building that is plain white like the other buildings.
+~
+91 0 0 0 0 1
+D0
+The play castle tries to tower over the playground here.
+~
+~
+0 0 9139
+D1
+The side of the school is white and has a few windows to allow light in.
+~
+~
+0 0 -1
+D2
+An iron fence lines the playground.
+~
+~
+0 0 -1
+D3
+That part of the playground is all sand.
+~
+~
+0 0 9135
+D5
+There's plenty of sand beneath the jungle gym to pad a fall.
+~
+~
+0 0 -1
+E
+jungle gym~
+You can't help but want one of these for your kids someday.  Or for yourself,
+for that matter.
+~
+E
+school~
+The school is an austere white building in the same style as everything else at
+the orphanage.
+~
+S
+#9138
+A Row of Swings~
+   This part of the playground has a row of large, exciting swings.  They are
+fairly tall and allow particularly daring children to lauch themselves
+respectably high into the air, to safely (hopefully) land in the sand below.  
+The swings are made of chains suspended by bars, with thick leather straps
+acting as seats.  The school entrance is to the west, past a play castle.
+~
+91 0 0 0 0 1
+D0
+An iron fence surrounds the playground.
+~
+~
+0 0 -1
+D1
+A play castle and the school are in this direction.
+~
+~
+0 0 9139
+D2
+A bare expanse of sand is there, for kids to play in.
+~
+~
+0 0 9135
+D3
+An iron fence surrounds the playground.
+~
+~
+0 0 -1
+D5
+The sand is full of divots created by intrepid swingers.
+~
+~
+0 0 -1
+E
+swing swings~
+The swings are mighty and glorious.
+~
+S
+#9139
+A Large Play Castle~
+   There is a large, wooden castle here, constructed to be a prop for imagining
+children to be kings, knights, queens, princes, princesses and villains.  The
+front of a ship juts oddly from the side, complete with turnable helm, for young
+sailors.  A large, play portcullis opening, which has been fastened open, grants
+entrance to the castle, and the back side of it has a wooden ramp to ascend.  
+The entrance to the school is directly eastward, with doors wide open.
+~
+91 0 0 0 0 1
+D0
+The castle stands before you in might and glory.
+~
+~
+0 0 -1
+D1
+The entrance to the school beckons young learners.
+~
+door~
+1 0 9140
+D2
+A monstrous jungle gym is there.
+~
+~
+0 0 9137
+D3
+The swings are there.
+~
+~
+0 0 9138
+D5
+The sand shows the markings remaining from epic battles.
+~
+~
+0 0 -1
+E
+castle~
+Whoever built this had time, money, imagination, and a clear understanding of
+children.
+~
+E
+helm~
+The helm actually spins. How cool!
+~
+E
+ramp~
+The ramp allows access to the rear of the castle.
+~
+S
+#9140
+The Hallway Through the School~
+   The door of the school leads right into a long hallway, lined by doors on
+either side which allow access to the classrooms.  The hallway has a few chairs
+lining it, and has large, simple drawings of the Gods of Light lining the walls.
+The hallway is quiet except for the sounds of the playground.  The classes must
+be well organized, because you hear not a peep from them, other than the
+teachers.
+~
+91 8 0 0 0 0
+D0
+A classroom is there. The door is usually left open for passing observers.
+~
+door~
+1 0 9142
+D1
+The hallway continues.
+~
+~
+0 0 9141
+D2
+A classroom is there. The door is usually left open for passing observers.
+~
+door~
+1 0 9143
+D3
+Beyond the door are is a playground.
+~
+door~
+1 0 9139
+D5
+A bit of sand from outside is on the floor, but not much.
+~
+~
+0 0 -1
+S
+#9141
+The Hallway Through the School~
+   The hallway continues, leading to more classrooms.  To the east is the
+administration room, behind a closed, nondescript door.  There is little sound,
+save that from the playground and the teachers.  The children in class are very
+well-behaved.
+~
+91 8 0 0 0 0
+D0
+A classroom is there. The door is usually left open for passing observers.
+~
+door~
+1 0 9144
+D1
+The administration room is there.  That door is usually kept shut for privacy.
+~
+door~
+1 0 9146
+D2
+A classroom is there. The door is usually left open for passing observers.
+~
+door~
+1 0 9145
+D3
+The hallway continues.
+~
+~
+0 0 9140
+D5
+There's still a bit of sand on the floor here, carried in on a foot, no doubt.
+~
+~
+0 0 -1
+S
+#9142
+Inside a Classroom~
+   This classroom is designed for the proper instruction of children, with a
+slate on the east wall, a lectern in front of it, and rows of tables facing the
+lectern.  The design focuses the attention of the pupils on the teacher.
+~
+91 8 0 0 0 0
+D0
+The northern wall has drawings of letters and numbers on it, arranged in order.
+~
+~
+0 0 -1
+D1
+The front of the classroom is here, with a slate and lectern.
+~
+~
+0 0 -1
+D2
+The door to the hallway is usually propped open.
+~
+door~
+1 0 9140
+D3
+The west wall has a window to allow sunshine to enter.
+~
+~
+0 0 -1
+E
+slate~
+The slate has some numbers chalked across it as part of a lesson.
+~
+E
+table tables~
+The tables are covered with an assortment of learning supplies.
+~
+E
+lectern~
+The lectern is for the teacher to stand behind, and place notes upon.
+~
+S
+#9143
+Inside a Classroom~
+   This classroom is much like the others.  It is a room where children are
+instructed in basic reading, writing, arithmetic, history, and religion.  While
+lectures and exercises may not be the most interesting thing at the orphanage,
+the fact that the orphans never leave here illiterate is an invaluable blessing
+to them later in life.  Long rows of tables, where the children sit, face a
+lectern, behind which is a sizable slate.
+~
+91 8 0 0 0 0
+D0
+The classroom door leads to the hallway, and is usually propped open.
+~
+door~
+1 0 9140
+D1
+The front of the classroom is here, with a slate and lectern.
+~
+~
+0 0 -1
+D2
+The wall is decorated with the letters and the numbers.
+~
+~
+0 0 -1
+D3
+A windows lets in light, and lets the teacher keep an eye on the playground.
+~
+~
+0 0 -1
+E
+slate~
+The slate has some letters on it for the children to copy.
+~
+E
+table tables~
+The tables are covered with an assortment of learning supplies.
+~
+E
+lectern~
+The lectern is for the teacher to stand behind and place lecture notes upon.
+~
+S
+#9144
+Inside a Classroom~
+   This classroom is designed for the proper instruction of children, with a
+slate on the east wall, a lectern in front of it, and rows of tables facing the
+lectern.  The design focuses the attention of the pupils on the teacher.
+~
+91 8 0 0 0 0
+D0
+The northern wall has some simple artwork on it, as well as a window for light.
+~
+~
+0 0 -1
+D1
+The back wall of the classroom is decorated by pictures of historical figures.
+~
+~
+0 0 -1
+D2
+The door to the hallway is usually propped open.
+~
+door~
+1 0 9141
+D3
+The front of the classroom is here, with lectern and slate.
+~
+~
+0 0 -1
+E
+pictures figures historical~
+Images of kings other famous people from history are arrayed across the eastern
+wall, next to quotes from their lives.
+~
+E
+slate~
+The slate has a string of quotes written on it, to demonstrate the proper form
+of argument.
+~
+E
+table tables~
+The tables are covered with an assortment of learning supplies.
+~
+E
+lectern~
+The lectern is for the teacher to stand behind, and place notes upon.
+~
+S
+#9145
+Inside a Classroom~
+   This classroom is much like the others.  It is a room where children are
+instructed in basic reading, writing, arithmetic, history, and religion.  While
+lectures and exercises may not be the most interesting thing at the orphanage,
+the fact that the orphans never leave here illiterate is an invaluable blessing
+to them later in life.  Long rows of tables, where the children sit, face a
+lectern, behind which is a sizable slate.
+~
+91 8 0 0 0 0
+D0
+The classroom door leads to the hallway, and is usually propped open.
+~
+door~
+1 0 9141
+D1
+The back of the classroom has charts containing laws laid out in order.
+~
+~
+0 0 -1
+D2
+The southern wall is mostly bare, except for a window for lighting.
+~
+~
+0 0 -1
+D3
+The front of the classroom is there, with slate and lectern.
+~
+~
+0 0 -1
+E
+slate~
+The slate has charts depicting the philosphy of laws of various countries.
+~
+E
+table tables~
+The tables are covered with an assortment of learning supplies.
+~
+E
+lectern~
+The lectern is for the teacher to stand behind and place lecture notes upon.
+~
+S
+#9146
+The School Administration Office~
+   This room is for the teachers to compare notes and store their belongings.  
+There is not a proper administration staff for the school itself; rather, all
+instruction is overseen by the headmaster.  The headmaster will also give
+lectures here from time to time on the proper care and instruction of children.
+There is a long table on the east wall, beneath a window, upon which rest
+various papers related to the operating of a school.  To the north is the
+punishment room.
+~
+91 8 0 0 0 0
+D0
+The punishment room seems awfully scary.
+~
+~
+0 0 9147
+D1
+A desk rests beneath a window.
+~
+~
+0 0 -1
+D2
+The wall has some empty hooks for coats and cloaks.
+~
+~
+0 0 -1
+D3
+The door leads out into the hall.
+~
+door~
+1 0 9141
+D5
+The tile floor is immaculate.
+~
+~
+0 0 -1
+E
+table~
+The table has lesson plans and instructional materials, as well as records of
+progress for each child, in neatly organized fashion.
+~
+E
+hook hooks coats cloaks~
+The hooks are for coats and cloaks to be hung upon in the case of inclement weather.
+~
+E
+window~
+The windows lets in plenty of sunlight during the day.
+~
+S
+#9147
+The Punishment Room~
+   This room's purpose is to provide a space in which rowdy, disruptive, or
+unattentive youths can be paddled.  There is a sawhorse over which the kids must
+bend, with straps to hold them down during the administration of their
+punishment.  It certainly seems effective, judging from the absence of noise in
+the classrooms during the daytime.  There is a chest in the corner, but there
+are no implements of paddling to be seen.
+~
+91 8 0 0 0 0
+D0
+One small window, too small to escape through, offers only false hope.
+~
+~
+0 0 -1
+D1
+The walls are white and bare.
+~
+~
+0 0 -1
+D2
+The administration room poses an impassible barrier to a fleeing child.
+~
+~
+0 0 9146
+D3
+The walls are white and bare.
+~
+~
+0 0 -1
+D5
+No blood, fortunately.
+~
+~
+0 0 -1
+E
+chest~
+The chest is just sort of sitting in the room, over in the corner.  It is longer
+than it is wide, and made of wood.
+~
+E
+sawhorse~
+The sawhorse's purpose is clear.  It is something put children on to be paddled.
+Some straps are there to hold them down in case they try to escape being
+rectified.
+~
+S
+#9148
+Before the Coordinator's House~
+   The apprenticeship coordinator's house beside the gravel pathway to the west.
+It is a plain, white building, just like all the others.  The gravel pathway is
+lined by flowers, which have been recently planted to beautify the area.
+~
+91 0 0 0 0 1
+D0
+The gravel pathway leads to a large dormitory just up ahead.
+~
+~
+0 0 9150
+D1
+There is a row of flowers planted alongside the pathway.
+~
+~
+0 0 -1
+D2
+The pathway continues past a couple houses and into the courtyard.
+~
+~
+0 0 9136
+D3
+The coordinator's house is an exercise in simplicity.
+~
+door~
+1 0 9151
+E
+house~
+   The house has been carefully maintained but is otherwise plain.  The only
+ornamentation is flowers, which have been planted near the pathway on both
+sides.
+~
+E
+flowers~
+A row of small, purple flowers has been planted here.
+~
+S
+#9149
+The Headmaster's Assistant's House~
+   This house, while much smaller than the headmaster's, is very finely
+decorated.  It is a large, single room, with a luxurious thick carpet, a
+satin-lined bed, matching satin curtains, golden lamps for light, and valuable
+paintings along the walls.  There is a cabinet filled with fine clothes and a
+few teacher's uniforms.  A mahogany desk is against the south wall, with some
+leather-bound books and some papers upon it.  There is also the scent of fine
+incense lightly on the air.
+~
+91 8 0 0 0 0
+D0
+A cushy, satin-lined bed is against the wall.
+~
+~
+0 0 -1
+D1
+The doorway is painted gaily around the trim for decoration.
+~
+door~
+1 0 9136
+D2
+A dark, oaken cabinet full of finery is against the southern wall.
+~
+~
+0 0 -1
+D3
+A deep mahogany desk sits beneath a window.
+~
+~
+0 0 -1
+D5
+The carpet is think and luxuriant, and probably soothing on bare feet.
+~
+~
+0 0 -1
+E
+papers~
+The papers look like generic administration paperwork.  They are held in place
+by a small gavel.
+~
+E
+books~
+The books appear more decorative than functional.
+~
+E
+desk mahogany~
+   The desk is a mighty one, made of fine mahogany.  It has several drawers down
+either side.  There are a few fine leather-bound books on it, and a stack of
+papers is held down by a small gavel that acts as a paperweight.
+~
+E
+painting paintings~
+The paintings are well-made to please a discerning eye.
+~
+E
+lamps~
+The lamps are made of gold and highly polished.
+~
+E
+cabinet~
+The cabinet is open and contains all manner of expensive-looking garments, as
+well as the assistant's uniforms.
+~
+E
+bed~
+No expense was spared in the construction of the bed.
+~
+S
+#9150
+The Side of the Dormitory~
+   The side of an enormous building is directly to the north.  The entrance is a
+bit further east, but this building dwarfs every other building in the complex,
+including the school.  It's two stories tall, and truly massive.  Windows mark
+the immaculate white wall, and the gravel pathway turns to the east and ends in
+front of the building.  The grass seems a bit worn out where kids have probably
+been cutting the corner to the door.
+~
+91 0 0 0 0 1
+D0
+A long, flat, tall, side of a building blocks all other sights.
+~
+~
+0 0 -1
+D1
+The gravel pathway ends at the entrance to the dormitory just east of here.
+~
+~
+0 0 9152
+D2
+The gravel pathway leads past a few small houses.
+~
+~
+0 0 9148
+D3
+A small, shady area beneath some trees is next to the pathway.
+~
+~
+0 0 -1
+D5
+There's a worn dirt area where the kids have been cutting corners.
+~
+~
+0 0 -1
+S
+#9151
+The Apprenticeship Coordinator's House~
+   This house is kept clean and bare, with a functional bed, dresser, rug, and
+hearth.  IT seems that the coordinator must not be too wealthy, judging from
+such plain living conditions.  A breeze flows between an open window in the west
+wall and an open window by the door.  The hearth is swept clean of ash, and
+there is a small pile of wood beside it.
+~
+91 8 0 0 0 0
+D0
+The bed is pushed against the northern wall.
+~
+~
+0 0 -1
+D1
+The window by the door is open, letting a breeze through.
+~
+door~
+1 0 9148
+D2
+The dresser against the wall looks cheap and a bit rickety.
+~
+~
+0 0 -1
+D3
+A window in the western wall is open, allowing a breeze to pass through.
+~
+~
+0 0 -1
+D5
+The corner of the rug over by the bed looks more worn for some reason.
+~
+~
+0 0 -1
+E
+corner~
+   The corner of the rug is held down by one of the bed's legs, and has a bit of
+a gouge worn out from the bed being slid off and back on repeatedly.
+~
+E
+pile wood~
+A small pile of wood is stacked neatly next to the hearth.
+~
+E
+hearth~
+There doesn't appear to have been a fire in this hearth for quite some time.
+~
+E
+rug~
+   The rug is a plain gray and made of thickly woven linen.  The corner of the
+rug, the one under the bed leg, is wearing out.
+~
+E
+dresser~
+   The dresser is square, squat, and plain.  It looks like it could have been
+built by one of the orphans, honestly.
+~
+E
+bed~
+This is a bed for sleeping on and not much else.  The legs of the bed rest on a
+rug.
+~
+S
+#9152
+The Door of the Dormitory~
+   The orphanage's dormitory is two stories tall, perfectly clean and
+whitewashed, and houses probably hundreds of children at a time.  It stretches
+quite a ways back into the distance.  The gravel pathway ends at the door, but
+there is a dirt pathway leading eastward past the other side of the school.  
+Since this building is back a bit from the play areas, it is a bit quieter, and
+birds can be heard chirping joyfully as they flit among the trees at the
+complex.
+~
+91 0 0 0 0 1
+D0
+The door into the dormitory is as plain as all the others at the orphanage.
+~
+door~
+1 0 9153
+D1
+A dirt trail leads eastward, looking highly frequented.
+~
+~
+0 0 9154
+D2
+A playground is behind thick, concealing topiary.
+~
+~
+0 0 -1
+D3
+The gravel pathway leads eastward a short distance, then turns south.
+~
+~
+0 0 9150
+D5
+The gravel pathway ends here.  Or begins, depending on your frame of reference.
+~
+~
+0 0 -1
+E
+birds~
+Screaming children have a way of drowning out the softer sounds of nature.
+~
+E
+gravel pathway~
+   Although the gravel pathway ends here, a trail worn to dirt in the grass
+leads eastward.
+~
+E
+building dormitory~
+   The dormitory houses potentially hundreds of children inside.  It seems
+enormous.
+~
+S
+#9153
+A Narrow Hallway~
+   The door to the south leads into this surprisingly narrow hallway.  It's only
+wide enough for two adults to pass side-by-side, which is a bit of a surprise,
+considering the overall size of the building.  Perhaps the architect designed it
+this way so that the largest amount of room possible could be used for sleeping
+space.  There is a door to the west, and the hallyway continues northward.
+~
+91 8 0 0 0 0
+D0
+Other rooms are in this direction.
+~
+~
+0 0 9163
+D1
+A small window lets in light.
+~
+~
+0 0 -1
+D2
+The door leading outside is there.
+~
+door~
+1 0 9152
+D3
+Judging from the sounds inside, the door leads to a nursery.
+~
+door~
+1 0 9158
+S
+#9154
+A Split in the Trail~
+   The dirt trail leading behind the buildings splits here, with most of the
+traffic heading northward.  There must be something important in that direction.
+The area is mostly wooded, but the wall is still visible beyond the trees as it
+slants along the northwest.  Glimpses of the school shine through the thick
+brush to the south.
+~
+91 0 0 0 0 1
+D0
+The trail is obviously commonly used as it passes northward.
+~
+~
+0 0 9155
+D1
+The trail is much less worn as it passes eastward.
+~
+~
+0 0 9156
+D2
+The brush is thick, but some whitewashed wall is visible here and there.
+~
+~
+0 0 -1
+D3
+The trail leads to the front of the dormitory this way.
+~
+~
+0 0 9152
+D5
+The trail splits north, east, and west.
+~
+~
+0 0 -1
+E
+dirt trail path pathway~
+Most of the traffic is to the north and west.
+~
+E
+wall~
+   The wall is much less noticable here as it circles through the forest along
+the northwest.  It's a ways out there, and it looks as though they just built it
+to enclose a good chunk of real estate in case they needed to build something
+else inside the complex.
+~
+S
+#9155
+Alongside the Dormitory~
+   The heavy dirt trail leads alongside the dormitory, which is directly to the
+west.  Through the open windows one can hear chattering children going about
+their business.  The refreshing, pleasant scent of the forest is carried by a
+small gust of wind from the east.  The wall surrounding the complex circles to
+the west and north through untamed, forested area.
+~
+91 0 0 0 0 0
+D0
+The dirt path show signs of heavy usage to the north.
+~
+~
+0 0 9159
+D1
+The untamed forest has been broken by the wall around the compound to the east.
+~
+~
+0 0 -1
+D2
+The dirt path leads around the dormitory there.
+~
+~
+0 0 9154
+D3
+The two story building has several windows, and one can hear children inside.
+~
+~
+0 0 -1
+D5
+The trail gets heavy traffic here.
+~
+~
+0 0 -1
+E
+window windows~
+   There's not much to hear from inside, but it's clearly a building full of
+children, judging from the sounds that do escape the windows.
+~
+S
+#9156
+A Remote Area in the Orphanage~
+   This is certainly the loneliest part of the orphanage.  The trail is only
+barely visible as it passes through an undeveloped area.  A bit further to the
+west is the front of the dormitory, and southward are the backs of a row of
+buildings.  To the north of here, though, is nothing but forest with a wall
+beyond, and to the east, much the same, although the trail is closer to the wall
+here.
+~
+91 0 0 0 0 1
+D0
+Quiet woods and the wall of the orphanage and not much else.
+~
+~
+0 0 -1
+D1
+There's something strange about the wall.  It merits a closer look.
+~
+tarp~
+3 0 9173
+D2
+The trail leads southward behind several buildings.
+~
+~
+0 0 9157
+D3
+The trail leads through the tall grass to the dormitory.
+~
+~
+0 0 9154
+D5
+The trail is only barely visible here, and rarely traversed.
+~
+~
+0 0 -1
+E
+wall closer~
+   The long, white wall of the orphanage has boxed in some undeveloped woods
+here.  There's a large square on the surface of the wall, perhaps two feet by
+two feet.  It's the same color as the wall.
+~
+E
+square~
+   Moving closer, you realize that the square is actually a tarp, painted the
+same color as the wall!
+~
+E
+tarp~
+   What could be behind the tarp?  Only way to know is open it and find out.
+~
+S
+#9157
+Behind the School~
+   The dirt pathway runs behind the school to the north and south.  The eastern
+wall of the school is here, with a single window in the wall, which is open.  
+There is no gardening against the orphanage wall here as there was in other
+areas, and further north is an untamed plot of land.
+~
+91 0 0 0 0 1
+D0
+The area to the north has not been developed, and is grown entirely over.
+~
+~
+0 0 9156
+D1
+The orphanage wall has not been decorated by trees or flowers here.
+~
+~
+0 0 -1
+D2
+There is an intersection in the trail to the south.
+~
+~
+0 0 9129
+D3
+A window in the wall emits snippets of conversation to anyone listening.
+~
+~
+0 0 -1
+D5
+The dirt path isn't very heavily worn here.
+~
+~
+0 0 -1
+E
+window~
+   The window is just higher than a human is tall, and no occupants can be seen
+inside.  It is open, however, and bits of conversation might be overheard by
+anyone who wishes to listen to the window.
+~
+E
+wall~
+   The wall here, being behind the school and very seldom seen, doens't need the
+same decoration as in other areas.  There is nothing planted alongside it.
+~
+S
+#9158
+A Nursery~
+   This room is quite large and is lined with cradles.  Since many of the
+orphans created by the wars of the world are infants and young toddlers, this
+room is devoted to their special care.  There are boxes by the door for a
+deliveryman to place milk in, several changing tables, shelves containing toys,
+plenty of rocking chairs for nurses, and dozens upon dozens of cradles.  There
+is a window to the south, and two coal stoves at either end of the room.
+~
+91 8 0 0 0 0
+D0
+The changing tables are quite ordely and clean despite heavy usage.
+~
+~
+0 0 -1
+D1
+The hallway is through the door.
+~
+door~
+1 0 9153
+D2
+A lone window is there, looking out onto the gravel pathway.
+~
+~
+0 0 -1
+D3
+Cradles in rows, all the way to the wall.
+~
+~
+0 0 -1
+E
+chairs rocking~
+   There are rocking charis placed throughout the room for nurses to sit in
+while they suckle or sooth an infant.
+~
+E
+cradle cradles~
+   Upon close inspection, you see that the cradles have small rockers on the
+bottom to help sooth colicky babies.
+~
+E
+milk milkboxes boxes~
+   Several milkboxes are right near the door, keeping a fresh supply of newborn
+food on hand in case enough women to suckle the babies cannot be found.
+~
+E
+shelves~
+   The shelves contain teething rings, noisy baubles, blocks, and other things
+of interest to tiny children.
+~
+S
+#9159
+A Bend in the Path~
+   The reason for the heavily-travelled trail cut through the grass is now
+apparent: to the west, there's a large outside, which is probably used by most
+of the inhabitanits of the dormitory.  Judging from the usage the trail gets, it
+seems it probably should have been paved.  A corner of the orphanage wall is
+just to the north and east of here, with an expanse of forest beyond.
+~
+91 0 0 0 0 1
+D0
+The wall encloses the compound with an unbroken streak of white.
+~
+~
+0 0 -1
+D1
+There isn't much in that direction other than trees, with the wall far beyond.
+~
+~
+0 0 -1
+D2
+The dirt path leads back to the front of the dormitory.
+~
+~
+0 0 9155
+D3
+The path ends at a large outhouse.
+~
+~
+0 0 9160
+S
+#9160
+In front of an outhouse~
+   The stench is not quite as bad here as it could have been, thanks to a light
+wind blowing in from the east.  It is, however, still an outhouse, and still
+reeks.  The outhouse is a plain, wide, wooden box, of sorts.  The dirt path,
+which ends in front of it, was so heavily trodden because of hundreds of
+children visiting this spot several times a day.  There is some unassuming
+shrubbery to the west against the wall, and the dormitory is directly to the
+south.
+~
+91 0 0 0 0 1
+D0
+A blind person could find this outhouse by scent.
+~
+door~
+1 0 9161
+D1
+The dirt pathway leads back around the dormitory.
+~
+~
+0 0 9159
+D2
+The rear wall of the dormitory is dotted with windows.
+~
+~
+0 0 -1
+D3
+The wall is hidden by shrubs directly west of here.
+~
+tarp~
+3 0 9162
+E
+shrub shrubs~
+   Several shrubs block the view of the wall here.  They seem to be growing in
+thicker than you've seen elsewhere in the complex.  No telling what a search
+might turn up.  Probably nothing, though.  It is an orphanage, after all.
+~
+E
+outhouse~
+You've seen one, you've seen em all.
+~
+E
+dormitory~
+   The windows on the rear wall of the dormitory probably get opened and closed
+a dozen times per day as the wind changes direction.
+~
+E
+wall~
+   The wall surrounding the complex is closeby here, just to the north and west.
+The western part is concealed behind shrubs.
+~
+S
+#9161
+Inside an Outhouse~
+   The outhouse is wooden and has a long bench with holes in it to accomodate
+nearly a dozen occupants at a time.  There aren't really any dividers, and
+therefore, not a lot of dignity is afforded those answering nature's call.  The
+outhouse smells very, very badly of outhouse.  A door in the south wall leads
+back to safety.
+~
+91 8 0 0 0 0
+D0
+Along the wall is a bench with holes in it.
+~
+~
+0 0 -1
+D1
+The planks of the wall have been painted brown.
+~
+~
+0 0 -1
+D2
+This is the best door ever.
+~
+door~
+1 0 9160
+D3
+Someone has scrawled a crude pair of breasts into the wall here.
+~
+~
+0 0 -1
+E
+hole holes bench~
+The holes in the bench are for crapping into, if you haven't figured it out.
+~
+E
+breasts~
+   It looks like this part of the wall has been painted over and vandalised
+repeatedly.  The offending graffiti is scratched into new brown paint.
+~
+S
+#9162
+Before a Hatch~
+   This area, just beyond the hole in the wall, is little more than forest and a
+bogglingly out-of-place hatch, plainly seen in the middle of the area, leading
+right into the ground.  The grasses of the forest floor are worn away to dirt
+between the hole and the hatch, and it probably sees plenty of foot traffic.
+~
+91 0 0 0 0 1
+D0
+Unbroken, virgin forest stretches away to the north.
+~
+~
+0 0 -1
+D1
+The hole in the wall is plainly visible from this side.
+~
+tarp~
+1 0 9160
+D2
+The wall of the orphanage cuts throught the forest.
+~
+~
+0 0 -1
+D3
+Unbroken, virgin forest.
+~
+~
+0 0 -1
+S
+#9163
+A Long, Narrow Hallway~
+   The hallway continues northward and southward.  It continues to be
+obnoxiously narrow.  There is a door to the west, and at the end of the hall to
+the north is the stairway to the upper floor.
+~
+91 8 0 0 0 0
+D0
+The hallways continues past another room.
+~
+~
+0 0 9165
+D1
+A window in the wall allows light to enter.
+~
+~
+0 0 -1
+D2
+The hallway continues past another room.
+~
+~
+0 0 9153
+D3
+Behind the door are probably sleeping quarters for children.
+~
+door~
+1 0 9164
+S
+#9164
+A First Floor Dormitory~
+   This room spacious and lined with triple bunk beds.  Children ages three to
+seven of both genders sleep here.  The bunk beds look quite sturdy, and useful
+ladders allow little climbers to reach the top bunks.  There are large cubby
+holes along the sides of all the bunks for children to place their personal
+belongings into, such as they might be.  There is only one window, on the west
+wall.  All remaining wall space is covered by beds.  There are also two coal
+stoves to heat the room, on at each end, with flues leading out the ceiling.
+~
+91 8 0 0 0 0
+D0
+Bunk beds cover every available inch, all the way to the wall.
+~
+~
+0 0 -1
+D1
+The door opens to the hallway.
+~
+door~
+1 0 9163
+D2
+Bunk beds cover every available inch, all the way to the wall.
+~
+~
+0 0 -1
+D3
+The single window in the room is in this wall.
+~
+~
+0 0 -1
+E
+stove stoves coal flue~
+   The stoves are there to heat the room in the winter.  Since it's not winter,
+the stoves are cold.
+~
+E
+beds bunk~
+   The bunk beds are sturdy, warm, and comfortable.  They are stacked three
+high, and each child sleeps in his or her own bed.  Exceptions are made for
+scared or lonely children, of course, since they're all so small.
+~
+S
+#9165
+The End of the Bottom-Floor Hallway~
+   The hallway on the bottom floor ends here, by a door and a staircase leading
+upward.  A window in the eastern wall lets in light.  There are noticable sounds
+of splashing and machinery from behind the door to the west.
+~
+91 8 0 0 0 0
+D0
+The northern wall is mostly staircase.
+~
+~
+0 0 -1
+D1
+A window in the wall helps light the area.
+~
+~
+0 0 -1
+D2
+The hallways leads past several rooms.
+~
+~
+0 0 9163
+D3
+Noticable sounds of moving water, splashing, and machinery come from the room.
+~
+door~
+1 0 9166
+D4
+The stairway seems a bit steep, but kids are energetic.
+~
+~
+0 0 9167
+S
+#9166
+A Washing Area~
+   This room is bare rock with fine mortar to make it watertight.  They probably
+built this room first when they set the foundation, and built the rest of the
+dormitory around it.  It has several large cauldrons with coal pits beneath them
+to heat up bathwater and a startling number of baths in the room, as well as a
+clever pulley and pipe system to pump the water up from the cauldron and into
+any of the baths.  There are some large drains in the floor to prevent the place
+from flooding and to empty the tubs.  While the room is undivided and doesn't
+allow for much dignity, especially with nurses walking assessing the effective
+of a child's procedure, most of the children are too young to care.
+~
+91 8 0 0 0 0
+D0
+The rock wall has a window here.
+~
+~
+0 0 -1
+D1
+The door leads to the hallway.  Dry your feet first!
+~
+door~
+1 0 9165
+D2
+The wall is bare rock.
+~
+~
+0 0 -1
+D3
+The wall is bare rock.
+~
+~
+0 0 -1
+E
+cauldrons~
+   The cauldron is constantly heating bathwater.  The baths taken first thing in
+the morning are probably the warmest, since the water had all night to heat up.
+The cauldron is replenished by pipes from a spring.
+~
+E
+pipe pully system~
+Only a gnome could have come up with this, and shockingly, it works.
+~
+E
+drain drains~
+   The drains are liberally places throughout the room and keep the water from
+going where it doesn't belong.  It's hard to tell where the drains actually take
+the water, though.
+~
+E
+bath baths~
+   The baths are made of two pieces of metal, a long one and a circular one,
+fastened together to be watertight, in the shape of an basket.  They each have a
+drain with a plug in the bottom.
+~
+S
+#9167
+A Long Hallway on the Top Floor~
+   Another long, narrow hallway, much like the one below.  The doors are on the
+western side and there are windows in the eastern wall.  It's a bit warmer up
+here, and somewhat muggy from the washing room below, but otherwise pretty
+uninteresting.
+~
+91 8 0 0 0 0
+D0
+There's a window above the staircase that no one ever washes.
+~
+~
+0 0 -1
+D1
+A window lets in light.
+~
+~
+0 0 -1
+D2
+The long hallway passes several rooms before it ends at a window.
+~
+~
+0 0 9169
+D3
+It seems there are sleeping quarters in that room.
+~
+door~
+1 0 9168
+D5
+The stairway is a bit steep, considering how many times it's traversed.
+~
+~
+0 0 9165
+S
+#9168
+A Boys' Dormitory~
+   This room spacious and lined with double bunk beds.  Boys aged twelve to
+fourteen sleep here.  There are fewer bunk beds and more single beds because
+this is the age when a child is usually apprenticed out, joins a guild, or
+leaves the orphanage in the care of relatives or some such.  It is definitely a
+boys' dormitory, as basically every spare inch of post and wall space is covered
+by some clever bit of metalwork or woodcarving, and all of it is military.  
+There are large cubby holes along the sides of all the bunks for children to
+place their personal belongings into, such as they might be.  There is only one
+window, on the north wall.  All remaining wall space is covered by beds.  There
+are also two coal stoves to heat the room, on at each end, with flues leading
+out the ceiling.
+~
+91 8 0 0 0 0
+D0
+The single window in the room is in this wall.
+~
+~
+0 0 -1
+D1
+The door opens to the hallway.
+~
+door~
+1 0 9167
+D2
+Beds, all the way to the wall.
+~
+~
+0 0 -1
+D3
+Beds, all the way to the wall.
+~
+~
+0 0 -1
+E
+stove stoves coal flue~
+   The stoves are here to heat the room in the winter.  It's not winter, so the
+stoves are cold.
+~
+E
+bed beds bunk~
+   The beds are quite sturdy and look comfortable and warm.  The bunk beds hold
+three boys, each to his own bed.  Most of the beds in this room are singles,
+though.
+~
+E
+metal metalwork wood woodcarving~
+   The crafts prepared by the youths are things like pewter daggers, wooden
+helms, wooden horses, and other things that are good for little more than
+playing or looking impressive to children.  The older boys make them as supplies
+for the orphanage while they improve their skills.  At least, that's what they
+tell adults.
+~
+E
+cubby holes~
+   Even if you wanted to steal the few earthly possessions of woebegone orphans,
+there wouldn't be any profit in it, because there's absolutely nothing of value
+in the cubby holes.
+~
+S
+#9169
+The Middle of the Hallway~
+   The hallway passes along the center of the building here.  It is just narrow
+enough not to be obnoxious so that the largest amount of room possible could be
+used for sleeping space.  There is a door to the west leading into another large
+dormitory room.
+~
+91 8 0 0 0 0
+D0
+The hallway ends at the stairs, part another room.
+~
+~
+0 0 9167
+D1
+There is a window in the wall allowing light to enter.
+~
+~
+0 0 -1
+D2
+The hallway ends at another room.
+~
+~
+0 0 9171
+D3
+More sleeping quarters lie beyond this door.
+~
+door~
+1 0 9170
+S
+#9170
+A Girls' Dormitory~
+   This room spacious and lined with double bunk beds.  Judging from the size of
+the furniture and inhabitatns, girls ages twelve to fourteen sleep here.  There
+are fewer bunk beds in this room than others because this is the age when a
+child is usually apprenticed out, joins a guild, or leaves the orphanage in the
+care of relatives or some such.  It is definitely a girls' dormitory, as
+basically every spare inch of post and wall space is covered by some craft or
+picture, and all of it is pink.  There are large cubby holes along the sides of
+all the bunks for children to place their personal belongings into, such as they
+might be.  There is only one window, on the west wall.  All remaining wall space
+is covered by beds.  There are also two coal stoves to heat the room, on at each
+end, with flues leading out the ceiling.
+~
+91 8 0 0 0 0
+D0
+Beds, everywhere, lined up to the wall.
+~
+~
+0 0 -1
+D1
+The door opens to the hallway.
+~
+door~
+1 0 9169
+D2
+Beds, everywhere, lined up to the wall.
+~
+~
+0 0 -1
+D3
+The single window in the room is in this wall.
+~
+~
+0 0 -1
+E
+stove stoves coal flue~
+   The stoves are there to heat the room in the winter.  Since it's not winter,
+the stoves are cold.
+~
+E
+beds bunk~
+   The beds are sturdy, well-blanketed, and soft-looking.  Most of them are
+single beds, not bunk beds, owing to the diminished occupancy of the room.
+~
+E
+crafts pictures~
+   They are the type of things young girls make and they are all pink for some
+reason.
+~
+E
+cubby holes~
+   Even if you wanted to steal the few earthly possessions of woebegone orphans,
+there wouldn't be any profit in it, because there's absolutely nothing of value
+in them.
+~
+S
+#9171
+The End of the Second Story Hallway~
+   The hallway ends at a window in the southern wall.  There is a door to the
+west, leading into what is probably the most inconvenient place in the entire
+orphanage.
+~
+91 8 0 0 0 0
+D0
+The hallways leads past other rooms this way.
+~
+~
+0 0 9169
+D1
+A window in the wall allows light in.
+~
+~
+0 0 -1
+D2
+A window in the wall allows light in.
+~
+~
+0 0 -1
+D3
+The door leads into another sleeping area.
+~
+door~
+1 0 9172
+S
+#9172
+A Second Story Dormitory~
+   This room spacious and lined with triple bunk beds.  Children ages eight to
+eleven of both genders sleep here.  The bunk beds look quite sturdy, and
+probably don't even squeak, which is good, because fifty squirming ten year olds
+would cause quite a lot of squeaking.  There are large cubby holes along the
+sides of all the bunks for children to place their personal belongings into,
+such as they might be.  There is only one window, on the south wall.  All
+remaining wall space is covered by beds.  There are also two coal stoves to heat
+the room, on at each end, with flues leading out the ceiling.
+~
+91 8 0 0 0 0
+D0
+Bunk beds, stacked floor to ceiling, in every available spot.
+~
+~
+0 0 -1
+D1
+The door leads into the hallway.
+~
+door~
+1 0 9171
+D2
+The room's sole window is here.
+~
+~
+0 0 -1
+D3
+Bunk beds, stacked floor to ceiling, in every available spot.
+~
+~
+0 0 -1
+E
+stove stoves coal flue~
+   The stoves are here to heat the room in the winter.  It's not winter, so
+they're not heating anything.
+~
+E
+bed beds bunk~
+   The bunk beds look comfortable, sturdy, and warm.  They are stacked three
+high in order to pack as many children as possible into this space.
+~
+E
+cubby holes~
+   Even if you wanted to steal the few earthly possessions of woebegone orphans,
+there wouldn't be any profit in it, because there's absolutely nothing of value
+in the cubby holes.
+~
+S
+#9173
+A Secret Clubhouse~
+   A hole in the wall, covered from the inside by a tarp, leads to a secret
+clubhouse, assembled overtime from an assorted mishmash of logs and planks.  It
+isn't huge, but there is room for at least ten adults in here.  The floor is
+covered by blankets, and the roof actually looks like it might keep out water.
+Some wooden swords are laying about, as well as other toys and children's
+miscellanea.  The place is actually quite comfortable!
+~
+91 16 0 0 0 0
+D0
+   A view of dark, shadowy forest is visible between the boards of the wall.
+~
+~
+0 0 -1
+D1
+   Crude drawings of knights and queens have been scratched into the wall here.
+~
+~
+0 0 -1
+D2
+Some wooden swords lean against this wall.
+~
+~
+0 0 -1
+D3
+The tarp conceals the entrance to the secret clubhouse.
+~
+tarp~
+1 0 9156
+D4
+By some miracle, the roof is airtight.
+~
+~
+0 0 -1
+D5
+The blankets are soft and cozy, if a bit dusty and dirty.
+~
+~
+0 0 -1
+E
+sword swords~
+   The swords are basically just sticks with a trig tied across to act as a
+guard and mark the location of the hilt.
+~
+E
+ceiling roof~
+It looks like the roof is comprised of about five layers of plank.
+~
+E
+knights queen drawings~
+   The drawings are images of mighty knights battling dragons, noble queens
+facing down usurpers, and pictures of other noble and notorious events.  At
+least, as far as you can tell.  They were drawn by children, after all.
+~
+S
+$~

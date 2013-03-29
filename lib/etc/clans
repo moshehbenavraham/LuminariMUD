@@ -1,0 +1,88 @@
+* Clans File
+* Number of clans: 2
+#1
+Name: Iron Chef Luminari
+Init: ICL
+Desc:
+   Iron Chef Luminari - destorying all challengers This clan is soo cool, that
+this one time at bandcamp we had to play the flutes, but the flutes were hard to
+play, so we totally didn't play the flutes at all and instead played the drums.
+Test
+Test 2
+Test 3
+~
+Lder: 4
+AppL: 5
+Tax : 1
+Ally: 0
+War : 0
+Rank:
+Duke
+Count
+Baron
+Lord
+Member
+Recruit
+~
+Priv:
+0 0
+1 1
+2 0
+3 1
+4 1
+5 0
+6 1
+7 1
+8 0
+9 1
+10 1
+11 1
+12 1
+13 1
+14 1
+15 0
+16 1
+17 0
+18 0
+19 1
+20 0
+~
+#2
+Name: Testchar's Army
+Init: TA
+Lder: 8
+AppL: 5
+Ally: 0
+War : 0
+Rank:
+Duke
+Count
+Baron
+Lord
+Member
+Recruit
+~
+Priv:
+0 0
+1 1
+2 0
+3 1
+4 1
+5 0
+6 1
+7 1
+8 0
+9 1
+10 1
+11 1
+12 1
+13 1
+14 1
+15 0
+16 1
+17 0
+18 0
+19 1
+20 0
+~
+$

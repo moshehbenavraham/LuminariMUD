@@ -1,0 +1,279 @@
+#4700
+guard city~
+@ba city @cguard@n~
+@cA city @bguard @ckeeps an eye on things here, looking for troublemakers.@n
+~
+Although he looks very young, this city guard is well built and a little angry
+looking.  He has been assigned to keep an eye out for troublemakers and to
+ensure the safety of the citizens of Valcrest
+~
+4122 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+E
+#4701
+@ba city @aguard@n~
+@ba city @aguard@n~
+@aA city @cguard@a is here, looking at everyone with suspicion.@n
+~
+Part of the city's elite guard unit, this young man is well groomed and seems to
+be attentive to everything around him.  He glares at some children as their play
+brings them too close, nodding to himself with satisfaction when they run away
+in fear.
+~
+4168 0 0 0 512 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#4702
+guard city~
+@ba city guard@n~
+@wA @cguard@w is here, looking at everyone with suspicion.@n
+~
+Part of the city's elite guard unit, this young man is well groomed and seems to
+be attentive to everything around him.  He glares at some children as their play
+brings them too close, nodding to himself with satisfaction when they run away
+in fear.
+~
+4168 0 0 0 512 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 0
+E
+#4703
+guard city~
+@ba city guard@n~
+A guard is here, looking at everyone with suspicion.
+~
+Part of the city's elite guard unit, this young man is well groomed and seems to
+be attentive to everything around him.  He glares at some children as their play
+brings them too close, nodding to himself with satisfaction when they run away
+in fear.
+~
+4168 0 0 0 512 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 6
+Size: 0
+E
+#4704
+guard captain~
+@gthe @tCaptain@g of the Guard@n~
+@tThe @yCaptain@t of the Guard leads his troops on a patrol of the city.@n
+~
+This man is dressed more formally than the other guards seen around the city,
+indicating that he holds a higher rank than they do.  He is very attentive to
+all that goes on in his city, and yet, he is willing to greet those he knows as
+he patrols.
+~
+4168 0 0 0 512 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 8
+Size: 0
+E
+#4705
+woman local~
+a local woman~
+A local woman is going about her daily tasks here.
+~
+Dressed in clothes that are plain but mended and clean, she carries a large
+basket over one arm.  She smiles as she passes someone she knows, sometimes
+stopping to exchange gossip with other women.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#4706
+woman local~
+a local woman~
+A local woman is going about her daily tasks here.
+~
+Dressed in clothes that are plain but mended and clean, she carries a large
+basket over one arm.  She smiles as she passes someone she knows, sometimes
+stopping to exchange gossip with other women.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#4707
+man local~
+@ja local @lman@n~
+@jA local @lman@j wanders the streets of the city, as if he has nothing better to do.@n
+~
+He is wearing clothes that are clean and only patched in a few places.  He
+whistles a jaunty tune as he walks along, smiling and nodding when he passes
+someone he knows.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 4
+Size: 0
+E
+#4708
+man skinny~
+a skinny man~
+A skinny man grumbles to himself as he wanders the streets.
+~
+Although he looks harmless enough, the fact that this man appears to be talking
+to himself seems to unnerve those around him.  He is painfully skinny and his
+clothes hang on his frame like scraps of cloth.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 1
+Size: 0
+E
+#4709
+man drunk~
+a drunk~
+A drunk man staggers around here, his eyes red and glassy.
+~
+This man looks like he has been drinking for a long time.  There are stains on
+his clothing that defy explanation and the smell of alcohol is strong in the air
+around him.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 0
+E
+#4710
+pickpocket thief man~
+a pickpocket~
+A man is here, watching the people around him in a suspicious way.
+~
+He licks his lips as he watches the people milling about nearby.  As one man
+turns to pass him, the sneaky pickpocket steals his coinpurse without being
+caught.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 0
+E
+#4711
+thief cunning man~
+a cunning thief~
+A man in dark clothing slips in and out of the shadows.
+~
+He is wearing clothing that has been dyed a dark color, making it easy to lose
+him once he has passed into the shadows cast by the nearby buildings.
+~
+8 0 0 0 0 0 0 0 0 E
+0 20 10 1d1+0 1d1+0
+0 0
+8 8 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 2
+Size: 0
+E
+#4712
+merchant prosperous~
+@wa @Vprosperous@w merchant@n~
+@wA @Vmerchant@w wanders here, his cane tapping on the cobbles.@n
+~
+@wThis man is dressed in expensive clothes and appears to be a very prosperous
+man.  Many merchants pass through the city, looking to expand their business
+contacts in this large port city.  This merchant seems to be enjoying his stay
+here, a smile on his face as he paces along, swinging his cane while whistling a
+jovial tune.  @n
+~
+72 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 1
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 3
+Size: 5
+Walkin: $n strolls in from
+Walkout: $n strolls
+E
+$

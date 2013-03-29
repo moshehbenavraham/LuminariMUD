@@ -1,0 +1,207 @@
+#1000
+Orme's Testing Area~
+It's pitch black...
+~
+10 8 0 0 0 0
+D0
+~
+door~
+1 0 1001
+D5
+~
+~
+0 0 -1
+S
+#1001
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1002
+D2
+~
+~
+0 0 1000
+S
+#1002
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1003
+D3
+~
+~
+0 0 1001
+S
+#1003
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1004
+D3
+~
+~
+0 0 1002
+S
+#1004
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1005
+D3
+~
+~
+0 0 1003
+S
+#1005
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1006
+D3
+~
+~
+0 0 1004
+S
+#1006
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1007
+D3
+~
+~
+0 0 1005
+S
+#1007
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1008
+D3
+~
+~
+0 0 1006
+S
+#1008
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1009
+D3
+~
+~
+0 0 1007
+S
+#1009
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D1
+~
+~
+0 0 1010
+D3
+~
+~
+0 0 1008
+S
+#1010
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D0
+~
+~
+0 0 1011
+D3
+~
+~
+0 0 1009
+S
+#1011
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D0
+~
+~
+0 0 1012
+D2
+~
+~
+0 0 1010
+S
+#1012
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D0
+~
+~
+0 0 1013
+D2
+~
+~
+0 0 1011
+S
+#1013
+Tower Defense Hallway~
+It's pitch black...
+~
+10 8 0 0 0 0
+D0
+~
+~
+0 0 1014
+D2
+~
+~
+0 0 1012
+S
+#1014
+Crystal Chamber~
+It's pitch black...
+~
+10 8 0 0 0 0
+D2
+~
+~
+0 0 1013
+S
+$~

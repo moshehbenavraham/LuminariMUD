@@ -1,0 +1,225 @@
+#23200
+Wizard merchant~
+a wizard~
+A tall man wearing a wizards hat stands behind a counter.
+~
+   The wizard is tall man with a grey beard.  You can see such great wisdom in
+his eyes.  His hat makes him look very comical.  
+~
+256030 0 0 0 73808 0 0 0 600 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+BareHandAttack: 12
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 3
+Size: 5
+E
+#23201
+Baker lady woman~
+the Baker~
+A beautiful Baker stands behind a counter full of goodies.
+~
+   You see a tall slender woman with some flour over her close and a touch on
+her nose.  She is very attractive and has a friendly attitude.  
+~
+256030 0 0 0 8272 0 0 0 150 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 2
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 5
+Size: 5
+E
+#23202
+man shopkeeper merchant Zorg~
+Zorg the shopkeeper~
+Zorg the shopkeeper sits behind a table with his feet propped up.
+~
+   You see a medium sized man with long hair.  His hygiene is a little bit
+questionable.  His beard needs to be tended to.  He looks as though he could get
+out and exercise a LOT!
+~
+256026 0 0 0 80 0 0 0 -200 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 2
+Size: 5
+E
+#23203
+Lora Croft~
+Lora Croft~
+You see Lora Croft examining some of the weapons she sells.
+~
+   You see a beautiful well built woman.  She wears a white tank top shirt that
+is almost see through.  She looks very strong yet femanine
+~
+256026 0 0 0 8272 0 0 0 250 E
+24 11 -5 4d4+384 4d4+5
+240 43200
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 0
+Size: 5
+E
+#23204
+tarzan petshops~
+Tarzan~
+Tarzan walks about feeding the pets.
+~
+   Tarzan seems to be a strange individual.  Someone forgot to tell him that
+causal day doesn't mean to just prance around in a short cloth wrapped around
+his waist.  He seems to know what he is doing though, all the Pets seem to
+worship him.  
+~
+256030 0 0 0 8272 0 0 0 300 E
+21 12 -3 4d4+336 3d3+4
+210 33075
+8 8 1
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 1
+Class: 1
+Size: 5
+E
+#23205
+sabertooth tiger pets~
+Sabertooth Tiger~
+A Sabertooth Tiger stands here protecting it's owner.
+~
+   You see a large feline with very long, very sharp teeth.  The tiger watches
+you suspiciously, growling at you as you try to approach.  
+~
+237598 0 0 0 65616 0 0 0 -100 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 0
+BareHandAttack: 4
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 4
+Class: 1
+Size: 5
+E
+#23206
+anaconda pets~
+Anaconda~
+A large anaconda watches you closely.
+~
+   The snake looks at you evilly, flicking it's tongue to you, wondering how
+good you taste.  
+~
+206862 0 0 0 80 0 0 0 -100 E
+23 12 -4 4d4+368 3d3+4
+230 39675
+8 8 0
+BareHandAttack: 6
+Str: 15
+Dex: 15
+Int: 15
+Wis: 15
+Con: 15
+Cha: 15
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 4
+Size: 5
+E
+#23207
+Armourer~
+the armourer~
+The armourer is here forging new items.
+~
+   You see a very large man.  He holds a large hammer and his muscles bulge as
+he swings the hammer.  He is very strong and has a soft smile.  He looks pleased
+to see you.  
+~
+188426 0 0 0 80 0 0 0 0 E
+22 12 -4 4d4+352 3d3+4
+220 36300
+8 8 1
+BareHandAttack: 7
+Str: 14
+Dex: 14
+Int: 14
+Wis: 14
+Con: 14
+Cha: 14
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+Race: 5
+Class: 4
+Size: 5
+E
+$

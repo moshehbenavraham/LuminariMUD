@@ -1,0 +1,167 @@
+#4100
+mage~
+the mage~
+A small intelligent looking mage is standing here.
+~
+   His IQ makes almost any normal person look stupid...  It looks like he knows
+his way with magic.  
+~
+14 0 0 0 16 0 0 0 -100 E
+13 16 2 2d2+143 2d2+2
+130 12675
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 3
+Class: 3
+Size: 5
+E
+T 4100
+#4101
+troll~
+the troll~
+A large mean-looking troll is here.
+~
+   Well, it looks dangerous!  
+~
+46 0 0 0 0 0 0 0 -800 E
+12 16 2 2d2+132 2d2+2
+120 10800
+8 8 1
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+Race: 1
+Class: 3
+Size: 5
+E
+#4102
+snake~
+the snake~
+A large green snake is here, looks like a guardian for an evil force.
+~
+   You see a evil creature.  The snake measures at least 5 feet in length and is
+coiled into a tight circle hissing at you.  
+~
+14 0 0 0 0 0 0 0 -700 E
+10 17 4 2d2+110 1d2+1
+100 7500
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 3
+Class: 0
+Size: 5
+E
+T 4000
+#4103
+thief~
+the thief~
+A thief is here, all dressed in black.
+~
+   He seems to be counting a handful of coins.  Maybe you ought to count YOUR
+gold too...  
+~
+76 0 0 0 1572880 0 0 0 -400 E
+8 18 5 1d1+80 1d2+1
+80 4800
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 2
+Class: 3
+Size: 5
+E
+T 4101
+#4104
+orc ugly~
+the orc~
+A ugly orc is standing here.
+~
+   It is quite disgusting to look at.  
+~
+236 0 0 0 65552 0 0 0 -200 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 3
+Class: 0
+Size: 5
+E
+#4105
+centipede~
+the centipede~
+A small harmless centipede is here.
+~
+   Well it doesn't seem to pay any attention to you.  
+~
+10 0 0 0 0 0 0 0 300 E
+6 18 6 1d1+60 1d2+1
+60 2700
+8 8 0
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 5
+Class: 0
+Size: 5
+E
+#4106
+warrior~
+the warrior~
+A human warrior is here.  He has a evil grin in his face.
+~
+   He doesn't look friendly at all...  
+~
+108 0 0 0 0 0 0 0 -300 E
+9 17 4 1d1+90 1d2+1
+90 6075
+8 8 1
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+Race: 4
+Class: 2
+Size: 5
+E
+#4107
+kobold~
+the kobold~
+A green kobold is here.
+~
+   It looks slimy..  
+~
+108 0 0 0 0 0 0 0 -100 E
+7 18 5 1d1+70 1d2+1
+70 3675
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 2
+Class: 0
+Size: 5
+E
+$

@@ -1,0 +1,17 @@
+#3000
+A Trainer's Token~
+Retrieve the 'quest token'~
+@CHey you are new to the Realms aren't you?  Everyone seems so busy, but I got an
+important job for you.  I need you to retrieve an item for me.@n
+@CI need you to retrive "a quest token" from the MUDSCHOOL and bring it back to
+me...@n
+~
+@CThank you so much!  Perhaps you could help me with some other tasks?@n
+~
+You decide not to help with the quest.
+~
+0 3014 0 2809 -1 -1 -1
+1 0 1 6 -1 -1 1
+100 500 65535
+S
+$~

@@ -1,0 +1,196 @@
+#1100
+wraith~
+a mournful wraith~
+A mournful wraith hovers in and out of existance.
+~
+   Faceless and featureless, the only that can be seen about this entity is the
+vague outline of a humanoid figure.  Glowing faintly, it nonetheless appears the
+darkest thing in the room.
+~
+221194 0 0 0 1048580 0 0 0 0 E
+33 6 -12 6d6+975 5d5+8
+330 81675
+8 8 0
+Str: 22
+Dex: 22
+Int: 22
+Wis: 22
+Con: 22
+Cha: 22
+SavingFort: 8
+SavingRefl: 8
+SavingWill: 8
+SavingPoison: 8
+SavingDeath: 8
+Race: 1
+Class: 0
+Size: 5
+E
+T 1101
+T 1104
+T 1105
+#1101
+trigger mob xxmobxx~
+a mob for making triggers work~
+A mob stands here, waiting to help out some triggers.
+~
+   There is no actual description as this is a trigger mob.  I only typed this
+in because I didn't like seeing the error messages in zcheck la de la la de la
+la de la
+~
+10 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 0
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 2
+Size: 5
+E
+#1102
+gigantic ice dragon~
+@Ca gigantic ice dragon@n~
+@CA gigantic ice dragon@c stands guard over the castle.
+~
+   Huge and intimidating, this dragon is covered in massive armour-plated
+scales, shimmering all different hues of crystal and ice.  Large scaley limbs
+stand firmly against the ground, tipped with razor-sharp claws and encrusted
+with snow as if the dragon has almost become part of the architecture.  His
+steely eyes are bright but cold, glimmering with a strange blue fire.
+~
+253962 0 0 0 0 0 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+BareHandAttack: 8
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 4
+Class: 2
+Size: 5
+E
+#1103
+pale queen~
+@Ca pale queen@n~
+@CA pale queen@c gazes forlornly towards the east.
+~
+   Her smooth, delicate features were probably naturally pale, but now her skin
+is tinged with an eerie blue hue.  Her sorrowful eyes linger on the eastern side
+of the room as if she were longing for some place she can no longer reach.  Her
+dress merges with the floor in a flowing train of ice, rooting her to the spot
+for all eternity.
+~
+24586 0 0 0 0 0 0 0 0 E
+28 9 -8 5d5+610 4d4+6
+280 58800
+8 8 2
+Str: 18
+Dex: 18
+Int: 18
+Wis: 18
+Con: 18
+Cha: 18
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+Race: 3
+Class: 5
+Size: 5
+E
+#1104
+white-haired king~
+@Ca white-haired king@c~
+@CA white-haired king@c gazes thoughtfully toward the west.
+~
+   Old and sorrowful in appearance, this man's thick white hair is part his own
+and part crystals of snow.  His face is haggard and morose, his eyes filled with
+a silent longing as he gazes toward the western part of the room.  The lower
+part of his body has turned almost completely into ice, rendering him a statue
+in his own abode.
+~
+24586 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 1
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 1
+Class: 0
+Size: 5
+E
+#1105
+icy princess~
+@Can icy princess@n~
+@CAn icy princess@c stands frozen to the spot.
+~
+   This young girl has smooth white skin like moon-cream, silver blonde hair
+tumbling down her back, glittering with snow crystals.  Her eyes are large and
+sorrowful, a deep azure blue paled and sparkling with a misty glaze of ice.  A
+fine sheen of frozen droplets covers her gown, studding it with crystals as if
+bejewelled.
+~
+253962 0 0 0 0 0 0 0 0 E
+25 10 -7 5d5+550 4d4+6
+250 46875
+8 8 2
+Str: 16
+Dex: 16
+Int: 16
+Wis: 16
+Con: 16
+Cha: 16
+SavingFort: 6
+SavingRefl: 6
+SavingWill: 6
+SavingPoison: 6
+SavingDeath: 6
+Race: 2
+Class: 0
+Size: 5
+E
+#1199
+tester card player dealer~
+a tester dealer~
+A tester dealer stands here.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 1
+Race: 1
+Class: 4
+Size: 5
+E
+$

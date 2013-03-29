@@ -1,0 +1,22 @@
+#13300
+Orc Warrior~
+@cOrc@n @rWarrior@n~
+@wAn@n @cOrc@n @rWarrior@n @wwith@n @orusty armor@n @w is standing here.@n
+~
+@wAn @cOrc@n @rWarrior@n @wis standing here in full armor.  The @oarmor@n @wis@n @orusty@n @wand was not made for the orc.@n
+~
+10 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+BareHandAttack: 3
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+Race: 1
+Class: 3
+Size: 5
+E
+$

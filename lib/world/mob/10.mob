@@ -1,0 +1,256 @@
+#1000
+orc warrior~
+an orc warrior~
+An orc warrior stands here.
+~
+It looks unfinished.
+~
+26638 0 0 0 0 0 0 0 0 E
+20 13 -3 4d4+320 3d3+4
+200 30000
+8 8 0
+BareHandAttack: 9
+Str: 13
+Dex: 13
+Int: 13
+Wis: 13
+Con: 13
+Cha: 13
+SavingFort: 5
+SavingRefl: 5
+SavingWill: 5
+SavingPoison: 5
+SavingDeath: 5
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 11
+Class: 3
+Size: 7
+E
+T 1000
+T 1008
+#1001
+td tower magic~
+@Ma magic missile tower@n~
+@MA magic missile tower floats above the ground here.@n
+~
+It looks unfinished.
+~
+8611866 0 0 0 0 65538 0 0 0 E
+15 15 20 3d3+195 2d2+2
+0 0
+8 8 0
+BareHandAttack: 12
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 8
+Size: 7
+E
+T 1004
+T 1002
+T 1001
+#1002
+magic crystal~
+@Ba magic @Wc@Br@Wy@Bs@Wt@Ba@Wl@n~
+@BA large @Wc@Br@Wy@Bs@Wt@Ba@Wl@B radiates powerful energy here.
+~
+   
+~
+25419786 0 0 0 0 65536 0 0 0 E
+30 20 20 0d0+1000 1d2+0
+0 0
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 7
+Size: 7
+E
+T 1005
+T 1007
+#1003
+td mage gate keeper~
+the gate keeper~
+An old mage paces nervously back and forth here.
+~
+It looks unfinished.
+~
+417818 0 0 0 67664 532738 0 0 0 E
+30 8 -10 6d6+650 5d5+7
+300 67500
+8 8 1
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 1
+Class: 0
+Size: 5
+E
+T 1009
+#1004
+td tower magic~
+@Ra fireball tower@n~
+@RA fireball tower pulses with magical energy here.@n
+~
+It looks unfinished.
+~
+8611866 0 0 0 0 65538 0 0 0 E
+15 15 20 3d3+195 2d2+2
+0 0
+8 8 0
+BareHandAttack: 12
+SavingFort: 3
+SavingRefl: 3
+SavingWill: 3
+SavingPoison: 3
+SavingDeath: 3
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 8
+Class: 8
+Size: 7
+E
+T 1001
+T 1002
+#1005
+test wight~
+the test wight~
+A wight howls in pain here.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+1 20 9 0d0+10 1d2+0
+10 75
+8 8 0
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+#1010
+Rossa quest~
+Rossa the Pixie~
+Rossa, the fluttering pixie stands here.
+~
+It looks unfinished.
+~
+17121354 0 0 0 196608 8194 0 0 0 E
+30 8 -10 6d6+20000 5d5+7
+300 67500
+8 8 2
+Str: 20
+Dex: 20
+Int: 20
+Wis: 20
+Con: 20
+Cha: 20
+SavingFort: 7
+SavingRefl: 7
+SavingWill: 7
+SavingPoison: 7
+SavingDeath: 7
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 7
+Size: 2
+E
+T 1011
+T 1012
+#1097
+female night test mob~
+a female night test mob~
+A female, who should only be here at night, stands here.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 2
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 0
+Size: 0
+E
+T 1098
+#1098
+male day test mob~
+a male day test mob~
+A man, who should only be here during the day, is standing here.
+~
+It looks unfinished.
+~
+10 0 0 0 0 0 0 0 0 E
+5 19 7 1d1+50 1d2+0
+50 1875
+8 8 1
+SavingFort: 1
+SavingRefl: 1
+SavingWill: 1
+SavingPoison: 1
+SavingDeath: 1
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 10
+Class: 0
+Size: 0
+E
+T 1098
+#1099
+td test mob~
+the TD test mob~
+The TD position test mob stands here.
+~
+It looks unfinished.
+~
+24586 0 0 0 0 0 0 0 0 E
+15 17 4 2d2+110 1d2+1
+100 30000
+8 8 0
+SavingFort: 2
+SavingRefl: 2
+SavingWill: 2
+SavingPoison: 2
+SavingDeath: 2
+SubRace 1: 0
+SubRace 2: 0
+SubRace 3: 0
+Race: 0
+Class: 8
+Size: 0
+E
+$
