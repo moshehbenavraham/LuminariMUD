@@ -1,0 +1,892 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="80">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <df name="LuminariMUD" root=".">
+      <df name="bin">
+      </df>
+      <df name="cnf">
+        <df name="bin">
+        </df>
+        <in>acconfig.h</in>
+      </df>
+      <df name="doc">
+        <df name="cwg">
+        </df>
+        <df name="notes">
+        </df>
+        <df name="OLD-DOCS">
+        </df>
+        <df name="README">
+        </df>
+        <df name="sources">
+        </df>
+      </df>
+      <df name="lib">
+        <df name="etc">
+        </df>
+        <df name="house">
+        </df>
+        <df name="misc">
+        </df>
+        <df name="mudmail">
+          <df name="0">
+          </df>
+        </df>
+        <df name="plrfiles">
+          <df name="A-E">
+          </df>
+          <df name="F-J">
+          </df>
+          <df name="K-O">
+          </df>
+          <df name="P-T">
+          </df>
+          <df name="U-Z">
+          </df>
+          <df name="ZZZ">
+          </df>
+        </df>
+        <df name="plrobjs">
+          <df name="A-E">
+          </df>
+          <df name="F-J">
+          </df>
+          <df name="K-O">
+          </df>
+          <df name="P-T">
+          </df>
+          <df name="U-Z">
+          </df>
+          <df name="ZZZ">
+          </df>
+        </df>
+        <df name="text">
+          <df name="help">
+          </df>
+        </df>
+        <df name="world">
+          <df name="mob">
+          </df>
+          <df name="obj">
+          </df>
+          <df name="qst">
+          </df>
+          <df name="shp">
+          </df>
+          <df name="trg">
+          </df>
+          <df name="wld">
+          </df>
+          <df name="zon">
+          </df>
+        </df>
+      </df>
+      <df name="log">
+      </df>
+      <df name="src">
+        <df name="util">
+          <in>asciipasswd.c</in>
+          <in>autowiz.c</in>
+          <in>plrtoascii.c</in>
+          <in>rebuildAsciiIndex.c</in>
+          <in>rebuildMailIndex.c</in>
+          <in>shopconv.c</in>
+          <in>sign.c</in>
+          <in>split.c</in>
+          <in>webster.c</in>
+          <in>wld2html.c</in>
+        </df>
+        <in>act.comm.c</in>
+        <in>act.h</in>
+        <in>act.informative.c</in>
+        <in>act.item.c</in>
+        <in>act.movement.c</in>
+        <in>act.offensive.c</in>
+        <in>act.other.c</in>
+        <in>act.social.c</in>
+        <in>act.wizard.c</in>
+        <in>aedit.c</in>
+        <in>asciimap.c</in>
+        <in>asciimap.h</in>
+        <in>ban.c</in>
+        <in>ban.h</in>
+        <in>boards.c</in>
+        <in>boards.h</in>
+        <in>bsd-snprintf.c</in>
+        <in>bsd-snprintf.h</in>
+        <in>cedit.c</in>
+        <in>clan.c</in>
+        <in>clan.h</in>
+        <in>clan_edit.c</in>
+        <in>class.c</in>
+        <in>class.h</in>
+        <in>comm.c</in>
+        <in>comm.h</in>
+        <in>conf.h</in>
+        <in>config.c</in>
+        <in>config.h</in>
+        <in>constants.c</in>
+        <in>constants.h</in>
+        <in>craft.c</in>
+        <in>craft.h</in>
+        <in>db.c</in>
+        <in>db.h</in>
+        <in>dg_comm.c</in>
+        <in>dg_db_scripts.c</in>
+        <in>dg_event.c</in>
+        <in>dg_event.h</in>
+        <in>dg_handler.c</in>
+        <in>dg_misc.c</in>
+        <in>dg_mobcmd.c</in>
+        <in>dg_objcmd.c</in>
+        <in>dg_olc.c</in>
+        <in>dg_olc.h</in>
+        <in>dg_scripts.c</in>
+        <in>dg_scripts.h</in>
+        <in>dg_triggers.c</in>
+        <in>dg_variables.c</in>
+        <in>dg_wldcmd.c</in>
+        <in>fight.c</in>
+        <in>fight.h</in>
+        <in>genmob.c</in>
+        <in>genmob.h</in>
+        <in>genobj.c</in>
+        <in>genobj.h</in>
+        <in>genolc.c</in>
+        <in>genolc.h</in>
+        <in>genqst.c</in>
+        <in>genshp.c</in>
+        <in>genshp.h</in>
+        <in>genwld.c</in>
+        <in>genwld.h</in>
+        <in>genzon.c</in>
+        <in>genzon.h</in>
+        <in>graph.c</in>
+        <in>graph.h</in>
+        <in>handler.c</in>
+        <in>handler.h</in>
+        <in>hedit.c</in>
+        <in>hedit.h</in>
+        <in>house.c</in>
+        <in>house.h</in>
+        <in>ibt.c</in>
+        <in>ibt.h</in>
+        <in>improved-edit.c</in>
+        <in>improved-edit.h</in>
+        <in>interpreter.c</in>
+        <in>interpreter.h</in>
+        <in>limits.c</in>
+        <in>lists.c</in>
+        <in>lists.h</in>
+        <in>magic.c</in>
+        <in>mail.c</in>
+        <in>mail.h</in>
+        <in>medit.c</in>
+        <in>memorize.c</in>
+        <in>mobact.c</in>
+        <in>modify.c</in>
+        <in>modify.h</in>
+        <in>msgedit.c</in>
+        <in>msgedit.h</in>
+        <in>mud_event.c</in>
+        <in>mud_event.h</in>
+        <in>oasis.c</in>
+        <in>oasis.h</in>
+        <in>oasis_copy.c</in>
+        <in>oasis_delete.c</in>
+        <in>oasis_list.c</in>
+        <in>objsave.c</in>
+        <in>oedit.c</in>
+        <in>pfdefaults.h</in>
+        <in>players.c</in>
+        <in>prefedit.c</in>
+        <in>prefedit.h</in>
+        <in>protocol.c</in>
+        <in>protocol.h</in>
+        <in>qedit.c</in>
+        <in>quest.c</in>
+        <in>quest.h</in>
+        <in>race.c</in>
+        <in>race.h</in>
+        <in>random.c</in>
+        <in>redit.c</in>
+        <in>screen.h</in>
+        <in>sedit.c</in>
+        <in>shop.c</in>
+        <in>shop.h</in>
+        <in>spec_assign.c</in>
+        <in>spec_procs.c</in>
+        <in>spec_procs.h</in>
+        <in>spell_parser.c</in>
+        <in>spells.c</in>
+        <in>spells.h</in>
+        <in>structs.h</in>
+        <in>study.c</in>
+        <in>sysdep.h</in>
+        <in>tedit.c</in>
+        <in>telnet.h</in>
+        <in>treasure.c</in>
+        <in>treasure.h</in>
+        <in>treasure_const.c</in>
+        <in>utils.c</in>
+        <in>utils.h</in>
+        <in>weather.c</in>
+        <in>zedit.c</in>
+        <in>zmalloc.c</in>
+        <in>zmalloc.h</in>
+        <in>zone_procs.c</in>
+      </df>
+    </df>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+      <itemPath>configure</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <sourceFolderFilter>^(nbproject)$</sourceFolderFilter>
+  <sourceRootList>
+    <Elem>.</Elem>
+  </sourceRootList>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Default" type="0">
+      <toolsSet>
+        <remote-sources-mode>LOCAL_SOURCES</remote-sources-mode>
+        <compilerSet>default</compilerSet>
+      </toolsSet>
+      <makefileType>
+        <makeTool>
+          <buildCommandWorkingDir>.</buildCommandWorkingDir>
+          <buildCommand>${MAKE} -f Makefile</buildCommand>
+          <cleanCommand>${MAKE} -f Makefile clean</cleanCommand>
+          <executablePath></executablePath>
+        </makeTool>
+      </makefileType>
+      <folder path="LuminariMUD/src/util">
+        <cTool>
+          <incDir>
+            <pElem>src/util</pElem>
+          </incDir>
+        </cTool>
+      </folder>
+      <item path="src/act.comm.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.informative.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.item.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.movement.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.offensive.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.other.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.social.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/act.wizard.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/aedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/asciimap.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/ban.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/boards.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/bsd-snprintf.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/cedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/clan.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/clan_edit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/class.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/comm.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/config.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/constants.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/craft.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/db.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_comm.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_db_scripts.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_event.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_handler.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_misc.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_mobcmd.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_objcmd.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_olc.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_scripts.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_triggers.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_variables.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/dg_wldcmd.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/fight.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genmob.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genobj.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genolc.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genqst.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genshp.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genwld.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/genzon.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/graph.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/handler.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/hedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/house.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/ibt.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/improved-edit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/interpreter.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/limits.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/lists.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/magic.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/mail.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/medit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/memorize.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/mobact.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/modify.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/msgedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/mud_event.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/oasis.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/oasis_copy.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/oasis_delete.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/oasis_list.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/objsave.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/oedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/players.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/prefedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/protocol.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/qedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/quest.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/race.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/random.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/redit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/sedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/shop.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/spec_assign.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/spec_procs.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/spell_parser.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/spells.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/study.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/tedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/treasure.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/treasure_const.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/utils.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/weather.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/zedit.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/zmalloc.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+      <item path="src/zone_procs.c" ex="false" tool="0" flavor="0">
+        <cTool>
+          <incDir>
+            <pElem>src</pElem>
+          </incDir>
+        </cTool>
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>

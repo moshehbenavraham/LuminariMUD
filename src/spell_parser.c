@@ -2143,7 +2143,7 @@ void mag_assign_spells(void) {
   spello(SPELL_CHAIN_LIGHTNING, "chain lightning", 79, 64, 1, POS_FIGHTING,
           TAR_IGNORE, TRUE, MAG_AREAS,
           NULL, 8, 12, EVOCATION);
-  spello(SPELL_WHIRLWIND, "whirlwind", 0, 0, 0, POS_FIGHTING,
+  spello(SPELL_WHIRLWIND, "cyclone", 0, 0, 0, POS_FIGHTING,
           TAR_IGNORE, TRUE, MAG_AREAS, NULL, 8, 12, EVOCATION);
   /* conjuration */
   spello(SPELL_INCENDIARY_CLOUD, "incendiary cloud", 65, 50, 1, POS_FIGHTING,
@@ -2438,7 +2438,7 @@ void mag_assign_spells(void) {
   spello(SPELL_BATTLETIDE, "battletide", 0, 0, 0, POS_FIGHTING,
           TAR_CHAR_ROOM | TAR_SELF_ONLY, FALSE, MAG_AFFECTS,
           "You feel the battletide fade.", 10, 13, NOSCHOOL);
-  spello(SPELL_SPELL_RESISTANCE, "spell resistance", 79, 64, 1, POS_FIGHTING,
+  spello(SPELL_SPELL_RESISTANCE, "magic resistance", 79, 64, 1, POS_FIGHTING,
           TAR_CHAR_ROOM, FALSE, MAG_AFFECTS,
           "You feel your spell resistance fade.", 8, 14, NOSCHOOL);
   //control weather - shared
